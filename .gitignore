@@ -1,0 +1,37 @@
+# Jetbrains
+*.iml
+*.iws
+*.ipr
+*.ids
+.idea
+/out/
+.idea_modules/
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Java ignores
+**/target/**
+*.versionsBackup
+.pmd.log
+*/mvnw*
+*/.mvn
+
+# Node.js ignores
+node_modules
+
+# General
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+.idea
+.cache
+.models
