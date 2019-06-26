@@ -1,9 +1,8 @@
-from typing import List
-
+from typing import List, Iterable, Union
 from analyzer import PolishAnalyzer
 
 
-class Sentence(object):
+class Sent(object):
 
     def __init__(self, raw: str, tokenized: List[str], lemmatized: List[str]):
         self.raw = raw
@@ -13,19 +12,21 @@ class Sentence(object):
 
 class Corpus(object):
 
-    def __init__(self):
+    def __init__(self, sentences_per_sample: int):
         self.analyzer = PolishAnalyzer()
-        self.sentences: List[Sentence] = []
+        self.samples: List[Iterable[Sent]] = []
+        self.sentences_per_sample = sentences_per_sample
 
-    def add(self, sentence: str):
-        tokens, lemmas = self.analyzer.analyze(sentence)
-        result = Sentence(sentence, tokens, lemmas)
-        self.sentences.append(result)
-        return result
+    def add_sample(self, sentences: Union[str, Iterable[str]]) -> Union[Sent, Iterable[Sent]]:
+        results: List[Sent] = []
+        if isinstance(sentences, str):
+            sentences = [sentences]
+        for sentence in sentences:
+            tokens, lemmas = self.analyzer.analyze(sentence)
+            result = Sent(sentence, tokens, lemmas)
+            results.append(result)
+        self.samples.append(results)
+        return results if len(results) > 1 else results[0]
 
-
-if __name__ == '__main__':
-    corpus = Corpus()
-    sent = corpus.add("Pchnąć jeża w tę łódź i ośm skrzyń fig!")
-    print(sent.tokens)
-    print(sent.lemmas)
+    def __len__(self):
+        return len(self.samples)

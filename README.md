@@ -9,6 +9,7 @@ Polish
 ---
 - ELMo (top layer)
 - ELMo (all layers)
+- Flair
 - Word2Vec 
 - FastText
 - GloVe
