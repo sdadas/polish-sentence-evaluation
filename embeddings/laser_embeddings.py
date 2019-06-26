@@ -1,4 +1,3 @@
-import os
 import random
 import shutil
 import string
@@ -22,7 +21,7 @@ class LaserEmbedding(EmbeddingBase):
         self.size = 1024
 
     def embed(self, sentence: Sent) -> np.ndarray:
-        pass
+        return self.run_laser([sentence.raw])
 
     def dim(self) -> int:
         return self.size

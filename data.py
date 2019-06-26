@@ -12,7 +12,7 @@ class Sent(object):
 
 class Corpus(object):
 
-    def __init__(self, sentences_per_sample: int):
+    def __init__(self, sentences_per_sample: int=1):
         self.analyzer = PolishAnalyzer()
         self.samples: List[Iterable[Sent]] = []
         self.sentences_per_sample = sentences_per_sample

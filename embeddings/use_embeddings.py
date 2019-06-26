@@ -11,7 +11,7 @@ import numpy as np
 class USEEmbedding(EmbeddingBase):
 
     def embed(self, sentence: Sent) -> np.ndarray:
-        res = self.run_use(sentence.raw)
+        res = self.run_use([sentence.raw])
         return res[0]
 
     def dim(self) -> int:
