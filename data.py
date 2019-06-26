@@ -28,5 +28,12 @@ class Corpus(object):
         self.samples.append(results)
         return results if len(results) > 1 else results[0]
 
+    def raw_texts(self) -> List[str]:
+        res: List[str] = []
+        for sample in self.samples:
+            for sent in sample:
+                res.append(sent.raw)
+        return res
+
     def __len__(self):
         return len(self.samples)

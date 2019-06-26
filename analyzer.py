@@ -11,6 +11,7 @@ class PolishAnalyzer(object):
 
     def __init__(self):
         self.analyzer: PopenSpawn = self.__run_analyzer()
+        self.analyzer.delimiter = "\n"
         atexit.register(lambda: self.analyzer.kill(signal.SIGTERM))
 
     def __run_analyzer(self) -> PopenSpawn:

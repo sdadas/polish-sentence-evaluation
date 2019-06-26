@@ -1,3 +1,6 @@
 pexpect>=4.2.1
 allennlp>=0.8.4
 flair>=0.4.2
+tf-sentencepiece>=0.1.82
+tensorflow-hub>=0.5
+docker>=4.0.2
