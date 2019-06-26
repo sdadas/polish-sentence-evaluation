@@ -4,3 +4,5 @@ flair>=0.4.2
 tf-sentencepiece>=0.1.82
 tensorflow-hub>=0.5
 docker>=4.0.2
+git+git://github.com/oborchers/Fast_Sentence_Embeddings@34a6a33
+psutil>=5.6.3
