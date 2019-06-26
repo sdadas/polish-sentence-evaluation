@@ -61,6 +61,6 @@ class LaserEmbedding(EmbeddingBase):
     def __init_laser(self):
         try: self.client.images.get("laser:latest")
         except ImageNotFound:
-            url = "https://github.com/ceshine/LASER.git"
+            url = "https://github.com/sdadas/LASER.git"
             dockerfile = "Dockerfile.cpu"
             self.client.images.build(path=url, dockerfile=dockerfile, tag="laser")
