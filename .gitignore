@@ -32,6 +32,6 @@ node_modules
 *.o
 *.so
 *.pyc
-.idea
 .cache
 .models
+venv

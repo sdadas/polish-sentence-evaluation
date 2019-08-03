@@ -1,7 +1,9 @@
 from pathlib import Path
 
 from data import Corpus
+from embeddings.laser_embeddings import LaserEmbedding
 from embeddings.word_embeddings import RandomEmbedding
+from methods.use import USEEmbedding
 
 if __name__ == '__main__':
     corpus = Corpus(1)
@@ -10,5 +12,5 @@ if __name__ == '__main__':
         for line in input_file:
             corpus.add_sample(line.strip())
     print(len(corpus))
-    emb = RandomEmbedding()
-    emb.embed_corpus(corpus, "random.npy")
+    emb = USEEmbedding()
+    emb.embed_corpus(corpus, "use.npy")

@@ -1,0 +1,496 @@
+pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgment
+4	Młodzi chłopcy bawią się na świeżym powietrzu, a mężczyzna uśmiecha się w pobliżu	Nie ma chłopca bawiącego się na świeżym powietrzu i nie ma uśmiechniętego mężczyzny	3.6	CONTRADICTION
+24	Osoba w czarnej kurtce robi sztuczki na motocyklu	Wykwalifikowana osoba jedzie na rowerze na jednym kole	3.4	NEUTRAL
+105	Czworo dzieci robi mostek na siłowni	Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu	3.8	NEUTRAL
+116	Zawodnik rzuca piłką	W meczu piłki nożnej rywalizują dwie drużyny	2.9	NEUTRAL
+119	Pięcioro dzieci stoi przed drewnianą chatką	Pięcioro dzieci stoi w drewnianej chacie	4.2	NEUTRAL
+185	Niewiele osób je przy czerwonych stołach w restauracji bez oświetlenia	Duża grupa ludzi azjatów je w restauracji	2.6	NEUTRAL
+197	Ktoś jest na czarno-białym motocyklu i stoi na siedzeniu	Motocykl jedzie wstaje z siedzenia pojazdu	3.165	NEUTRAL
+211	Dwa psy bawią się przy drzewie	Dwa psy bawią się przy roślinie	4.6	ENTAILMENT
+218	Dziewczynka w bieli tańczy	Dziewczynka ma na sobie białe ubranie i tańczy	4.9	ENTAILMENT
+219	Nie ma tańczącej dziewczynki w białym	Dziewczynka w bieli tańczy	4.2	CONTRADICTION
+225	Sprzęt przed tańczącą blondynką jest nagłaśniający	Dziewczynka w bieli tańczy	2.7	NEUTRAL
+228	Dziewczynka w bieli tańczy	Blondynka tańczy przed sprzętem nagłaśniającym	3.3	NEUTRAL
+236	Dzieci z rodziny bawią się i czekają	Azjatycki mężczyzna tańczy, a troje dzieci obserwuje	1.9	NEUTRAL
+253	Turysta jest na szczycie góry i tańczy radośnie	Turysta jest na szczycie góry i tańczy	4.7	ENTAILMENT
+280	Chłopiec stoi na zewnątrz wody	Chłopiec błądzi po niebieskim oceanie	3.135	NEUTRAL
+285	Łysa osoba gra na gitarze	Osoba ma rozczochrane blond włosy i gra na gitarze	3.9	NEUTRAL
+304	Stara, naga kobieta jest pokryta farbą	Młoda, naga kobieta jest pokryta farbą	3.8	NEUTRAL
+317	Grupa dzieci w mundurach stoi przy bramie i nikt nie całuje matki	Tłum ludzi jest blisko wody	1.3	NEUTRAL
+382	Przez wysoką trawę biegnie brązowo biały pies	Brązowo biały pies porusza się po dzikiej trawie	4.4	NEUTRAL
+384	Przez wysoką i zieloną trawę biegnie biało brązowawy pies	Przez pole biegnie biało brązowawy pies	4.35	ENTAILMENT
+394	Mężczyzna siedzi w pobliżu roweru i pisze notatkę	Mężczyzna stoi w pobliżu roweru i pisze na kartce papieru	3.6	NEUTRAL
+402	Grupa harcerzy wędruje po trawie	Grupa odkrywców idzie po trawie	4.1	NEUTRAL
+417	Dwóch mężczyzn odpoczywa na zaśnieżonej drodze	Dwóch mężczyzn z samochodami stoi na poboczu zaśnieżonej drogi	4	NEUTRAL
+450	Kobieta surfuje i płynie na fali	Blondynka patrzy na fale	3.3	NEUTRAL
+520	Kobieta ubrana w srebrne majtki, różowe dzwony i różową chustę jedzie na rowerze	Różowe dzwony i różowa chusta nie mogą być noszone przez kobiety z srebrnymi majtkami lub rowerzystki	3.3	NEUTRAL
+526	Kobieta ubrana w srebrne majtki, różowe dzwony i różową chustę jedzie na rowerze	Piesza kobieta buduje różowe rowery dla rowerzystów noszących szale	2.4	NEUTRAL
+530	Rowerzysta ma ubranie w kolorze czarnym	Motocyklista ubrany na czarno łamie koła zębate	3.1	NEUTRAL
+592	Kobieta zdejmuje płaszcz, który jest bardzo duży, odsłaniając ekstrawagancką sukienkę	Kobieta zakłada płaszcz, który jest bardzo duży, zakrywając ekstrawagancką sukienkę	3.5	CONTRADICTION
+619	Chłopiec wspina się na sztuczną ścianę do wspinaczki i jest przymocowany do liny	Chłopiec, który wygląda bojaźliwie, jest na ścianie wspinaczkowej	3.5	NEUTRAL
+630	Mężczyzna nie wrzuca dziecka do basenu, który znajduje się blisko oceanu	Mężczyzna wrzuca dzieciaka do basenu, który jest blisko oceanu	3.5	CONTRADICTION
+647	Jeden mężczyzna wspina się na klif za pomocą liny	Osoba z różowym sprzętem wspinaczkowym owiązała skałę liną	3.3	NEUTRAL
+651	Osoba wspina się na skałę za pomocą liny, która jest różowa	Jeden mężczyzna wspina się na klif za pomocą liny	4.6	NEUTRAL
+687	Jeden biały pies patrzy na czarną ulicę	Dwa psy różnych ras spoglądają na siebie z przeciwnych stron ulicy	3.4	NEUTRAL
+717	Kilku mężczyzn rywalizuje w zawodach biegowych na zewnątrz	Kilku mężczyzn rywalizuje w zawodach biegowych wewnątrz pomieszczenia	3.9	CONTRADICTION
+718	Kilku mężczyzn rywalizuje w zawodach biegowych na zewnątrz	Niektórzy mężczyźni rywalizują w zawodach biegowych na zewnątrz	3.9	NEUTRAL
+765	Dziecko ześlizguje się radośnie po śniegu	Chłopiec na pokrytym śniegiem wzgórzu ma na sobie czerwoną kurtkę i czarny kapelusz i ślizga się na kolanach	4	NEUTRAL
+780	Kobieta, która jest stara, jest w pobliżu białego psa	Kobieta i pies siedzą na pniu drzewa	3.1	NEUTRAL
+816	Grupa osób wyposażona jest w sprzęt ochronny	Grupa osób wyposażona jest w sprzęt zapewniający ochronę	5	ENTAILMENT
+860	Jeden biały pies i jeden czarny biegną obok siebie po trawie	Pies z czarną sierścią i biały pies biegną po trawie	4.2	ENTAILMENT
+873	Niewiele ludzi jest w parku łyżwiarskim	Znajdujące się na zewnątrz lodowisko jest pełne ludzi	3.5	NEUTRAL
+882	Dziewczynka w niebiesko białym mundurze kibicuje	Dziewczynka dopinguje mężczyznę w niebiesko białym mundurze	3.1	NEUTRAL
+913	Kobieta jest całowana przez mężczyznę	Nie ma kobiety całowanej przez mężczyznę	4.2	CONTRADICTION
+933	Dziewczynka w czerwonej koszuli dmucha balonik	Młoda dziewczyna puszcza bańkę mydlaną, która jest ogromna	3.8	NEUTRAL
+947	Niektóre corndogi są zjadane przez dwóch maluchów, którzy znajdują się w wagonie, który jest naprawdę mały	Dwóch maluchów je corndogi w wagonie, który jest naprawdę mały	4.8	ENTAILMENT
+980	Mężczyzna wsiada na konia na ścieżce prowadzącej przez dzicz	Koń podrzuca kowboja noszącego spodnie w kolorze niebieskim i czerwonym	2.1	NEUTRAL
+987	Dorosły jest w amfiteatrze i rozmawia z chłopcem	W amfiteatrze nie ma osoby dorosłej, która rozmawiałaby z chłopcem	4.3	CONTRADICTION
+988	W amfiteatrze odbywa się rozmowa o dorosłym i chłopcu	Dorosły jest w amfiteatrze i rozmawia z chłopcem	3.1	NEUTRAL
+1039	Snowboardzista nie przeskakuje nad białym śniegiem	Osoba uprawiająca snowboard wyskakuje w powietrze	3.3	NEUTRAL
+1102	Kobieta jedzie na koniu	Mężczyzna otwiera małą paczkę, w której znajdują się słuchawki	1	NEUTRAL
+1137	Ryba poluje na żółwia w morzu	Żółw podąża za rybą	3.5	NEUTRAL
+1170	Kobieta kroi ziemniaka w plasterki	Kobieta szatkuje marchewkę	3	NEUTRAL
+1177	Kobieta czesze włosy	Kobieta układa włosy	4.1	NEUTRAL
+1178	Kobieta czesze włosy	Nie ma kobiety czeszącej włosy	3.6	CONTRADICTION
+1190	Mężczyzna i kobieta wędrują po zalesionym terenie	Mężczyzna i kobieta idą razem przez las	4.3	ENTAILMENT
+1192	Mężczyzna i kobieta idą razem przez las	Mężczyzna i kobieta chodzą po zalesionym terenie	4.6	ENTAILMENT
+1232	Mężczyzna kroi bułkę	Mężczyzna kroi pomidor na plasterki	3.6	NEUTRAL
+1236	Kobieta tańczy i śpiewa sama	Kobieta tańczy i śpiewa z innymi kobietami	3.285	CONTRADICTION
+1237	Niektóre kobiety tańczą i śpiewają	Kobieta tańczy i śpiewa w deszczu	3.8	NEUTRAL
+1241	Kobieta tańczy i śpiewa z innymi kobietami	Kobieta tańczy i śpiewa w deszczu	4.1	NEUTRAL
+1266	Zespół gra na scenie	Zespół gra na estradzie	5	ENTAILMENT
+1302	Mężczyzna gra na flecie	Mężczyzna gra w grę z piłką	1.5	NEUTRAL
+1333	Kobieta mierzy drugą kobietę	Kobieta jest mierzona przez inną kobietę	4.9	ENTAILMENT
+1390	Osoba stojąca w pobliżu motocykla	Ktoś sieka cebulę	1.2	NEUTRAL
+1396	Mężczyzna krzyczy	Mężczyzna boi się	3.6	NEUTRAL
+1400	Smutny mężczyzna płacze	Mężczyzna krzyczy	2.9	NEUTRAL
+1410	Kobieta kroi krewetki	Mężczyzna kroi masło w małym naczyniu	1.4	NEUTRAL
+1412	Mężczyźni piłują belki	Mężczyźni tną drewno	4.5	ENTAILMENT
+1443	Mężczyzna rozmawia w radiu	Mężczyzna pluje	1.7	NEUTRAL
+1469	Trzech młodych mężczyzn biega, skacze i kopie w pobliżu automatu sprzedającego	W pobliżu automatu nie ma biegajacych, skaczących i kopiących mężczyzn	3.8	CONTRADICTION
+1470	Trzech mężczyzn skacze z muru	Trzech młodych mężczyzn wściekle biega, skacze i kopie w pobliżu automatu sprzedającego	2.5	NEUTRAL
+1487	Mężczyzna nie miesza sosu do kurczaka	Mężczyzna miesza sos do kurczaka	4	CONTRADICTION
+1493	Mężczyzna gra na gitarze elektrycznej	Mężczyzna używa gitary do grania	4.9	ENTAILMENT
+1495	Mężczyzna gra na gitarze	Mężczyzna uderza w struny gitary	4.9	ENTAILMENT
+1503	Trzech chłopców w kostiumach karate nie walczy	Trzech chłopców w kostiumach karate walczy	3.3	CONTRADICTION
+1506	Trzech mężczyzn trenuje karate na świeżym powietrzu	Trzech chłopców w kostiumach karate walczy	3.8	NEUTRAL
+1525	Kobieta sadzi kwiaty	Kobieta kroi brokuły	1.2	NEUTRAL
+1584	Dziura jest zakopywana przez borsuka	Borsuk sprytnie kopie ziemię	4.5	ENTAILMENT
+1608	Wąż karmiony jest myszą przez mężczyznę	Żaden wąż nie jest karmiony myszą przez mężczyznę	4.7	CONTRADICTION
+1628	Jakieś składniki są mieszane w misce przez osobę	Jakieś składniki są oddzielane w misce przez osobę	4.6	NEUTRAL
+1676	Łódź płynie spokojnie po wodzie	Na gitarze gra mężczyzna	1.1	NEUTRAL
+1690	Mleko jest pite przez kota	Kot pije mleko	5	ENTAILMENT
+1703	Mężczyzna opróżnia całkowicie plastikowy pojemnik	Plastikowy pojemnik jest opróżniany przez mężczyznę	4.7	ENTAILMENT
+1711	Plastikowy pojemnik jest opróżniany przez mężczyznę	Mężczyzna nieostrożnie trzyma żabę	1.1	NEUTRAL
+1754	Na flecie w piękny sposób gra dziewczyna	Na flecie gra dziewczyna	4.6	ENTAILMENT
+1807	Dorosły głośno gra na gitarze	Na flecie gra mężczyzna	2.4	NEUTRAL
+1811	Mężczyzna głośno gra na gitarze	Na flecie nie gra mężczyzna	2.4	NEUTRAL
+1839	Mała dziewczynka uważnie czesze włosy w koński ogon	Mała dziewczynka czesze włosy w koński ogon	4.6	ENTAILMENT
+1847	Mężczyzna siedzi na krześle	Dziewczynka, która jest mała, czochra swoje włosy	1	NEUTRAL
+1861	Mikrofon przed mówiącą papugą jest wyciszany	Papuga mówi do mikrofonu	4	NEUTRAL
+1877	Kocięta na tace są spożywane jako pokarm do celów reklamowych	Pokarm na tacy jest spożywany przez kocięta	3.5	NEUTRAL
+1881	Pokarm na tacy jest spożywany przez kocięta	Kilka kociąt je	4.2	ENTAILMENT
+1964	Jedna osoba gra na gitarze i śpiewa	Osoba gra na gitarze i śpiewa	4.9	ENTAILMENT
+2001	Koń jest ujeżdzany przez mężczyznę	Mężczyzna jedzie na koniu	5	ENTAILMENT
+2019	Mężczyzna niebezpiecznie rzuca w drzewo nożami	Niektórzy niebezpieczni mężczyźni z nożami rzucają rowerem w drzewo	3.3	NEUTRAL
+2058	Kobieta dokładnie kroi mięso	Kobieta kroi część mięsa na kawałki	4.8	ENTAILMENT
+2089	Mężczyzna odmawia wywiadu	Mężczyzna udziela wywiadu	3.2	CONTRADICTION
+2096	Mężczyzna udziela wywiadu	Biały samochód mężczyzny odjeżdza	1.1	NEUTRAL
+2130	Chłopiec beszta psa	Chłopiec bawi się z psem	3.4	NEUTRAL
+2157	Zdjęcie zestawu aparatu jest robione przez mężczyznę na plaży o zachodzie słońca	Mężczyzna fotografuje jezioro	3	NEUTRAL
+2166	Kobieta szyje maszyną	Kobieta używa maszyny przeznaczonej do szycia	4.8	ENTAILMENT
+2221	Osoba spada z konia	Mężczyzna nie jest strącany z konia	3.9	NEUTRAL
+2229	Kobieta stuka palcami w stół	Kobieta kładzie palce na stole	4.1	NEUTRAL
+2231	Kobieta stuka palcami	Kobieta kładzie palce na stole	3.1	NEUTRAL
+2284	Kot bawi się z pasją arbuzem	Arbuzem bawi się kot	4.7	ENTAILMENT
+2286	Kot bawi się z pasją arbuzem	Kot bawi się arbuzem	4.5	ENTAILMENT
+2362	Człowiek pali kamery z latarką	Wysoka osoba włączą kamery	3.8	NEUTRAL
+2364	Niektóre kamery są nagrywane przez osobę z latarką	Osoba włącza kamery	4.2	ENTAILMENT
+2366	Osoba przy kamerach chucha na świecącą latarkę	Osoba włącza kamery	3.3	NEUTRAL
+2385	Osoba kroi cebulę na kawałki	Osoba kroi marchew na kawałki	3.4	NEUTRAL
+2392	Mężczyzna nie kroi ziemniaka	Mężczyzna tnie ziemniaka	2.7	CONTRADICTION
+2402	Ktoś tnie pomidora	Kobieta trzyma cały pomidor	3.5	NEUTRAL
+2404	Pani kroi pomidora	Nie ma nikogo, kto kroiłby pomidor	3	CONTRADICTION
+2405	Pani kroi pomidora	Ktoś tnie pomidora	4.7	ENTAILMENT
+2410	Mężczyzna przygotowuje jakieś danie	Kobieta kroi cebulę nożem w plastry	1.3	NEUTRAL
+2430	Jeden mężczyzna jedzie drogą	Mężczyzna biegnie	4.4	ENTAILMENT
+2476	Niektórzy śpiewają	Grupa ludzi śpiewa	4.7	ENTAILMENT
+2485	Mężczyzna gra na gitarze	Mężczyzna gra na trąbce	2.2	NEUTRAL
+2525	Kilku ludzi płynie na tratwie	Ludzie płyną i wiosłują na tratwie	3.8	NEUTRAL
+2527	Ludzie płyną i wiosłują na tratwie	Cztery osoby pływają na tratwie	4.2	NEUTRAL
+2535	Na kolbie nie ma kota jedzącego kukurydzę	Kot je kukurydzę	2.5	NEUTRAL
+2544	Osoba kroi warzywo	Nikt nie kroi pomidora w plastry	3.1	NEUTRAL
+2557	Ktoś brzdęka na gitarze	Jakaś osoba gra na gitarze	4.5	ENTAILMENT
+2566	Trzy kobiety tańczą	Kilka kobiet tańczy	4.6	ENTAILMENT
+2604	Małpa szczotkuje byka	Małpa szczotkuje bulldoga	4.8	ENTAILMENT
+2606	Małpa szczotkuje bulldoga	Bulldog szczotkuje małpę	3.9	NEUTRAL
+2662	Kobieta nie rozbija jajka do miksera	Kobieta kroi mięso	2.335	NEUTRAL
+2668	Kilka fretek wychodzi z klatki	Fretki schodzą z półki w dół	3.1	NEUTRAL
+2678	Mężczyzna pośpiesznie wsiada do samochodu w garażu	Mężczyzna wsiada do samochodu	4.1	ENTAILMENT
+2679	Mężczyzna parkuje samochód w garażu	Mężczyzna wsiada do samochodu	3.4	NEUTRAL
+2687	Osoba kroi ząbek czosnku na kawałki	Osoba nie kroi ząbka czosnku na kawałki	3	CONTRADICTION
+2704	Makaron jest gotowany w wodzie przez kobietę	Kobieta gotuje makaron w wodzie	5	ENTAILMENT
+2712	Nie ma praktykującego karateki, który kopnąłby innego mężczyznę, który ma na sobie ochronne rękawice bokserskie	Praktykujący karateka kopie w innego mężczyznę, który ma na sobie ochronne rękawice bokserskie	4.3	CONTRADICTION
+2720	Mężczyzna jest na kick boxingu z trenerem	Nie ma praktykującego karateki, który kopnąłby innego mężczyznę, który ma na sobie ochronne rękawice bokserskie	3	NEUTRAL
+2721	Mężczyzna jest na kick boxingu z trenerem	Praktykujący karateka kopie w innego mężczyznę, który ma na sobie ochronne rękawice bokserskie	4	NEUTRAL
+2722	Kobieta, która siedzi, śpiewa piosenkę i gra na gitarze	Siedząca kobieta śpiewa piosenkę i gra na gitarze	5	ENTAILMENT
+2726	Kobieta na skale leży na kocu i czyta książkę	Kobieta kołysze się nad kocem leżącym na kimś, kto czyta książkę	2.7	NEUTRAL
+2738	Kobieta nie gra na gitarze elektrycznej	Mężczyzna gra na gitarze akustycznej	3	NEUTRAL
+2766	Mężczyzna i kobieta rozmawiają	Mężczyzna i kobieta jedzą szczęśliwie	2.6	NEUTRAL
+2772	Człowiek wlewa olej do gotowania do garnka	Człowiek wlewa olej kuchenny do naczynia	5	ENTAILMENT
+2791	Świnka morska, która jest mała, gryzie i je kawałek marchewki na podłodze	Mała świnka morska gryzie i je kawałek marchewki na podłodze	4.8	ENTAILMENT
+2795	Mała świnka morska gryzie i je kawałek marchewki na podłodze	Świnka morska pożera marchewkę	4.5	ENTAILMENT
+2812	Samolot jest w trakcie lądowania	Animowany samolot startuje	2.7	NEUTRAL
+2822	Kobieta wyjmuje mieszaninę z miski	Kobieta przygotowuje jajko na patelni	2.7	NEUTRAL
+2829	Pani maluje cienie na powiekach	Kobieta maluje cienie na powiekach	5	ENTAILMENT
+2842	Mała dziewczynka gra na scenie na fortepianie	Na fortepianie trenuje dziewczynka	3.8	NEUTRAL
+2886	Kobieta gra używając fleta	Kobieta nie gra na flecie	3.2	CONTRADICTION
+2898	Mężczyzna podnosi sztangi	Mężczyzna podnosi ciężary	4.3	ENTAILMENT
+2911	Kobieta nakłada makijaż	Nie ma kobiety nakładającej makijaż	4	CONTRADICTION
+2932	Kobieta kroi marchewkę	Cebula jest krojona przez kobietę	2.4	NEUTRAL
+2936	Dwóch mężczyzn w zagrodzie dla bydła walczy	Dwóch mężczyzn jest na zewnątrz zagrody dla bydła	3	NEUTRAL
+2965	Duża zielona piłka nie trafia w ziemniaka	Duża zielona piłka strąca ziemniaka	3.3	NEUTRAL
+2967	Duża zielona piłka uderza w ziemniaka	Duża piłka w kolorze zielonym uderza w ziemniaka	4.8	ENTAILMENT
+2968	Duża zielona piłka pudłuje w ziemniaka	Duża zielona piłka uderza w ziemniaka	3.5	NEUTRAL
+2972	Duża zielona piłka uderza w ziemniaka	Duża zielona piłka nie trafia w ziemniaka	3.4	CONTRADICTION
+2996	Mężczyzna gra na gitarze	Mężczyzna odkłada gitarę	3.3	NEUTRAL
+3002	Kobieta gra na gitarze elektrycznej	Mężczyzna odkłada gitarę	2.3	NEUTRAL
+3036	Szczeniak nie bawi się plastikowym pojemnikiem	Szczeniak bawi się plastikowym pojemnikiem	3.2	CONTRADICTION
+3061	Kobieta prowadzi samochód i rozmawia z siedzącym obok mężczyzną	Nie ma kobiety prowadzącej samochód i rozmawiającej z siedzącym obok mężczyzną	4.7	CONTRADICTION
+3107	Mężczyzna posadzi siedzącego gitarzystę	Mężczyzna siedzi na podłodze w pokoju i gra na gitarze	2.3	NEUTRAL
+3122	Kobieta używa ołówka do oczu i nakłada podkład na powiekę	Kobieta nakłada na powiekę kosmetyki	4.6	ENTAILMENT
+3123	Nie ma kobiety używającej ołówka do oczu i nakładającej podkład na powiekę	Kobieta nakłada na powiekę kosmetyki	3.1	CONTRADICTION
+3143	Małpa kopie rękawicę	Małpa uprawia sztuki walki	3.6	NEUTRAL
+3174	Dziecko wyrzuca instrument	Młody chłopiec gra na instrumencie dętym	2.8	NEUTRAL
+3181	Mężczyzna trenuje w lesie	Mężczyzna nie porusza się po lesie	3.8	NEUTRAL
+3222	Nie ma chłopca przechodzącego przez most	Chłopiec idzie przez most	3.7	CONTRADICTION
+3250	Kobieta umieszcza dwa jajka w garnku z wodą	Kobieta wkłada dwa jajka do garnka z wodą	4.9	ENTAILMENT
+3275	Dziecko wbiega i wybiega z fal oceanu	Dziecko wbiega i wybiega z fal oceanicznych	4.9	ENTAILMENT
+3291	Kobieta odkłada marchewki	Kobieta panieruje kotlety wieprzowe	1.7	NEUTRAL
+3292	Kobieta ściera marchewki	Kucharz panieruje kotlety wieprzowe	2.1	NEUTRAL
+3322	Kobieta sieka chleb i smażoną wieprzowinę	Kobieta gotuje panierowany kotlet wieprzowy	3.2	NEUTRAL
+3338	Nie ma mężczyzny stojącego na dachu i grającego na skrzypcach	Mężczyzna stoi na dachu i gra używając skrzypiec	3.4	CONTRADICTION
+3364	Kobieta czyści krewetkę	Krewetka jest czyszczona przez kobietę	4.9	ENTAILMENT
+3373	Kobieta jedzie na skuterze wodnym	Kobieta jedzie skuterem po wodę	4.1	ENTAILMENT
+3384	Miś panda je bambus	Bambus spożywany jest przez pandę	4.8	ENTAILMENT
+3398	Ktoś ubija jajko	Kobieta nie miesza jaj w misce	3.2	NEUTRAL
+3420	Kobieta odkostnia rybę	Duża ryba łapie mężczyznę	1.9	NEUTRAL
+3433	Taca jest rozbijana przez osobę	Osoba maskuje tacę	5	ENTAILMENT
+3459	Mężczyzna rąbie pień drzewa siekierą	Mężczyzna sieka kłodę siekierą	4.4	NEUTRAL
+3485	Kot patrzy przez okno na stół	Kot, który przysiadł na stole, patrzy przez okno	4.1	NEUTRAL
+3501	Dziecko jest lizane przez psa	Pies liże dziecko	4.8	ENTAILMENT
+3505	Kobieta odkłada czosnek	Kobieta tnie czosnek	3.6	NEUTRAL
+3518	Mężczyzna nie tańczy	Kobieta tańczy	3.3	NEUTRAL
+3536	Ktoś gotuje okrę na patelni	Okra jest gotowana na patelni	4.9	ENTAILMENT
+3586	Mężczyzna gra na instrumentach perkusyjnych	Mężczyzna ćwiczy grę na bębnach	4.6	ENTAILMENT
+3598	Jeden mężczyzna wykonuje ćwiczenia na podłodze	Mężczyzna wykonuje ćwiczenia	4.3	ENTAILMENT
+3625	Kobieta kładzie mięso na patelni	Nie ma kobiety kładącej mięso na patelni	3.4	CONTRADICTION
+3626	Ktoś upuszcza mięso na patelnię	Mięso wrzuca się na patelnię	4.7	ENTAILMENT
+3657	Chłopiec napełnia dzbanek wodą	Dzbanek jest napełniany wodą przez chłopca	5	ENTAILMENT
+3661	Kobieta nabiera wodę z kranu w kubku	Chłopiec napełnia dzbanek wodą	2.7	NEUTRAL
+3670	Deszcz pada na spacerującego mężczyznę	Mężczyzna idzie w deszczu	4.9	ENTAILMENT
+3680	Kierowcy rajdowi jadą po torze	Żaden kierowca rajdowy nie jedzie po torze	3.7	CONTRADICTION
+3711	Zabawkowy pociąg uderza w samochodzik	Zabawkowy pociąg nie trafia w samochodzik	3.8	CONTRADICTION
+3721	Osoba kroi cebulę w plastry	Cebula jest krojona w plastry przez osobę	4.9	ENTAILMENT
+3733	Pływacy ścigają się w jeziorze	Niektórzy zawodnicy pływają w jeziorze	4.3	ENTAILMENT
+3747	Utalentowany mężczyzna gra na gitarze	Kobieta gra na gitarze	3.2	NEUTRAL
+3790	Osoba szoruje cukinię	Osoba skrobie cukinię	5	ENTAILMENT
+3812	Kobieta kroi zieloną paprykę w plastry	Kobieta kroi zieloną paprykę	4.8	ENTAILMENT
+3855	Mężczyzna zatrzymuje się na środku drogi	Mężczyzna idzie drogą	3.2	NEUTRAL
+3861	Mężczyzna z pustyni jest na ścieżce	Mężczyzna idzie drogą	3.4	NEUTRAL
+3862	Mężczyzna idzie ścieżką przez pustkowie	Mężczyzna leniwie idzie drogą	3.285	NEUTRAL
+3880	Mężczyzna tańczy na suficie pokoju	Mężczyzna tańczy do góry nogami na suficie	4.4	ENTAILMENT
+3897	Nie ma człowieka ćwiczącego	Mężczyzna ćwiczy	3.4	CONTRADICTION
+3909	Mężczyzna śpiewa i gra na gitarze	Mężczyzna używa gitary do grania	4.3	ENTAILMENT
+3910	Mężczyzna pakuje gitarę	Mężczyzna śpiewa i gra na gitarze	3.4	NEUTRAL
+3922	Chłopcy nie tańczą przed niektórymi	Chłopcy tańczą przed niektórymi ludźmi	3.8	CONTRADICTION
+3941	Chłopiec patrzy na kalendarz	Nie ma chłopca, który sprawdziłby kalendarz	3.9	CONTRADICTION
+3982	Kobieta obiera ziemniaka	Kobieta chłodzi ziemniaka	3.7	NEUTRAL
+3996	Nie ma mężczyzny śpiewającego i grającego na gitarze	Chłopiec gra na fortepianie	2.2	NEUTRAL
+4001	Mężczyzna nieostrożnie wspina się po linie	Mężczyzna wspina się po linie	4.3	ENTAILMENT
+4006	Mężczyzna wspina się po linie	Mężczyzna na linie wspina się	4.8	ENTAILMENT
+4011	Mężczyzna wspina się po linie	Mężczyzna wspina się na linie	4.8	ENTAILMENT
+4015	Kobieta podnosi kangura	Kangur jest podnoszony przez kobietę	4.9	ENTAILMENT
+4031	Mężczyzna łamie rękami płytki	Nie ma mężczyzny, który ręką rozbijałby drewniane deski	2.9	NEUTRAL
+4054	Pies biegnie bez oddechu po drodze	Pies biegnie po drodze	4.5	ENTAILMENT
+4060	Mężczyzna biegnie po drodze	Pies biegnie bez oddechu po drodze	2.6	NEUTRAL
+4066	Mężczyzna rzuca nożami w drzewo	Mężczyzna rzuca noże w drzewo	4.6	ENTAILMENT
+4067	Mężczyzna usuwa noże z drzewa	Mężczyzna rzuca noże w drzewo	3.3	NEUTRAL
+4079	Jeden mężczyzna jedzie konno	Mężczyzna jedzie konno	4.7	ENTAILMENT
+4086	Nie ma mężczyzny rysującego obrazek	Mężczyzna rysuje obraz	3.9	CONTRADICTION
+4114	Nie ma mężczyzny jedzącego żywność	Mężczyzna je pizzę	3.2	CONTRADICTION
+4135	Pies odbija się od trampoliny	Pies skacze na trampolinie	4.7	ENTAILMENT
+4140	Kilku chłopców skacze na trampolinie	Mężczyzna robi odwrotne salto na trampolinie	3.4	NEUTRAL
+4155	Mężczyzna gra na drewnianym flecie	Nie ma mężczyzny grającego na drewnianym flecie	3.7	CONTRADICTION
+4157	Nie ma mężczyzny grającego na fortepianie	Mężczyzna gra na fortepianie	4	CONTRADICTION
+4164	Mężczyzna wymazuje rysunek z tablicy	Kobieta kasuje rysunek z tablicy	3.7	NEUTRAL
+4187	Nie ma psa bawiącego się zabawką	Pies je lalkę	3.8	CONTRADICTION
+4191	Pies je lalkę	Pies bawi się zabawką	3.6	NEUTRAL
+4196	Mężczyzna tańczy	Mężczyzna modli się gorliwie	1.7	NEUTRAL
+4288	Kobieta kroi ugotowaną ośmiornicę	Kobieta kroi ośmiornicę	4.4	ENTAILMENT
+4321	Mężczyzna rysuje	Nie ma rysującego mężczyzny	3.8	CONTRADICTION
+4330	Mężczyzna szkicuje	Nie ma rysującego mężczyzny	3.4	CONTRADICTION
+4342	Mężczyzna je banana	Mężczyzna je owoc	4.6	ENTAILMENT
+4360	Mężczyzna robi notatkę	Mężczyzna kroi papier	4.4	ENTAILMENT
+4376	Mężczyzna gra na gitarze	Nie ma nikogo grającego na fortepianie	2.7	NEUTRAL
+4411	Dwóch mężczyzn w wyścigu przerzuca opony od ciągnika	Dwóch mężczyzn bierze udział w wyścigu toczenia opon	3.7	NEUTRAL
+4429	Mężczyźni mówią	Niektóre stare kobiety rozmawiają	3	NEUTRAL
+4477	Mężczyzna uderza piłkę	Mężczyzna miesza zawartość miski	1.2	NEUTRAL
+4505	Lekarze uzdrawiają mężczyznę	Lekarz pomaga pacjentowi	4.2	ENTAILMENT
+4638	Keyboard jest używany do grania przez mężczyznę	Mężczyzna gra na harfie	2.4	NEUTRAL
+4650	Mężczyzna tnie grubą linę mieczem	Nie ma mężczyzny tnącego linę mieczem	3.6	CONTRADICTION
+4661	Kobieta tnie ziemniaka	Kobieta kroi ziemniaka	4.8	ENTAILMENT
+4707	Mężczyźni grają w piłkę nożną na plaży	Grupa chłopców gra w piłkę nożną na plaży	4.4	NEUTRAL
+4734	Mężczyzna dopasowuje tłumik do pistoletu	Mężczyzna stosuje tłumik do pistoletu	4.8	ENTAILMENT
+4755	Dziewczyna siedzi na kanapie i szydełkuje	Nie ma dziewczyny grającej na skrzypcach na plaży	1.4	NEUTRAL
+4767	Mężczyzna gotuje węża	Nie ma mężczyzny, który gotowałby węża	3.7	CONTRADICTION
+4776	Nie ma chłopca grającego na gitarze	Chłopiec gra na gitarze	3.8	CONTRADICTION
+4803	W ogrodzie zoologicznym nie ma małpy drażniącej psa	Małpa drapie psa w ogrodzie zoologicznym	2.935	CONTRADICTION
+4814	Małpa ciągnie ogon psa	Małpa drapie psa w ogrodzie zoologicznym	4.4	NEUTRAL
+4816	Nie ma osoby, która by cięła imbir	Człowiek kroi imbir	3.8	CONTRADICTION
+4823	Człowiek kroi imbir	Człowiek kroi cebulę w plastry	3	NEUTRAL
+4831	Mężczyzna kroi ziemniaka na kawałki	Mężczyzna nie kroi ziemniaka	4	CONTRADICTION
+4843	Mężczyzna otwiera pudełko nożem	Nie ma mężczyzny otwierającego pudełko nożem	3.8	CONTRADICTION
+4851	Zespół gra na niektórych instrumentach	Zespół gra na kilku instrumentach	5	ENTAILMENT
+4852	Zespół nie gra na niektórych instrumentach	Zespół gra na kilku instrumentach	3.8	CONTRADICTION
+4866	Człowiek tańczy	Kobieta ćwiczy	3	NEUTRAL
+4891	Mężczyzna robi podciągnięcia	Mężczyzna ćwiczy na siłowni	4	NEUTRAL
+4916	Mężczyzna śpiewa i gra na gitarze	Mężczyzna śpiewa i gra na instrumencie muzycznym	4.5	ENTAILMENT
+4934	Rekruci rozmawiają z oficerem	Oficer rozmawia z rekrutami	3.7	NEUTRAL
+4963	Czosnek jest siekany przez kobietę	Kobieta sieka czosnek	4.7	ENTAILMENT
+4966	Kobieta kroi rybę	Nie ma kobiety, która kroi rybę	2.7	CONTRADICTION
+5003	Duży kot otwiera łapami plastikową szufladę i skacze do środka	Kot otwiera szufladę i skacze do środka	4.4	ENTAILMENT
+5030	Mężczyzna rozmawia przez aparat telefoniczny	Mężczyzna mówi przez aparat telefoniczny	4.9	ENTAILMENT
+5047	Mężczyzna kroi cebulę	Kobieta tnie cebulę	3.5	NEUTRAL
+5051	Mężczyzna otwiera drzwi	Nie ma mężczyzny otwierającego drzwi	3.6	CONTRADICTION
+5052	Drzwi otwierane są przez mężczyznę	Mężczyzna kroi cebulę	1.2	NEUTRAL
+5082	Kobieta gra na skrzypcach	Nie ma mężczyzny grającego na fortepianie	2.1	NEUTRAL
+5110	Szef kuchni przygotowuje jedzenie	Szef kuchni przygotowuje posiłek	4.8	ENTAILMENT
+5113	Dwóch zawodników sumo walczy	Walczą dwaj zapaśnicy sumo	4	ENTAILMENT
+5119	Dwóch zawodników sumo walczy	Mężczyzna jedzie na zabawce wodnej w wodzie	1	NEUTRAL
+5148	Mężczyzna smaruje masłsem kawałek chleba	Kobieta smaruje masłsem kawałek chleba	3.5	NEUTRAL
+5203	Kobieta wkłada makaron do naczynia	Makaron jest wkładany do naczynia przez kobietę	5	ENTAILMENT
+5206	Kobieta wyciąga z miski lepką maź	Kobieta nie wkłada makaronu do naczynia	2.2	NEUTRAL
+5310	Nie ma dziewczyny grającej na flecie	Dziewczynka gra na flecie	3.6	CONTRADICTION
+5349	Duży flet jest używany przez mężczyznę do grania	Mężczyzna gra na flecie	4.3	ENTAILMENT
+5352	Mężczyzna gra na dużym flecie	Nie ma mężczyzny grającego na flecie	4.1	CONTRADICTION
+5374	Kobieta kroi ośmiornicę w plastry	Kobieta kroi ośmiornicę	5	ENTAILMENT
+5454	Mężczyzna gra na flecie	Mężczyzna nie gra na flecie	4.2	CONTRADICTION
+5461	Kobieta używa fleta do grania	Mężczyzna gra na flecie	3.7	NEUTRAL
+5498	Kobieta kroi cytrynę	Kobieta kroi owoce	4.2	ENTAILMENT
+5540	Grupa ludzi tańczy w spektaklu	Grupa ludzi maszeruje	2.3	NEUTRAL
+5588	Ciastko jest jedzone przez dziewczynę	Dziewczynka je ciastko	5	ENTAILMENT
+5657	Osoba je w restauracji	Osoba ścieli łóżko	1.2	NEUTRAL
+5698	Kucharz posypuje pizzę serem	Mężczyzna posypuje pizzę serem	4	NEUTRAL
+5706	Mężczyzna przeładowuje strzelbę	Mężczyzna strzela ze strzelby	3.7	NEUTRAL
+5745	Młody tygrys bawi się piłką	Dziecko bawi się lalką	1.4	NEUTRAL
+5747	Dziecko bawi się zabawką	Mały tygrys bawi się piłką	3.2	NEUTRAL
+5799	Osoba obiera ziemniaka	Ziemniak jest obierany przez osobę	5	ENTAILMENT
+5806	Mężczyzna wiosłuje kajakiem	Mężczyzna wiosłuje na łodzi	4.2	ENTAILMENT
+5904	Mężczyzna i kobieta jadą jeepem ulicą	Mężczyzna i kobieta jadą drogą w pojeździe na świeżym powietrzu	4	NEUTRAL
+5909	Kobieta wlewa składniki do miski	Szef kuchni doprawia olej	3.1	NEUTRAL
+5914	Koń jest ujeżdżany przez osobę	Osoba jedzie na koniu	5	ENTAILMENT
+5920	Koń jest ujeżdżany przez osobę	Kobieta szatkuje ziemniaki	1	NEUTRAL
+5924	Mężczyzna nie ćwiczy	Mężczyzna wykonuje ćwiczenia	3.8	CONTRADICTION
+5930	Mężczyzna nie ćwiczy	Dwaj mężczyźni walczą	2.3	NEUTRAL
+5938	Warzywa są wkładane do garnka przez mężczyznę	Ktoś wlewa składniki do garnka	4	ENTAILMENT
+5955	Pies zostawia piłkę w błocie	Pies goni piłkę przez błoto	3.7	NEUTRAL
+6001	W wodzie nie stoi żaden brązowy pies	W wodzie znajduje się pies o złotej sierści	2.8	NEUTRAL
+6005	Młoda dziewczynka w niebieskiej koszuli idzie chodnikiem i trzyma różowy znak	Młoda dziewczynka obok różowego znaku trzyma niebieską koszulę i idzie chodnikiem	3.4	NEUTRAL
+6042	Dziecko przechodzi przez wodę i jest prowadzone przez inną osobę	Małe dziecko chlapie się w wodzie	3.4	NEUTRAL
+6047	Mężczyzna i kobieta są w pokoju pomalowanym na beżowo, ubrani w koszule w ciemnych kolorach, a w tle znajduje się monitor	Mężczyzna i kobieta są w beżowym pokoju, ubrani w koszule w ciemnych kolorach, a w tle znajduje się monitor	5	ENTAILMENT
+6078	Osoba ubrana w dżinsy siedzi uśmiechnięta na siodle konia	Kobieta w jeansach siedzi na siodle konia	4.2	NEUTRAL
+6119	Brązowo biały pies trzyma w pysku piłkę do baseballa	Czarno-biały pies upuszcza z pyska piłkę do baseballa	3.3	NEUTRAL
+6131	Młody chłopiec w czerwonym stroju kąpielowym skacze do niebieskiego basenu dla dzieci	Chłopiec ubrany w czerwone spodenki skacze do dmuchanego basenu	4	NEUTRAL
+6146	Dwie osoby stoją w oceanie i obserwują zachód słońca	Nikt nie stoi w oceanie i nie patrzy na zachód słońca	2.5	CONTRADICTION
+6153	Kierowca samochodu wyścigowego wstaje i wskazuje ręką na niebo	Kierowca samochodu wyścigowego siedzi i nie porusza się	3	NEUTRAL
+6158	Kierowca samochodu wyścigowego wstaje i zaciekle wskazuje ręką w niebo	Osoba w niebieskiej kurtce ma na sobie kolorowy kask	1.6	NEUTRAL
+6203	Rowerzysta trzyma rower nad głową w grupie osób	Nad głowami grupy osób z rowerami trzymany jest rowerzysta	3.4	NEUTRAL
+6213	Mężczyzna siedzi na łodzi naprzeciwko zachodu słońca, w pobliżu flagi	Mężczyzna stoi na łodzi naprzeciwko zachodu słońca w pobliżu flagi	3.8	NEUTRAL
+6219	Mężczyzna stoi na łodzi naprzeciwko zachodu słońca w pobliżu flagi	Mężczyzna jest na łodzi naprzeciwko zachodu słońca	4.1	ENTAILMENT
+6228	Ludzie w wyścigu samochodowym uciekają przed płomieniami, które wydobywają się z samochodów	Tłum ogląda dwa samochody wyścigowe, które wyjeżdżają z linii startu	2.6	NEUTRAL
+6231	Dwa psy bawią się razem na trawie	Dwa psy odpoczywają razem w trawie	3.3	NEUTRAL
+6280	Pies, który jest czarny, biega po trawie	W trawie biegnie czarny pies	5	ENTAILMENT
+6287	Czarny pies biegnie w trawie, a jego język wystaje z pyska	W trawie biegnie czarny pies	4.9	ENTAILMENT
+6315	Żółty pies biegnie po białym śniegu w bardzo słoneczny dzień	Żółty pies biegnie po białym śniegu w słoneczny dzień	4.6	ENTAILMENT
+6330	Dziewczynka ma na sobie dżinsy, różową koszulę i biegnie	Mały chłopiec w różowej koszuli biegnie pod drzewem na pustyni	2.8	NEUTRAL
+6344	Biały pies ma na sobie bożonarodzeniową opaskę z rogami renifera i bawi się w trawie z brązowym psem	Biały renifer w stroju psa znajduje się w pobliżu brązowego renifera	2.2	NEUTRAL
+6358	Kobieta w czerwonym kostiumie opiera się o ceglaną ścianę i gra na instrumencie	Kobieta w czerwonym kostiumie nie opiera się o ceglaną ścianę i nie gra na instrumencie	3.2	CONTRADICTION
+6394	Wodospad spływa do płytkiego basenu	Ludzie idą drogą obok pięknego wodospadu	2.3	NEUTRAL
+6396	Pies rozprasza stado białych owiec na brudnej farmie	Pies prowadzi stado białych owiec na brudnej farmie	3.8	NEUTRAL
+6450	Chłopiec śmieje się i ma na sobie żółtą podkoszulkę	Śmiejący się chłopiec jest w żółtym czołgu i nosi wieczko	3.5	NEUTRAL
+6482	Osoba nie stoi na białym lodzie	Człowiek stoi na rozległym polu lodowcowym	3.1	NEUTRAL
+6544	Bramkarz hokejowy ma na sobie żółtą koszulkę i broni bramki	Nie ma gracza hokeja w żółtej koszulce strzegącego gole	4	CONTRADICTION
+6568	Kobieta ma na sobie niebieski kask i jeździ na rowerze po parkingu	Kobieta parkuje na niebieskim rowerze i ma na sobie wiele kasków	3.1	NEUTRAL
+6590	Młoda dziewczynka stoi na jednej nodze	Młoda kobieta tańczy	3.3	NEUTRAL
+6592	Młoda dziewczynka stoi na jednej nodze	Młoda dziewczynka tańczy	2.7	NEUTRAL
+6598	Pszczoła przylega do żółtego kwiatu	Żadna mała pszczoła nie ląduje na wiązce żółtych kwiatów	3.9	NEUTRAL
+6625	Przez pole nie biegnie żaden biały pies z beżowymi plamkami	Jasnobrązowy pies biegnie przez zarośla	2.7	NEUTRAL
+6634	Koń, który ma na plecach jeźdźca, przeskakuje przez płotek	Koń i jego jeździec przeskakują przez barierę	4.5	ENTAILMENT
+6649	Dwie nastoletnie dziewczynki mają na sobie fantazyjne sukienki na impreze	Dwie dziewczynki w wieku nastoletnim mają na sobie fantazyjne sukienki na impreze	4.8	ENTAILMENT
+6673	Pełna studentów sala lekcyjna spogląda uważnie w tym samym kierunku wewnątrz bambusowej konstrukcji	Grupa uczniów w mundurach słucha uważnie przed przed klasą	2.8	NEUTRAL
+6705	Dziecko, które jest małe, wspina się na schody na dworze w miejscu pełnym trawy	Małe dziecko wspina się na świeżym powietrzu po stopniach na trawiastym terenie	4.9	ENTAILMENT
+6709	Małe dziecko w różowym swetrze wspina się po betonowej klatce schodowej	Małe dziecko wspina się na świeżym powietrzu po stopniach na trawiastym terenie	3.5	NEUTRAL
+6729	Dziecko w pomarańczowym ubraniu bawi się na świeżym powietrzu kulą śnieżną	Dziecko wykonuje piłkę śnieżną	3.3	NEUTRAL
+6740	Ludzie nie siedzą na ławce przed restauracją	Trzy osoby siedzą na ławce pod palmami	3.2	NEUTRAL
+6756	Duży brązowy pies i mały szary pies stoją na skalistej powierzchni	Mały szary pies i duży brązowy pies stoją na skalistej powierzchni	4.8	ENTAILMENT
+6764	Trzech chłopców odpoczywa na skałach rozmieszczonych wzdłuż rzeki	Trzech chłopców idzie po skałach wzdłuż rzeki	3.8	NEUTRAL
+6784	Nie ma mężczyzny ubranego na czarno, ubranego w wyszukaną czarną maskę	Mężczyzna ubrany na czarno ma na sobie wyszukaną czarną maskę	3.4	CONTRADICTION
+6849	Dwoje małych dzieci bawi się na drodze zabawkowym samochodem	Ojciec wpycha córkę na gokarta, a kolejna dziewczyna ogląda	2.2	NEUTRAL
+6866	Przez pole z wysoką trawą biegnie złoty pies	Przez wysoką zieloną trawę nie biegnie żaden brązowy pies	4	NEUTRAL
+6912	Kobieta w niebieskim i białym mundurze z białym i niebieskim kapeluszem ma otwarte usta i jest blisko innych, którzy są ubrani w ten sam sposób	Kobieta ma na sobie niebieską koszulę z białą kamizelką i białą czapką oraz rozmawia i maszeruje	3.4	NEUTRAL
+6932	Snowboardzista robi salto przez kopiec śniegu	Ktoś skacze w powietrzu na pokładzie	3.8	ENTAILMENT
+6955	Na huśtawce siedzi blond chłopiec w zielonym	Nie ma małej dziewczynki o blond włosach uśmiechającej się i siedzącej na huśtawce	3.185	NEUTRAL
+6961	Biały mężczyzna wystawia kapelusz i gra na gitarze	Mężczyzna w białym kapeluszu gra na scenie na gitarze	3	NEUTRAL
+6971	Nie ma mężczyzny w czerwonym stroju skaczącego w brudnym wyścigu rowerowym	Mężczyzna w czerwonym stroju skacze w brudnym wyścigu rowerowym	3.4	CONTRADICTION
+7002	Gracze rugby nie blokuja się nawzajem	Piłkarz jest blokowany przez przeciwnika	2.5	NEUTRAL
+7007	Biały pies stoi na opadłych liściach	Biały pies leży na opadłych liściach	3.8	NEUTRAL
+7018	Dziecko w ubraniu o jasnym kolorze stoi z wyciągniętymi rękami	Dziecko w ubraniu w jasnym kolorze stoi z wyciągniętymi ramionami	5	ENTAILMENT
+7027	Chłopiec i dziewczynka nie bawią się na placu zabaw	Chłopiec i dziewczynka bawią się na siłowni na świeżym powietrzu	3	NEUTRAL
+7043	Jeździec motocrossowy stoi nagi	Rowerzysta z niebieską kurtką, czarnymi spodniami i białym kaskiem jeździ na glebie, a ludzie obserwują	2.6	NEUTRAL
+7044	Jeździec na niebieskim i czarnym motocyklu motocrossowym nie ma na sobie spodni	Rowerzysta z niebieską kurtką, czarnymi spodniami i białym kaskiem jeździ na glebie, a ludzie obserwują	3.2	NEUTRAL
+7064	Sztuczka jest wykonywana przez rolkarza na rampie	Rolkarz wykonuje sztuczkę na rampie	5	ENTAILMENT
+7088	Grupa piłkarzy stoi w miejscu na boisku	Tłum ogląda mecz piłki nożnej	2.6	NEUTRAL
+7093	Grupa ludzi stoi razem i patrzy w kamerę	Grupa osób stoi razem i patrzy w kamerę	5	ENTAILMENT
+7214	Przez podwórze biegnie brązowy pies z zabawką w ustach	Przez podwórze nie biegnie żaden brązowy pies z zabawką w ustach	3.8	CONTRADICTION
+7228	Nie ma chłopca skaczącego w powietrzu z ugiętymi kolanami i rozłożonymi ramionami	Osoba w zielonej koszuli skacze wysoko nad trawą	2.6	NEUTRAL
+7311	Papieros jest palony przez mężczyznę w słomianym kapeluszu	Mężczyzna ma na sobie słomiany kapelusz i pali papierosa	4.8	ENTAILMENT
+7319	Mężczyzna ma na sobie niebieską koszulę, która ma długie rękawy i dżinsy i jedzie jednokołowcem ulicą	Mężczyzna ma na sobie niebieską koszulę w kratę i jedzie na rowerze jednokołowym na ulicy	4.3	NEUTRAL
+7356	Małe dzieci wspinają się na pomnik w parku	Dwoje dzieci bawi się na statuetce	4.1	NEUTRAL
+7363	Na wieżę patrzy blondynka	Kobieta patrzy na widok na miasto	3.3	NEUTRAL
+7374	Mężczyzna stoi na szczycie skał z chmurami za nimi	Ktoś stoi na szczycie góry	3.1	NEUTRAL
+7394	Dziecko uśmiecha się do aparatu i pływa pod wodą	Dziecko płynie pod wodą w basenie	4.1	NEUTRAL
+7410	Amerykański piłkarz ma na sobie czerwono-biały pasek	Piłkarz ma na sobie czarne opaski	2.4	NEUTRAL
+7445	Mała dziewczynka się huśta, a kobieta stoi za nią	Dziewczynka, która jest mała, huśta się, a kobieta stoi za mężczyzną	4.9	ENTAILMENT
+7448	Małe dziecko na huśtawce w parku wykazuje emocje	Dziewczynka, która jest mała, huśta się, a kobieta stoi za mężczyzną	3.6	NEUTRAL
+7464	Surfer surfuje na fali	Mężczyzna spada z deski surfingowej w wodzie	3.5	NEUTRAL
+7466	Grupa ludzi siedzi w przyćmionym pokoju	Grupa ludzi siedzi w pokoju, który jest przyciemniony	4.9	ENTAILMENT
+7471	Mężczyzna i dwie kobiety w ciemnym pokoju siedzą przy stole ze świecami	Grupa ludzi siedzi w przyćmionym pokoju	3.6	ENTAILMENT
+7475	Mężczyzna i dwie kobiety w zaciemnionym pokoju siedzą przy stole ze świecami	Grupa osób niewidomych siedzi w pokoju	2.5	NEUTRAL
+7477	Mężczyzna w białej koszuli i okularach przeciwsłonecznych oraz mężczyzna w czarnej koszuli i okularach przeciwsłonecznych siedzą przy stole z czterema butelkami piwa	Mężczyzna w białej koszuli i okularach przeciwsłonecznych oraz mężczyzna w czarnej koszuli i okularach przeciwsłonecznych siedzą przy stole z czterema butelkami po piwie	4.9	ENTAILMENT
+7501	Kobieta nie ma na sobie czerwonej kurtki i nie trzyma przed mężczyzną szkła w białej koszulce	Osoba ma na sobie czerwoną kurtkę i trzyma piwo	2.4	NEUTRAL
+7533	Dziecko patrzy na kogoś bawiącego się na świeżym powietrzu i wylewa wodę na resztę rodziny	Chłopiec trzyma wąż obok mężczyzny, a inny chłopiec obserwuje	3	NEUTRAL
+7541	Nie ma piłkarza na fioletowej koszulce biegnącego z piłką w celu przyziemienia	Piłkarz biegnie za urzędnikiem niosącym piłkę do nogi	3.3	NEUTRAL
+7544	Piłkarz nosi sędziego za toczącą się piłką do nogi	Piłkarz w fioletowym golfie biegnie z piłką w celu przyziemienia	2.9	NEUTRAL
+7546	Młoda dziewczynka w niebieskim trykocie skacze w powietrzu	Młoda dziewczynka w trykocie w kolorze niebieskim skacze w powietrzu	5	ENTAILMENT
+7548	Młoda dziewczynka w niebieskim skacze w powietrzu	Młoda dziewczyna w niebieskim kolorze skacze w powietrzu	5	ENTAILMENT
+7582	Mężczyźni grają w rugby na boisku pełnym błota	Niektórzy mężczyźni grają w rugby	4.5	ENTAILMENT
+7590	Człowiek patrzy na rower przeznaczony do motocrossu, który leży na boku, a inny jeździ na rowerze	Rowerzysta patrzy na wypadek innego rowerzysty	3.1	NEUTRAL
+7649	Nie ma małego chłopca ubranego w zielony strój piłkarski i biegnącego na trawie	Mały chłopiec ma na sobie zielony strój piłkarski i biegnie na trawie	3.6	CONTRADICTION
+7667	Mężczyzna nie staje na rękach na mokrym brzegu wody na plaży	Mężczyzna na plaży staje na rękach na mokrym brzegu wody	3.7	CONTRADICTION
+7677	Młoda matka bawi się z chłopcem w parku	Młody chłopiec bawi się w parku z matką	4.5	ENTAILMENT
+7718	Mężczyzna rozpyla wodę przez pistolet na wodę do ust psa	Nie ma mężczyzny, który rozpylałby wodę przez pistolet na wodę do ust psa	3.8	CONTRADICTION
+7720	Nie ma mężczyzny, który rozpylałby wodę przez pistolet na wodę do ust psa	Woda jest wleawana do ust białego psa przez mężczyznę z wodnym pistoletem	2.9	NEUTRAL
+7726	Chłopiec pod parasolem jest trzymany przez ojca, który ma na sobie niebieski płaszcz	Chłopiec ubrany w niebieski płaszcz jest trzymany przez ojca pod parasolem	4.3	NEUTRAL
+7734	Chłopiec pod parasolem jest trzymany przez ojca, który ma na sobie niebieski płaszcz	Dziecko doświadcza nowego świata	1.5	NEUTRAL
+7743	Pies bawi się sam na plaży pokrytej śniegiem	Pies idzie na zaspach	3.2	NEUTRAL
+7772	Surfer serfuje na dużej fali przez ciemnozieloną wodę	Surfer jedzie na małej fali	3.9	CONTRADICTION
+7795	Tenisista biegnie w lewo	Tenisista skacze w lewo	4.4	ENTAILMENT
+7820	Dwa psy patrzą na coś, co rozpryskuje się w wodzie	Niektóre psy nie bawią się w strumieniu	3.7	NEUTRAL
+7877	Mężczyzna w niebieskim kowbojskim kapeluszu jedzie na białym koniu	Mężczyzna w błękicie jedzie konno po polnej drodze	3.9	NEUTRAL
+7889	Dwa białe psy bawią się brązowym psem i piłką tenisową	Dwa białe psy bawią się z brązowym psem i piłką	4.7	ENTAILMENT
+7932	Na pole biegnie osoba w różowej kurtce	Czterech zawodniczek jest z kobietą na zatłoczonym stadionie	2	NEUTRAL
+7937	Kobieta ubrana w elegancką odzież znajduje się w tłumie ludzi i spogląda w górę	Kobieta ubrana w elegancką odzież znajduje się w tłumie ludzi i spogląda w dół	3.1	NEUTRAL
+7938	Kobieta azjatycka trzyma futrzany szalik	Elegancka kobieta jest w tłumie ludzi i spogląda w dół	2.2	NEUTRAL
+7947	Dziecko w białej koszulce pluska się w płytkiej wodzie	Chłopiec biegnie przez wodę na plaży	3.4	NEUTRAL
+7950	Dziewczynka biegnie przez wodę na plaży	Chłopiec w białej koszulce pluska się w płytkiej wodzie	2.3	NEUTRAL
+7951	Chłopiec w białej koszulce pluska się w płytkiej wodzie	Chłopiec biegnie przez wodę na plaży	3.5	NEUTRAL
+7997	Dzieci nie mają na sobie kostiumów kąpielowych, a woda rozpryskuje się wokół	Dzieci w strojach kąpielowych bawią się w wodzie	2.8	NEUTRAL
+8057	Młoda dziewczyna ma na sobie niebieski wzorzysty strój kąpielowy, czarno-żółty kapelusz oraz niebieskie okulary pływackie na głowie	Mała dziewczynka ma na sobie niebieski wzorzysty strój kąpielowy, czarno-żółty kapelusz oraz niebieskie okulary pływackie na głowie	4.8	ENTAILMENT
+8122	Cheerleaderka siedzi na kolanie cheerleadera	Niektóre cheerleaderki odpoczywają	3	NEUTRAL
+8138	Dziewczyna ma czerwone włosy i brwi, kilka przekłuć w uchu i rysunek na plecach	Dziewczyna ma czerwone włosy i brwi, kilka przekłuć w uchu i tatuaż na plecach	4.4	ENTAILMENT
+8141	Dziewczyna ma czerwone włosy i brwi, kilka przekłuć w uchu i nie ma tatuażu na plecach	Dziewczynka z czerwonymi włosami i czerwonymi brwiami jest w połowie mowy	3	NEUTRAL
+8163	Dwie osoby jadą jeepem, a na jego szczycie siedzi kobieta	Dwie osoby jadą jeepem, a na jego szczycie siedzi dziewczynka	4.8	ENTAILMENT
+8193	Dorośli i dzieci nie gromadzą się w pobliżu miejsc siedzących na wolnym powietrzu	Dorośli i dzieci gromadzą się w pobliżu miejsc siedzących na wolnym powietrzu	4.4	CONTRADICTION
+8212	Dziewczynka ma kolorowe plamy na policzkach	Dziewczynka stoi w grupie mając na sobie czarną koszulę i różowe koraliki	2.4	NEUTRAL
+8220	Dwa psy biegną przez wodę	Dwa psy biegną przez wysoką trawę	3.335	NEUTRAL
+8263	Niektórzy ludzie i pojazdy są na zatłoczonej ulicy	Niektórzy ludzie i pojazdy są na prawie pustej ulicy	4.2	CONTRADICTION
+8313	Młoda dziewczyna z pomalowaną twarzą stoi obok innych dzieci	Dzieci ubrane w kostiumy grają w grę	3.1	NEUTRAL
+8326	Nie ma rowerzysty bmx skaczącego na brudnych rampach przed zbiornikiem wodnym	Dwóch rowerzystów bmx skacze na brudnych rampach przed zbiornikiem wodnym	4.4	CONTRADICTION
+8334	Mężczyzna robi sztuczkę na deskorolce	Człowiek robi sztuczkę na deskorolce	4.4	ENTAILMENT
+8343	Mężczyzna w mundurze motocrossowym ma na sobie kask i jeździ czerwonym motocyklem	Osoba w mundurze motocrossowym ma na sobie kask i jeździ na czerwonym motocyklu	4.8	ENTAILMENT
+8362	Chłopiec w pasiastej koszuli skacze za fontanną wodną	Chłopiec w pasiastej koszuli skacze przed fontanną wodną	4.2	NEUTRAL
+8375	Dwa duże psy, jasny oraz ciemny, śpią na ośnieżonym terenie	Dwa psy przeskakują przez trawę pokrytą śniegiem i skały	2.4	NEUTRAL
+8383	Dziewczyna w błękicie zsuwa się po zielonej zjeżdżalni	Młoda dziewczyna w niebieskim kolorze cieszy się zjeżdżalnią	4.3	ENTAILMENT
+8389	Biały człowiek idzie obok budynku w wielkim mieście	Czarny mężczyzna idzie obok budynku w wielkim mieście	3.3	NEUTRAL
+8461	Mężczyzna bez kapelusza siedzi na ziemi	Mężczyzna w kapeluszu tył na przód siedzi na ziemi	4	NEUTRAL
+8471	Dziewczynka w niebieskim swetrze trzyma wielobarwną zabawkę i siedzi na ramionach starego mężczyzny o siwych włosach	Dziewczynka w niebieskim swetrze trzyma wielobarwną zabawkę i siedzi na ramionach mężczyzny o siwych włosach	4.6	ENTAILMENT
+8500	Mężczyzna wchodzi do wody	Osoba wychodzi w morze	4.1	NEUTRAL
+8505	Dwie osoby siedzą w słoneczny dzień na ławce w parku	Dwie osoby siedzą w gorący dzień na ławce w parku	4.3	NEUTRAL
+8548	Dziecko rozpryskuje wodę w dużym czerwonym basenie	Dziecko robi falę wewnątrz niebieskiego brodzika	3.1	NEUTRAL
+8558	Szary, jedwabisty pies leży w trawie, a brązowy pies patrzy na niego	Brązowy pies zauważa czarnego psa leżącego w suchej trawie	3.2	NEUTRAL
+8576	Czarny pies i mały biało-czarny pies patrzą na kuchenny blat	Duży pies i mały pies stoją obok blatu kuchennego i badają sytuację	4.2	ENTAILMENT
+8632	Mężczyzna nie wspina się po skałach, a miasto i zatoka znajdują się w tle	Mężczyzna wspina się po skałach, a miasto i zatoka znajdują się w tle	4.4	CONTRADICTION
+8633	Mężczyzna wspina się na skały, wstrzymuje się i wyznacza trasę	Mężczyzna wspina się po skałach, zatrzymuje się i wyznacza trasę	4.8	ENTAILMENT
+8658	Nie ma grupy ludzi gromadzącej się przy stoisku na targu	Ludzie stoją na karnawale	3.8	NEUTRAL
+8660	Grupa rolkarzy ustawia się w kolejce na ulicy	Grupa rolkarzy ustawia się w kolejce na drodze	4.9	ENTAILMENT
+8678	Deskorolkarz skacze z rampy	Deskorolkarz robi skok z rampy	4.8	ENTAILMENT
+8700	W trawie stoi czarno-pomarańczowy ptak	Czarny ptak z żółtym dziobem stoi na zielonej trawie	4	NEUTRAL
+8714	Dwa białe psy szybko razem biegną	Dwa białe psy biegną razem	4.6	ENTAILMENT
+8727	Grupa ludzi stoi przy stole do mieszania dźwięków	Niektórzy patrzą na sprzęt nagłaśniający	3.5	ENTAILMENT
+8786	Dziewczyna skacze na skakance na chodniku	Dziewczyna skacze na skakance w pobliżu ulicy	4.3	ENTAILMENT
+8792	Dziewczyna skacze na skakance na chodniku w pobliżu garażu	Dziewczyna skacze na skakance w pobliżu ulicy	3.7	NEUTRAL
+8806	Pies płynie w zbiorniku wodnym	Zwierzę pływa w zbiorniku wodnym	4.5	ENTAILMENT
+8832	Kobieta opiera się na gzymsie balkonu	Mężczyzna opiera się na gzymsie balkonu	3.8	NEUTRAL
+8841	Mały biały pies biegnie przez trawnik	Przez trawnik biegnie duży biały pies	3.1	NEUTRAL
+8855	Pies jest na smyczy i idzie w pobliżu wody	Czarny pies na smyczy idzie w wodzie	4.5	NEUTRAL
+8938	Jeden chłopiec w pomarańczowych szortach stoi na skalnym klifie nad wodą, a drugi w czarnych szorstkich skałach skacze z niego do wody	Na krawędzi klifu stoją dwaj mężczyźni, a jeden skacze do wody	4	NEUTRAL
+8963	Mała grupa osób stoi, a dwie siedzą na sofie	Grupa pięciu młodych dorosłych wyleguje się w domu	3.8	NEUTRAL
+8986	Młoda dziewczynka w bikini skacze na plaży	Młoda dziewczyna w kostiumie pływackim skacze na plaży	4.4	ENTAILMENT
+9014	Blond dziecko zjeżdża w dół zjeżdżalni z wyrzuconymi w górę rękami	Dziecko z ciemnymi włosami zjeżdża w dół zjeżdżalni z wyrzuconymi w górę rękami	3.7	CONTRADICTION
+9029	Dwa psy bawią się w lesie	Brązowy pies biegnie za czarnym psem na skalistym brzegu	2.3	NEUTRAL
+9036	Biały pies zbliża się do złotego psa na kamienistej plaży	Dwa psy bawią się na skalistej plaży	2.9	NEUTRAL
+9056	Dwie młode dziewczynki mają na sobie kapelusze i wystawiają kolorowe języki	Dwoje dzieci wyciąga niebiesko-zielone języki	3.6	NEUTRAL
+9069	Dwóch chłopców leży w oceanie niedaleko plaży	Dwóch chłopców leży w wodzie niedaleko plaży	4.4	ENTAILMENT
+9093	Wielki mężczyzna siedzi w sklepie z akcesoriami militarnymi	Weteran pokazuje różnym ludziom różne rzeczy z wojny	2.8	NEUTRAL
+9102	Pies z niebieskim kołnierzykiem bawi się piłką na zewnątrz	Szary pies odbija piłkę nożną głową na trawiastym boisku	3.4	NEUTRAL
+9125	Młoda kobieta z indyjską odzieżą i henną na ręku przedziera się przez papierkową robotę	Kobieta ma na sobie kolorową koszulę i dużo biżuterii	2.4	NEUTRAL
+9132	Mężczyzna na czarnej koszulce stoi na siłowni	Mężczyzna w czarnej koszulce stoi na siłowni	4.9	ENTAILMENT
+9136	Mężczyzna w czarnej koszulce stoi na siłowni	Mężczyzna stoi na siłowni i ma na sobie koszulkę	4.5	ENTAILMENT
+9169	Mały biało-brązowy pies biegnie po chodniku	Mały brązowo-biały pies biegnie po drodze	3.7	NEUTRAL
+9188	Pies obraca się na trawie i ściga lacącą piłkę tenisową	Żółty pies ściga piłkę	4.4	NEUTRAL
+9198	Kobieta w niebieskich dżinsach stoi przed grupą dzieci niedaleko kamiennego domu	Żadna pani nie stoi na ulicy i jest otoczana przez dzieci w wieku szkolnym	3.2	NEUTRAL
+9200	Na ulicy stoi pani, którą otaczają dzieci w wieku szkolnym	Mężczyzna w niebieskich dżinsach stoi przed grupą dzieci obok kamiennego domu	2	NEUTRAL
+9211	Facet skacze w powietrze w lesie	Chłopak wyskakuje w powietrze na zalesionym terenie	4.3	NEUTRAL
+9224	Pies biegnie z piłką	Czarny pies nosi niebiesko-białą piłkę w ustach	4	NEUTRAL
+9242	Mężczyzna w kolorze niebieskim pozuje do zdjęcia obok pojazdu	Mężczyzna stoi za kierownicą klasycznego amerykańskiego samochodu z otwartymi drzwiami i bagażnikiem	3.2	NEUTRAL
+9287	Mężczyzna zjeżdża na nartach z góry i skacze na czerwoną przeszkodę	Mężczyzna jeździ na snowboardzie po poręczach w śniegu	3.1	NEUTRAL
+9303	Deskorolkarz skacze w powietrzu	W powietrzu skacze deskorolkarz	4.9	ENTAILMENT
+9314	Snowboardzista szlifuje długą betonową szynę	Człowiek robi akrobacje na snowboardzie	3.3	NEUTRAL
+9336	Grupa ludzi idzie ulicą, a osoba w zielonym kapeluszu rozmawia przez telefon	Cztery osoby idą chodnikiem po mieście, a ten w zielonym kapeluszu dzwoni do kogoś	4.2	NEUTRAL
+9359	Surfer surfuje na wielkiej fali	Surfer surfuje na ogromnej fali	4.9	ENTAILMENT
+9371	Osoba z czerwoną kurtką w kapturze i czarnym plecakiem idzie w pobliżu skalistej ściany	Mężczyzna w czerwonej kurtce i spodniach w kolorze khaki spacerują po europejskim państwie	3	NEUTRAL
+9380	Zawodnicy manewrują piłką nożną	Mężczyzna w zieleni kopie piłkę nożną, a mężczyzna na fioletowo-biało podnosi się	3.5	NEUTRAL
+9401	Mężczyzna ubrany w skórzane czapsy i fioletową koszulę stoi przed kimś, kto patrzy	Mężczyzna mający na sobie fioletową koszulę i czarne skórzane czapsy pozuje do kamery	3.3	NEUTRAL
+9424	Pies znajduje się w piaszczystym obszarze z piaskiem, który unosi się i jest mieszany w powietrzu, a kilka roślin znajduje się w tle	Pies jest w piasku, który unosi się w powietrzu	4.1	NEUTRAL
+9425	Żaden pies nie jest w piasku, który wieje na wietrze	Pies znajduje się w piaszczystym obszarze z piaskiem, który unosi się i jest mieszany w powietrzu, a kilka roślin znajduje się w tle	4	CONTRADICTION
+9433	Czarno-biały pies biegnie na zielonym podwórku	Biało-czarny pies biegnie na zewnątrz	4.4	ENTAILMENT
+9452	Pies skacze w powietrzu na wsi	Pies skacze w cieniu drzew	3.7	NEUTRAL
+9453	Pies skacze w cieniu drzew	Kot skacze wysoko w powietrze na wsi	1.6	NEUTRAL
+9490	Grono czterech brązowych psów bawi się na polu z brązową trawą	Cztery psy nie bawią się na trawiastym terenie	4	CONTRADICTION
+9500	Duży brązowo-biały nakrapiany pies leży na kurtce na ulicy	Pies robi sobię drzemkę w parku	2.9	NEUTRAL
+9545	Mężczyzna na żółtym rowerze sportowym robi kółeczko, a przyjaciel na czarnym rowerze nadrabia dystans	Kolarz ubrany na pomarańczowo jedzie motocyklem na jednym kole	2.8	NEUTRAL
+9571	Starszy mężczyzna siedzi na ławce i ma na sobie szarą kurtkę i czarne spodnie	Mężczyzna w podeszłym wieku siedzi na ławce	4.5	ENTAILMENT
+9584	Kobieta trzyma pędzel przy sztaludze	Pani trzyma pędzel przy sztaludze	4.9	ENTAILMENT
+9623	Mężczyzna ma na sobie niebieską koszulę i idzie boso po korcie tenisowym	Kobieta ma na sobie niebieską koszulę i idzie boso po korcie tenisowym	3.6	NEUTRAL
+9669	Młoda dziewczynka bawi się na krawędzi fontanny, a starsza kobieta patrzy na nią	Młoda dziewczynka bawi się na krawędzi fontanny, a starsza kobieta przygląda się jej	4.8	ENTAILMENT
+9677	Młoda dziewczynka bawi się na krawędzi fontanny, a starsza kobieta przygląda się jej	Mała dziewczynka i kobieta w żółtej koszuli zostały ochlapane przez fontannę miejską	3.5	NEUTRAL
+9706	Na polu stoi czarno-biały pies z dużą gałęzią	Na polu biegnie czarno-biały pies z dużą gałęzią	4.2	CONTRADICTION
+9713	Czarno-biały pies nosi ogromny kij na zielonej trawie	Na polu biegnie czarno-biały pies z dużą gałęzią	4.5	ENTAILMENT
+9722	Chłopiec biegnie przez piasek	Chłopiec w pasiastej koszuli biegnie boso na piaszczystym wzgórzu	3.9	NEUTRAL
+9745	Dwóch młodych chłopców patrzy na kamerę, a jeden wystawia język	Chłopiec wystawia język do aparatu, a inny chłopiec patrzy na kamerę	4.4	NEUTRAL
+9747	Mały chłopiec wystawia język do aparatu, a inny chłopiec patrzy na kamerę	Dwoje dzieci patrzy na kamerę, a jedno wystawia język	4.4	ENTAILMENT
+9759	Śmiejące się dziecko trzyma pistolet na wodę i jest spryskiwane wodą	Osoba w niebieskiej kurtce wskakuje na wysoką cementową ścianę	1.1	NEUTRAL
+9763	Ktoś kroi grzyby	Słoń jest dosiadany przez kobietę	1	NEUTRAL
+9771	Dwoje małych dzieci bawi się na ulicy zabawkowym samochodem	Pies biegnie przez pole i goni za zabawką	1.4	NEUTRAL
+9788	Mężczyzna gra na gitarze elektrycznej	Grupa ludzi trzyma napoje i wskazuje na kamerę	1	NEUTRAL
+9789	Dziewczynka w złocie i fiolecie trzyma afgańską tęczę	Mężczyzna kuca w zaroślach i robi zdjęcie	1	NEUTRAL
+9822	Dwie osoby jedzą na rowerze	Ćwiczący skoczek wyrzuca snowboard innej osoby w powietrze	2	NEUTRAL
+9838	Zespół gra na niektórych instrumentach	Młoda, naga kobieta jest pokryta farbą	1	NEUTRAL
+9843	Rodzina kupuje coś w automacie	Mężczyzna w garniturze stoi przy mikrofonie i śpiewa	1	NEUTRAL
+9869	Rower jest używany do przejeżdżania nad małpą	Osoba jedzie na brudnym rowerze po zmiemistym wzgórzu	2.8	NEUTRAL
+9880	Rowerzysta odjeżdża od ogrodzenia	Mężczyzna tańczy na drodze	1.2	NEUTRAL
+9931	Kobieta gra na gitarze elektrycznej	Dziecko gra na gitarze	3	NEUTRAL
+9963	Zwierzę jest wypasane na trawie	Policjant siedzi na rowerze policyjnym	1	NEUTRAL
+9975	Pies chapie krople wody	Dziewczynka w zespole gra na instrumencie	1	NEUTRAL
+9988	Młody mężczyzna spycha motocykl motocrossowy w dół góry ziemi	Pies płynie po piłkę tenisową	1	NEUTRAL
