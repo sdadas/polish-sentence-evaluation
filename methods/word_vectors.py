@@ -15,7 +15,8 @@ class KeyedVectorsEmbedding(EmbeddingBase):
         self.embedding: KeyedVectors = self._load_embedding(path)
         self._size: int = self.embedding.wv.vector_size
 
-    def _load_embedding(self, path: Path, text_format: bool=False) -> KeyedVectors:
+    def _load_embedding(self, path: Path) -> KeyedVectors:
+        text_format: bool = path.name.endswith(".txt")
         infile: str = str(path.absolute())
         return KeyedVectors.load(infile) if not text_format else KeyedVectors.load_word2vec_format(infile, binary=False)
 
@@ -117,7 +118,7 @@ class ElmoEmbedding(EmbeddingBase):
                 vector = np.hstack((vectors[0][idx], vectors[1][idx], vectors[2][idx]))
             else: raise AssertionError("Unknown 'layers' parameter")
             res += vector
-        res /= len(tokens_num)
+        res /= tokens_num
         return res
 
     def batcher(self, params, batch: List[List[str]]) -> np.ndarray:

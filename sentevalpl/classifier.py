@@ -36,6 +36,7 @@ class SentEvalClassifier(object):
         bsize = params.batch_size
 
         for key in self.data:
+            params.batcher_dataset = key
             logging.info("Computing embedding for {0}".format(key))
             # Sort to reduce padding
             sorted_data = sorted(zip(self.data[key]["X"], self.data[key]["y"]), key=lambda z: (len(z[0]), z[1]))
@@ -43,6 +44,7 @@ class SentEvalClassifier(object):
 
             data[key]["X"] = []
             for ii in range(0, len(self.data[key]["y"]), bsize):
+                params.batcher_offset = str(ii)
                 batch = self.data[key]["X"][ii:ii + bsize]
                 embeddings = batcher(params, batch)
                 data[key]["X"].append(embeddings)

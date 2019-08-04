@@ -7,4 +7,4 @@ docker>=4.0.2
 git+git://github.com/oborchers/Fast_Sentence_Embeddings@34a6a33
 git+git://github.com/facebookresearch/SentEval.git
 psutil>=5.6.3
-tensorflow-gpu==1.14.0
+tensorflow-gpu>=1.13.0
