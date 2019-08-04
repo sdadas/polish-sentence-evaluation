@@ -1,15 +1,9 @@
 from __future__ import absolute_import, division, unicode_literals
 
 from senteval import utils
-from senteval.binary import CREval, MREval, MPQAEval, SUBJEval
-from senteval.snli import SNLIEval
-from senteval.trec import TRECEval
 from senteval.sick import SICKRelatednessEval, SICKEntailmentEval
-from senteval.mrpc import MRPCEval
-from senteval.sts import STS12Eval, STS13Eval, STS14Eval, STS15Eval, STS16Eval, STSBenchmarkEval
-from senteval.sst import SSTEval
-from senteval.rank import ImageCaptionRetrievalEval
-from senteval.probing import *
+
+from sentevalpl.classifier import SentEvalClassifier
 
 
 class SE(object):
@@ -29,14 +23,7 @@ class SE(object):
         self.params = params
         self.batcher = batcher
         self.prepare = prepare if prepare else lambda x, y: None
-
-        self.list_tasks = ['CR', 'MR', 'MPQA', 'SUBJ', 'SST2', 'SST5', 'TREC', 'MRPC',
-                           'SICKRelatedness', 'SICKEntailment', 'STSBenchmark',
-                           'SNLI', 'ImageCaptionRetrieval', 'STS12', 'STS13',
-                           'STS14', 'STS15', 'STS16',
-                           'Length', 'WordContent', 'Depth', 'TopConstituents',
-                           'BigramShift', 'Tense', 'SubjNumber', 'ObjNumber',
-                           'OddManOut', 'CoordinationInversion']
+        self.list_tasks = ['WCCRS_HOTELS', 'WCCRS_MEDICINE', 'SICKRelatedness', 'SICKEntailment']
 
     def eval(self, name):
         # evaluate on evaluation [name], either takes string or list of strings
@@ -47,40 +34,16 @@ class SE(object):
         tpath = self.params.task_path
         assert name in self.list_tasks, str(name) + ' not in ' + str(self.list_tasks)
 
-        # Original SentEval tasks
-        if name == 'CR':
-            self.evaluation = CREval(tpath + '/downstream/CR', seed=self.params.seed)
-        elif name == 'MR':
-            self.evaluation = MREval(tpath + '/downstream/MR', seed=self.params.seed)
-        elif name == 'MPQA':
-            self.evaluation = MPQAEval(tpath + '/downstream/MPQA', seed=self.params.seed)
-        elif name == 'SUBJ':
-            self.evaluation = SUBJEval(tpath + '/downstream/SUBJ', seed=self.params.seed)
-        elif name == 'SST2':
-            self.evaluation = SSTEval(tpath + '/downstream/SST/binary', nclasses=2, seed=self.params.seed)
-        elif name == 'SST5':
-            self.evaluation = SSTEval(tpath + '/downstream/SST/fine', nclasses=5, seed=self.params.seed)
-        elif name == 'TREC':
-            self.evaluation = TRECEval(tpath + '/downstream/TREC', seed=self.params.seed)
-        elif name == 'MRPC':
-            self.evaluation = MRPCEval(tpath + '/downstream/MRPC', seed=self.params.seed)
+        if name == 'WCCRS_HOTELS':
+            self.evaluation = SentEvalClassifier(tpath + '/downstream/WCCRS_HOTELS', name, 4, seed=self.params.seed)
+        elif name == 'WCCRS_MEDICINE':
+            self.evaluation = SentEvalClassifier(tpath + '/downstream/WCCRS_MEDICINE', name, 4, seed=self.params.seed)
         elif name == 'SICKRelatedness':
             self.evaluation = SICKRelatednessEval(tpath + '/downstream/SICK', seed=self.params.seed)
-        elif name == 'STSBenchmark':
-            self.evaluation = STSBenchmarkEval(tpath + '/downstream/STS/STSBenchmark', seed=self.params.seed)
         elif name == 'SICKEntailment':
             self.evaluation = SICKEntailmentEval(tpath + '/downstream/SICK', seed=self.params.seed)
-        elif name == 'SNLI':
-            self.evaluation = SNLIEval(tpath + '/downstream/SNLI', seed=self.params.seed)
-        elif name in ['STS12', 'STS13', 'STS14', 'STS15', 'STS16']:
-            fpath = name + '-en-test'
-            self.evaluation = eval(name + 'Eval')(tpath + '/downstream/STS/' + fpath, seed=self.params.seed)
-        elif name == 'ImageCaptionRetrieval':
-            self.evaluation = ImageCaptionRetrievalEval(tpath + '/downstream/COCO', seed=self.params.seed)
 
         self.params.current_task = name
         self.evaluation.do_prepare(self.params, self.prepare)
-
         self.results = self.evaluation.run(self.params, self.batcher)
-
         return self.results
