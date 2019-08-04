@@ -1,6 +1,10 @@
 import logging
 import subprocess
 import os
+import json
+import functools
+
+from utils.table import TablePrinter, TableColumn
 
 logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.DEBUG)
 logging.root.setLevel(logging.DEBUG)
@@ -14,6 +18,20 @@ def evaluate(name: str, params=None):
         cmd.append(str(val))
     logging.info("running %s", cmd.__repr__())
     subprocess.run(cmd)
+
+def print_results(results_file: str):
+    header = ["method", "WCCRS Hotels", "WCCRS Medicine", "SICK-E", "SICK-R"]
+    table = [header]
+    score = lambda val, ds: "%.2f" % (val["results"][ds].get("acc", val["results"][ds].get("pearson", 0) * 100),)
+    with open(results_file, "r", encoding="utf-8") as input_file:
+        for line in input_file:
+            obj = json.loads(line)
+            s = functools.partial(score, obj)
+            row = [obj["method"], s("WCCRS_HOTELS"), s("WCCRS_MEDICINE"), s("SICKEntailment"), s("SICKRelatedness")]
+            table.append(row)
+    printer: TablePrinter = TablePrinter()
+    for idx in range(1, 5): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
+    printer.print(table)
 
 
 if __name__ == '__main__':
@@ -30,3 +48,4 @@ if __name__ == '__main__':
     evaluate("bert", {"batch-size": 32})
     evaluate("laser", {"batch-size": 10000})
     evaluate("use")
+    print_results(results)
