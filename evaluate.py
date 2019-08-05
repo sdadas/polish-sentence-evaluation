@@ -5,7 +5,7 @@ from pathlib import Path
 import fire
 import json
 
-from analyzer import PolishAnalyzer
+from utils.analyzer import PolishAnalyzer
 from methods.base import EmbeddingBase
 from methods.utils import cached
 from sentevalpl.engine import SE
@@ -65,6 +65,11 @@ class SentEvaluator(object):
         method = USEEmbedding()
         self.evaluate(method, "use", **kwargs)
 
+    def sif(self, **kwargs):
+        from methods.sif import SIFEmbedding
+        method = SIFEmbedding(Path(root_dir, "resources/word2vec/word2vec_100_3_polish.bin"))
+        self.evaluate(method, "sif", **kwargs)
+
     def evaluate(self, method: EmbeddingBase, method_name: str, **kwargs):
         logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.DEBUG)
         logging.root.setLevel(logging.DEBUG)
@@ -74,7 +79,7 @@ class SentEvaluator(object):
             "kfold": 5,
             "lemmatize": True,
             "batch_size": 512,
-            "classifier": {"nhid": 100, "optim": "rmsprop", "batch_size": 128, "tenacity": 3, "epoch_size": 10},
+            "classifier": {"nhid": 50, "optim": "rmsprop", "batch_size": 128, "tenacity": 3, "epoch_size": 10},
             "analyzer": PolishAnalyzer()
         }
         params.update(kwargs)

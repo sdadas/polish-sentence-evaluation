@@ -48,4 +48,5 @@ if __name__ == '__main__':
     evaluate("bert", {"batch-size": 32})
     evaluate("laser", {"batch-size": 10000})
     evaluate("use")
+    evaluate("sif")
     print_results(results)

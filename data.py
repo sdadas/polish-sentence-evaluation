@@ -1,5 +1,5 @@
 from typing import List, Iterable, Union
-from analyzer import PolishAnalyzer
+from utils.analyzer import PolishAnalyzer
 
 
 class Sent(object):

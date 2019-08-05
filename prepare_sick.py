@@ -1,4 +1,4 @@
-from analyzer import PolishAnalyzer
+from utils.analyzer import PolishAnalyzer
 
 analyzer = PolishAnalyzer()
 
