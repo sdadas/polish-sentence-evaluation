@@ -5,15 +5,17 @@ import numpy as np
 from fse.models import Sentence2Vec
 
 from gensim.models import KeyedVectors
+from gensim.models.base_any2vec import BaseWordEmbeddingsModel
 
 from methods.base import EmbeddingBase
 
 
 class SIFEmbedding(EmbeddingBase):
 
-    def __init__(self, path: Path):
+    def __init__(self, path: Path, no_frequency: bool=False):
         self.embedding: KeyedVectors = self._load_embedding(path)
-        self.model = Sentence2Vec(self.embedding, lang="pl")
+        self._normalize_embedding()
+        self.model = Sentence2Vec(self.embedding, lang="pl", no_frequency=no_frequency)
         self._size: int = self.embedding.wv.vector_size
         self.cache: Dict[str, np.ndarray] = {}
 
@@ -21,6 +23,17 @@ class SIFEmbedding(EmbeddingBase):
         text_format: bool = path.name.endswith(".txt")
         infile: str = str(path.absolute())
         return KeyedVectors.load(infile) if not text_format else KeyedVectors.load_word2vec_format(infile, binary=False)
+
+    def _normalize_embedding(self):
+        logging.info("Word vectors normalization")
+        if isinstance(self.embedding, BaseWordEmbeddingsModel): kv = self.embedding.wv
+        else: kv = self.embedding
+        vocab_size = kv.vectors.shape[0]
+        for idx in range(vocab_size):
+            word_vec = kv.vectors[idx]
+            norm = np.linalg.norm(word_vec)
+            word_vec = (word_vec / norm) if norm > 0 else word_vec
+            kv.vectors[idx] = word_vec
 
     def prepare(self, params, samples: List[List[str]]):
         logging.info("Preparing %d sentences", len(samples))

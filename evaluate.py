@@ -21,19 +21,16 @@ class SentEvaluator(object):
         self.evaluate(method, "random", **kwargs)
 
     def word2vec(self, **kwargs):
-        from methods.word_vectors import KeyedVectorsEmbedding
-        method = KeyedVectorsEmbedding(Path(root_dir, "resources/word2vec/word2vec_100_3_polish.bin"))
-        self.evaluate(method, "word2vec", **kwargs)
+        path: Path = Path(root_dir, "resources/word2vec/word2vec_100_3_polish.bin")
+        self.evaluate_keyed_vectors(path, "word2vec", **kwargs)
 
     def glove(self, **kwargs):
-        from methods.word_vectors import KeyedVectorsEmbedding
-        method = KeyedVectorsEmbedding(Path(root_dir, "resources/glove/glove_100_3_polish.txt"))
-        self.evaluate(method, "glove", **kwargs)
+        path: Path = Path(root_dir, "resources/glove/glove_100_3_polish.txt")
+        self.evaluate_keyed_vectors(path, "glove", **kwargs)
 
     def fasttext(self, **kwargs):
-        from methods.word_vectors import KeyedVectorsEmbedding
-        method = KeyedVectorsEmbedding(Path(root_dir, "resources/fasttext/fasttext_100_3_polish.bin"))
-        self.evaluate(method, "fasttext", **kwargs)
+        path: Path = Path(root_dir, "resources/fasttext/fasttext_100_3_polish.bin")
+        self.evaluate_keyed_vectors(path, "fasttext", **kwargs)
 
     def elmo_all(self, **kwargs):
         from methods.word_vectors import ElmoEmbedding
@@ -65,10 +62,19 @@ class SentEvaluator(object):
         method = USEEmbedding()
         self.evaluate(method, "use", **kwargs)
 
-    def sif(self, **kwargs):
-        from methods.sif import SIFEmbedding
-        method = SIFEmbedding(Path(root_dir, "resources/word2vec/word2vec_100_3_polish.bin"))
-        self.evaluate(method, "sif", **kwargs)
+    def evaluate_keyed_vectors(self, path: Path, name: str, **kwargs):
+        if kwargs.get("sif"):
+            from methods.sif import SIFEmbedding
+            name = name + "_sif"
+            method = SIFEmbedding(path)
+        else:
+            from methods.word_vectors import KeyedVectorsEmbedding
+            pooling = "avg"
+            if kwargs.get("pooling") and kwargs.get("pooling") != "avg":
+                pooling = kwargs.get("pooling")
+                name = name + "_" +pooling
+            method = KeyedVectorsEmbedding(path, pooling=pooling)
+        self.evaluate(method, name, **kwargs)
 
     def evaluate(self, method: EmbeddingBase, method_name: str, **kwargs):
         logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.DEBUG)

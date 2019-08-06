@@ -30,7 +30,8 @@ class KeyedVectorsEmbedding(EmbeddingBase):
     def _vocab_vector(self, word: str) -> Optional[np.ndarray]:
         idx = self._vocab_index(word)
         if idx < 0: return None
-        return self.embedding.wv.syn0[idx]
+        vec = self.embedding.wv.syn0[idx]
+        return vec / np.linalg.norm(vec)
 
     def embed(self, sentence: List[str]):
         sentvec = [self._vocab_vector(word) for word in sentence]
@@ -89,7 +90,9 @@ class BertEmbedding(EmbeddingBase):
     def _get_vector(self, sentence: Sentence) -> np.ndarray:
         res = np.zeros(self.size, dtype=np.float32)
         for token in sentence.tokens:
-            res += np.fromiter(token.embedding.tolist(), dtype=np.float32)
+            vec = np.fromiter(token.embedding.tolist(), dtype=np.float32)
+            vec = vec / np.linalg.norm(vec, ord=2)
+            res += vec
         res /= len(sentence.tokens)
         return res
 

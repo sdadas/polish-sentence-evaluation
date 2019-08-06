@@ -28,5 +28,5 @@ class EmbeddingBase(ABC):
         result = []
         for sent in batch:
             _, lemmas = params.analyzer.analyze(" ".join(sent))
-            result.append(lemmas)
+            result.append([word.lower() for word in lemmas])
         return result
