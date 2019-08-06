@@ -11,9 +11,12 @@ import numpy as np
 
 class KeyedVectorsEmbedding(EmbeddingBase):
 
-    def __init__(self, path: Path):
+    def __init__(self, path: Path, pooling: str="avg"):
+        assert pooling in ("avg", "max", "concat")
         self.embedding: KeyedVectors = self._load_embedding(path)
         self._size: int = self.embedding.wv.vector_size
+        self.pooling = pooling
+        self.pooling_op = {"avg": self.avg_pool, "max": self.max_pool, "concat": self.concat_pool}[self.pooling]
 
     def _load_embedding(self, path: Path) -> KeyedVectors:
         text_format: bool = path.name.endswith(".txt")
@@ -33,16 +36,25 @@ class KeyedVectorsEmbedding(EmbeddingBase):
         sentvec = [self._vocab_vector(word) for word in sentence]
         sentvec = [vec for vec in sentvec if vec is not None]
         if not sentvec:
-            vec = np.zeros(self.dim())
+            vec = np.zeros(self._size)
             sentvec.append(vec)
-        sentvec = np.mean(sentvec, 0)
+        sentvec = self.pooling_op(sentvec)
         return sentvec
 
     def prepare(self, params, samples: List[str]):
         pass
 
     def dim(self) -> int:
-        return self._size
+        return self._size * 2 if self.pooling == "concat" else self._size
+
+    def avg_pool(self, sentvec):
+        return np.mean(sentvec, 0)
+
+    def max_pool(self, sentvec):
+        return np.max(sentvec, 0)
+
+    def concat_pool(self, sentvec):
+        return np.hstack((self.avg_pool(sentvec), self.max_pool(sentvec)))
 
 
 class RandomEmbedding(EmbeddingBase):
