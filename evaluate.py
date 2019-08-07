@@ -92,7 +92,7 @@ class SentEvaluator(object):
         cache_dir = Path(root_dir, f".cache/{method_name}")
         cache_dir.mkdir(parents=True, exist_ok=True)
         se = SE(params, cached(method.batcher, cache_dir), method.prepare)
-        transfer_tasks = ["WCCRS_HOTELS", "WCCRS_MEDICINE", "SICKEntailment", "SICKRelatedness"]
+        transfer_tasks = ["WCCRS_HOTELS", "WCCRS_MEDICINE", "SICKEntailment", "SICKRelatedness", "8TAGS"]
         results = se.eval(transfer_tasks)
         del results["SICKRelatedness"]["yhat"]
         results = {"method": method_name, "results": results}

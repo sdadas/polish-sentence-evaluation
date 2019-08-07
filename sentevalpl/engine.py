@@ -41,6 +41,8 @@ class SE(object):
             self.evaluation = SICKRelatednessEval(tpath + '/downstream/SICK', seed=self.params.seed)
         elif name == 'SICKEntailment':
             self.evaluation = SICKEntailmentEval(tpath + '/downstream/SICK', seed=self.params.seed)
+        elif name == '8TAGS':
+            self.evaluation = SentEvalClassifier(tpath + '/downstream/8TAGS', name, 8, seed=self.params.seed)
 
         self.params.current_task = name
         self.evaluation.do_prepare(self.params, self.prepare)
