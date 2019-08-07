@@ -23,15 +23,11 @@ class KeyedVectorsEmbedding(EmbeddingBase):
         infile: str = str(path.absolute())
         return KeyedVectors.load(infile) if not text_format else KeyedVectors.load_word2vec_format(infile, binary=False)
 
-    def _vocab_index(self, word: str) -> int:
-        voc = self.embedding.wv.vocab.get(word)
-        return voc.index if voc else -1
-
     def _vocab_vector(self, word: str) -> Optional[np.ndarray]:
-        idx = self._vocab_index(word)
-        if idx < 0: return None
-        vec = self.embedding.wv.syn0[idx]
-        return vec / np.linalg.norm(vec)
+        if word in self.embedding.wv:
+            vec = self.embedding.wv[word]
+            return vec / np.linalg.norm(vec)
+        else: return None
 
     def embed(self, sentence: List[str]):
         sentvec = [self._vocab_vector(word) for word in sentence]
