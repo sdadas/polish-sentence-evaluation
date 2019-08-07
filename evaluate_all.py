@@ -20,17 +20,17 @@ def evaluate(name: str, params=None):
     subprocess.run(cmd)
 
 def print_results(results_file: str):
-    header = ["method", "WCCRS Hotels", "WCCRS Medicine", "SICK-E", "SICK-R"]
+    header = ["method", "WCCRS Hotels", "WCCRS Medicine", "SICK-E", "SICK-R", "8TAGS"]
     table = [header]
     score = lambda val, ds: "%.2f" % (val["results"][ds].get("acc", val["results"][ds].get("pearson", 0) * 100),)
     with open(results_file, "r", encoding="utf-8") as input_file:
         for line in input_file:
             obj = json.loads(line)
             s = functools.partial(score, obj)
-            row = [obj["method"], s("WCCRS_HOTELS"), s("WCCRS_MEDICINE"), s("SICKEntailment"), s("SICKRelatedness")]
+            row = [obj["method"], s("WCCRS_HOTELS"), s("WCCRS_MEDICINE"), s("SICKEntailment"), s("SICKRelatedness"), s('8TAGS')]
             table.append(row)
     printer: TablePrinter = TablePrinter()
-    for idx in range(1, 5): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
+    for idx in range(1, 6): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
     printer.print(table)
 
 
@@ -50,8 +50,8 @@ if __name__ == '__main__':
     evaluate("fasttext", {"pooling": "concat"})
     evaluate("elmo_all")
     evaluate("elmo_top")
-    evaluate("flair", {"batch-size": 256})
     evaluate("bert", {"batch-size": 32})
+    evaluate("flair", {"batch-size": 256})
     evaluate("laser", {"batch-size": 10000})
     evaluate("use")
     print_results(results)

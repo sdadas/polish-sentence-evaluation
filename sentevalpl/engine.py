@@ -22,7 +22,7 @@ class SE(object):
         self.params = params
         self.batcher = batcher
         self.prepare = prepare if prepare else lambda x, y: None
-        self.list_tasks = ['WCCRS_HOTELS', 'WCCRS_MEDICINE', 'SICKRelatedness', 'SICKEntailment']
+        self.list_tasks = ['WCCRS_HOTELS', 'WCCRS_MEDICINE', 'SICKRelatedness', 'SICKEntailment', '8TAGS']
 
     def eval(self, name):
         # evaluate on evaluation [name], either takes string or list of strings
