@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from typing import List
+from typing import List, Iterable
 import numpy as np
 
 
@@ -30,3 +30,21 @@ class EmbeddingBase(ABC):
             _, lemmas = params.analyzer.analyze(" ".join(sent))
             result.append([word.lower() for word in lemmas])
         return result
+
+
+class CombinedEmbedding(EmbeddingBase):
+
+    def __init__(self, models: Iterable[EmbeddingBase]):
+        self.models = models
+        self.size = sum([model.dim() for model in self.models])
+
+    def prepare(self, params, samples: List[List[str]]):
+        for model in self.models:
+            model.prepare(params, samples)
+
+    def batcher(self, params, batch: List[List[str]]) -> np.ndarray:
+        results: List[np.ndarray] = [model.batcher(params, batch) for model in self.models]
+        return np.hstack(results)
+
+    def dim(self) -> int:
+        return self.size
