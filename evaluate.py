@@ -5,6 +5,8 @@ from pathlib import Path
 import fire
 import json
 
+from typing import Union
+
 from utils.analyzer import PolishAnalyzer
 from methods.base import EmbeddingBase
 from methods.utils import cached
@@ -62,7 +64,8 @@ class SentEvaluator(object):
         method = USEEmbedding()
         self.evaluate(method, "use", **kwargs)
 
-    def evaluate_keyed_vectors(self, path: Path, name: str, **kwargs):
+    def evaluate_keyed_vectors(self, path: Union[Path, str], name: str, **kwargs):
+        if isinstance(path, str): path = Path(path)
         if kwargs.get("sif"):
             from methods.sif import SIFEmbedding
             name = name + "_sif"
