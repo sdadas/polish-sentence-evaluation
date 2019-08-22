@@ -8,8 +8,8 @@ Pre-trained models used in this study are available for download in separate rep
 <table>
   <thead>
     <th><strong>Method</strong></th>
-    <th><strong>WCCRS Hotels</strong></th>
-    <th><strong>WCCRS Hotels</strong></th>
+    <th><strong>WCCRS<br/>Hotels</strong></th>
+    <th><strong>WCCRS<br/>Hotels</strong></th>
     <th><strong>SICK-E</strong></th>
     <th><strong>SICK-R</strong></th>
     <th><strong>8TAGS</strong></th>
