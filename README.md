@@ -1,22 +1,55 @@
-# polish-semantic-similarity
-Analysis of semantic similarity methods for Polish
+### Evaluation of Sentence Representations in Polish
+This repository contains source code from the paper "Evaluation of Sentence Representations in Polish". 
+The paper contains evaluation of eight sentence representation methods (Word2Vec, GloVe, FastText, ELMo, Flair, BERT, LASER, USE) on five polish linguistic tasks.
+Dataset for these tasks are distributed with the repository and two of them are released specifically for this evaluation:
+the [SICK (Sentences Involving Compositional Knowledge)](https://github.com/text-machine-lab/MUTT/tree/master/data/sick) corpus translated to Polish and 8TAGS classification dataset.
+Pre-trained models used in this study are available for download in separate repository: [Polish NLP Resources](https://github.com/sdadas/polish-nlp-resources).
 
-Baseline
----
-- Random embeddings (losowo wygenerowane embeddingi słów)
+<table>
+  <tr>
+    <td>Method</td>
+    <td>WCCRS Hotels</td>
+    <td>WCCRS Hotels</td>
+    <td>SICK-E</td>
+    <td>SICK-R</td>
+    <td>8TAGS</td>
+  </tr>
+  <tr>
+    <td colspan="6">Word embeddings</td>
+  </tr>
+  <tr><td>Random</td><td>65.83</td><td>60.64</td><td>72.77</td><td>0.628</td><td>31.95</td></tr>
+    <tr><td>Word2Vec</td><td>78.19</td><td><strong>73.23</strong></td><td><strong>75.42</strong></td><td>0.746</td><td><strong>70.27</strong></td></tr>
+    <tr><td>GloVe</td><td>80.05</td><td>72.54</td><td>73.81</td><td><strong>0.756</strong></td><td>69.78</td></tr>
+    <tr><td>FastText</td><td><strong>80.31</strong></td><td>72.64</td><td>75.19</td><td>0.729</td><td>69.24</td></tr>
+  <tr>
+    <td colspan="6">Language models</td>
+  </tr>
+  <tr><td>ELMo (all)</td><td><strong>85.52</strong></td><td><strong>78.42</strong></td><td>77.15</td><td><strong>0.789</strong></td><td><strong>71.41</strong></td></tr>
+    <tr><td>ELMo (top)</td><td>83.20</td><td>78.17</td><td>74.05</td><td>0.756</td><td>71.41</td></tr>
+    <tr><td>Flair</td><td>80.82</td><td>75.46</td><td><strong>78.43</strong></td><td>0.743</td><td>65.62</td></tr>
+    <tr><td>BERT</td><td>76.83</td><td>72.54</td><td>73.83</td><td>0.698</td><td>65.05</td></tr> 
+  <tr>
+    <td colspan="6">Sentence encoders</td>
+  </tr>
+  <tr><td>LASER</td><td><strong>81.21</strong></td><td><strong>78.17</strong></td><td><strong>82.21</strong></td><td>0.825</td><td>64.91</td></tr>
+    <tr><td>USE</td><td>79.47</td><td>73.78</td><td>82.14</td><td><strong>0.833</strong></td><td><strong>69.92</strong></td></tr>
+</table>
 
-Polish
----
-- ELMo (top layer)
-- ELMo (all layers)
-- Flair
-- Word2Vec 
-- FastText
-- GloVe
-- SIF
+Table: Evaluation of sentence representations on four classification tasks and one semantic relatedness task (SICK-R). For classification, we report accuracy of each model. For semantic relatedness, Pearson correlation between true and predicted relatedness scores is reported. BERT, LASER and USE are multilingual models, other models are Polish only.
 
-Multilingual 
----
-- USE
-- Bert
-- LASER
+![results](results.png)
+
+Figure: Evaluation of aggregation techniques for word embedding models with different dimensionalities. Baseline models use simple averaging, SIF is a method proposed by Arora et al. (2017), Max Pooling is a concatenation of arithmetic mean and max pooled vector from word embeddings.
+
+### Usage
+
+`evaluate_all.py` is used for evaluation of all available models. \
+Run `evaluate.py [model_name] [model_params]` to evaluate single model. For example, `evaluate.py word2vec` runs evaluation on `word2vec_100_3_polish.bin` model.
+Please note that in case of static embeddings and ELMo, you need to manually download the model from [Polish NLP Resources](https://github.com/sdadas/polish-nlp-resources) and place it in the `resources` directory.
+
+### Acknowledgements
+This evaluation is based on [SentEval](https://github.com/facebookresearch/SentEval) modified by us to support models, tasks and preprocessing for Polish language.
+We'd like to thank authors of SentEval toolkit for making their code available. 
+
+Two tasks in this study are based on [Wroclaw Corpus of Consumer Reviews](https://clarin-pl.eu/dspace/handle/11321/700).  We would like to thank the authors for making this data collection available.
+
