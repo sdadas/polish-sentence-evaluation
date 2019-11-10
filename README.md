@@ -1,5 +1,5 @@
 ### Evaluation of Sentence Representations in Polish
-This repository contains source code from the paper "Evaluation of Sentence Representations in Polish". 
+This repository contains source code from the paper "[Evaluation of Sentence Representations in Polish](https://arxiv.org/pdf/1910.11834.pdf)". 
 The paper contains evaluation of eight sentence representation methods (Word2Vec, GloVe, FastText, ELMo, Flair, BERT, LASER, USE) on five polish linguistic tasks.
 Dataset for these tasks are distributed with the repository and two of them are released specifically for this evaluation:
 the [SICK (Sentences Involving Compositional Knowledge)](https://github.com/text-machine-lab/MUTT/tree/master/data/sick) corpus translated to Polish and 8TAGS classification dataset.
