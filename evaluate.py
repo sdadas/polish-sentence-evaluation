@@ -59,6 +59,11 @@ class SentEvaluator(object):
         method = RobertaEmbedding("resources/roberta/")
         self.evaluate(method, "roberta", **kwargs)
 
+    def xlmr(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/xlmr.large/", bpe="sentencepiece", bpe_filename="sentencepiece.bpe.model")
+        self.evaluate(method, "xlmr", **kwargs)
+
     def laser(self, **kwargs):
         from methods.laser import LaserEmbedding
         method = LaserEmbedding()

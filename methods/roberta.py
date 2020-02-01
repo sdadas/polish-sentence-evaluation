@@ -1,7 +1,7 @@
 import os
 import numpy as np
 from typing import List
-from torch import Tensor
+from torch import Tensor, hub
 
 from methods.base import EmbeddingBase
 from fairseq.models.roberta import RobertaModel, RobertaHubInterface
@@ -10,19 +10,26 @@ from fairseq import hub_utils
 class RobertaEmbedding(EmbeddingBase):
 
     def __init__(self, path: str, bpe: str="sentencepiece", bpe_filename:str="sentencepiece.model"):
-        loaded = hub_utils.from_pretrained(
-            model_name_or_path=path,
-            checkpoint_file="checkpoint_best.pt",
-            data_name_or_path=path,
-            bpe=bpe,
-            sentencepiece_vocab=os.path.join(path, bpe_filename),
-            load_checkpoint_heads=True,
-            archive_map=RobertaModel.hub_models(),
-            cpu=True
-        )
-        self.model: RobertaHubInterface = RobertaHubInterface(loaded['args'], loaded['task'], loaded['models'][0])
+        self.model: RobertaHubInterface = self._load_model(path, bpe, bpe_filename)
         self.model.eval()
-        self.size = 768
+        self.size = self.model.model.args.encoder_embed_dim
+
+    def _load_model(self, path: str, bpe: str, bpe_filename:str) -> RobertaHubInterface:
+        if path == "xlmr.large":
+            return hub.load("pytorch/fairseq", path, force_reload=True)
+        else:
+            checkpoint_file = "model.pt" if os.path.exists(os.path.join(path, "model.pt")) else "checkpoint_best.pt"
+            loaded = hub_utils.from_pretrained(
+                model_name_or_path=path,
+                checkpoint_file=checkpoint_file,
+                data_name_or_path=path,
+                bpe=bpe,
+                sentencepiece_vocab=os.path.join(path, bpe_filename),
+                load_checkpoint_heads=True,
+                archive_map=RobertaModel.hub_models(),
+                cpu=True
+            )
+            return RobertaHubInterface(loaded['args'], loaded['task'], loaded['models'][0])
 
     def dim(self) -> int:
         return self.size
