@@ -33,7 +33,7 @@ Pre-trained models used in this study are available for download in separate rep
     <td colspan="7"><strong>Sentence encoders</strong></td>
   </tr>
   <tr><td>LASER</td><td>Multilingual</td><td><strong>81.21</strong></td><td><strong>78.17</strong></td><td><strong>82.21</strong></td><td>0.825</td><td>64.91</td></tr>
-    <tr><td>USE</td><td>Multilingual</td><td>Polish</td><td>79.47</td><td>73.78</td><td>82.14</td><td><strong>0.833</strong></td><td><strong>69.92</strong></td></tr>
+    <tr><td>USE</td><td>Multilingual</td><td>79.47</td><td>73.78</td><td>82.14</td><td><strong>0.833</strong></td><td><strong>69.92</strong></td></tr>
 </table>
 
 Table: Evaluation of sentence representations on four classification tasks and one semantic relatedness task (SICK-R). For classification, we report accuracy of each model. For semantic relatedness, Pearson correlation between true and predicted relatedness scores is reported. BERT, LASER and USE are multilingual models, other models are Polish only.
