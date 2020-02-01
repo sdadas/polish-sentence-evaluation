@@ -54,6 +54,11 @@ class SentEvaluator(object):
         method = BertEmbedding()
         self.evaluate(method, "bert", **kwargs)
 
+    def roberta(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/roberta/")
+        self.evaluate(method, "roberta", **kwargs)
+
     def laser(self, **kwargs):
         from methods.laser import LaserEmbedding
         method = LaserEmbedding()

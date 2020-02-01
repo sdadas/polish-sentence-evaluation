@@ -51,6 +51,7 @@ if __name__ == '__main__':
     evaluate("elmo_all")
     evaluate("elmo_top")
     evaluate("bert", {"batch-size": 32})
+    evaluate("roberta", {"batch-size": 256})
     evaluate("flair", {"batch-size": 256})
     evaluate("laser", {"batch-size": 10000})
     evaluate("use")
