@@ -5,6 +5,10 @@ Dataset for these tasks are distributed with the repository and two of them are 
 the [SICK (Sentences Involving Compositional Knowledge)](https://github.com/text-machine-lab/MUTT/tree/master/data/sick) corpus translated to Polish and 8TAGS classification dataset.
 Pre-trained models used in this study are available for download in separate repository: [Polish NLP Resources](https://github.com/sdadas/polish-nlp-resources).
 
+### Updates:
+
+- **01.02.2020** - Added Polish RoBERTa model 
+
 <table>
   <thead>
     <th><strong>Method</strong></th>
@@ -25,10 +29,11 @@ Pre-trained models used in this study are available for download in separate rep
   <tr>
     <td colspan="7"><strong>Language models</strong></td>
   </tr>
-  <tr><td>ELMo (all)</td><td>Polish</td><td><strong>85.52</strong></td><td><strong>78.42</strong></td><td>77.15</td><td><strong>0.789</strong></td><td><strong>71.41</strong></td></tr>
+  <tr><td>ELMo (all)</td><td>Polish</td><td><strong>85.52</strong></td><td>78.42</td><td>77.15</td><td><strong>0.789</strong></td><td><strong>71.41</strong></td></tr>
     <tr><td>ELMo (top)</td><td>Polish</td><td>83.20</td><td>78.17</td><td>74.05</td><td>0.756</td><td>71.41</td></tr>
     <tr><td>Flair</td><td>Polish</td><td>80.82</td><td>75.46</td><td><strong>78.43</strong></td><td>0.743</td><td>65.62</td></tr>
-    <tr><td>BERT</td><td>Multilingual</td><td>76.83</td><td>72.54</td><td>73.83</td><td>0.698</td><td>65.05</td></tr> 
+  <tr><td>RoBERTa</td><td>Polish</td><td>85.26</td><td><strong>79.31</strong></td><td>74.17</td><td>0.710</td><td>70.56</td></tr> 
+    <tr><td>BERT</td><td>Multilingual</td><td>76.83</td><td>72.54</td><td>73.83</td><td>0.698</td><td>65.05</td></tr>
   <tr>
     <td colspan="7"><strong>Sentence encoders</strong></td>
   </tr>
