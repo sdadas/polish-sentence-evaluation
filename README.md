@@ -37,7 +37,7 @@ Pre-trained models used in this study are available for download in separate rep
     <tr><td>6</td><td>Flair</td><td>Polish</td><td>80.82</td><td>75.46</td><td><strong>78.43</strong></td><td>0.743</td><td>65.62</td></tr>
   <tr><td>7.a</td><td>RoBERTa (all)</td><td>Polish</td><td>85.65</td><td>79.70</td><td>78.33</td><td>0.779</td><td>70.36</td></tr> 
   <tr><td>7.b</td><td>RoBERTa (top)</td><td>Polish</td><td>85.26</td><td>79.31</td><td>74.17</td><td>0.710</td><td>70.56</td></tr>
-  <tr><td>8.b</td><td>XLM-RoBERTa (all)</td><td>Multilingual</td><td><strong>87.39</strong></td><td><strong>83.60</strong></td><td>74.34</td><td>0.764</td><td>73.33</td></tr> 
+  <tr><td>8.a</td><td>XLM-RoBERTa (all)</td><td>Multilingual</td><td><strong>87.39</strong></td><td><strong>83.60</strong></td><td>74.34</td><td>0.764</td><td>73.33</td></tr> 
   <tr><td>8.b</td><td>XLM-RoBERTa (top)</td><td>Multilingual</td><td>85.07</td><td>78.91</td><td>61.50</td><td>0.568</td><td><strong>73.35</strong></td></tr> 
     <tr><td>9</td><td>BERT</td><td>Multilingual</td><td>76.83</td><td>72.54</td><td>73.83</td><td>0.698</td><td>65.05</td></tr>
   <tr>
@@ -52,6 +52,7 @@ Table: Evaluation of sentence representations on four classification tasks and o
 ### Updates:
 
 - **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
+- **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
 
 ### Evaluated methods:
 
