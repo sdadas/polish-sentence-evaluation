@@ -17,12 +17,18 @@ Pre-trained models used in this study are available for download in separate rep
     <th><strong>8TAGS</strong></th>
   </thead>
   <tr>
-    <td colspan="8"><strong>Word embeddings</strong></td>
+    <td colspan="8"><strong>Word embeddings</strong></td>                                                                     
   </tr>
   <tr><td>1</td><td>Random</td><td>n/a</td><td>65.83</td><td>60.64</td><td>72.77</td><td>0.628</td><td>31.95</td></tr>
-    <tr><td>2</td><td>Word2Vec</td><td>Polish</td><td>78.19</td><td><strong>73.23</strong></td><td><strong>75.42</strong></td><td>0.746</td><td><strong>70.27</strong></td></tr>
-    <tr><td>3</td><td>GloVe</td><td>Polish</td><td>80.05</td><td>72.54</td><td>73.81</td><td><strong>0.756</strong></td><td>69.78</td></tr>
-    <tr><td>4</td><td>FastText</td><td>Polish</td><td><strong>80.31</strong></td><td>72.64</td><td>75.19</td><td>0.729</td><td>69.24</td></tr>
+    <tr><td>2.a</td><td>Word2Vec (300d)</td><td>Polish</td><td>78.19</td><td>73.23</td><td>75.42</td><td>0.746</td><td>70.27</td></tr>
+  <tr><td>2.b</td><td>Word2Vec (500d)</td><td>Polish</td><td>81.72</td><td>73.98</td><td>76.25</td><td>0.764</td><td>70.56</td></tr>
+  <tr><td>2.c</td><td>Word2Vec (800d)</td><td>Polish</td><td><strong>82.24</strong></td><td>73.88</td><td>75.60</td><td>0.772</td><td><strong>70.79</strong></td></tr>
+    <tr><td>3.a</td><td>GloVe (300d)</td><td>Polish</td><td>80.05</td><td>72.54</td><td>73.81</td><td>0.756</td><td>69.78</td></tr>
+  <tr><td>3.b</td><td>GloVe (500d)</td><td>Polish</td><td>80.76</td><td>72.54</td><td>75.09</td><td>0.761</td><td>70.27</td></tr>
+  <tr><td>3.c</td><td>GloVe (800d)</td><td>Polish</td><td>81.79</td><td><strong>74.32</strong></td><td>76.48</td><td><strong>0.779</strong></td><td>70.63</td></tr>
+    <tr><td>4.a</td><td>FastText (300d)</td><td>Polish</td><td>80.31</td><td>72.64</td><td>75.19</td><td>0.729</td><td>69.24</td></tr>
+  <tr><td>4.b</td><td>FastText (500d)</td><td>Polish</td><td>80.31</td><td>73.88</td><td>76.66</td><td>0.755</td><td>70.22</td></tr>
+  <tr><td>4.c</td><td>FastText (800d)</td><td>Polish</td><td>80.95</td><td>72.94</td><td><strong>77.09</strong></td><td>0.768</td><td>69.95</td></tr>
   <tr>
     <td colspan="8"><strong>Language models</strong></td>
   </tr>
@@ -48,9 +54,9 @@ Table: Evaluation of sentence representations on four classification tasks and o
 ### Evaluated methods:
 
 1. Randomly initialized word embeddings
-2. 300 dimensional Word2Vec ([Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)) model pre-trained by us.
-3. 300 dimensional GloVe ([Glove: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162.pdf)) model pre-trained by us. [[Download]](https://github.com/sdadas/polish-nlp-resources#glove)
-4. 300 dimensional FastText ([Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606.pdf)) model pre-trained by us.
+2. Word2Vec ([Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)) model pre-trained by us. The number in parentheses indicates the dimensionality of the embeddings.
+3. GloVe ([Glove: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162.pdf)) model pre-trained by us. The number in parentheses indicates the dimensionality of the embeddings. [[Download]](https://github.com/sdadas/polish-nlp-resources#glove)
+4. FastText ([Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606.pdf)) model pre-trained by us. The number in parentheses indicates the dimensionality of the embeddings.
 5. ELMo language model described in [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf) paper, pre-trained by us for Polish. In this experiment, we construct the word representation by concatenating all hidden states of LM. [[Download]](https://github.com/sdadas/polish-nlp-resources#elmo)
 6. The same ELMo Polish model as described above. In this experiment, only the top LM layer is used as word representation.
 7. Flair language model described in [Contextual String Embeddings for Sequence Labeling](https://www.aclweb.org/anthology/C18-1139.pdf). We concatenate the outputs of the original `pl-forward` and `pl-backward` pre-trained language models available in the [Flair framework](https://github.com/flairNLP/flair).
