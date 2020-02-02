@@ -5,10 +5,6 @@ Dataset for these tasks are distributed with the repository and two of them are 
 the [SICK (Sentences Involving Compositional Knowledge)](https://github.com/text-machine-lab/MUTT/tree/master/data/sick) corpus translated to Polish and 8TAGS classification dataset.
 Pre-trained models used in this study are available for download in separate repository: [Polish NLP Resources](https://github.com/sdadas/polish-nlp-resources).
 
-### Updates:
-
-- **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
-
 <table>
   <thead>
     <th><strong>#</strong></th>
@@ -45,7 +41,11 @@ Pre-trained models used in this study are available for download in separate rep
 
 Table: Evaluation of sentence representations on four classification tasks and one semantic relatedness task (SICK-R). For classification, we report accuracy of each model. For semantic relatedness, Pearson correlation between true and predicted relatedness scores is reported.
 
-### Evaluated methods
+### Updates:
+
+- **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
+
+### Evaluated methods:
 
 1. Randomly initialized word embeddings
 2. 300 dimensional Word2Vec ([Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)) model pre-trained by us.
