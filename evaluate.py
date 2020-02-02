@@ -54,15 +54,25 @@ class SentEvaluator(object):
         method = BertEmbedding()
         self.evaluate(method, "bert", **kwargs)
 
-    def roberta(self, **kwargs):
+    def roberta_top(self, **kwargs):
         from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/roberta/")
-        self.evaluate(method, "roberta", **kwargs)
+        method = RobertaEmbedding("resources/roberta/", layers="top")
+        self.evaluate(method, "roberta_top", **kwargs)
 
-    def xlmr(self, **kwargs):
+    def roberta_all(self, **kwargs):
         from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/xlmr.large/", bpe="sentencepiece", bpe_filename="sentencepiece.bpe.model")
-        self.evaluate(method, "xlmr", **kwargs)
+        method = RobertaEmbedding("resources/roberta/", layers="all")
+        self.evaluate(method, "roberta_all", **kwargs)
+
+    def xlmr_top(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/xlmr.large/", layers="top", bpe_filename="sentencepiece.bpe.model")
+        self.evaluate(method, "xlmr_top", **kwargs)
+
+    def xlmr_all(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/xlmr.large/", layers="all", bpe_filename="sentencepiece.bpe.model")
+        self.evaluate(method, "xlmr_all", **kwargs)
 
     def laser(self, **kwargs):
         from methods.laser import LaserEmbedding
