@@ -3021,7 +3021,7 @@ pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgment
 6802	Zawodnik w fioletowym , białym i czarnym gra na końcu boiska	Zawodnik w kolorach fioletowym , białym i czarnym nie gra na końcu boiska	4.3	CONTRADICTION
 6804	Mężczyzna ma na sobie mundur sportowy i schodzi z boiska	Mundur sportowy noszony jest przez mężczyznę , który schodzi z boiska	4.9	ENTAILMENT
 6805	Mężczyzna jest nagi i leży na polu	Mężczyzna ma na sobie mundur sportowy i schodzi z boiska	2.3	NEUTRAL
-6810	Czarny gracz sprawia , że ​ ​ biały gracz gra blisko końca fioletowego pola	Mężczyzna ma na sobie mundur sportowy i schodzi z boiska	2.3	NEUTRAL
+6810	Czarny gracz sprawia , że ​biały gracz gra blisko końca fioletowego pola	Mężczyzna ma na sobie mundur sportowy i schodzi z boiska	2.3	NEUTRAL
 6812	Mężczyzna na rowerze jedzie po plaży	Mężczyzna na rowerze jedzie na brzegu	4.6	ENTAILMENT
 6813	Na plaży nie ma mężczyzny na rowerze	Mężczyzna na rowerze jedzie po plaży	3.1	CONTRADICTION
 6814	Jedna osoba jedzie na rowerze na piasku nad oceanem	Osoba jedzie na rowerze na piasku nad oceanem	4.7	ENTAILMENT

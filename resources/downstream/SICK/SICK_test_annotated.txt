@@ -3290,7 +3290,7 @@ pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgment
 6797	Dwoje dzieci rozciąga się nad metalowymi kratami	Dwoje dzieci patrzy na zardzewiały gzyms	2.8	NEUTRAL
 6798	Dwoje dzieci kuca pod stalowymi kratami	Dwoje dzieci patrzy na gzyms , który jest zardzewiały	3.4	NEUTRAL
 6801	Zawodnik w fioletowym , białym i czarnym gra na końcu boiska	Zawodnik w kolorach fioletowym , białym i czarnym gra na końcu boiska	5	ENTAILMENT
-6803	Zawodnik w fioletowym , białym i czarnym gra na końcu boiska	Czarny gracz sprawia , że ​ ​ biały gracz gra blisko końca fioletowego pola	3.3	NEUTRAL
+6803	Zawodnik w fioletowym , białym i czarnym gra na końcu boiska	Czarny gracz sprawia , że biały gracz gra blisko końca fioletowego pola	3.3	NEUTRAL
 6806	Zawodnik w fioletowym , białym i czarnym gra na końcu boiska	Mundur sportowy noszony jest przez mężczyznę , który schodzi z boiska	3.4	NEUTRAL
 6807	Mężczyzna jest nagi i leży na polu	Zawodnik w fioletowym , białym i czarnym gra na końcu boiska	2	NEUTRAL
 6808	Zawodnik w kolorach fioletowym , białym i czarnym gra na końcu boiska	Mężczyzna ma na sobie mundur sportowy i schodzi z boiska	3.6	NEUTRAL
