@@ -7,6 +7,7 @@ from methods.base import EmbeddingBase
 from fairseq.models.roberta import RobertaModel, RobertaHubInterface
 from fairseq import hub_utils
 
+
 class RobertaEmbedding(EmbeddingBase):
 
     def __init__(self, path: str, layers:str="top", bpe: str="sentencepiece", bpe_filename:str="sentencepiece.model"):
@@ -14,11 +15,12 @@ class RobertaEmbedding(EmbeddingBase):
         self.layers = layers
         self.model: RobertaHubInterface = self._load_model(path, bpe, bpe_filename)
         self.model.eval()
+        self.model.cuda()
         self.size = self.model.model.args.encoder_embed_dim
         if layers == "all": self.size *= (self.model.model.args.encoder_layers + 1)
 
     def _load_model(self, path: str, bpe: str, bpe_filename:str) -> RobertaHubInterface:
-        if path == "xlmr.large":
+        if path == "xlmr.large" or path == "xlmr.base":
             return hub.load("pytorch/fairseq", path, force_reload=True)
         else:
             checkpoint_file = "model.pt" if os.path.exists(os.path.join(path, "model.pt")) else "checkpoint_best.pt"
@@ -30,7 +32,7 @@ class RobertaEmbedding(EmbeddingBase):
                 sentencepiece_vocab=os.path.join(path, bpe_filename),
                 load_checkpoint_heads=True,
                 archive_map=RobertaModel.hub_models(),
-                cpu=True
+                cpu=False
             )
             return RobertaHubInterface(loaded['args'], loaded['task'], loaded['models'][0])
 
@@ -38,7 +40,7 @@ class RobertaEmbedding(EmbeddingBase):
         return self.size
 
     def _get_vector_top(self, sentence: Tensor) -> np.ndarray:
-        emb: np.ndarray = sentence.detach().numpy()
+        emb: np.ndarray = sentence.detach().cpu().numpy()
         res = np.zeros(self.size, dtype=np.float32)
         for idx in range(emb.shape[1]):
             vec = emb[0][idx][:]
@@ -48,7 +50,7 @@ class RobertaEmbedding(EmbeddingBase):
         return res
 
     def _get_vector_all(self, sentence) -> np.ndarray:
-        emb: List = [layer.detach().numpy() for layer in sentence]
+        emb: List = [layer.detach().cpu().numpy() for layer in sentence]
         res = np.zeros(self.size, dtype=np.float32)
         num_words = emb[0].shape[1]
         for idx in range(num_words):

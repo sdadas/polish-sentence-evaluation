@@ -54,25 +54,45 @@ class SentEvaluator(object):
         method = BertEmbedding()
         self.evaluate(method, "bert", **kwargs)
 
-    def roberta_top(self, **kwargs):
+    def roberta_base_top(self, **kwargs):
         from methods.roberta import RobertaEmbedding
         method = RobertaEmbedding("resources/roberta/", layers="top")
-        self.evaluate(method, "roberta_top", **kwargs)
+        self.evaluate(method, "roberta_base_top", **kwargs)
 
-    def roberta_all(self, **kwargs):
+    def roberta_base_all(self, **kwargs):
         from methods.roberta import RobertaEmbedding
         method = RobertaEmbedding("resources/roberta/", layers="all")
-        self.evaluate(method, "roberta_all", **kwargs)
+        self.evaluate(method, "roberta_base_all", **kwargs)
 
-    def xlmr_top(self, **kwargs):
+    def roberta_large_top(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/roberta-large/", layers="top")
+        self.evaluate(method, "roberta_large_top", **kwargs)
+
+    def roberta_large_all(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/roberta-large/", layers="all")
+        self.evaluate(method, "roberta_large_all", **kwargs)
+
+    def xlmr_base_top(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/xlmr.base/", layers="top", bpe_filename="sentencepiece.bpe.model")
+        self.evaluate(method, "xlmr_base_top", **kwargs)
+
+    def xlmr_base_all(self, **kwargs):
+        from methods.roberta import RobertaEmbedding
+        method = RobertaEmbedding("resources/xlmr.base/", layers="all", bpe_filename="sentencepiece.bpe.model")
+        self.evaluate(method, "xlmr_base_all", **kwargs)
+
+    def xlmr_large_top(self, **kwargs):
         from methods.roberta import RobertaEmbedding
         method = RobertaEmbedding("resources/xlmr.large/", layers="top", bpe_filename="sentencepiece.bpe.model")
-        self.evaluate(method, "xlmr_top", **kwargs)
+        self.evaluate(method, "xlmr_large_top", **kwargs)
 
-    def xlmr_all(self, **kwargs):
+    def xlmr_large_all(self, **kwargs):
         from methods.roberta import RobertaEmbedding
         method = RobertaEmbedding("resources/xlmr.large/", layers="all", bpe_filename="sentencepiece.bpe.model")
-        self.evaluate(method, "xlmr_all", **kwargs)
+        self.evaluate(method, "xlmr_large_all", **kwargs)
 
     def laser(self, **kwargs):
         from methods.laser import LaserEmbedding
