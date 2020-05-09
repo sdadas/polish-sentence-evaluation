@@ -32,15 +32,17 @@ Pre-trained models used in this study are available for download in separate rep
   <tr>
     <td colspan="8"><strong>Language models</strong></td>
   </tr>
-  <tr><td>5.a</td><td>ELMo (all)</td><td>Polish</td><td>85.52</td><td>78.42</td><td>77.15</td><td><strong>0.789</strong></td><td>71.41</td></tr>
+  <tr><td>5.a</td><td>ELMo (all)</td><td>Polish</td><td>85.52</td><td>78.42</td><td>77.15</td><td>0.789</td><td>71.41</td></tr>
     <tr><td>5.b</td><td>ELMo (top)</td><td>Polish</td><td>83.20</td><td>78.17</td><td>74.05</td><td>0.756</td><td>71.41</td></tr>
     <tr><td>6</td><td>Flair</td><td>Polish</td><td>80.82</td><td>75.46</td><td><strong>78.43</strong></td><td>0.743</td><td>65.62</td></tr>
-  <tr><td>7.a</td><td>RoBERTa (all)</td><td>Polish</td><td>85.65</td><td>79.70</td><td>78.33</td><td>0.779</td><td>70.36</td></tr> 
-  <tr><td>7.b</td><td>RoBERTa (top)</td><td>Polish</td><td>85.26</td><td>79.31</td><td>74.17</td><td>0.710</td><td>70.56</td></tr>
+  <tr><td>7.a</td><td>RoBERTa-base (all)</td><td>Polish</td><td>85.78</td><td>78.96</td><td>78.82</td><td>0.799</td><td>70.27</td></tr> 
+  <tr><td>7.b</td><td>RoBERTa-base (top)</td><td>Polish</td><td>84.62</td><td>79.36</td><td>76.09</td><td>0.750</td><td>70.33</td></tr>
+  <tr><td>7.c</td><td>RoBERTa-large (all)</td><td>Polish</td><td><strong>89.12</strong></td><td><strong>84.74</strong></td><td>78.13</td><td><strong>0.820</strong></td><td>75.75</td></tr> 
+  <tr><td>7.d</td><td>RoBERTa-large (top)</td><td>Polish</td><td>88.93</td><td>83.11</td><td>75.56</td><td>0.767</td><td><strong>76.67</strong></td></tr>
   <tr><td>8.a</td><td>XLM-RoBERTa-base (all)</td><td>Multilingual</td><td>85.52</td><td>78.81</td><td>75.25</td><td>0.734</td><td>68.78</td></tr> 
   <tr><td>8.b</td><td>XLM-RoBERTa-base (top)</td><td>Multilingual</td><td>82.37</td><td>75.26</td><td>64.47</td><td>0.579</td><td>69.81</td></tr> 
-  <tr><td>8.c</td><td>XLM-RoBERTa-large (all)</td><td>Multilingual</td><td><strong>87.39</strong></td><td><strong>83.60</strong></td><td>74.34</td><td>0.764</td><td>73.33</td></tr> 
-  <tr><td>8.d</td><td>XLM-RoBERTa-large (top)</td><td>Multilingual</td><td>85.07</td><td>78.91</td><td>61.50</td><td>0.568</td><td><strong>73.35</strong></td></tr> 
+  <tr><td>8.c</td><td>XLM-RoBERTa-large (all)</td><td>Multilingual</td><td>87.39</td><td>83.60</td><td>74.34</td><td>0.764</td><td>73.33</td></tr> 
+  <tr><td>8.d</td><td>XLM-RoBERTa-large (top)</td><td>Multilingual</td><td>85.07</td><td>78.91</td><td>61.50</td><td>0.568</td><td>73.35</td></tr> 
     <tr><td>9</td><td>BERT</td><td>Multilingual</td><td>76.83</td><td>72.54</td><td>73.83</td><td>0.698</td><td>65.05</td></tr>
   <tr>
     <td colspan="8"><strong>Sentence encoders</strong></td>
@@ -56,6 +58,7 @@ Table: Evaluation of sentence representations on four classification tasks and o
 - **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
 - **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
 - **03.03.2020** - Added [XLM-RoBERTa (base)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
+- **09.05.2020** - Added new [Polish RoBERTa](https://github.com/sdadas/polish-roberta) models
 
 ### Evaluated methods:
 
@@ -65,7 +68,7 @@ Table: Evaluation of sentence representations on four classification tasks and o
 4. FastText ([Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606.pdf)) model pre-trained by us. The number in parentheses indicates the dimensionality of the embeddings.
 5. ELMo language model described in [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf) paper, pre-trained by us for Polish. In the `all` variant, we construct the word representation by concatenating all hidden states of the LM. In the `top` variant, only the top LM layer is used as word representation. [[Download]](https://github.com/sdadas/polish-nlp-resources#elmo)
 6. Flair language model described in [Contextual String Embeddings for Sequence Labeling](https://www.aclweb.org/anthology/C18-1139.pdf). We concatenate the outputs of the original `pl-forward` and `pl-backward` pre-trained language models available in the [Flair framework](https://github.com/flairNLP/flair).
-7. RoBERTa language model described in [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), pre-trained by us for Polish. [[Download]](https://github.com/sdadas/polish-nlp-resources#roberta)
+7. RoBERTa language model described in [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), pre-trained by us for Polish. [[Download]](https://github.com/sdadas/polish-roberta)
 8. XLM-RoBERTa is a large, multilingual language model trained by Facebook on 2.5 TB of text extracted from CommonCrawl. We evaluate two pre-trained architectures: base and large model. More information in their paper [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/pdf/1911.02116.pdf). [[Download]](https://github.com/pytorch/fairseq/tree/master/examples/xlmr)
 9. Original BERT language model by Google described in [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). We use the `bert-base-multilingual-cased` version. [[Download]](https://github.com/google-research/bert/blob/master/multilingual.md)
 10. Multilingual sentence encoder by Facebook, presented in [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://arxiv.org/pdf/1812.10464.pdf). [[Download]](https://github.com/facebookresearch/LASER)
