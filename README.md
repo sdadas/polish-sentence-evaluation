@@ -47,8 +47,9 @@ Pre-trained models used in this study are available for download in separate rep
   <tr>
     <td colspan="8"><strong>Sentence encoders</strong></td>
   </tr>
-  <tr><td>10</td><td>LASER</td><td>Multilingual</td><td><strong>81.21</strong></td><td><strong>78.17</strong></td><td><strong>82.21</strong></td><td>0.825</td><td>64.91</td></tr>
-    <tr><td>11</td><td>USE</td><td>Multilingual</td><td>79.47</td><td>73.78</td><td>82.14</td><td><strong>0.833</strong></td><td><strong>69.92</strong></td></tr>
+  <tr><td>10</td><td>LASER</td><td>Multilingual</td><td>81.21</td><td>78.17</td><td><strong>82.21</strong></td><td>0.825</td><td>64.91</td></tr>
+    <tr><td>11</td><td>USE</td><td>Multilingual</td><td>79.47</td><td>73.78</td><td>82.14</td><td><strong>0.833</strong></td><td>69.92</td></tr>
+  <tr><td>12</td><td>LaBSE</td><td>Multilingual</td><td><strong>85.52</strong></td><td><strong>80.89</strong></td><td>81.57</td><td>0.825</td><td><strong>72.35</strong></td></tr>
 </table>
 
 Table: Evaluation of sentence representations on four classification tasks and one semantic relatedness task (SICK-R). For classification, we report accuracy of each model. For semantic relatedness, Pearson correlation between true and predicted relatedness scores is reported.
@@ -59,6 +60,7 @@ Table: Evaluation of sentence representations on four classification tasks and o
 - **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
 - **03.03.2020** - Added [XLM-RoBERTa (base)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
 - **09.05.2020** - Added new [Polish RoBERTa](https://github.com/sdadas/polish-roberta) models
+- **01.02.2020** - Added [LaBSE](https://tfhub.dev/google/LaBSE/1) multilingual sentence encoder
 
 ### Evaluated methods:
 
@@ -73,6 +75,7 @@ Table: Evaluation of sentence representations on four classification tasks and o
 9. Original BERT language model by Google described in [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). We use the `bert-base-multilingual-cased` version. [[Download]](https://github.com/google-research/bert/blob/master/multilingual.md)
 10. Multilingual sentence encoder by Facebook, presented in [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://arxiv.org/pdf/1812.10464.pdf). [[Download]](https://github.com/facebookresearch/LASER)
 11. Multilingual sentence encoder by Google, presented in [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://arxiv.org/pdf/1907.04307.pdf).
+12. [The language-agnostic BERT sentence embedding (LaBSE)](https://arxiv.org/pdf/2007.01852.pdf).
 
 ![results](results.png)
 
