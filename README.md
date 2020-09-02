@@ -60,7 +60,7 @@ Table: Evaluation of sentence representations on four classification tasks and o
 - **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
 - **03.03.2020** - Added [XLM-RoBERTa (base)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
 - **09.05.2020** - Added new [Polish RoBERTa](https://github.com/sdadas/polish-roberta) models
-- **01.02.2020** - Added [LaBSE](https://tfhub.dev/google/LaBSE/1) multilingual sentence encoder
+- **02.09.2020** - Added [LaBSE](https://tfhub.dev/google/LaBSE/1) multilingual sentence encoder
 
 ### Evaluated methods:
 
