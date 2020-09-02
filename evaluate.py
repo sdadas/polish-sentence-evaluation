@@ -104,6 +104,11 @@ class SentEvaluator(object):
         method = USEEmbedding()
         self.evaluate(method, "use", **kwargs)
 
+    def labse(self, **kwargs):
+        from methods.labse import LABSEEmbedding
+        method = LABSEEmbedding()
+        self.evaluate(method, "labse", **kwargs)
+
     def evaluate_keyed_vectors(self, path: Union[Path, str], name: str, **kwargs):
         if isinstance(path, str): path = Path(path)
         if kwargs.get("sif"):

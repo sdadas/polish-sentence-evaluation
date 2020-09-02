@@ -62,4 +62,5 @@ if __name__ == '__main__':
     evaluate("flair", {"batch-size": 256})
     evaluate("laser", {"batch-size": 10000})
     evaluate("use")
+    evaluate("labse")
     print_results(results)
