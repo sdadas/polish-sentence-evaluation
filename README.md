@@ -12,8 +12,8 @@ Pre-trained models used in this study are available for download in separate rep
     <th><strong>Language</strong></th>
     <th><strong>WCCRS<br/>Hotels</strong></th>
     <th><strong>WCCRS<br/>Medicine</strong></th>
-    <th><strong>SICK-E</strong></th>
-    <th><strong>SICK-R</strong></th>
+    <th><strong>SICK‑E</strong></th>
+    <th><strong>SICK‑R</strong></th>
     <th><strong>8TAGS</strong></th>
   </thead>
   <tr>
