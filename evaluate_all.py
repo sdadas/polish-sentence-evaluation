@@ -63,4 +63,8 @@ if __name__ == '__main__':
     evaluate("laser", {"batch-size": 10000})
     evaluate("use")
     evaluate("labse")
+    evaluate("sentence_transformers", {"model_name": "distiluse-base-multilingual-cased-v2"})
+    evaluate("sentence_transformers", {"model_name": "xlm-r-distilroberta-base-paraphrase-v1"})
+    evaluate("sentence_transformers", {"model_name": "xlm-r-bert-base-nli-stsb-mean-tokens"})
+    evaluate("sentence_transformers", {"model_name": "distilbert-multilingual-nli-stsb-quora-ranking"})
     print_results(results)

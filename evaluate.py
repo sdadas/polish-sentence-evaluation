@@ -109,6 +109,12 @@ class SentEvaluator(object):
         method = LABSEEmbedding()
         self.evaluate(method, "labse", **kwargs)
 
+    def sentence_transformers(self, **kwargs):
+        from methods.sentence_transformer import SentenceTransformersEmbedding
+        model_name = kwargs.get("model_name")
+        method = SentenceTransformersEmbedding(model_name)
+        self.evaluate(method, "sentence_transformers_" + model_name, **kwargs)
+
     def evaluate_keyed_vectors(self, path: Union[Path, str], name: str, **kwargs):
         if isinstance(path, str): path = Path(path)
         if kwargs.get("sif"):
