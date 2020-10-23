@@ -48,19 +48,24 @@ Pre-trained models used in this study are available for download in separate rep
     <td colspan="8"><strong>Sentence encoders</strong></td>
   </tr>
   <tr><td>10</td><td>LASER</td><td>Multilingual</td><td>81.21</td><td>78.17</td><td><strong>82.21</strong></td><td>0.825</td><td>64.91</td></tr>
-    <tr><td>11</td><td>USE</td><td>Multilingual</td><td>79.47</td><td>73.78</td><td>82.14</td><td><strong>0.833</strong></td><td>69.92</td></tr>
+    <tr><td>11</td><td>USE</td><td>Multilingual</td><td>79.47</td><td>73.78</td><td>82.14</td><td>0.833</td><td>69.92</td></tr>
   <tr><td>12</td><td>LaBSE</td><td>Multilingual</td><td><strong>85.52</strong></td><td><strong>80.89</strong></td><td>81.57</td><td>0.825</td><td><strong>72.35</strong></td></tr>
+  <tr><td>13a</td><td>Sentence-Transformers<br/><sup>(distiluse-base-multilingual-cased-v2)</sup></td><td>Multilingual</td><td>79.99</td><td>75.80</td><td>78.90</td><td>0.807</td><td>70.86</td></tr>
+  <tr><td>13b</td><td>Sentence-Transformers<br/><sup>(xlm-r-distilroberta-base-paraphrase-v1)</sup></td><td>Multilingual</td><td>82.63</td><td>80.84</td><td>81.35</td><td><strong>0.839</strong></td><td>70.61</td></tr>
+  <tr><td>13c</td><td>Sentence-Transformers<br/><sup>(xlm-r-bert-base-nli-stsb-mean-tokens)</sup></td><td>Multilingual</td><td>81.02</td><td>79.95</td><td>79.09</td><td>0.820</td><td>69.12</td></tr>
+  <tr><td>13d</td><td>Sentence-Transformers<br/><sup>(distilbert-multilingual-nli-stsb-quora-ranking)</sup></td><td>Multilingual</td><td>80.05</td><td>74.64</td><td>79.41</td><td>0.817</td><td>69.28</td></tr>
 </table>
 
 Table: Evaluation of sentence representations on four classification tasks and one semantic relatedness task (SICK-R). For classification, we report accuracy of each model. For semantic relatedness, Pearson correlation between true and predicted relatedness scores is reported.
 
 ### Updates:
 
-- **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
-- **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
-- **03.03.2020** - Added [XLM-RoBERTa (base)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
-- **09.05.2020** - Added new [Polish RoBERTa](https://github.com/sdadas/polish-roberta) models
+- **23.10.2020** - Added pre-trained multilingual models from the [Sentence-Transformers](https://www.sbert.net/) library
 - **02.09.2020** - Added [LaBSE](https://tfhub.dev/google/LaBSE/1) multilingual sentence encoder
+- **09.05.2020** - Added new [Polish RoBERTa](https://github.com/sdadas/polish-roberta) models
+- **03.03.2020** - Added [XLM-RoBERTa (base)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
+- **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
+- **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
 
 ### Evaluated methods:
 
@@ -76,6 +81,7 @@ Table: Evaluation of sentence representations on four classification tasks and o
 10. Multilingual sentence encoder by Facebook, presented in [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://arxiv.org/pdf/1812.10464.pdf). [[Download]](https://github.com/facebookresearch/LASER)
 11. Multilingual sentence encoder by Google, presented in [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://arxiv.org/pdf/1907.04307.pdf).
 12. [The language-agnostic BERT sentence embedding (LaBSE)](https://arxiv.org/pdf/2007.01852.pdf).
+13. Pre-trained models from the [Sentence-Transformers](https://www.sbert.net/) library.
 
 ![results](results.png)
 
