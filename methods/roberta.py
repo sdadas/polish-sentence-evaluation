@@ -30,6 +30,7 @@ class RobertaEmbedding(EmbeddingBase):
                 data_name_or_path=path,
                 bpe=bpe,
                 sentencepiece_vocab=os.path.join(path, bpe_filename),
+                sentencepiece_model=os.path.join(path, bpe_filename),
                 load_checkpoint_heads=True,
                 archive_map=RobertaModel.hub_models(),
                 cpu=False
