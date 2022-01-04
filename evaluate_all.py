@@ -12,7 +12,7 @@ logging.root.setLevel(logging.DEBUG)
 
 def evaluate(name: str, params=None):
     if params is None: params = {}
-    cmd = ["python", "evaluate.py", name]
+    cmd = ["python3", "evaluate.py", name]
     for key, val in params.items():
         cmd.append(f"--{key}")
         cmd.append(str(val))
@@ -20,17 +20,20 @@ def evaluate(name: str, params=None):
     subprocess.run(cmd)
 
 def print_results(results_file: str):
-    header = ["method", "WCCRS Hotels", "WCCRS Medicine", "SICK-E", "SICK-R", "8TAGS"]
+    header = ["method", "WCCRS Hotels", "WCCRS Medicine", "CDS-E", "CDS-R", "SICK-E", "SICK-R", "8TAGS"]
     table = [header]
     score = lambda val, ds: "%.2f" % (val["results"][ds].get("acc", val["results"][ds].get("pearson", 0) * 100),)
     with open(results_file, "r", encoding="utf-8") as input_file:
         for line in input_file:
             obj = json.loads(line)
             s = functools.partial(score, obj)
-            row = [obj["method"], s("WCCRS_HOTELS"), s("WCCRS_MEDICINE"), s("SICKEntailment"), s("SICKRelatedness"), s('8TAGS')]
+            row = [
+                obj["method"], s("WCCRS_HOTELS"), s("WCCRS_MEDICINE"), s("CDSEntailment"), s("CDSRelatedness"),
+                s("SICKEntailment"), s("SICKRelatedness"), s('8TAGS')
+            ]
             table.append(row)
     printer: TablePrinter = TablePrinter()
-    for idx in range(1, 6): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
+    for idx in range(1, 8): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
     printer.print(table)
 
 
@@ -67,4 +70,6 @@ if __name__ == '__main__':
     evaluate("sentence_transformers", {"model_name": "xlm-r-distilroberta-base-paraphrase-v1"})
     evaluate("sentence_transformers", {"model_name": "xlm-r-bert-base-nli-stsb-mean-tokens"})
     evaluate("sentence_transformers", {"model_name": "distilbert-multilingual-nli-stsb-quora-ranking"})
+    evaluate("sentence_transformers", {"model_name": "paraphrase-multilingual-mpnet-base-v2"})
+    evaluate("sentence_transformers", {"model_name": "paraphrase-multilingual-MiniLM-L12-v2"})
     print_results(results)

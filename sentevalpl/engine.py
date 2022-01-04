@@ -1,7 +1,7 @@
 from __future__ import absolute_import, division, unicode_literals
 
 from senteval import utils
-from sentevalpl.sick import SICKRelatednessEval, SICKEntailmentEval
+from sentevalpl.pairs_classification import RelatednessEval, EntailmentEval
 from sentevalpl.classifier import SentEvalClassifier
 
 
@@ -22,7 +22,10 @@ class SE(object):
         self.params = params
         self.batcher = batcher
         self.prepare = prepare if prepare else lambda x, y: None
-        self.list_tasks = ['WCCRS_HOTELS', 'WCCRS_MEDICINE', 'SICKRelatedness', 'SICKEntailment', '8TAGS']
+        self.list_tasks = [
+            "WCCRS_HOTELS", "WCCRS_MEDICINE", "CDSEntailment", "CDSRelatedness",
+            "SICKEntailment", "SICKRelatedness", "8TAGS"
+        ]
 
     def eval(self, name):
         # evaluate on evaluation [name], either takes string or list of strings
@@ -38,9 +41,13 @@ class SE(object):
         elif name == 'WCCRS_MEDICINE':
             self.evaluation = SentEvalClassifier(tpath + '/downstream/WCCRS_MEDICINE', name, 4, seed=self.params.seed)
         elif name == 'SICKRelatedness':
-            self.evaluation = SICKRelatednessEval(tpath + '/downstream/SICK', seed=self.params.seed)
+            self.evaluation = RelatednessEval(tpath + '/downstream/SICK', task_name='SICK', seed=self.params.seed)
         elif name == 'SICKEntailment':
-            self.evaluation = SICKEntailmentEval(tpath + '/downstream/SICK', seed=self.params.seed)
+            self.evaluation = EntailmentEval(tpath + '/downstream/SICK', task_name='SICK', seed=self.params.seed)
+        elif name == 'CDSRelatedness':
+            self.evaluation = RelatednessEval(tpath + '/downstream/CDS', task_name='CDS', seed=self.params.seed)
+        elif name == 'CDSEntailment':
+            self.evaluation = EntailmentEval(tpath + '/downstream/CDS', task_name='CDS', seed=self.params.seed)
         elif name == '8TAGS':
             self.evaluation = SentEvalClassifier(tpath + '/downstream/8TAGS', name, 8, seed=self.params.seed)
 

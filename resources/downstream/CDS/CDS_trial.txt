@@ -1,0 +1,1001 @@
+pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgment
+7	Mężczyzna w sportowych spodenkach biegnie po bieżni .	Dziewczynka w białej sukience stoi przed ogrodzoną fontanną .	0.17	NEUTRAL
+8	Mężczyzna w sportowym stroju stoi na ugiętej nodze na boisku , drugą nogę wystawiając do tyłu .	Żaden chłopak nie stoi na trawie , trzymając piłkę .	1.33	NEUTRAL
+15	Nikt nie zbiega po trawie z wysokiej górki .	Troje dzieci zbiega po trawiastym zboczu .	3.33	CONTRADICTION
+20	Przechodzący przed budynkiem mężczyzna w garniturze obserwuje skok młodego człowieka z deskorolką .	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z rękami , które są uniesione .	1.67	NEUTRAL
+21	Dziecko wykonuje skok na deskorolce na moście .	Człowiek w zimowym stroju wykonuje skok na snowboardzie nad śniegiem w pobliżu wyciągu narciarskiego .	1.5	NEUTRAL
+24	Chłopiec w czepku i kostiumie kąpielowym klęczy na fontannie .	Nikt nie klęczy na fontannie .	3.33	CONTRADICTION
+32	Małe dziecko jest stawiane na plaży na deskorolce przez kobietę .	Chłopak jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	1.67	NEUTRAL
+59	Dwaj chłopcy i jedna dziewczynka chodzą po kamieniach w pobliżu zbiornika wodnego .	Trzy osoby w kaskach siedzą na quadach obok siebie .	0.5	NEUTRAL
+103	Chłopiec w czepku i kostiumie kąpielowym klęczy na fontannie .	Chłopak w kamizelce i niebieskich spodenkach stoi na wodzie na desce , trzymając się jedną ręką linki .	0.67	NEUTRAL
+156	Jasnowłosa dziewczynka wydmuchuje bańki mydlane przez kółko , które podstawia jej chłopiec .	Bańki mydlane są puszczane przez dziewczynkę w sukience na trawie , a za nią stoi druga dziewczynka .	2.5	NEUTRAL
+157	Mężczyzna w sportowym stroju z numerem biegnie po ulicy .	Dwie osoby przyglądają się biegnącemu mężczyźnie z przyklejonym numerem do klatki piersiowej .	3.0	NEUTRAL
+189	Dziewczynka w kostiumie kąpielowym i czepku siedzi , patrząc w dół .	Dziewczynka w czarnej bluzie stoi na różowej deskorolce .	0.67	NEUTRAL
+208	Dwoje dzieci w czerwonych koszulkach bawi się w stercie liści , a kolejne dwoje dzieci biegnie w ich stronę .	Chłopiec biegnie w kierunku dwóch innych chłopców , którzy bawią się przy stosie pożółkłych liści .	3.33	NEUTRAL
+210	Dziewczynka i chłopiec z kapturem na głowie biegną razem w kierunku pryskającej wody .	Dziewczynka i chłopiec z rękawkami do pływania biegną razem w kierunku pryskającej wody .	3.33	NEUTRAL
+219	Dziecko w czerwonej kurtce trzyma w rękach grudę śniegu .	Gruda śniegu jest trzymana w rękach przez dziecko w czerwonej kurtce .	5.0	ENTAILMENT
+222	Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .	Piłka jest odbijana kijem baseballowym przez chłopca w czerwonym kasku .	0.67	NEUTRAL
+258	Dziewczynki w kolorowych strojach i chustach na głowach stoją w dużej grupie .	Dziewczynka i chłopiec pochylają się pod barierką , patrząc w dół .	0.5	NEUTRAL
+265	Dziewczynka idzie .	Radosna , mała dziewczynka w jasnej sukience biegnie po trawie .	1.5	NEUTRAL
+277	Młody chłopak wykonuje skok z deskorolką nad schodami .	Dziewczynka o jasnych włosach nie stoi na różowej deskorolce .	1.67	NEUTRAL
+294	Dziecko w pomarańczowej kurtce z kapturem na głowie trzyma w rękach bryłę śniegu .	Dziecko trzyma bryłę .	3.0	NEUTRAL
+305	Mężczyzna z torbą i dużą teczką jedzie na deskorolce obok barierki , za którą znajduje się tor dla pojazdów .	Mężczyzna o długich włosach z torbami na ramionach jedzie na deskorolce po chodniku .	2.17	NEUTRAL
+321	Dziewczynka w różowej bluzce leży na trawie z założonymi za głowę rękami .	Dziewczynka w różowej bluzce leży na trawie z rękami , które są założone za głowę .	5.0	ENTAILMENT
+323	Jasnowłosa dziewczynka w sukience w kwiaty stoi na łące .	Chłopiec klęczy .	0.0	NEUTRAL
+333	Zawodnik na boisku ze skórzaną rękawicą robi wykrok w przód na piasku .	Chłopak w czerwonych butach stoi na boisku z uniesionym kijem baseballowym .	1.5	NEUTRAL
+361	Chłopak w kolorowych spodenkach odbija ręką piłkę siatkową .	Człowiek na deskorolce przeskakuje nad niebieską beczką ustawioną na wzniesieniu .	0.33	NEUTRAL
+370	Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .	Żadni zawodnicy nie przepychają się między sobą na boisku w trakcie meczu .	2.67	NEUTRAL
+373	Człowiek , który jest obserwowany przez mężczyznę w garniturze , skacze ze schodów na deskorolce .	Mężczyzna w bluzce w paski niesie deskorolkę , idąc po chodniku z płytkami w kształcie gwiazd .	1.0	NEUTRAL
+385	Dziewczynka stoi .	Dziewczynka w czarnej bluzie stoi na różowej deskorolce .	3.17	ENTAILMENT
+416	Kilka osób biegnie po torach wyrysowanych żółtymi liniami na trawie .	Kilka osób biegnie po torach , które są wyrysowane żółtymi liniami na trawie .	5.0	ENTAILMENT
+440	Na boisku trzech piłkarzy podskakuje do piłki podczas meczu .	Chłopiec trzyma duży , niebieski parasol i uśmiecha się .	0.0	NEUTRAL
+445	Człowiek w kasku i sportowym stroju biegnie po trawie , trzymając piłkę .	Piłka jest odbijana kijem baseballowym przez chłopca w czerwonym kasku .	2.17	NEUTRAL
+446	Zawodnik na boisku ze skórzaną rękawicą robi wykrok w przód na piasku .	Wykrok w przód jest robiony na piasku na boisku przez zawodnika ze skórzaną rękawicą .	5.0	ENTAILMENT
+450	Dwaj chłopcy nie biegną po trawie w słoneczny dzień .	Dwóch chłopców biegnie po trawniku w kierunku trzeciego .	2.83	NEUTRAL
+452	Snowboardzista wykonuje skok na śniegu .	Kobieta w sportowym stroju i słuchawkach biegnie po chodniku .	0.33	NEUTRAL
+463	Osoba stoi .	Dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	0.5	NEUTRAL
+482	Chłopiec i dziewczynka w strojach kąpielowych i rękawkach , które są dmuchane , biegną boso po chodniku , który jest polewany wodą .	Chłopiec i dziewczynka w strojach kąpielowych i dmuchanych rękawkach biegną boso po chodniku polewanym wodą .	5.0	ENTAILMENT
+495	Kobieta stojąca za ogrodzeniem obserwuje rozgrywający się na boisku mecz baseballowy .	Nikt nie gra w baseball na boisku .	3.17	CONTRADICTION
+499	Dziewczynka w fioletowej koszulce leży na trawie z rękami pod głową .	Dziewczynka leży .	3.33	NEUTRAL
+517	Zawodnik w kasku ochronnym biegnie po trawie z podłużną piłką w ręce .	Zawodnik biegnie po trawie z podłużną piłką w ręce .	3.83	NEUTRAL
+547	Mężczyzna w okularach przeciwsłonecznych stoi na trawie , trzymając w rękach podłużną piłkę .	Chłopak w spodenkach , klapkach i okularach przeciwsłonecznych stoi na trawie , trzymając piłkę .	3.17	NEUTRAL
+568	Kobieta z kolczykiem w okolicy pępka biegnie z numerem startowym na biodrach .	Czarny byk biegnie w maratonie .	0.67	NEUTRAL
+573	Dwoje ciemnoskórych dzieci biega w pobliżu wody .	Dwoje ciemnoskórych dzieci biega po piasku .	3.83	NEUTRAL
+599	Chłopiec siedzi , a drugi chłopiec przewraca się .	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą porozrywane papiery do pakowania prezentów .	0.83	NEUTRAL
+610	Dziewczynka siedzi na ramionach mężczyzny , trzymając w rękach wiatraczek .	Dziewczynka w okularach ze sztucznym nosem i brwiami uśmiecha się .	1.0	NEUTRAL
+614	Chłopiec w czerwonym kasku odbija piłkę kijem baseballowym .	Człowiek w sportowym stroju i kasku biegnie na boisku .	2.0	NEUTRAL
+629	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w ręku , a dalej biegnie drugi mężczyzna w bluzce w paski .	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w rozłożonych rękach , a dalej biegnie drugi mężczyzna w bluzce w paski .	4.17	ENTAILMENT
+642	Człowiek w kasku i sportowym stroju biegnie po trawie , trzymając piłkę .	Człowiek w kasku i gimnastycznym stroju biegnie po trawie , trzymając piłkę .	4.33	ENTAILMENT
+647	Nikt nie biegnie po ulicy .	Mężczyzna w sportowym stroju z numerem biegnie po ulicy .	3.0	CONTRADICTION
+663	Skośnooka dziewczyna siedzi na grzbiecie siwego mężczyzny , trzymając w rękach kolorowy wiatrak .	Dziewczynka siedzi na ramionach mężczyzny , trzymając w rękach wiatraczek .	3.5	NEUTRAL
+665	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z rękami , które są uniesione .	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z uniesionymi rękami .	5.0	ENTAILMENT
+682	Człowiek wjeżdża na kamień na deskorolce .	Młody człowiek wjeżdża na kamień na deskorolce .	4.33	ENTAILMENT
+686	Dziewczynka o jasnych włosach w kolorowej sukience stoi wśród białych kwiatów .	Dwójka nagich dzieci , które są ubrudzone farbkami , siedzi na podłodze obok porozrzucanych kartek .	0.17	NEUTRAL
+724	Piłka jest trzymana na boisku przez jednego mężczyznę w sportowym stroju , który jest łapany za nogę przez drugiego mężczyznę ubranego w inne barwy .	Kobieta w kasku i sportowym stroju stoi w rozkroku obok lecącej piłki , trzymając kij , obserwowana zza ogrodzenia przez inne kobiety .	0.5	NEUTRAL
+731	Chłopak w kraciastej koszuli skacze z deskorolką na duży głaz .	Człowiek wjeżdża na kamień na deskorolce .	2.5	NEUTRAL
+733	Człowiek uprawia wspinaczkę , asekurując się na linie .	Cztery uśmiechające się osoby wykonują jednocześnie mostek w pobliżu lasu .	0.17	NEUTRAL
+742	Człowiek w sportowym stroju stoi na piasku z ugiętymi kolanami i robi zamach ręką , w której trzyma piłkę .	Mały chłopiec w kapeluszu biegnie na plaży .	0.67	NEUTRAL
+745	Mały chłopiec w ubrudzonych spodniach siedzi na toalecie .	Mały chłopiec w spodniach , które są ubrudzone , siedzi na toalecie .	5.0	ENTAILMENT
+749	Dwóch chłopców biegnie .	Dziewczynka w białej sukience idzie po trawie .	0.17	NEUTRAL
+750	Dziewczyna trzyma piłkę w rękawicy , przyklękając na ziemi , a obok niej przebiega osoba w kasku .	Żadna osoba nie biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	2.83	NEUTRAL
+759	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna siedzący na krześle .	Chłopiec w zielonym stroju biegnie po murku .	0.17	NEUTRAL
+762	Szary ptak z długim dziobem unosi się w powietrzu nad wodą .	Dwóch chłopców biegnie po trawniku w kierunku trzeciego .	0.0	NEUTRAL
+766	Dziewczynka w białej sukience idzie po pożółkłej trawie .	Dziewczynka w białej sukience idzie po trawie .	4.33	NEUTRAL
+770	Mała dziewczynka w różowej pelerynie trzyma w rękach kolorową rakietę tenisową .	Mały chłopiec trzyma w rękach kolorową rakietę tenisową .	2.33	NEUTRAL
+771	Chłopiec przegląda niegrubą książkę z kolorową okładką .	Dziecko nie biegnie po kałuży w zielonych butach .	0.33	NEUTRAL
+775	Dziecko w szarym płaszczyku biegnie po drodze pokrytej zeschłymi liśćmi .	Na trawie , niedaleko górskich wzniesień , stoi quad , a na nim znajduje się czwórka dzieci .	0.5	NEUTRAL
+783	Mała dziewczynka w różowej pelerynie trzyma w rękach kolorową rakietę tenisową .	Dziewczynka w pomarańczowej sukience w białe kwiaty trzyma rakietkę do tenisa , stojąc na chodniku przed domem .	2.67	NEUTRAL
+785	Piłka jest odbijana kijem baseballowym przez chłopca w czerwonym kasku .	Człowiek w sportowym stroju i kasku biegnie na boisku w kierunku lecącej piłki .	1.83	NEUTRAL
+798	Człowiek skacze z deskorolką nad wzniesieniem pod siatką , obok dwóch znajdujących się tam opon .	Czterech mężczyzn bez koszulek idzie chodnikiem , trzymając w ręce deskorolkę .	1.0	NEUTRAL
+799	Dwoje dzieci w czerwonych koszulkach bawi się w stercie liści , a kolejne dwoje dzieci biegnie w ich stronę .	Dwoje dzieci bawi się , a dwoje dzieci biegnie .	4.0	NEUTRAL
+800	Dziewczyna trzyma piłkę w rękawicy , przyklękając na ziemi , a obok niej przebiega osoba w kasku .	Koszykarz w pomarańczowym stroju kozłuje piłkę , a obok stoi drugi gracz , trzymając rękę wyciągniętą w bok .	0.33	NEUTRAL
+806	Chłopiec leży na trawie , dotykając nogą podłużnej piłki .	Przewrócony przed nim drugi chłopiec jest przytrzymywany ręką przez małego chłopca .	1.17	NEUTRAL
+885	Uśmiechnięta dziewczynka robi mostek na trawie .	Mostek jest robiony na trawie przez dziewczynkę w koszulce w paski .	4.17	NEUTRAL
+889	Chłopak w czapce przejeżdża na deskorolce po rurze przylegającej do budynku .	Dziewczynka ćwiczy , wykonując skłon na brzegu morza .	0.17	NEUTRAL
+891	Dziewczynka i chłopiec pochylają się pod barierką i patrzą w dół .	Dwoje dzieci , pochylając się pod barierką , patrzy w dół .	4.5	ENTAILMENT
+894	Na plaży kobieta stawia małe dziecko na deskorolce .	Skok na deskorolce jest wykonywany przez chłopaka w czapce pod ścianą budynku .	0.83	NEUTRAL
+906	Zawodniczka próbuje odbić kijem piłkę .	Kobieta w kasku i sportowym stroju stoi w rozkroku obok lecącej piłki , trzymając kij , obserwowana zza ogrodzenia przez inne kobiety .	2.67	ENTAILMENT
+920	Chłopiec biegnie w kierunku dwóch innych chłopców bawiących się przy stosie pożółkłych liści .	Dwoje dzieci w czerwonych koszulkach bawi się w stercie liści , a kolejne dwoje dzieci biegnie w ich stronę .	3.17	NEUTRAL
+921	Człowiek uprawia wspinaczkę , asekurując się na linie .	Zawodniczka na boisku próbuje odbić kijem lecącą żółtą piłkę .	0.5	NEUTRAL
+924	Mężczyzna w sportowych spodenkach biegnie po bieżni .	Mężczyzna biegnie .	3.67	NEUTRAL
+927	Dziecko w szarym płaszczyku biegnie po drodze , która jest pokryta zeschłymi liśćmi .	Kobieta ze słuchawkami na uszach trenuje bieganie .	1.0	NEUTRAL
+939	Jasnowłosa dziewczynka w sukience w kwiaty stoi na łące .	Dziewczynka w żółtej , kolorowej sukience stoi wśród białych kwiatów .	3.0	NEUTRAL
+975	Dziewczynka w niebieskim stroju i złotej koronie na głowie kręci kolorowym kołem na wysokości talii .	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany , która jest ozdobiona kolorowymi kształtami .	3.67	NEUTRAL
+978	Ciemnoskóry chłopak obserwuje , jak drugi chłopak w niebieskiej koszulce skacze z deskorolką w pobliżu schodów .	Osoba w kasku jeździ hulajnogą po placu , gdzie rozstawione są pomarańczowe słupki .	0.67	NEUTRAL
+982	Mężczyzna w czerwonej bluzie stoi obok żółtego kajaka na skalistym brzegu .	Zawodnicy w pobliżu piłki przepychają się między sobą na boisku .	0.17	NEUTRAL
+989	Uśmiechnięta dziewczynka robi mostek na trawie .	Tańcząca obok dziewczynka robi mostek na trawie .	3.5	NEUTRAL
+1005	Troje dzieci zbiega .	Trójka dzieci zbiega po trawie z wysokiej górki .	3.83	ENTAILMENT
+1012	Chłopiec siedzi na toalecie z rękami przy twarzy .	Chłopiec siedzi .	2.83	NEUTRAL
+1025	Dziewczynka i chłopiec pochylają się pod barierką i patrzą w dół .	Żadna dziewczynka nie wchodzi po drabinie , na której stoi wyżej dorosła osoba .	0.33	NEUTRAL
+1034	Skok jest wykonywany w pobliżu boiska do koszykówki przez człowieka z deskorolką .	Mężczyzna wykonuje skok na deskorolce w pobliżu boisk do koszykówki .	4.33	ENTAILMENT
+1036	Nikt nie siedzi na podłodze , patrząc w jednym kierunku .	Duża grupa dzieci siedzi na podłodze , patrząc w jednym kierunku .	3.83	CONTRADICTION
+1039	Dwoje dzieci w czerwonych koszulkach bawi się w stercie liści , a kolejne dwoje dzieci biegnie w ich stronę .	Dwoje dzieci w kurtkach bawi się w stercie liści , a kolejnych dwoje dzieci biegnie w ich stronę .	4.0	NEUTRAL
+1042	Człowiek wjeżdża na kamień na deskorolce .	Nikt nie skacze z deskorolką na duży głaz .	2.67	NEUTRAL
+1067	Mały chłopiec w niebieskim stroju biegnie przed patrzącą na niego kobietą .	Kobieta biegnie za małym uśmiechniętym chłopcem .	3.67	NEUTRAL
+1078	Dwoje dzieci w czerwonych koszulkach bawi się w stercie liści , a kolejne dwoje dzieci biegnie w ich stronę .	Chłopiec w zielono - białym sportowym stroju biegnie po ulicy .	1.5	NEUTRAL
+1088	Zawodnicy przepychają się między sobą na boisku w trakcie meczu .	Mężczyzna z żółtą i białą reklamówką w ręce stoi na przystanku obok autobusu .	0.17	NEUTRAL
+1120	Chłopiec czyta książeczkę na zatłoczonym placu handlowym .	Mostek jest robiony na trawie przez dziewczynkę w koszulce w paski .	0.0	NEUTRAL
+1127	Dwie osoby leżą na śniegu na plecach z rozłożonymi rękami i nogami .	Jedna osoba stoi .	0.67	NEUTRAL
+1128	Dziewczynka biegnie po drodze obok krzewów i skał .	Dziewczynka nie biegnie po drodze obok krzewów i skał .	3.83	CONTRADICTION
+1130	Dziewczynki w kolorowych strojach i chustach na głowach stoją w dużej grupie .	Nikt nie stoi w dużej grupie .	3.17	CONTRADICTION
+1131	Dwóch chłopców biegnie trawnikiem w kierunku trzeciego .	Dwóch chłopców biegnie po trawniku w kierunku trzeciego .	4.83	ENTAILMENT
+1132	Dwóch rudych chłopców w okularach walczy ze sobą z użyciem drewnianych kijów .	Chłopiec siedzi , trzymając siatkę z niewielkim wężem .	0.67	NEUTRAL
+1139	Dziewczyna z rękawicą na ręce biegnie po kałuży .	Dziecko w zielonych butach biegnie po kałuży .	2.0	NEUTRAL
+1206	Dziewczynka w okularach ze sztucznym nosem i brwiami uśmiecha się .	Dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	3.0	NEUTRAL
+1212	Chłopiec i dziewczynka w strojach kąpielowych i dmuchanych rękawkach biegną boso po chodniku polewanym wodą .	Dziewczynka i chłopiec z rękawkami do pływania biegną razem w kierunku pryskającej wody .	3.5	NEUTRAL
+1215	Młody chłopak w czapce skacze z deskorolką na duży głaz .	Osoby w kaskach jadą na deskorolkach po krętej asfaltowej drodze .	1.33	NEUTRAL
+1218	Mecz jest rozgrywany na trawie przez ubranych na biało mężczyzn w ochraniaczach na nogach .	Ubrani na biało mężczyźni w ochraniaczach na nogach rozgrywają mecz na trawie .	5.0	ENTAILMENT
+1222	Chłopiec w czerwonym kasku odbija piłkę kijem baseballowym .	Żółw lądowy otwiera paszczę , pod którą człowiek podstawia truskawkę .	0.17	NEUTRAL
+1233	Kolorowy pistolet na wodę jest trzymany w ręce przez mokrego chłopca .	Mokry chłopiec trzyma w ręce kolorowy pistolet na wodę .	4.83	ENTAILMENT
+1249	Chłopiec w czepku i kostiumie kąpielowym klęczy na fontannie .	Chłopiec , który jest rozebrany , moczy się w wodzie z fontanny .	2.0	NEUTRAL
+1253	Umięśniony mężczyzna w czerwonych spodenkach biega na bieżni .	Mężczyzna w sportowych spodenkach biegnie po bieżni .	3.83	NEUTRAL
+1272	Młody chłopak w czapce skacze z deskorolką na boisku koszykarskim .	Młody chłopak w czapce skacze z deskorolką w pobliżu okien budynku .	3.0	NEUTRAL
+1284	Mężczyzna w kasku i kamizelce odblaskowej wierci dziurę w asfalcie .	Cztery osoby w kaskach i kombinezonach jadą na deskorolkach po asfaltowej drodze .	0.67	NEUTRAL
+1286	Mężczyzna z ochraniaczami na kolanach skacze wysoko z deskorolką .	Skok z deskorolką nad schodami jest wykonywany przez młodego chłopaka .	3.17	NEUTRAL
+1301	Drewniane pałeczki są trzymane przez skośnooką dziewczynkę w rękach , a przed nią znajdują się naczynia kuchenne .	Osoba w niebieskich spodniach stoi na metalowej drabinie , po której wspina się małe dziecko .	0.17	NEUTRAL
+1302	Nikt nie biegnie przed patrzącą na niego kobietą .	Mały chłopiec w niebieskim stroju biegnie przed patrzącą na niego kobietą .	3.0	CONTRADICTION
+1310	Dziewczynka w fioletowej koszulce leży na trawie z rękami pod głową .	Czarnowłosa dziewczynka jedzie po podłodze na czerwonej hulajnodze .	1.0	NEUTRAL
+1314	Mężczyzna w bluzce w paski niesie deskorolkę , idąc po chodniku z płytkami w kształcie gwiazd .	Człowiek w pasiastej bluzie idzie chodnikiem , trzymając w ręce deskorolkę .	3.33	NEUTRAL
+1334	Dziewczynka w samej spódniczce jest goniona po piasku przez chłopca w samych majteczkach .	Dwoje ciemnoskórych dzieci biega po piasku .	3.17	NEUTRAL
+1336	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w ręku , a dalej biegnie drugi mężczyzna w bluzce w paski .	Mężczyzna w czerwonych spodenkach biegnie po boisku z piłką w ręku , a dalej biegnie drugi mężczyzna w bluzce w paski .	4.0	NEUTRAL
+1339	Kobieta w koszuli biegnie w maratonie .	Troje dzieci zbiega po trawiastym zboczu .	0.67	NEUTRAL
+1351	Pistolet na wodę jest trzymany przez chłopca w czarnej bluzie , który też jest polewany wodą .	Chłopiec w czarnej bluzie trzyma pistolet na wodę i sam też jest polewany wodą .	5.0	ENTAILMENT
+1353	Dziewczynka i chłopiec pochylają się pod barierką , patrząc w dół .	Cztery dziewczynki wykonują mostek na trawie pokrytej zeschłymi liśćmi .	0.67	NEUTRAL
+1369	Dziewczynka w pomarańczowej sukience w białe kwiaty trzyma rakietkę do tenisa , stojąc na chodniku przed domem .	Mężczyzna w czerwonej koszulce wspina się po wodospadzie z asekuracją .	0.0	NEUTRAL
+1378	Widziany od tyłu mały chłopiec stoi na ziemi obok wiader i trzyma coś w ręku .	Widziany od tyłu mały chłopiec stoi na ziemi obok wiader , trzymając coś w ręku .	5.0	ENTAILMENT
+1409	Mężczyzna w ciemnej kurtce i jasnych spodniach patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	Dziewczynka i chłopiec stoją na trawie , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	2.67	NEUTRAL
+1421	Ciemnoskóra dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	Dwóch chłopców leży w płytkiej , błotnistej wodzie .	0.17	NEUTRAL
+1427	Dwoje dzieci patrzy na dwójkę innych dzieci przepychających się na trawie wśród porozrzucanych białych papierów .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy niebieskim stole do gry .	0.33	NEUTRAL
+1430	Żadna dziewczynka nie wchodzi do góry po długich schodach .	Dziecko w zielonych butach biegnie po kałuży .	0.33	NEUTRAL
+1435	Chłopak pokonuje przeszkodę .	Młody chłopak w czerwonych butach pokonuje przeszkodę na deskorolce .	3.83	ENTAILMENT
+1450	Dziecko w pomarańczowej kurtce z kapturem na głowie trzyma w rękach bryłę śniegu .	Bryła śniegu jest trzymana w rękach przez dziecko w pomarańczowej kurtce z kapturem na głowie .	5.0	ENTAILMENT
+1465	Dwójka nagich dzieci , które są ubrudzone farbkami , siedzi na podłodze obok porozrzucanych kartek .	Dwóch chłopców leży w płytkiej , błotnistej wodzie .	0.83	NEUTRAL
+1483	Chłopiec w samych majteczkach goni po piasku dziewczynkę w samej spódniczce .	Dwoje ciemnoskórych dzieci biega po piasku .	2.0	NEUTRAL
+1484	Dziecko w czerwonej kurtce trzyma w rękach grudę śniegu .	Bryła śniegu jest trzymana w rękach przez dziecko w pomarańczowej kurtce z kapturem na głowie .	3.0	NEUTRAL
+1485	Dwóch chłopców leży w błotnistej wodzie .	Dwóch chłopców leży w płytkiej , błotnistej wodzie .	4.5	ENTAILMENT
+1486	Inna dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	Dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	4.5	NEUTRAL
+1495	Dziewczynka w żółtej sukience leży z rękami , które są rozłożone , i nogami wśród kwiatów .	Uśmiechnięta dziewczynka w żółtej sukience leży wśród porozrzucanych wokół niej kwiatów .	4.0	NEUTRAL
+1520	Dwoje dzieci pochyla się pod barierką i patrzy w dół .	Mały chłopiec patrzy , jak małe drewniane klocki są ustawiane przez inną osobę .	0.33	NEUTRAL
+1534	Chłopiec przegląda niegrubą książkę z kolorową okładką .	Mężczyzna w masce i kasku siedzi na motorze , a drugi mężczyzna stoi obok motoru .	0.0	NEUTRAL
+1539	Człowiek skacze z deskorolką nad wzniesieniem pod siatką , obok dwóch znajdujących się tam opon .	Żaden człowiek nie skacze z deskorolką nad wzniesieniem pod siatką obok dwóch znajdujących się tam opon .	4.17	CONTRADICTION
+1543	Młody chłopak wykonuje skok z deskorolką nad schodami .	Chłopak bez koszulki wykonuje skok na deskorolce nad schodkami obok budynku .	3.5	NEUTRAL
+1546	Dziecko w szarym płaszczyku biegnie po drodze pokrytej zeschłymi liśćmi .	Dziecko w kurtce biegnie wśród leżących na ziemi pożółkłych liści .	3.5	NEUTRAL
+1555	Dwoje dzieci patrzy na dwójkę innych dzieci przepychających się na trawie wśród porozrzucanych białych papierów .	Chłopiec strzela z łuku do tarczy umieszczonej pod drzewem .	0.17	NEUTRAL
+1556	Dwóch chłopców płynie obok siebie na desce , trzymając się liny jedną ręką .	Kobieta ze słuchawkami na uszach trenuje bieganie .	0.17	NEUTRAL
+1557	Ciemnoskóry chłopak obserwuje , jak drugi chłopak w niebieskiej koszulce skacze z deskorolką w pobliżu schodów .	Przez ciemnoskórego chłopaka jest obserwowane , jak drugi chłopak w niebieskiej koszulce skacze z deskorolką w pobliżu schodów .	5.0	ENTAILMENT
+1566	Dziewczynka dmucha w zestaw do robienia baniek trzymany przez inne dziecko .	Jasnowłosa dziewczynka wydmuchuje bańki mydlane przez kółko , które podstawia jej chłopiec .	3.67	ENTAILMENT
+1573	Ciepło ubrane dziecko stoi na trawie , pochylając się z plastikowym kijem hokejowym .	Kilka osób z plecakami idzie ścieżką po kamienistym terenie .	0.33	NEUTRAL
+1578	Widziany od tyłu mały chłopiec stoi na ziemi obok wiader i trzyma coś w ręku .	Chłopiec trzyma duży parasol i uśmiecha się .	1.83	NEUTRAL
+1579	Dziecko biegnie boso po lśniącej podłodze .	Dziecko nie biegnie boso po lśniącej podłodze .	4.33	CONTRADICTION
+1581	Rudy chłopiec przytrzymuje leżącą na trawie osobę , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	Rudy chłopiec przytrzymuje leżącą na trawie osobę , inny chłopiec stoi obok z ręką , która jest wyciągnięta przed siebie , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	5.0	ENTAILMENT
+1583	Człowiek w kasku i sportowym stroju biegnie po trawie , trzymając piłkę .	Zawodnik biegnie .	3.0	NEUTRAL
+1594	Chłopiec przejeżdża przez czerwony most na deskorolce .	Kobieta w kasku i goglach przejeżdża przez czerwony most na deskorolce .	2.5	NEUTRAL
+1600	Zawodnik z piłką , biegnąc po boisku , skręca w prawą stronę .	Zawodniczka na boisku próbuje odbić kijem lecącą żółtą piłkę .	1.5	NEUTRAL
+1611	Niegruba książka z kolorową okładką jest przeglądana przez chłopca .	Duża grupa dzieci siedzi na podłodze , patrząc w jednym kierunku .	0.0	NEUTRAL
+1634	Dziewczynka biegnie po drodze obok krzewów i skał .	Nikt nie biegnie po chodniku .	1.5	NEUTRAL
+1639	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą papiery do pakowania prezentów , które są porozrywane .	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą porozrywane papiery do pakowania prezentów .	5.0	ENTAILMENT
+1642	Człowiek w niebieskiej koszuli i kapeluszu jedzie na białym koniu między krzewami .	Chłopiec kuca , trzymając sito , w którym jest mały wąż .	0.33	NEUTRAL
+1648	Dwie osoby leżą na śniegu na plecach z rozłożonymi rękami i nogami .	Dwie osoby nie leżą na śniegu na plecach z rozłożonymi rękami i nogami .	3.67	CONTRADICTION
+1653	Człowiek wyskakuje z okna na parterze budynku obok młyna .	Młody człowiek wyskakuje z okna na parterze budynku obok młyna .	4.33	ENTAILMENT
+1660	Dwóch chłopców leży w płytkiej wodzie .	Jeden chłopiec leży w błocie na brzuchu , a drugi chłopiec leży w błocie na boku , patrząc na swoją rękę .	2.17	NEUTRAL
+1661	Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .	Ciemnoskóry koszykarz wykonuje wsad w trakcie meczu .	0.83	NEUTRAL
+1681	Dziecko stoi na trawie , trzymając piłkę .	Chłopiec w sportowym stroju i kasku stoi na piasku przed ogrodzeniem , trzymając kij baseballowy .	1.33	NEUTRAL
+1713	Chłopiec siedzi , a drugi chłopiec przewraca się .	Jeden elegancko ubrany chłopiec siedzi na podwyższeniu , a drugi chłopiec przewraca się u jego stóp .	3.67	ENTAILMENT
+1739	Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .	Piłka jest trzymana na boisku przez jednego mężczyznę w sportowym stroju , który jest łapany przez drugiego mężczyznę , ubranego w inne barwy , za nogę .	4.83	ENTAILMENT
+1744	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki .	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki wśród porozrzucanych kolorowych papierów .	4.17	ENTAILMENT
+1749	Bramkarz leży na brzuchu na trawie , a między jego nogami leży piłka .	Chłopiec trzyma drewniany klocek od układanki stojącej na stole obok .	0.33	NEUTRAL
+1757	Trójka dzieci chodzi po kamieniach nad brzegiem wody , w pobliżu cumującego promu .	Chłopiec trzyma duży parasol i uśmiecha się .	0.67	NEUTRAL
+1789	Uśmiechnięta dziewczynka w żółtej sukience leży wśród kwiatów , które są porozrzucane wokół niej .	Dziewczynka w żółtej sukience leży z rozłożonymi rękami i nogami wśród kwiatów .	3.33	NEUTRAL
+1800	Umięśniony mężczyzna w czerwonych spodenkach biega na bieżni .	Mężczyzna w jasnej koszuli siedzi tuż obok podskakującej do góry trójki dzieci .	0.67	NEUTRAL
+1810	Młody człowiek nie wyskakuje z okna na parterze budynku obok młyna .	Cztery osoby w kaskach i kombinezonach jadą na deskorolkach po asfaltowej drodze .	0.0	NEUTRAL
+1812	Dwaj chłopcy i jedna dziewczynka chodzą po kamieniach w pobliżu zbiornika wodnego .	Trójka dzieci trzymanych przez kobietę chodzi po kamieniach nad brzegiem wody w pobliżu cumującego promu .	2.83	NEUTRAL
+1814	Dziecko wykonuje skok na deskorolce na moście .	Człowiek w białej kurtce i różowych spodniach wykonuje skok na deskorolce na moście .	3.0	NEUTRAL
+1839	Chłopiec leży na trawie , dotykając nogą podłużnej piłki .	Chłopiec leży na brzuchu na trawie , a między jego nogami leży piłka .	3.0	NEUTRAL
+1842	Kobieta pochyla się nad dzieckiem w wózku obok mężczyzny leżącego na ławce .	Dziewczynka i chłopiec z rękawkami do pływania biegną razem w kierunku pryskającej wody .	0.0	NEUTRAL
+1844	Dwoje dzieci pochyla się pod barierką i patrzy w dół .	Dwoje dzieci pochyla się i patrzy w dół .	3.83	NEUTRAL
+1860	Mężczyzna w okularach przeciwsłonecznych stoi na trawie , trzymając w rękach podłużną piłkę .	Nikt nie stoi na trawie , trzymając piłkę .	3.0	CONTRADICTION
+1861	Zawodnicy przepychają się .	Zawodnicy w pobliżu piłki przepychają się między sobą na boisku .	3.5	ENTAILMENT
+1869	Dziewczynka w niebieskim stroju i złotej koronie na głowie kręci kolorowym kołem na wysokości talii .	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .	3.33	NEUTRAL
+1872	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a otyły gracz za nim łapie piłkę w rękawice .	Ubrani na biało mężczyźni w ochraniaczach na nogach rozgrywają mecz na trawie .	3.17	NEUTRAL
+1881	Przechodzący przed budynkiem mężczyzna w garniturze obserwuje skok młodego człowieka z deskorolką .	Niedaleko górskich wzniesień stoi zaparkowane wśród traw auto , a obok niego kobieta obserwuje widok przez lornetkę .	0.33	NEUTRAL
+1894	Dzieci wspinają się po powierzchni .	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebiesko - granatowe stroje , idą drogą w pobliżu drzew palmowych .	0.5	NEUTRAL
+1896	Mężczyzna w białym kasku wspina się na linie po ścianie wodospadu .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy czerwono - niebieskim stole do gry .	0.17	NEUTRAL
+1908	Dwie młode kobiety w okularach przeciwsłonecznych siedzą na ławce wśród zieleni .	Podłużna piłka przelatuje przed zawodnikiem w kasku na boisku .	0.0	NEUTRAL
+1909	Mężczyzna z plecakiem wypada do wody z kajaka , a kawałek dalej leci nad wodą wiosło .	Dwóch chłopców w czapkach z daszkiem wystawia zabarwione na zielono języki .	0.17	NEUTRAL
+1923	Dziewczynka , w towarzystwie dwóch innych dziewczynek przy stole , pochyla się nad tortem z trzema świeczkami .	Dziewczyna w jasnych spodniach stoi na rękach na trampolinie .	0.83	NEUTRAL
+1928	Mężczyzna w białym , sportowym stroju i czarnym kasku stoi na trawie na nogach , które są zgięte , trzymając za plecami grubą pałkę .	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	4.83	ENTAILMENT
+1947	Dwoje dzieci pochyla się pod barierką i patrzy w dół .	Dziewczynka i chłopiec pochylając się pod barierką , patrzą w dół .	4.67	ENTAILMENT
+1948	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na nogach , które są zgięte , trzymając za plecami grubą pałkę .	1.83	NEUTRAL
+1960	Dziecko wchodzi po wysokich schodach obsypanych piaskiem .	Dwóch ciemnoskórych chłopców gra w piłkarzyki pod drzewkiem .	0.33	NEUTRAL
+1968	Mężczyzna z ochraniaczami na kolanach skacze wysoko z deskorolką .	Człowiek w kasku i ochraniaczach wykonuje skok na deskorolce w mieście .	3.67	NEUTRAL
+1975	Jeden chłopiec i trzy dziewczynki w mundurkach idą , niosąc zeszyty .	Chłopiec i trzy dziewczynki w mundurkach idą , niosąc zeszyty .	5.0	ENTAILMENT
+1981	Jasnowłosa dziewczynka w sukience w kwiaty stoi na łące .	Jasnowłosa dziewczynka w sukience w kwiaty nie stoi na łące .	3.67	CONTRADICTION
+1986	Mężczyzna w białej koszuli patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	Mężczyzna w okularach patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	3.0	NEUTRAL
+2009	Dziewczynka w białej sukience stoi przed fontanną , która jest ogrodzona .	Dziewczynka w jasnej sukience stoi przy ogrodzeniu niedaleko dużej fontanny .	3.83	NEUTRAL
+2014	Kobieta z laską biegnie po chodniku .	Kobieta w sportowym stroju i słuchawkach biegnie po chodniku .	3.17	NEUTRAL
+2015	Dwóch otyłych mężczyzn w przepaskach na biodrach walczy ze sobą .	Mężczyzna bez koszulki jedzie po ulicy na deskorolce , trzymając ręce w górze .	0.17	NEUTRAL
+2025	Chłopiec w czerwonym kasku odbija piłkę kijem baseballowym .	Mała , biała piłka jest odbijana kijem na boisku przez chłopca w czerwonym kasku .	4.33	ENTAILMENT
+2028	Chłopcy o ciemnych włosach grają w piłkę pod budynkiem z dużymi drzwiami .	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z uniesionymi rękami .	0.33	NEUTRAL
+2029	Dziewczynka z bosymi stopami wchodzi do góry po długich schodach .	Dziecko wchodzi po wysokich schodach obsypanych piaskiem .	3.17	NEUTRAL
+2041	Dziewczynka w żółtej sukience pochyla się nad dużym arbuzem .	Nikt nie pochyla się nad dużym arbuzem .	3.0	CONTRADICTION
+2052	Dziewczynka w żółtej sukience leży z rękami i nogami , które są rozłożone , wśród kwiatów .	Dwóch ciemnoskórych chłopców gra w piłkarzyki pod daszkiem .	0.0	NEUTRAL
+2056	Gracz krykieta w białym stroju stoi na trawie z kolanami , które są ugięte , trzymając kij , a otyły gracz za nim łapie piłkę w rękawice .	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a otyły gracz za nim łapie piłkę w rękawice .	5.0	ENTAILMENT
+2057	Dziecko w szarym płaszczyku biegnie po drodze pokrytej zeschłymi liśćmi .	Żadne dziecko nie biegnie wśród leżących na ziemi pożółkłych liści .	3.5	CONTRADICTION
+2061	Młoda kobieta o jasnych włosach wykonuje skok z deskorolką .	Kobieta o jasnych włosach wykonuje skok z deskorolką .	4.17	NEUTRAL
+2071	Dziewczynka w żółtej sukience pochyla się nad dużym arbuzem .	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami uniesionymi do góry .	0.0	NEUTRAL
+2079	Człowiek skacze ze schodów na deskorolce , obserwowany przez mężczyznę w garniturze .	Człowiek , który jest obserwowany przez mężczyznę w garniturze , skacze ze schodów na deskorolce .	5.0	ENTAILMENT
+2087	Skośnooka dziewczyna siedzi na grzbiecie siwego mężczyzny , trzymając w rękach kolorowy wiatrak .	Mężczyzna z wędką siedzi na grzbiecie siwego mężczyzny , trzymając w rękach kolorowy wiatrak .	3.17	NEUTRAL
+2089	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z rękami , które są uniesione .	Człowiek z deskorolką wykonuje skok w pobliżu boiska do koszykówki .	2.5	NEUTRAL
+2092	Jeden chłopiec leży w błocie na brzuchu , a drugi chłopiec leży w błocie na boku , patrząc na swoją rękę .	Dwóch chłopców leży w płytkiej , błotnistej wodzie .	3.5	NEUTRAL
+2096	Dzieci w pidżamie siedzą na podłodze z zeszytami .	Duża grupa dzieci siedzi na podłodze , patrząc w jednym kierunku .	2.33	NEUTRAL
+2097	Kilka osób w sportowych strojach , obserwowanych przez widownię spod drzew , ściga się na trawie .	Kilka osób w sportowych strojach , które są obserwowane przez widownię spod drzew , ściga się na trawie .	5.0	ENTAILMENT
+2107	Skok na deskorolce jest wykonywany w pobliżu boiska do koszykówki przez mężczyznę .	Człowiek z deskorolką wykonuje skok w pobliżu boiska do koszykówki .	4.67	ENTAILMENT
+2130	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	Trzej mężczyźni w koszulach i krawatach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	3.83	NEUTRAL
+2132	Grupa osób siedzi .	Dzieci w mundurkach siedzą na podłodze z zeszytami .	3.17	ENTAILMENT
+2133	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .	Żadna dziewczynka nie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .	3.33	CONTRADICTION
+2144	Łabędź z rozłożonymi skrzydłami biegnie po kałuży .	Dwaj chłopcy w czapkach z daszkiem pokazują zabarwione języki .	0.0	NEUTRAL
+2159	Zawodnicy przepychają się między sobą na boisku w trakcie meczu .	Zawodnicy przepychają się między sobą na boisku w trakcie rozgrywającego się na boisku meczu .	4.83	ENTAILMENT
+2164	Chłopiec leży na brzuchu na trawie , a między jego nogami leży piłka .	Pies biegnie wśród wysokiej trawy .	0.33	NEUTRAL
+2168	Człowiek w ciemnej marynarce przeskakuje nad niebieską beczką ustawioną na wzniesieniu .	Człowiek na deskorolce przeskakuje nad niebieską beczką ustawioną na wzniesieniu .	3.67	NEUTRAL
+2180	Człowiek jedzie na deskorolce .	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z uniesionymi rękami .	3.67	ENTAILMENT
+2191	Zawodnicy przepychają się między sobą na boisku w trakcie meczu .	Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .	2.67	NEUTRAL
+2199	Dwie osoby grają w baseball na boisku .	Rozgrywany na boisku mecz baseballowy jest obserwowany przez kobietę stojącą za ogrodzeniem .	2.33	ENTAILMENT
+2200	Człowiek w kasku i ochraniaczach wykonuje skok na deskorolce w mieście .	Mężczyzna w stroju kąpielowym spada do wody głową w dół .	0.5	NEUTRAL
+2201	Dziewczynka w białej sukience stoi przed fontanną , która jest ogrodzona .	Dziewczynka w białej sukience stoi przed ogrodzoną fontanną .	4.83	ENTAILMENT
+2216	Dziecko stoi z drewnianym rowerkiem niedaleko plaży .	Uśmiechnięta dziewczynka w żółtej sukience leży wśród porozrzucanych wokół niej kwiatów .	0.17	NEUTRAL
+2236	Człowiek skacze na deskorolce obok białego słupka .	Człowiek w pasiastej bluzie idzie chodnikiem , trzymając w ręce deskorolkę .	1.67	NEUTRAL
+2237	Chłopiec i trzy dziewczynki idą .	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebiesko - granatowe stroje , idą drogą w pobliżu drzew palmowych .	3.33	ENTAILMENT
+2238	Dzieci w mundurkach siedzą na podłodze obok ciemnych pestek .	Dziecko w zielonych butach biegnie przez kałużę na ulicy .	0.17	NEUTRAL
+2244	Dziecko w szarym płaszczyku biegnie po drodze , która jest pokryta zeschłymi liśćmi .	Dwaj chłopcy biegną po trawie w słoneczny dzień .	1.0	NEUTRAL
+2247	Zawodnik ze skórzaną rękawicą stoi w rozkroku , trzymając małą piłkę w prawej ręce .	Zawodnik ze skórzaną rękawicą stoi w rozkroku , trzymając gumową piłkę w prawej ręce .	3.83	NEUTRAL
+2250	Dwoje dzieci wspina się po postumencie .	Dwoje dzieci wspina się po postumencie pomnika .	4.5	ENTAILMENT
+2254	Kobieta biegnie za młodym uśmiechniętym chłopcem .	Dwoje ciemnoskórych dzieci biega po piasku .	1.33	NEUTRAL
+2257	Chłopiec siedzi na toalecie z rękami przy twarzy .	Mężczyzna w kasku i kamizelce wiosłuje w kajaku po wzburzonej wodzie .	0.17	NEUTRAL
+2266	Kilka osób biegnie po torach wyrysowanych żółtymi liniami na trawie .	Nikt nie biegnie po torach wyrysowanych żółtymi liniami na trawie .	3.0	CONTRADICTION
+2270	Ciemnoskóre dziewczynki w chustach na głowach i kolorowych sukienkach stoją blisko siebie .	Dziewczynki stoją .	3.17	NEUTRAL
+2271	Mężczyzna jedzie na deskorolce .	Mężczyzna z torbą i dużą teczką jedzie na deskorolce po chodniku .	3.5	ENTAILMENT
+2281	Nikt nie biegnie po murku .	Chłopiec w zielonym stroju biegnie po murku .	3.17	CONTRADICTION
+2283	Człowiek skacze na deskorolce obok białego słupka .	Człowiek skacze na deskorolce obok biało - czerwonego słupka .	3.5	NEUTRAL
+2301	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą papiery , które są porozrywane , do pakowania prezentów .	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki wśród porozrzucanych kolorowych papierów .	4.67	ENTAILMENT
+2316	Zawodnik w kasku ochronnym biegnie po trawie z podłużną piłką w ręce .	Człowiek w kasku i sportowym stroju biegnie po trawie , trzymając piłkę .	4.17	NEUTRAL
+2347	Mała dziewczynka w różowej bluzce biegnie niedaleko pomarańczowych skał .	Kobieta w brązowym ubraniu biegnie z numerem startowym na biodrach .	1.33	NEUTRAL
+2358	Chłopiec w czerwonym kasku odbija kijem małą białą piłkę na boisku .	Mała biała piłka jest odbijana kijem na boisku przez chłopca w czerwonym kasku .	5.0	ENTAILMENT
+2364	Żaden mężczyzna nie biega na bieżni .	Kobieta biegnie za małym uśmiechniętym chłopcem .	0.5	NEUTRAL
+2365	Mężczyzna w sportowym stroju stoi na ugiętej nodze na boisku , drugą nogę wystawiając do tyłu .	Mężczyzna w sportowym stroju stoi na boisku na nodze , która jest ugięta , drugą nogę wystawiając do tyłu .	5.0	ENTAILMENT
+2370	Mężczyzna w sportowych spodenkach biegnie po bieżni .	Człowiek w czarnym kombinezonie wykonuje skok nad falą na desce surfingowej .	0.17	NEUTRAL
+2375	Chłopak w spodenkach , klapkach i okularach przeciwsłonecznych stoi na trawie , trzymając piłkę .	Mężczyzna z dzieckiem w nosidełku stoi na trawie , trzymając w rękach podłużną piłkę .	2.17	NEUTRAL
+2400	Mężczyzna w koszuli w kratę przerzuca nad sobą drugiego mężczyznę na ringu .	Mały chłopiec w niebieskim stroju biegnie przed patrzącą na niego kobietą .	0.33	NEUTRAL
+2402	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a piłka jest łapana w rękawice przez otyłego gracza za nim .	Ubrani na biało mężczyźni w ochraniaczach na nogach rozgrywają mecz na trawie .	2.17	NEUTRAL
+2413	Dwoje dzieci , pochylając się pod barierką , patrzy w dół .	Mężczyzna w okularach patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	1.0	NEUTRAL
+2417	Ludzie w kombinezonach i kaskach ścigają się na motocyklach .	Mężczyzna z torbą i dużą teczką jedzie na deskorolce po chodniku .	0.5	NEUTRAL
+2433	Dziewczynka i chłopiec z rękawkami do pływania biegną razem wzdłuż ogrodzenia .	Radosna , mała dziewczynka w jasnej sukience biegnie po trawie .	2.17	NEUTRAL
+2437	Dziecko w różowej opasce biegnie przez kałużę na ulicy .	Dziecko w zielonych butach biegnie po kałuży .	3.5	NEUTRAL
+2444	Zawodnik w kasku ochronnym biegnie po trawie z podłużną piłką w ręce .	Nikt nie leży na trawie boiska w trakcie rozgrywającego się meczu .	1.5	NEUTRAL
+2456	Skok na deskorolce jest wykonywany nad zieloną beczką przez chłopaka .	Chłopak wykonuje skok na deskorolce nad zieloną beczką .	4.83	ENTAILMENT
+2465	Ciemnoskóry chłopak obserwuje , jak drugi chłopak w niebieskiej koszulce skacze z deskorolką w pobliżu schodów .	Chłopak w pasiastej koszulce skacze z deskorolką na duży głaz .	1.5	NEUTRAL
+2468	Dziecko w pidżamie biegnie jasno oświetlonym korytarzem .	Dziecko biegnie boso z rozłożonymi rękami .	2.0	NEUTRAL
+2475	Chłopiec siedzi na toalecie z rękami przy twarzy .	Dziewczynka i chłopiec pochylają się nad barierką , patrząc w dół .	0.67	NEUTRAL
+2477	Dziecko wchodzi po wysokich schodach obsypanych piaskiem .	Dziewczynka z nartami wchodzi do góry po długich schodach .	2.17	NEUTRAL
+2480	Skośnooka dziewczyna siedzi na grzbiecie siwego mężczyzny , trzymając w rękach kolorowy wiatrak .	Dziewczynka siedzi na ramionach mężczyzny i trzyma w rękach wiatraczek .	3.5	NEUTRAL
+2482	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w ręku , a dalej biegnie drugi mężczyzna w bluzce w paski .	Duży krok jest robiony przez młodą osobę w sportowym stroju i rękawicy .	1.5	NEUTRAL
+2485	Zabarwione języki są pokazywane przez dwóch chłopców w czapkach z daszkiem .	Cztery uśmiechające się osoby wykonują jednocześnie mostek w pobliżu lasu .	0.17	NEUTRAL
+2493	Człowiek w sportowym stroju stoi na piasku z ugiętymi kolanami i robi zamach ręką , w której trzyma piłkę .	Zawodnik stoi .	2.83	NEUTRAL
+2507	Chłopiec przejeżdża przez czerwony most na deskorolce .	Dziecko wykonuje skok na deskorolce na moście .	2.33	NEUTRAL
+2514	Mężczyzna kieruje jedną ręką , jadąc motocyklem z dwiema kobietami .	Człowiek z deskorolką wykonuje skok w pobliżu boiska do koszykówki .	0.67	NEUTRAL
+2515	Człowiek biegnie .	Podłużna piłka przelatuje przed zawodnikiem w kasku na boisku .	0.67	NEUTRAL
+2537	Dziecko w czerwonej kurtce trzyma w rękach grudę śniegu .	Zabarwione na zielono języki są wystawiane przez dwóch chłopców w czapkach z daszkiem .	0.67	NEUTRAL
+2545	Małe ciemnoskóre dziecko w brudnych spodenkach stoi zwrócone w kierunku błotnistej wody .	Widziany od tyłu mały chłopiec stoi na ziemi obok wiader i trzyma coś w ręku .	1.5	NEUTRAL
+2574	Młody chłopak w czapce skacze z deskorolką w pobliżu okien wysokiego budynku .	Młody człowiek wyskakuje z okna na parterze budynku obok młyna .	1.67	NEUTRAL
+2586	Mały chłopiec w ubrudzonych spodniach siedzi na toalecie .	Chłopiec siedzi na toalecie z rękami przy twarzy .	3.0	NEUTRAL
+2591	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki .	Mokry chłopiec trzyma w ręce kolorowy pistolet na wodę .	0.83	NEUTRAL
+2595	Dziecko w pomarańczowej kurtce z kapturem na głowie trzyma w rękach bryłę śniegu .	Dziewczynka wchodzi po schodach .	0.17	NEUTRAL
+2596	Chłopiec widziany od tyłu kuca , trzymając sito , w którym jest mały wąż .	Chłopiec siedzi , trzymając siatkę z niewielkim wężem .	2.83	NEUTRAL
+2613	Chłopiec biegnie w kierunku dwóch innych chłopców bawiących się przy stosie pożółkłych liści .	Chłopak w kasku stoi na boisku z uniesionym kijem baseballowym .	0.67	NEUTRAL
+2648	Dziecko w białym kasku biegnie przez kałużę na ulicy .	Chłopiec trzyma duży , niebieski parasol i uśmiecha się .	0.83	NEUTRAL
+2653	Uśmiechnięta kobieta stoi w pobliżu dwóch osób siedzących na skuterach śnieżnych .	Dzieci wspinają się po stromej powierzchni w kierunku pomnika .	0.33	NEUTRAL
+2657	Zawodnik na boisku ze skórzaną rękawicą robi wykrok w przód na piasku .	Mężczyzna w sportowym stroju stoi na ugiętej nodze na boisku , drugą nogę wystawiając do tyłu .	2.17	NEUTRAL
+2662	Mężczyźni w sportowych strojach przepychają się na trawie podczas gry w rugby .	Zawodnicy w pobliżu piłki przepychają się między sobą na boisku .	2.67	NEUTRAL
+2668	Mała dziewczynka w różowej bluzce biegnie niedaleko pomarańczowych skał .	Dziewczynka biegnie .	3.0	NEUTRAL
+2674	Chłopak w czapce wykonuje skok na deskorolce pod ścianą budynku .	Chłopak nie jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	1.83	NEUTRAL
+2676	Dziewczynka i chłopiec stoją na trawie , wyciągając ręce , druga dziewczynka stoi obok , a za nimi stoi mężczyzna .	Dziewczynka i chłopiec stoją na trawie , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	4.83	ENTAILMENT
+2684	Człowiek w sportowym stroju i kasku biegnie na boisku w kierunku lecącej piłki .	Podłużna piłka przelatuje przed zawodnikiem w kasku na boisku .	2.83	NEUTRAL
+2689	Człowiek wjeżdża na kamień na deskorolce .	Dwie paralotnie unoszą się nad ziemią , a w dole człowiek jedzie na motorze .	0.17	NEUTRAL
+2692	Człowiek skacze z deskorolką nad wzniesieniem pod siatką , obok dwóch znajdujących się tam opon .	Dwa duże , mokre psy biegają po piasku w pobliżu wody .	0.0	NEUTRAL
+2695	Kobiety w czarnych strojach kąpielowych stoją blisko siebie .	Mały chłopiec patrzy , jak inna osoba ustawia małe , drewniane klocki .	0.0	NEUTRAL
+2700	Drewniany klocek od układanki stojącej na stole obok jest trzymany przez chłopca .	Chłopiec trzyma drewniany klocek od układanki stojącej na stole obok .	5.0	ENTAILMENT
+2726	Chłopiec w zielono - białym sportowym stroju biegnie po trawie .	Ciemnowłosy chłopiec ubrany w biało - zielony strój biegnie po trawniku .	4.0	NEUTRAL
+2736	Cztery dziewczynki wykonują mostek na trawie , która jest pokryta zeschłymi liśćmi .	Cztery uśmiechające się osoby wykonują jednocześnie mostek w pobliżu lasu .	2.17	NEUTRAL
+2741	Chłopiec leży , a drugi chłopiec też leży .	Jeden chłopiec leży w błocie na brzuchu , a drugi chłopiec leży w błocie na boku , patrząc na swoją rękę .	3.33	ENTAILMENT
+2743	Żaden mężczyzna nie leży na trawie boiska w trakcie rozgrywającego się meczu .	Mężczyźni grają w futbol amerykański na boisku .	1.83	NEUTRAL
+2747	Widziana od tyłu dziewczynka w żółtej sukience pochyla się w stronę sterty arbuzów leżących na podłodze .	Dziewczynka w sukience huśta się na huśtawce , a za nią stoi kobieta .	1.33	NEUTRAL
+2753	Zawodnik ze skórzaną rękawicą stoi w rozkroku , trzymając małą piłkę w prawej ręce .	Żaden zawodnik ze skórzaną rękawicą , trzymający małą piłkę w prawej ręce , nie stoi w rozkroku .	4.5	CONTRADICTION
+2760	Dwie osoby grają w baseball na boisku .	Dwie osoby grają w baseball .	4.33	NEUTRAL
+2763	Dziecko w pomarańczowej kurtce z kapturem na głowie trzyma w rękach bryłę śniegu .	Trzech piłkarzy znajduje się w okolicach bramki na boisku piłkarskim .	0.0	NEUTRAL
+2803	Żaden człowiek nie biegnie na boisku w kierunku lecącej piłki .	Człowiek w sportowym stroju i kasku biegnie na boisku w kierunku lecącej piłki .	3.83	CONTRADICTION
+2809	Dwójka dzieci robi orły na śniegu .	Dwie osoby nie leżą na śniegu na plecach z rozłożonymi rękami i nogami .	3.17	CONTRADICTION
+2838	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce po krętej asfaltowej drodze .	Mężczyzna o długich włosach z torbami na ramionach jedzie na deskorolce po chodniku .	2.67	NEUTRAL
+2861	Kobieta stojąca za ogrodzeniem obserwuje rozgrywający się na boisku mecz baseballowy .	Dwie osoby grają w baseball na boisku .	1.67	NEUTRAL
+2887	Mężczyźni w sportowych strojach przepychają się na trawie podczas gry w rugby .	Młody człowiek wyskakuje z okna na parterze budynku obok młyna .	0.0	NEUTRAL
+2892	Chłopak bez koszulki wykonuje skok na deskorolce nad schodkami obok budynku .	Nikt nie wykonuje skoku na deskorolce nad schodkami obok budynku .	3.67	CONTRADICTION
+2904	Mężczyźni grają w futbol .	Mężczyzna leży na trawie boiska w trakcie rozgrywającego się meczu .	1.5	NEUTRAL
+2907	Chłopak w czapce przejeżdża na deskorolce po rurze przylegającej do budynku .	Człowiek przeskakuje na deskorolce nad niebieską beczką , która jest ustawiona na wzniesieniu .	2.33	NEUTRAL
+2909	Dziewczynka w żółtej sukience pochyla się nad dużym arbuzem .	Dziewczynka pochyla się nad arbuzem .	4.33	NEUTRAL
+2922	Kobieta o ciemnych włosach stoi na boisku z uniesionym kijem baseballowym .	Chłopak w kasku stoi na boisku z uniesionym kijem baseballowym .	2.33	NEUTRAL
+2930	Chłopiec stoi .	Chłopiec w sportowym stroju i kasku stoi na piasku przed ogrodzeniem , trzymając kij baseballowy .	2.5	ENTAILMENT
+2932	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych liści , które są zeschnięte .	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych zeschniętych liści .	5.0	ENTAILMENT
+2944	Bieganie jest trenowane przez kobietę ze słuchawkami na uszach .	Kobieta w sportowym stroju i słuchawkach biegnie po chodniku .	4.17	ENTAILMENT
+2971	Mały chłopiec w kapeluszu biegnie boso po bardzo płytkiej wodzie .	Dziecko w błękitnej kurtce zjeżdża na sankach , szurając butami po śniegu .	0.33	NEUTRAL
+2978	Chłopiec w czerwonym kasku odbija kijem małą białą piłkę na boisku .	Piłka jest odbijana kijem baseballowym przez chłopca w czerwonym kasku .	4.33	NEUTRAL
+3008	Uśmiechnięta dziewczynka robi mostek na trawie .	Mostek jest robiony na trawie przez uśmiechniętą dziewczynkę .	5.0	ENTAILMENT
+3020	Mały chłopiec w ubrudzonych spodniach siedzi na toalecie .	Chłopiec siedzi w wózku na zakupy .	2.0	NEUTRAL
+3024	Dziewczynka , chłopiec oraz mężczyzna stoją .	Mężczyzna w okularach patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	2.33	NEUTRAL
+3030	Człowiek w czapce z żółtymi ozdobami skacze na śniegu na desce snowboardowej .	Człowiek w pasiastej bluzie idzie chodnikiem , trzymając w ręce deskorolkę .	1.33	NEUTRAL
+3033	Mostek jest wykonywany w pobliżu lasu jednocześnie przez cztery uśmiechające się osoby .	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych zeschniętych liści .	0.5	NEUTRAL
+3043	Mężczyzna w okularach przeciwsłonecznych stoi na trawie , trzymając w rękach podłużną piłkę .	Człowiek w samych spodenkach stoi na trawie , trzymając w rękach podłużną piłkę .	2.83	NEUTRAL
+3045	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	Dziewczynka w różowej kurtce bawi się pożółkłymi liśćmi .	0.33	NEUTRAL
+3077	Żaden mężczyzna nie leży na trawie boiska w trakcie rozgrywającego się meczu .	Mężczyzna leży na trawie boiska w trakcie rozgrywającego się meczu .	4.17	CONTRADICTION
+3086	Chłopak w spodenkach , klapkach i okularach przeciwsłonecznych stoi na trawie , trzymając piłkę .	Chłopak stoi .	2.5	NEUTRAL
+3097	Mała dziewczynka w różowej bluzce biegnie niedaleko pomarańczowych skał .	Nikt nie biegnie po drodze obok krzewów i skał .	2.17	NEUTRAL
+3104	Kobieta sadza malutkie dziecko na deskorolce na kamienistej plaży .	Człowiek z dużym niebieskim plecakiem na plecach stoi na różowej deskorolce .	0.5	NEUTRAL
+3105	Uśmiechnięta kobieta i dziecko zjeżdżają na sankach z góry w towarzystwie biało - czarnego psa .	Dwie osoby przyglądają się biegnącemu mężczyźnie z przyklejonym numerem do klatki piersiowej .	0.0	NEUTRAL
+3106	Duży krok jest robiony przez młodą osobę w sportowym stroju i rękawicy .	Podczas meczu futbolowego jeden zawodnik trzyma w górze piłkę , a drugi zawodnik przewraca się na niego .	0.83	NEUTRAL
+3114	Czarny pies skacze z pomostu do stawu .	Dziewczynka w okularach ze sztucznym nosem i brwiami uśmiecha się .	0.0	NEUTRAL
+3127	Zawodnik z piłką biegnie po boisku i skręca w prawą stronę .	Jeden mężczyzna biegnie , a drugi mężczyzna nie biegnie .	1.5	NEUTRAL
+3135	Radosna dziewczynka w jasnej sukience biegnie po trawie .	Dziewczynka w białej sukience idzie po trawie .	2.83	NEUTRAL
+3139	Małe ciemnoskóre dziecko w brudnych spodenkach stoi zwrócone w kierunku błotnistej wody .	Małe ciemnoskóre dziecko w brudnych spodenkach , które jest zwrócone w kierunku błotnistej wody , stoi .	5.0	ENTAILMENT
+3141	Małe ciemnoskóre dziecko w brudnych spodenkach stoi zwrócone w kierunku błotnistej wody .	Nikt nie stoi na metalowej drabinie .	0.17	NEUTRAL
+3173	Dziewczynka uśmiecha się .	Dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	2.17	NEUTRAL
+3195	Dwoje dzieci patrzy na dwójkę innych dzieci przepychających się na trawie wśród porozrzucanych białych papierów .	Dwoje dzieci patrzy na dwójkę innych dzieci , które przepychają się na trawie wśród porozrzucanych białych papierów .	5.0	ENTAILMENT
+3205	Dwoje dzieci pochyla się pod barierką i patrzy w dół .	Dwoje dzieci pochyla się pod barierką , patrząc w dół .	5.0	ENTAILMENT
+3207	Dziewczynka i chłopiec pochylają się pod barierką i patrzą w dół .	Dziewczynka i chłopiec pochylając się pod barierką , patrzą w dół .	5.0	ENTAILMENT
+3212	Dziewczynka , w towarzystwie dwóch innych dziewczynek przy stole , pochyla się nad tortem z trzema świeczkami .	Żadna dziewczynka nie pochyla się nad tortem z trzema świeczkami .	3.0	CONTRADICTION
+3230	Dwoje innych dzieci biega po piasku .	Chłopiec w samych majteczkach goni po piasku dziewczynkę w samej spódniczce .	2.17	NEUTRAL
+3242	Dziecko w zimowym stroju bawi się zabawkowym sprzętem do hokeja na dworze .	Dziecko w różowej opasce bawi się zabawkowym sprzętem do hokeja na dworze .	3.67	NEUTRAL
+3261	Widziany od tyłu mały chłopiec stoi na ziemi obok wiader i trzyma coś w ręku .	Małe ciemnoskóre dziecko w brudnych spodenkach , które jest zwrócone w kierunku błotnistej wody , stoi .	2.33	NEUTRAL
+3270	Dwóch chłopców nie biegnie po trawniku w kierunku trzeciego .	Dwóch chłopców biegnie po trawniku w kierunku trzeciego .	4.0	CONTRADICTION
+3278	Nikt nie zbiega po trawie z wysokiej górki .	Chudy ciemnoskóry chłopiec w zielonym ubraniu biegnie po murze .	0.83	NEUTRAL
+3282	Młoda kobieta o jasnych włosach wykonuje skok z deskorolką .	Skok z deskorolką jest wykonywany przez młodą kobietę o jasnych włosach .	4.83	ENTAILMENT
+3285	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z rękami , które są uniesione .	Mężczyzna bez koszulki jedzie po ulicy na deskorolce , trzymając ręce w górze .	3.17	NEUTRAL
+3301	Dzieci w kurtkach siedzą po dwóch stronach chodnika , a między nimi stoi kobieta z plecakiem .	Chłopiec w czarnej bluzie trzyma pistolet na wodę i sam też jest polewany wodą .	0.17	NEUTRAL
+3306	Chłopiec w czerwonym kasku odbija kijem małą białą piłkę na boisku .	Kilka osób znajduje się tuż nad basenem .	0.0	NEUTRAL
+3329	Mężczyźni grają w futbol .	Mężczyźni grają w futbol amerykański na boisku .	3.33	ENTAILMENT
+3334	Troje dzieci stoi pod różnokolorowymi parasolami przed sceną na placu .	Trójka dzieci z parasolami nad głową stoi obok siebie .	3.5	NEUTRAL
+3336	Cztery dziewczynki wykonują mostek na trawie pokrytej zeschłymi liśćmi .	Cztery uśmiechające się osoby wykonują jednocześnie mostek w pobliżu lasu .	3.0	NEUTRAL
+3341	Dwaj chłopcy i jedna dziewczynka chodzą po kamieniach w pobliżu zbiornika wodnego .	Dwaj chłopcy i dziewczynka chodzą po kamieniach .	4.0	NEUTRAL
+3346	Dziewczynka z bosymi stopami wchodzi do góry po długich schodach .	Nikt nie wchodzi do góry po długich schodach .	3.5	CONTRADICTION
+3348	Mostek jest wykonywany jednocześnie w pobliżu lasu przez cztery uśmiechające się osoby .	Cztery uśmiechające się osoby wykonują jednocześnie mostek w pobliżu lasu .	5.0	ENTAILMENT
+3364	Chłopiec leży na brzuchu na trawie , a między jego nogami leży piłka .	Chłopiec i piłka leżą .	3.5	NEUTRAL
+3395	Mężczyzna stoi przy sterze na statku w słoneczny dzień .	Chłopiec w samych majteczkach goni po piasku dziewczynkę w samej spódniczce .	0.17	NEUTRAL
+3397	Zawodnik ze skórzaną rękawicą stoi w rozkroku , trzymając małą piłkę w prawej ręce .	Człowiek w sportowym stroju stoi na piasku z kolanami , które są ugięte , i robi zamach ręką , w której trzyma piłkę .	2.67	NEUTRAL
+3417	Dziecko wykonuje skok na deskorolce na moście .	Żaden chłopiec nie przejeżdża przez czerwony most na deskorolce .	3.33	CONTRADICTION
+3430	Dziewczynka biegnie po drodze obok krzewów i skał .	Dziewczynka biegnie .	3.33	NEUTRAL
+3431	Małe ciemnoskóre dziecko w brudnych spodenkach stoi zwrócone w kierunku błotnistej wody .	Mały chłopiec , który jest widziany od tyłu , stoi na ziemi obok wiader i trzyma coś w ręku .	1.5	NEUTRAL
+3454	Zawodnicy walczą o piłkę .	Podczas meczu futbolowego jeden zawodnik trzyma w górze piłkę , a drugi zawodnik przewraca się na niego .	3.67	ENTAILMENT
+3461	Żaden chłopak nie pokonuje przeszkody na deskorolce .	Chłopak jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	3.0	CONTRADICTION
+3472	Dziewczynka i chłopiec stoją na trawie , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	Mężczyzna w okularach patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	2.0	NEUTRAL
+3485	Dziewczyna trzyma piłkę w rękawicy , przyklękając na ziemi , a obok niej przebiega osoba w kasku .	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a piłka , przez otyłego gracza za nim , jest łapana w rękawice .	1.5	NEUTRAL
+3507	Chłopak w zielonej koszulce w paski patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	Jeden chłopiec leży w błocie na brzuchu , a drugi chłopiec leży w błocie na boku , patrząc na swoją rękę .	0.67	NEUTRAL
+3514	Człowiek skacze z deskorolką nad wzniesieniem pod siatką , obok dwóch znajdujących się tam opon .	Mężczyzna wykonuje skok na deskorolce na pochylni obok ogrodzenia .	2.5	NEUTRAL
+3523	Ciemnowłosy chłopiec ubrany w biały strój biegnie po trawniku .	Ciemnowłosy chłopiec ubrany w biało - zielony strój biegnie po trawniku .	4.0	NEUTRAL
+3528	Człowiek idzie .	Mężczyzna w bluzce w paski niesie deskorolkę , idąc po chodniku z płytkami w kształcie gwiazd .	2.5	ENTAILMENT
+3529	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .	Dziewczynka w białej sukience i kokardach na głowie kręci kolorowym kołem na wysokości talii .	2.83	NEUTRAL
+3531	Trójka dzieci nie zbiega po trawie z wysokiej górki .	Trójka dzieci zbiega po trawie z wysokiej górki .	3.83	CONTRADICTION
+3535	Mężczyzna z torbą i dużą teczką nie jedzie na deskorolce po chodniku .	Mężczyzna z torbą i dużą teczką jedzie na deskorolce po chodniku .	4.33	CONTRADICTION
+3540	Chłopiec o jasnych włosach łowi nad wodą ryby , stojąc za białym ogrodzeniem .	Dwoje ciemnoskórych dzieci biega po piasku .	0.5	NEUTRAL
+3553	Ciemnoskóry chłopak obserwuje , jak drugi chłopak w niebieskiej koszulce skacze z deskorolką w pobliżu schodów .	Chłopak w niebieskim stroju , który jest obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	2.83	NEUTRAL
+3555	Kobieta w kasku i sportowym stroju stoi w rozkroku obok lecącej piłki , trzymając kij , obserwowana zza ogrodzenia przez inne kobiety .	Zawodniczka na boisku próbuje odbić kijem lecącą żółtą piłkę .	2.5	NEUTRAL
+3564	Chłopiec biegnie w kierunku dwóch innych chłopców bawiących się przy stosie pożółkłych liści .	Dwoje dzieci bawi się , a dwoje dzieci biegnie .	2.0	NEUTRAL
+3565	Nikt nie biegnie po murku .	Chudy ciemnoskóry chłopiec w zielonym ubraniu biegnie po murze .	2.33	CONTRADICTION
+3607	Rozebrany chłopiec moczy się w wodzie z fontanny .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy niebieskim stole do gry .	0.5	NEUTRAL
+3649	Uśmiechnięta dziewczynka w żółtej sukience leży wśród kwiatów , które są porozrzucane wokół niej .	Mały chłopiec przytrzymuje ręką przewróconego przed nim drugiego chłopca .	0.33	NEUTRAL
+3662	Kilka osób biegnie po torach wyrysowanych żółtymi liniami na trawie .	Kilka osób w sportowych strojach , które są obserwowane przez widownię spod drzew , ściga się na trawie .	2.17	NEUTRAL
+3663	Smukły , szary ptak z długim dziobem stoi przed ogrodzoną fontanną .	Dziewczynka w białej sukience stoi przed ogrodzoną fontanną .	1.67	NEUTRAL
+3677	Kowboj jadący na koniu wymachuje lassem .	Podczas meczu futbolowego jeden zawodnik trzyma w górze piłkę , a drugi zawodnik przewraca się na niego .	0.17	NEUTRAL
+3681	Rudy chłopiec przytrzymuje leżącą na trawie osobę , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	Kobieta w kombinezonie płynie na fali na desce przyczepionej do stóp .	0.17	NEUTRAL
+3684	Chłopak w kraciastej koszuli skacze z deskorolką na duży głaz .	Żaden chłopak nie skacze z deskorolką na duży głaz .	3.83	CONTRADICTION
+3706	Człowiek w kasku i sportowym stroju biegnie po trawie , trzymając piłkę .	Człowiek siedzi w czerwonym samochodzie w pobliżu mostu .	0.67	NEUTRAL
+3711	Chłopak w czapce wykonuje skok na deskorolce pod ścianą budynku .	Dziewczynka w fioletowo - niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	0.33	NEUTRAL
+3719	Chłopiec trzyma duży , niebieski parasol i uśmiecha się .	Uśmiechnięty chłopiec o przemoczonych włosach trzyma w rękach duży , niebieski parasol .	3.67	ENTAILMENT
+3730	Kilka osób w sportowych strojach , obserwowanych przez widownię spod drzew , ściga się na trawie .	Nikt nie biegnie po ulicy .	0.83	NEUTRAL
+3733	Dziecko biegnie boso po lśniącej podłodze .	Dziecko w pidżamie biegnie korytarzem , który jest jasno oświetlony .	2.17	NEUTRAL
+3744	Nikt nie jedzie na deskorolkach po asfaltowej drodze .	Chłopak wykonuje skok na deskorolce nad zieloną beczką .	1.67	NEUTRAL
+3745	Dwoje dzieci wspina się po postumencie pomnika .	Dzieci wspinają się po stromej powierzchni w kierunku pomnika .	3.67	NEUTRAL
+3747	Dziewczynka i chłopiec z rękawkami do pływania biegną razem po torach wyrysowanych żółtymi liniami na trawie .	Chłopiec i dziewczynka w strojach kąpielowych i dmuchanych rękawkach biegną boso po chodniku polewanym wodą .	3.0	NEUTRAL
+3760	Dziewczynka w kurtce stoi na różowej deskorolce .	Dziewczynka w czarnej bluzie stoi na różowej deskorolce .	3.5	NEUTRAL
+3766	Młoda kobieta o jasnych włosach wykonuje skok z deskorolką .	Skok na deskorolce jest wykonywany przez kobietę w różowej koszulce i czarnych spodniach .	3.0	NEUTRAL
+3769	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych liści , które są zeschnięte .	Dziewczynka w różowej kurtce bawi się pożółkłymi liśćmi .	3.33	NEUTRAL
+3811	Chłopiec czyta książeczkę na zatłoczonym placu handlowym .	Czerech koszykarzy podskakuje pod koszem do piłki w czasie meczu .	0.17	NEUTRAL
+3836	Kobieta w skąpym sportowym stroju biegnie w maratonie .	Dwie kobiety w białych strojach do sztuk walki , obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	0.5	NEUTRAL
+3842	Chłopak w niebieskim stroju , obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	To , jak drugi chłopak w niebieskiej koszulce skacze z deskorolką w pobliżu schodów , jest obserwowane przez ciemnoskórego chłopaka .	3.33	NEUTRAL
+3847	Cztery osoby w czarnych płaszczach jadą na deskorolkach po asfaltowej drodze .	Cztery osoby w kaskach i kombinezonach jadą na deskorolkach po asfaltowej drodze .	3.5	NEUTRAL
+3851	Skok na deskorolce jest wykonywany pod ścianą budynku przez chłopaka w czapce .	Dziewczynka w czarnej bluzie stoi na różowej deskorolce .	1.83	NEUTRAL
+3853	Dziecko biegnie boso po lśniącej podłodze .	Dziesięciu kolarzy w kolorowych kurtkach jedzie , jeden za drugim , po torze .	0.17	NEUTRAL
+3873	Chłopak w niebieskim stroju , obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	Skok na deskorolce jest wykonywany na ulicy przez chłopaka .	3.33	NEUTRAL
+3877	Dwie osoby leżą na śniegu na plecach z rozłożonymi rękami i nogami .	Dwójka dzieci robi orły na śniegu .	4.0	ENTAILMENT
+3902	Uśmiechnięty mężczyzna w czapce z daszkiem płynie samotnie łodzią w pobliżu rosnących lilii .	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki wśród porozrzucanych kolorowych papierów .	0.17	NEUTRAL
+3903	Człowiek skacze z deskorolką nad wzniesieniem pod siatką , obok dwóch znajdujących się tam opon .	Człowiek skacze z deskorolką nad wzniesieniem pod siatką .	4.17	NEUTRAL
+3914	Pod koszem dwóch mężczyzn wyciąga ręce w kierunku lecącej piłki do koszykówki , a trzeci mężczyzna stoi obok z uniesionymi rękami .	Chłopiec i dziewczynka w strojach kąpielowych i dmuchanych rękawkach biegną boso po chodniku polewanym wodą .	0.0	NEUTRAL
+3916	Rudy chłopiec przytrzymuje leżącą na trawie osobę , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	Leżąca na trawie osoba jest przytrzymywana przez rudego chłopca , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	5.0	ENTAILMENT
+3921	Dziecko w kurtce biegnie wśród leżących na ziemi pożółkłych liści .	Człowiek z plecakiem zjeżdża na nartach po ośnieżonym zboczu .	0.33	NEUTRAL
+3929	Dziewczynka w niebieskim stroju i złotej koronie na głowie kręci kolorowym kołem na wysokości talii .	Dwoje ciemnoskórych dzieci biega po piasku .	0.17	NEUTRAL
+3950	Osoba stoi .	Osoba w niebieskich spodniach stoi na metalowej drabinie , po której wspina się małe dziecko .	2.17	ENTAILMENT
+3952	Osoba w kasku biegnie w pobliżu dziewczyny w czarnym stroju .	Chłopak w kasku stoi na boisku z uniesionym kijem baseballowym .	1.17	NEUTRAL
+3961	Dziewczynka siedzi na ramionach mężczyzny i trzyma w rękach wiatraczek .	Skośnooka dziewczyna nie siedzi na grzbiecie siwego mężczyzny , trzymając w rękach kolorowy wiatrak .	3.33	NEUTRAL
+3962	Trzech mężczyzn w spodenkach kąpielowych wskakuje do wody rękami w dół .	Mała dziewczynka wchodzi po drabinie , na której stoi wyżej dorosła osoba .	0.17	NEUTRAL
+3975	Widziany od tyłu mały chłopiec stoi na ziemi obok wiader i trzyma coś w ręku .	Cztery osoby płyną w małych kajakach obok skały .	0.33	NEUTRAL
+3981	Chłopiec przejeżdża przez czerwony most na deskorolce .	Samochód z włączonymi światłami przejeżdża w lesie przez dużą kałużę .	0.33	NEUTRAL
+3984	Wykrok w przód jest robiony na piasku przez zawodnika na boisku ze skórzaną rękawicą .	Zawodnicy walczą o piłkę na boisku z dużą ilością kibiców na trybunach .	0.83	NEUTRAL
+3985	Dziewczynka w papierowej czapeczce zdmuchuje świeczki na torcie , a obok stoją dwie inne dziewczynki i kobieta .	Mały chłopiec huśta się na huśtawce zrobionej z opony .	0.33	NEUTRAL
+3990	Mężczyzna jedzie na rowerze po ścieżce w górach .	Chłopak wykonuje skok na deskorolce nad zieloną beczką .	0.0	NEUTRAL
+3999	Żadna dziewczynka nie stoi na różowej deskorolce .	Dziewczynka o jasnych włosach stoi na różowej deskorolce .	3.0	CONTRADICTION
+4006	Żadne dzieci nie siedzą na podłodze z zeszytami .	Dzieci w mundurkach siedzą na podłodze z zeszytami .	3.17	CONTRADICTION
+4026	Cztery osoby w kaskach i kombinezonach jadą na deskorolkach po asfaltowej drodze .	Osoby w kaskach jadą na deskorolkach po krętej asfaltowej drodze .	3.5	NEUTRAL
+4031	Chłopak w niebieskim stroju , obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	Rudowłose dziecko w granatowej koszulce i pomarańczowych spodenkach nurkuje w wodzie .	0.33	NEUTRAL
+4041	Chłopiec siedzi na toalecie z rękami przy twarzy .	Mały chłopiec w spodniach , które są ubrudzone , siedzi na toalecie .	3.33	NEUTRAL
+4043	Dwie dziewczynki ubrane w stroje z różowymi skrzydłami bawią się w basenie z kolorowymi piłkami .	Dwie dziewczynki bawią się w basenie z kolorowymi piłkami .	3.0	NEUTRAL
+4045	Chłopak w czapce przejeżdża na deskorolce po rurze przylegającej do budynku .	Chłopak w czapce przejeżdża na deskorolce po rurze , która przylega do budynku .	5.0	ENTAILMENT
+4046	Skośnooka dziewczyna siedzi na grzbiecie siwego mężczyzny , trzymając w rękach kolorowy wiatrak .	Chłopak z płetwami na nogach płynie na fali na desce .	0.33	NEUTRAL
+4057	Zawodnik z piłką biegnie po boisku i skręca w prawą stronę .	Dziewczyna z rękawicą na ręce nie biegnie po boisku z żółtą piłką w drugiej ręce .	2.0	NEUTRAL
+4066	Widziany od tyłu mały chłopiec stoi na ziemi obok wiader i trzyma coś w ręku .	Mały chłopiec , który jest widziany od tyłu , stoi na ziemi obok wiader i trzyma coś w ręku .	5.0	ENTAILMENT
+4077	Chłopiec i trzy dziewczyny , wszyscy ubrani w granatowe stroje , idą drogą w pobliżu drzew palmowych .	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebiesko - granatowe stroje , idą drogą w pobliżu drzew palmowych .	4.33	NEUTRAL
+4098	Chłopiec trzyma drewniany klocek od układanki stojącej na stole obok .	Mały chłopiec patrzy , jak inna osoba ustawia małe , drewniane klocki .	2.33	NEUTRAL
+4101	Chłopiec , trzymając duży , niebieski parasol , uśmiecha się .	Uśmiechnięty chłopiec o przemoczonych włosach trzyma w rękach duży , niebieski parasol .	4.0	ENTAILMENT
+4106	Kobieta z rakietą tenisową patrzy ku górze z uniesioną wysoko ręką .	Mokry chłopiec trzyma w ręce kolorowy pistolet na wodę .	0.0	NEUTRAL
+4111	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	Mężczyzna z ochraniaczami na nogach stoi na trawie w rozkroku .	2.67	NEUTRAL
+4115	Dwoje dzieci patrzy na dwójkę innych dzieci przepychających się na trawie wśród porozrzucanych białych papierów .	Rudy chłopiec przytrzymuje leżącą na trawie osobę , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	2.33	NEUTRAL
+4122	Mężczyzna z ochraniaczami na kolanach skacze wysoko z deskorolką .	Dziecko w czarno - czerwonym stroju z zasłoniętą twarzą wykonuje skok .	0.67	NEUTRAL
+4138	Mężczyzna bez koszulki jedzie po ulicy na deskorolce , trzymając ręce uniesione do góry .	Mężczyzna bez koszulki jedzie po ulicy na deskorolce , trzymając ręce w górze .	4.83	ENTAILMENT
+4146	Kobieta biegnie za chłopcem .	Mały chłopiec w niebieskim stroju biegnie przed patrzącą na niego kobietą .	3.33	ENTAILMENT
+4147	Młody chłopak wykonuje skok z deskorolką nad schodami .	Skok na deskorolce jest wykonywany nad schodkami obok budynku przez chłopaka bez koszulki .	4.0	ENTAILMENT
+4152	Dziecko wchodzi po wysokich schodach obsypanych piaskiem .	Kobieta w kapeluszu robi zdjęcie podczas opadu śniegu .	0.33	NEUTRAL
+4169	Zawodnik na boisku ze skórzaną rękawicą robi wykrok w przód na piasku .	Osoba wykonuje skok przez przeszkodę na jasnobrązowym koniu .	0.0	NEUTRAL
+4173	Osoba w kasku biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	Dziewczyna trzyma piłkę w rękawicy , przyklękając na ziemi , a obok niej przebiega osoba w kasku .	3.83	ENTAILMENT
+4182	Nikt nie biegnie przez kałużę na ulicy .	Dziecko w zielonych butach biegnie przez kałużę na ulicy .	3.0	CONTRADICTION
+4205	Kobieta z kolczykiem w okolicy pępka biegnie z numerem startowym na biodrach .	Nikt nie biegnie za małym , uśmiechniętym chłopcem .	0.17	NEUTRAL
+4208	Ciemnoskóry koszykarz wykonuje wsad w trakcie meczu .	Chłopak jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	0.33	NEUTRAL
+4229	Chłopak w czapce przejeżdża na deskorolce po rurze przylegającej do budynku .	Chłopak w zielonej koszulce przejeżdża na deskorolce po rurze przylegającej do budynku .	4.0	NEUTRAL
+4234	Kobieta stojąca za ogrodzeniem obserwuje rozgrywający się na boisku mecz baseballowy .	Rozgrywający się na boisku mecz baseballowy jest obserwowany przez kobietę stojącą za ogrodzeniem .	5.0	ENTAILMENT
+4240	Małe dziecko jest stawiane na plaży na deskorolce przez kobietę .	Mężczyzna z torbą i dużą teczką jedzie na deskorolce po chodniku .	0.83	NEUTRAL
+4252	Dziewczynka o długich , jasnych włosach wspina się po stromej powierzchni w kierunku pomnika .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy czerwono - niebieskim stole do gry .	0.0	NEUTRAL
+4254	Chłopiec w zielonym stroju biegnie po murku .	Chudy ciemnoskóry chłopiec w zielonym ubraniu biegnie po murze .	3.83	ENTAILMENT
+4275	Osoba stoi .	Dwie dziewczynki bawią się w basenie z kolorowymi piłkami .	0.17	NEUTRAL
+4281	Piłka jest trzymana podczas meczu futbolowego przez jednego zawodnika w górze , a drugi zawodnik przewraca się na niego .	Zawodnicy walczą o piłkę na boisku z dużą ilością kibiców na trybunach .	2.67	NEUTRAL
+4296	Dziewczynka w koszulce w paski robi mostek na trawie .	Dziewczynka w żółtej sukience leży z rękami , które są rozłożone , i nogami wśród kwiatów .	1.33	NEUTRAL
+4308	Kobieta w różowej koszulce i czarnych spodniach wykonuje skok na deskorolce .	Skok z deskorolką jest wykonywany przez młodą kobietę o jasnych włosach .	3.17	NEUTRAL
+4324	Chłopiec klęczy .	Dwoje dzieci wspina się po postumencie pomnika .	0.0	NEUTRAL
+4330	Dziecko w pidżamie biegnie jasno oświetlonym korytarzem .	Chłopiec biegnie .	2.17	NEUTRAL
+4342	Kobieta w skąpym sportowym stroju biegnie w maratonie .	Chłopiec w białym sportowym stroju biegnie po trawie .	1.33	NEUTRAL
+4358	Mały chłopiec w niebieskim stroju nie biegnie przed patrzącą na niego kobietą .	Kobieta w sportowym stroju i słuchawkach biegnie po chodniku .	1.33	NEUTRAL
+4365	Mężczyzna wykonuje skok na deskorolce w pobliżu boisk do koszykówki .	Człowiek z deskorolką wykonuje skok w pobliżu boiska do koszykówki .	4.33	NEUTRAL
+4368	Kobieta w różowej koszulce i czarnych spodniach wykonuje skok na deskorolce .	Skok na deskorolce jest wykonywany na pochylni obok ogrodzenia przez mężczyznę .	1.83	NEUTRAL
+4375	Młody człowiek wyskakuje z okna na parterze budynku obok młyna .	Młody chłopak w czapce skacze z deskorolką w pobliżu okien budynku .	2.17	NEUTRAL
+4385	Mężczyzna jedzie na deskorolce .	Mężczyzna o długich włosach z torbami na ramionach jedzie na deskorolce po chodniku .	3.33	ENTAILMENT
+4388	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	Trójka zawodników podskakuje .	3.17	NEUTRAL
+4398	Dziewczynka w żółtej sukience leży z rozłożonymi rękami i nogami wśród kwiatów .	Uśmiechnięta dziewczynka w żółtej sukience leży wśród porozrzucanych wokół niej kwiatów .	3.83	NEUTRAL
+4400	Chłopak bez koszulki wykonuje skok na deskorolce nad schodkami obok budynku .	Człowiek w zimowym stroju wykonuje skok na snowboardzie nad śniegiem .	1.0	NEUTRAL
+4419	Cztery osoby w kaskach i kombinezonach jadą na deskorolkach .	Osoby w kaskach jadą na deskorolkach po krętej asfaltowej drodze .	3.0	NEUTRAL
+4423	Mężczyźni , którzy są ubrani na biało , w ochraniaczach na nogach rozgrywają mecz na trawie .	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a otyły gracz za nim łapie piłkę w rękawice .	2.0	NEUTRAL
+4438	Dziewczynka dmucha w zestaw do robienia baniek trzymany przez inne dziecko .	Stojąca blisko dziewczynka dmucha w zestaw do robienia baniek trzymany przez inne dziecko .	3.83	ENTAILMENT
+4454	Zawodnik na boisku ze skórzaną rękawicą robi wykrok w przód na piasku .	Uśmiechnięta dziewczynka robi wykrok w przód na piasku .	2.5	NEUTRAL
+4484	Po wodzie , niedaleko siebie , płynie kilka pontonów motorowych , a w każdym z nich siedzą dwie osoby .	Dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	0.17	NEUTRAL
+4505	Ciemnowłosy chłopiec przejeżdża przez czerwony most na deskorolce .	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z uniesionymi rękami .	2.0	NEUTRAL
+4512	Dziewczynka w samej spódniczce jest goniona po piasku przez chłopca w samych majteczkach .	Mały chłopiec w niebieskim stroju biegnie przed patrzącą na niego kobietą .	1.33	NEUTRAL
+4536	Chłopiec przegląda niegrubą książkę z kolorową okładką .	Niegruba książka z kolorową okładką jest przeglądana przez chłopca .	4.33	ENTAILMENT
+4544	Duży , niebieski parasol jest trzymany w rękach przez uśmiechniętego chłopca o przemoczonych włosach .	Chłopiec trzyma duży , niebieski parasol i uśmiecha się .	4.17	NEUTRAL
+4556	Dziecko w zimowym stroju bawi się zabawkowym sprzętem do hokeja na dworze .	Kobieta siedzi na krawężniku obok kosza na śmieci i trzyma przy uchu telefon komórkowy .	0.5	NEUTRAL
+4562	Widziana od tyłu dziewczynka w żółtej sukience pochyla się w stronę sterty arbuzów leżących na podłodze .	Żaden chłopiec nie kuca , trzymając sito , w którym jest mały wąż .	0.17	NEUTRAL
+4567	Odwrócony skrzydłem w dół samolot przelatuje przed zawodnikiem w kasku na boisku .	Podłużna piłka przelatuje przed zawodnikiem w kasku na boisku .	2.33	NEUTRAL
+4574	Jeszcze jedna osoba stoi na łące .	Dziewczynka w białej sukience stoi przed ogrodzoną fontanną .	0.67	NEUTRAL
+4584	Dziewczynki w kolorowych strojach i chustach na głowach stoją w dużej grupie .	Człowiek w nartach leci na paralotni nad ośnieżonymi górami .	0.0	NEUTRAL
+4586	Uśmiechnięta dziewczynka w różowej kurtce nie stoi wśród rozrzuconych zeschniętych liści .	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych zeschniętych liści .	3.67	CONTRADICTION
+4612	Chłopiec , który jest rozebrany , moczy się w wodzie z fontanny .	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki wśród porozrzucanych kolorowych papierów .	0.5	NEUTRAL
+4613	Dziecko w kurtce biegnie wśród leżących na ziemi pożółkłych liści .	Dziecko w szarym płaszczyku biegnie po drodze , która jest pokryta zeschłymi liśćmi .	3.33	NEUTRAL
+4617	Skok na deskorolce jest wykonywany na ulicy przez chłopaka .	Chłopak wykonuje skok na deskorolce na ulicy .	4.83	ENTAILMENT
+4618	Kilku chłopców kąpie się .	Jedna dziewczynka siedzi , a druga dziewczynka stoi w basenie z kolorowymi kulami .	1.0	NEUTRAL
+4621	Mały chłopiec w kapeluszu biegnie na plaży .	Mały chłopiec w kapeluszu nie biegnie na plaży .	3.5	CONTRADICTION
+4647	Chłopiec w sportowym stroju i kasku nie stoi na piasku przed ogrodzeniem , trzymając kij baseballowy .	Chłopak w kasku stoi na boisku z uniesionym kijem baseballowym .	3.33	NEUTRAL
+4681	Mężczyzna z deską do pływania idzie po kamiennej konstrukcji w stronę wody .	Osoby w kaskach jadą na deskorolkach po krętej asfaltowej drodze .	0.33	NEUTRAL
+4685	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną nad brzegiem wody .	4.0	NEUTRAL
+4691	Człowiek w kasku jedzie pojazdem ciągniętym przez latawiec .	Młody chłopak w czapce skacze z deskorolką w pobliżu okien budynku .	0.33	NEUTRAL
+4696	Chłopiec patrzy w bok .	Chłopiec siedzi , trzymając siatkę z niewielkim wężem .	1.17	NEUTRAL
+4726	Dziecko w pomarańczowej kurtce z kapturem na głowie trzyma w rękach bryłę śniegu .	Gruda śniegu jest trzymana w rękach przez dziecko w czerwonej kurtce .	3.5	NEUTRAL
+4744	Zawodnik z piłką biegnie po boisku i skręca w prawą stronę .	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w ręku , a dalej biegnie drugi mężczyzna w bluzce w paski .	2.5	NEUTRAL
+4746	Mężczyźni nie grają w futbol amerykański na boisku .	Mężczyźni grają w futbol amerykański na boisku .	3.5	CONTRADICTION
+4758	Mężczyzna w białym sportowym stroju i czarnym kasku nie stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	4.33	CONTRADICTION
+4776	Pies płynie , trzymając w pysku piłkę .	Mężczyźni grają w futbol amerykański na boisku .	0.0	NEUTRAL
+4778	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany , która jest ozdobiona kolorowymi kształtami .	5.0	ENTAILMENT
+4801	Zawodnicy przepychają się między sobą na boisku w trakcie meczu .	Piłka jest trzymana przez jednego mężczyznę w sportowym stroju na boisku , który jest łapany za nogę przez drugiego mężczyznę , ubranego w inne barwy .	3.0	ENTAILMENT
+4811	Kobieta w ciemnych okularach siedzi na murku obok śmietnika z telefonem komórkowym przy uchu .	Kobieta biegnie za małym uśmiechniętym chłopcem .	0.17	NEUTRAL
+4820	Mały chłopiec w kapeluszu biegnie na plaży .	Dziewczynka w samej spódniczce jest goniona po piasku przez chłopca w samych majteczkach .	1.17	NEUTRAL
+4833	Żaden chłopak nie jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	Chłopak jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	4.33	CONTRADICTION
+4837	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	Mężczyzna w bluzce w paski niesie deskorolkę , idąc po chodniku z płytkami w kształcie gwiazd .	0.33	NEUTRAL
+4849	Dwoje dzieci pochyla się pod barierką i patrzy w dół .	Dziewczynka i chłopiec pochylają się pod barierką i patrzą w dół .	4.17	ENTAILMENT
+4850	Osoby jadą na deskorolkach .	Cztery osoby w kaskach i kombinezonach jadą na deskorolkach po asfaltowej drodze .	3.0	ENTAILMENT
+4851	Dziewczynka w papierowej czapeczce zdmuchuje świeczki na torcie , a obok stoją dwie inne dziewczynki i kobieta .	Świeczki na torcie są zdmuchiwane przez dziewczynkę w papierowej czapeczce , a obok stoją dwie inne dziewczynki i kobieta .	5.0	ENTAILMENT
+4854	Dziewczynka w samej spódniczce jest goniona po piasku przez chłopca w samych majteczkach .	Mężczyzna w sportowym stroju z numerem biegnie po ulicy .	0.33	NEUTRAL
+4857	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy niebieskim stole do gry .	Dwóch ciemnoskórych chłopców gra w piłkarzyki pod daszkiem .	3.17	NEUTRAL
+4858	Trójka zawodników na boisku podskakuje w kierunku lecącej podłużnej piłki .	Kobieta z czarną torebką stoi na trawie , trzymając w rękach podłużną piłkę .	1.0	NEUTRAL
+4867	Mężczyzna z ciemną brodą siedzi w pojeździe komunikacyjnym .	Dziewczynka w jasnej sukience stoi przy ogrodzeniu niedaleko dużej fontanny .	0.5	NEUTRAL
+4871	Człowiek w białej kurtce idzie chodnikiem , trzymając w ręce deskorolkę .	Człowiek w pasiastej bluzie idzie chodnikiem , trzymając w ręce deskorolkę .	3.17	NEUTRAL
+4881	Czarno - biały pies stoi , opierając się przednimi łapami o duży kamień .	Dwaj chłopcy biegną po trawie w słoneczny dzień .	0.17	NEUTRAL
+4890	Dziewczynka w kostiumie kąpielowym bawi się pożółkłymi liśćmi .	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych zeschniętych liści .	2.17	NEUTRAL
+4893	Chłopak w kolorowych spodenkach kąpielowych podskakuje na piasku z ręką wyprostowaną w kierunku piłki .	Chłopiec w zielono - białym sportowym stroju biegnie po trawie .	1.67	NEUTRAL
+4914	Chłopiec leży na brzuchu na trawie , a między jego nogami leży piłka .	Bramkarz leży na brzuchu na trawie , a między jego nogami leży piłka .	4.0	NEUTRAL
+4928	Dziewczynka w różowej bluzce leży na trawie z założonymi za głowę rękami .	Dziewczynka w sportowym stroju leży na trawie z rękami pod głową .	3.33	NEUTRAL
+4935	Dziewczynka z bosymi stopami wchodzi do góry po długich schodach .	Dziecko wchodzi po wysokich schodach , które są obsypane piaskiem .	2.5	NEUTRAL
+5008	Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .	Mężczyzna trzyma piłkę , a inny mężczyzna łapie go za nogę .	3.83	NEUTRAL
+5021	Na plaży kobieta stawia małe dziecko na deskorolce .	Malutkie dziecko jest sadzane na deskorolce na kamienistej plaży przez kobietę .	3.17	NEUTRAL
+5041	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy niebieskim stole do gry .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy czerwono - niebieskim stole do gry .	3.83	NEUTRAL
+5058	Dziewczynka w żółtej sukience pochyla się nad dużym arbuzem .	Kolorowa rakieta tenisowa jest trzymana w rękach przez małą dziewczynkę w różowej pelerynie .	0.5	NEUTRAL
+5073	Zawodnik w kasku ochronnym biegnie po trawie z podłużną piłką w ręce .	Mały chłopiec w niebieskim stroju biegnie po trawie , trzymając piłkę .	1.83	NEUTRAL
+5076	Mężczyzna z ochraniaczami na kolanach skacze wysoko z deskorolką .	Mężczyzna w czerwonej kurtce skacze wysoko z deskorolką .	3.0	NEUTRAL
+5079	Dziecko biegnie .	Dwie osoby przyglądają się biegnącemu mężczyźnie z przyklejonym numerem do klatki piersiowej .	0.83	NEUTRAL
+5082	Kobieta w skąpym sportowym stroju biegnie w maratonie .	Kobieta z profesjonalnym sprzętem wspinaczkowym biegnie z numerem startowym na biodrach .	2.33	NEUTRAL
+5091	Mała dziewczynka w różowej bluzce biegnie niedaleko pomarańczowych skał .	Mała dziewczynka w różowej bluzce nie biegnie niedaleko pomarańczowych skał .	4.17	CONTRADICTION
+5092	Dziewczynka kręci kołem .	Dzieci wspinają się po stromej powierzchni w kierunku pomnika .	0.5	NEUTRAL
+5100	Cztery osoby jadą konno po plaży .	Dziewczynka w żółtej sukience leży z rozłożonymi rękami i nogami wśród kwiatów .	0.17	NEUTRAL
+5111	Dwie osoby leżą na śniegu na plecach z rozłożonymi rękami i nogami .	Dwie osoby leżą na plecach .	3.5	NEUTRAL
+5114	Człowiek skacze z deskorolką nad wzniesieniem pod siatką , obok dwóch znajdujących się tam opon .	Skok na deskorolce jest wykonywany na pochylni obok ogrodzenia przez mężczyznę .	2.83	NEUTRAL
+5121	Dzieci siedzą .	Troje dzieci stoi pod różnokolorowymi parasolami przed sceną na placu .	1.5	NEUTRAL
+5124	Dwóch chłopców gra w piłkarzyki .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy czerwono - niebieskim stole do gry .	1.33	NEUTRAL
+5126	Mężczyzna w okularach przeciwsłonecznych stoi na trawie , trzymając w rękach podłużną piłkę .	Osoba biegnie .	0.17	NEUTRAL
+5134	Dziewczynka w żółtej sukience leży z rękami , które są rozłożone , i nogami wśród kwiatów .	Dziewczynka w żółtej sukience leży z rozłożonymi rękami i nogami wśród kwiatów .	4.83	ENTAILMENT
+5141	Jakiś człowiek wyskakuje z okna na parterze budynku obok młyna .	Młody chłopak w czapce skacze z deskorolką w pobliżu okien budynku .	0.5	NEUTRAL
+5158	Dziewczynka i chłopiec stoją pod drzwiami , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	Dziewczynka i chłopiec stoją na trawie , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	3.5	NEUTRAL
+5176	Dwóch chłopców w czapkach z daszkiem wystawia zabarwione na zielono języki .	Dwaj chłopcy w czapkach z daszkiem pokazują zabarwione języki .	4.5	NEUTRAL
+5179	Dzieci wspinają się po powierzchni .	Dwoje dzieci wspina się po postumencie pomnika .	3.0	NEUTRAL
+5188	Mały chłopiec w ubrudzonych spodniach siedzi na toalecie .	Nikt nie bawi się w basenie z kolorowymi piłkami .	0.0	NEUTRAL
+5191	Dziecko w zimowym stroju bawi się zabawkowym sprzętem do hokeja na dworze .	Dziewczynka siedzi , a chłopak stoi w basenie z kolorowymi kulami .	0.67	NEUTRAL
+5197	Jeden elegancko ubrany chłopiec siedzi na podwyższeniu , a drugi chłopiec przewraca się u jego stóp .	Mały chłopiec przytrzymuje ręką przewróconego przed nim drugiego chłopca .	2.0	NEUTRAL
+5199	Jasnobrązowy pies biegnie za małym uśmiechniętym chłopcem .	Kobieta biegnie za małym uśmiechniętym chłopcem .	3.0	NEUTRAL
+5208	Dziewczynka w koszulce w paski robi mostek na trawie .	Mostek jest robiony na trawie przez dziewczynkę w koszulce w paski .	5.0	ENTAILMENT
+5210	Trójka dzieci stoi .	Troje dzieci stoi pod różnokolorowymi parasolami przed sceną na placu .	3.17	ENTAILMENT
+5242	Dziewczynka z mokrymi włosami siedzi przy drewnianym stole , trzymając talerz z jedzeniem w rękach .	Mężczyzna z ochraniaczami na nogach stoi na trawie w rozkroku .	0.17	NEUTRAL
+5243	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	Dwóch ciemnoskórych chłopców gra w piłkarzyki pod daszkiem .	0.67	NEUTRAL
+5244	Chłopiec w czerwonym kasku odbija piłkę kijem baseballowym .	Piłka jest odbijana kijem baseballowym przez chłopca w czerwonym kasku .	4.83	ENTAILMENT
+5248	Dwie osoby przyglądają się biegnącemu mężczyźnie z numerem , który jest przyklejony do klatki piersiowej .	Dwie osoby przyglądają się biegnącemu mężczyźnie z przyklejonym numerem do klatki piersiowej .	5.0	ENTAILMENT
+5266	Chłopak w czapce wykonuje skok na deskorolce pod ścianą budynku .	Chłopak w czapce przejeżdża na deskorolce po rurze , która przylega do budynku .	3.33	ENTAILMENT
+5287	Trójka dzieci chodzi po kamieniach nad brzegiem wody , w pobliżu cumującego promu .	Dwaj chłopcy i mała dziewczynka chodzą po kamieniach w pobliżu zbiornika wodnego .	2.83	NEUTRAL
+5328	Dwie osoby grają w baseball na boisku .	Piłka jest trzymana przez dziewczynę w rękawicy , a obok niej przebiega osoba w kasku .	0.83	NEUTRAL
+5334	Kobieta w sportowym stroju i słuchawkach biegnie po chodniku .	Kobieta ze słuchawkami na uszach trenuje bieganie .	3.67	NEUTRAL
+5336	Dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	Mężczyzna leży na trawie boiska w trakcie rozgrywającego się meczu .	0.0	NEUTRAL
+5340	Trójka zawodników na boisku podskakuje w kierunku lecącej podłużnej piłki .	Trzej mężczyźni w czerwonych koszulkach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	2.83	NEUTRAL
+5346	Jedna dziewczynka siedzi , a druga dziewczynka stoi w basenie z kolorowymi kulami .	Dwie dziewczynki bawią się w basenie z kolorowymi piłkami .	3.83	NEUTRAL
+5347	Młoda kobieta o jasnych włosach wykonuje skok z deskorolką .	Dziewczynka z rolkami na nogach stoi , patrząc przed siebie .	0.17	NEUTRAL
+5363	Dziecko wchodzi po wysokich schodach , które są obsypane piaskiem .	Dziewczynka w różowej kurtce bawi się pożółkłymi liśćmi .	0.33	NEUTRAL
+5367	Nikt nie stoi pod różnokolorowymi parasolami przed sceną na placu .	Trójka dzieci z parasolami nad głową stoi obok siebie .	1.67	NEUTRAL
+5369	Trzech zawodników z kijami do hokeja biegnie po trawie za piłką .	Zawodnicy walczą o piłkę na boisku z dużą ilością kibiców na trybunach .	1.83	NEUTRAL
+5380	Trzej mężczyźni jadą uczepieni z tyłu zatłoczonego samochodu .	Jeden elegancko ubrany chłopiec siedzi na podwyższeniu , a drugi chłopiec przewraca się u jego stóp .	0.0	NEUTRAL
+5387	Człowiek skacze ze schodów na deskorolce , obserwowany przez mężczyznę w garniturze .	Kobieta siedzi na samochodzie terenowym , w którym są dwie osoby .	0.17	NEUTRAL
+5418	Dziewczynka w fioletowo - niebieskim kostiumie ze skrzydłami , ze sztucznym nosem i brwiami uśmiecha się .	Dziewczynka w okularach ze sztucznym nosem i brwiami uśmiecha się .	3.83	NEUTRAL
+5421	Dziewczynka , w towarzystwie dwóch innych dziewczynek przy stole , pochyla się nad tortem z trzema świeczkami .	Uśmiechnięta dziewczynka w żółtej sukience leży wśród kwiatów , które są porozrzucane wokół niej .	1.0	NEUTRAL
+5435	Rudy chłopiec przytrzymuje leżącą na trawie osobę , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	Orły są robione na śniegu przez dwójkę dzieci .	0.0	NEUTRAL
+5448	Dzieci w mundurkach siedzą na podłodze z zeszytami .	Duża grupa dzieci siedzi na podłodze , patrząc w jednym kierunku .	2.67	NEUTRAL
+5461	Dwoje dzieci w czerwonych koszulkach bawi się w stercie liści , a kolejne dwoje dzieci biegnie z otwartymi buziami .	Chłopiec w samych majteczkach goni po piasku dziewczynkę w samej spódniczce .	0.83	NEUTRAL
+5467	Rozebrany chłopiec moczy się w wodzie z fontanny .	Chłopiec w czepku i kostiumie kąpielowym klęczy na fontannie .	2.33	NEUTRAL
+5501	Mężczyzna wykonuje skok na deskorolce na pochylni obok ogrodzenia .	Skok na deskorolce jest wykonywany na pochylni obok ogrodzenia przez mężczyznę .	4.83	ENTAILMENT
+5504	Człowiek , który jest obserwowany przez mężczyznę w garniturze , skacze ze schodów na deskorolce .	Chłopak wykonuje skok na deskorolce na ulicy .	2.5	NEUTRAL
+5506	Żadna kobieta trzymająca kij nie stoi w rozkroku obok lecącej piłki .	Kobieta w kasku i sportowym stroju stoi w rozkroku obok lecącej piłki , trzymając kij , obserwowana zza ogrodzenia przez inne kobiety .	3.33	CONTRADICTION
+5513	Chłopiec w zielono - biało - czerwonym stroju biegnie po trawie .	Chłopiec w zielono - białym sportowym stroju biegnie po trawie .	3.83	NEUTRAL
+5514	Dwoje dzieci patrzy na dwójkę innych dzieci przepychających się na trawie wśród porozrzucanych białych papierów .	Leżąca na trawie osoba jest przytrzymywana przez rudego chłopca , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	2.5	NEUTRAL
+5516	Kobieta w kasku i sportowym stroju , która jest obserwowana zza ogrodzenia przez inne kobiety , stoi w rozkroku obok lecącej piłki , trzymając kij .	Zawodniczka na boisku próbuje odbić kijem lecącą żółtą piłkę .	2.83	NEUTRAL
+5542	Chłopiec biegnie w kierunku dwóch innych chłopców bawiących się przy stosie pożółkłych liści .	Dziewczynka i chłopiec biegną .	2.5	NEUTRAL
+5560	Dziewczynka w białej sukience idzie po trawie .	Radosna , mała dziewczynka w jasnej sukience biegnie po trawie .	2.83	NEUTRAL
+5570	Chłopak w kraciastej koszuli skacze z deskorolką na duży głaz .	Człowiek asekurowany przez drugą osobę z dołu wjeżdża na kamień na deskorolce .	2.33	NEUTRAL
+5573	Przewrócony mały chłopiec jest przytrzymywany ręką przez drugiego chłopca .	Mały chłopiec przytrzymuje ręką przewróconego przed nim drugiego chłopca .	4.67	ENTAILMENT
+5575	Chłopiec w czerwonym kasku odbija kijem małą białą piłkę na boisku .	Chłopiec w czerwonym kasku odbija piłkę kijem baseballowym .	3.67	NEUTRAL
+5594	Dziewczynka siedzi , a druga dziewczynka stoi .	Jeden chłopiec leży w błocie na brzuchu , a drugi chłopiec leży w błocie na boku , patrząc na swoją rękę .	0.33	NEUTRAL
+5605	Pies podskakuje z piłką w pysku obok donic z kwiatami i płotu .	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a otyły gracz za nim łapie piłkę w rękawice .	0.0	NEUTRAL
+5606	Kolorowy pistolet na wodę jest trzymany w ręce przez mokrego chłopca .	Trójka dzieci z parasolami nad głową stoi obok siebie .	1.17	NEUTRAL
+5627	Człowiek na deskorolce przeskakuje nad niebieską beczką , która jest ustawiona na wzniesieniu .	Chłopak wykonuje skok na deskorolce nad zieloną beczką .	2.5	NEUTRAL
+5635	Dziewczynka w różowej kurtce bawi się pożółkłymi liśćmi .	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych zeschniętych liści .	3.17	ENTAILMENT
+5641	Dziewczynka w żółtej sukience pochyla się nad dużym arbuzem .	Dziewczynka w żółtej sukience , która jest widziana od tyłu , pochyla się w stronę sterty arbuzów , które leżą na podłodze .	3.5	ENTAILMENT
+5650	Mężczyzna z ochraniaczami na kolanach skacze wysoko z deskorolką .	Skok na deskorolce jest wykonywany w mieście przez człowieka w kasku i ochraniaczach .	3.33	ENTAILMENT
+5654	Cztery dziewczynki wykonują mostek na trawie , która jest pokryta zeschłymi liśćmi .	Mała dziewczynka wchodzi po drabinie , na której stoi wyżej dorosła osoba .	0.33	NEUTRAL
+5669	Osoba w kasku stoi na metalowej drabinie , po której wspina się małe dziecko .	Osoba w niebieskich spodniach stoi na metalowej drabinie , po której wspina się małe dziecko .	3.17	NEUTRAL
+5686	Jasnowłosa dziewczynka wydmuchuje bańki mydlane przez kółko , które podstawia jej chłopiec .	Cztery osoby jadą na rowerach po piaszczystej trasie .	0.17	NEUTRAL
+5692	Uśmiechnięty ciemnoskóry chłopiec w zielonym ubraniu biegnie po murze .	Chudy ciemnoskóry chłopiec w zielonym ubraniu biegnie po murze .	3.67	NEUTRAL
+5702	Młody chłopak wykonuje skok z deskorolką nad schodami .	Człowiek przejeżdża na rolkach po poręczy obok schodów .	1.67	NEUTRAL
+5714	Dziewczynka , w towarzystwie dwóch innych dziewczynek przy stole , pochyla się nad tortem z trzema świeczkami .	Dziewczynka w papierowej czapeczce zdmuchuje świeczki na torcie , a obok stoją dwie inne dziewczynki i kobieta .	3.5	ENTAILMENT
+5740	Osoba w kasku biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	Piłka jest trzymana w rękawicy przez dziewczynę , a obok niej przebiega osoba w kasku .	4.83	ENTAILMENT
+5749	Chłopiec w zielonym sportowym stroju biegnie po trawie .	Ciemnowłosy chłopiec ubrany w biało - zielony strój biegnie po trawniku .	3.33	NEUTRAL
+5750	Dziewczynka o jasnych włosach w kolorowej sukience stoi wśród białych kwiatów .	Jasnowłosa dziewczynka w sukience w kwiaty stoi na łące .	3.83	NEUTRAL
+5753	Dziewczynka w różowej bluzce leży na trawie z założonymi za głowę rękami .	Dziewczynka w różowej bluzce nie leży na trawie z założonymi za głowę rękami .	4.33	CONTRADICTION
+5754	Dziewczynka w żółtej sukience pochyla się nad dużym arbuzem .	Widziana od tyłu dziewczynka w żółtej sukience pochyla się w stronę sterty arbuzów leżących na podłodze .	3.67	ENTAILMENT
+5765	Kilka osób w sportowych strojach , obserwowanych przez widownię spod drzew , ściga się na trawie .	Kilka osób biegnie po torach , które są wyrysowane żółtymi liniami na trawie .	2.17	NEUTRAL
+5775	Dziewczynka i chłopiec pochylają się pod barierką i patrzą w dół .	Człowiek wjeżdża na kamień na deskorolce .	0.0	NEUTRAL
+5782	Nikt nie kuca , trzymając sito .	Chłopiec kuca , trzymając sito , w którym jest mały wąż .	2.17	CONTRADICTION
+5787	Ciepło ubrane dziecko stoi na trawie , pochylając się z plastikowym kijem hokejowym .	Niegruba książka z kolorową okładką jest przeglądana przez chłopca .	0.17	NEUTRAL
+5788	Widziany od tyłu człowiek siedzi na kamieniu obok wodospadu .	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą porozrywane papiery do pakowania prezentów .	0.0	NEUTRAL
+5796	Osoby w kaskach nie jadą na deskorolkach po krętej asfaltowej drodze .	Osoby w kaskach jadą na deskorolkach po krętej asfaltowej drodze .	3.83	CONTRADICTION
+5798	Pistolet na wodę jest trzymany przez chłopca w czarnej bluzie , który też jest polewany wodą .	Mokry chłopiec trzyma w ręce kolorowy pistolet na wodę .	3.33	NEUTRAL
+5799	Człowiek w kasku i ochraniaczach wykonuje skok na deskorolce w mieście .	Skok na deskorolce jest wykonywany przez kobietę w różowej koszulce i czarnych spodniach .	2.17	NEUTRAL
+5800	Chudy ciemnoskóry chłopiec w zielonym ubraniu biegnie po wysokim murze .	Chudy ciemnoskóry chłopiec w zielonym ubraniu biegnie po murze .	4.5	NEUTRAL
+5812	Dziecko wykonuje skok na deskorolce na moście .	Człowiek , który jest obserwowany przez mężczyznę w garniturze , skacze ze schodów na deskorolce .	1.33	NEUTRAL
+5818	Mężczyzna w czerwonej kurtce wspina się po oblodzonej górze .	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebiesko - granatowe stroje , idą drogą w pobliżu drzew palmowych .	0.17	NEUTRAL
+5830	Dziewczynka , w towarzystwie dwóch innych dziewczynek przy stole , pochyla się nad tortem z trzema świeczkami .	Świeczki na torcie są zdmuchiwane przez dziewczynkę w papierowej czapeczce , a obok stoją dwie inne dziewczynki i kobieta .	3.17	NEUTRAL
+5835	Mały , czarno - biały ptak siedzi na ludzkiej dłoni obok ciemnych pestek .	Chłopiec w sportowym stroju i kasku stoi na piasku przed ogrodzeniem , trzymając kij baseballowy .	0.17	NEUTRAL
+5851	Osoba w kasku biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	Żadna osoba nie biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	2.83	CONTRADICTION
+5853	Zawodnik z piłką biegnie po boisku i skręca w prawą stronę .	Kibice na trybunie obserwują , jak mężczyzna z tatuażami na rękach wrzuca piłkę do kosza .	1.67	NEUTRAL
+5859	Chłopiec w sportowym stroju i kasku stoi na piasku przed ogrodzeniem , trzymając kij baseballowy .	Chłopak w kasku stoi na boisku z uniesionym kijem baseballowym .	3.33	NEUTRAL
+5877	Dziewczynka siedzi na ramionach mężczyzny i trzyma w rękach wiatraczek .	Siedzący mężczyzna gra na trąbce .	1.17	NEUTRAL
+5890	Dziecko wchodzi po wysokich schodach obsypanych piaskiem .	Dziecko wchodzi po wysokich schodach , które są obsypane piaskiem .	5.0	ENTAILMENT
+5893	Chłopiec przegląda niegrubą książkę z kolorową okładką .	Chłopiec czyta książeczkę na zatłoczonym placu handlowym .	2.17	NEUTRAL
+5916	Mała dziewczynka w różowej bluzce biegnie niedaleko pomarańczowych skał .	Dziewczynka biegnie po drodze obok krzewów i skał .	3.17	NEUTRAL
+5919	Dziecko w szarym płaszczyku biegnie po drodze pokrytej zeschłymi liśćmi .	Bieganie jest trenowane przez kobietę ze słuchawkami na uszach .	0.83	NEUTRAL
+5928	Mały chłopiec w ubrudzonych spodniach siedzi na toalecie .	Pies z obrożą na szyi tarza się po ziemi .	0.0	NEUTRAL
+5952	Kobieta w różowej koszulce i czarnych spodniach wykonuje skok na deskorolce .	Skok na deskorolce jest wykonywany przez kobietę w różowej koszulce i czarnych spodniach .	4.83	ENTAILMENT
+5961	Dziecko w pidżamie biegnie jasno oświetlonym korytarzem .	Dziecko w pidżamie biegnie korytarzem , który jest jasno oświetlony .	5.0	ENTAILMENT
+5962	Dziewczynka w różowo - niebieskim stroju kąpielowym bawi się pożółkłymi liśćmi .	Dziewczynka w różowej kurtce bawi się pożółkłymi liśćmi .	3.83	NEUTRAL
+5976	Na plaży kobieta stawia małe dziecko na deskorolce .	Mężczyzna jedzie na rolkach po ulicy między trawnikami .	0.5	NEUTRAL
+5989	Snowboardzista podpiera się jedną ręką na śniegu , trzymając nogi w górze .	Troje dzieci zbiega po trawiastym zboczu .	0.17	NEUTRAL
+5990	Ciemnoskóre dziewczynki w chustach na głowach i kolorowych sukienkach stoją blisko siebie .	Mężczyzna z kolczykiem w uchu siedzi w towarzystwie dwóch innych osób .	0.17	NEUTRAL
+5992	Kobieta z kolczykiem w okolicy pępka biegnie z numerem startowym na biodrach .	Kobieta w skąpym sportowym stroju biegnie w maratonie .	2.0	NEUTRAL
+5993	Zawodnik ze skórzaną rękawicą stoi w rozkroku , trzymając małą piłkę w prawej ręce .	Wykrok w przód jest robiony na piasku przez zawodnika ze skórzaną rękawicą na boisku .	2.67	NEUTRAL
+5998	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w ręku , a dalej biegnie chłopiec w zielonym stroju .	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a otyły gracz za nim łapie piłkę w rękawice .	1.5	NEUTRAL
+6008	Kobieta z kolczykiem w okolicy pępka biegnie z numerem startowym na biodrach .	Kobieta wykonuje skok motorem , odbijając się od dużego kamienia .	0.83	NEUTRAL
+6023	Mężczyźni w granatowym stroju przepychają się na trawie podczas gry w rugby .	Zawodnicy w pobliżu piłki przepychają się między sobą na boisku .	2.5	NEUTRAL
+6025	Człowiek skacze ze schodów na deskorolce , obserwowany przez mężczyznę w garniturze .	Człowiek skacze na deskorolce .	3.33	NEUTRAL
+6030	Chłopak w kraciastej koszuli skacze z deskorolką na duży głaz .	Osoby jadą na deskorolkach .	2.17	NEUTRAL
+6045	Chłopiec leży na brzuchu na trawie , a między jego nogami leży piłka .	Nikt nie leży na trawie , dotykając nogą podłużnej piłki .	3.0	CONTRADICTION
+6065	Piłka jest trzymana podczas meczu futbolowego przez jednego zawodnika w górze , a drugi zawodnik przewraca się na niego .	Podczas meczu futbolowego jeden zawodnik trzyma w górze piłkę , a drugi zawodnik przewraca się na niego .	5.0	ENTAILMENT
+6073	Zawodnik ze skórzaną rękawicą stoi w rozkroku , trzymając małą piłkę w prawej ręce .	Trzech zawodników z kijami do hokeja biegnie po trawie za piłką .	1.33	NEUTRAL
+6089	Osoba w kasku biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	Kobieta w białej czapce z daszkiem odbija rakietą żółtą piłkę .	1.0	NEUTRAL
+6090	Leżąca na trawie osoba jest przytrzymywana przez rudego chłopca , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	Dwóch chłopców w czapkach z daszkiem wystawia zabarwione na zielono języki .	0.67	NEUTRAL
+6098	Mężczyzna w sportowym stroju stoi na ugiętej nodze na boisku , drugą nogę wystawiając do tyłu .	Wykrok w przód jest robiony na piasku przez zawodnika na boisku ze skórzaną rękawicą .	2.67	NEUTRAL
+6115	Bieganie jest trenowane przez kobietę ze słuchawkami na uszach .	Kobieta ze słuchawkami na uszach trenuje bieganie .	4.83	ENTAILMENT
+6121	Dziecko w szarym płaszczyku biegnie po drodze pokrytej zeschłymi liśćmi .	Dziecko w szarym płaszczyku biegnie po drodze , która jest pokryta zeschłymi liśćmi .	5.0	ENTAILMENT
+6137	Człowiek w sportowym stroju stoi na piasku z ugiętymi kolanami i robi zamach ręką , w której trzyma piłkę .	Człowiek w sportowym stroju stoi na piasku z kolanami , które są ugięte , i robi zamach ręką , w której trzyma piłkę .	4.83	ENTAILMENT
+6151	Drewniany klocek od układanki stojącej na stole obok jest trzymany przez chłopca .	Mały chłopiec patrzy , jak inna osoba ustawia małe , drewniane klocki .	2.17	NEUTRAL
+6157	Rozebrany chłopiec moczy się w wodzie z fontanny .	Chłopiec klęczy na kolanach na fontannie .	3.0	NEUTRAL
+6178	Dwójka dzieci robi orły na śniegu .	Orły są robione na śniegu przez dwójkę dzieci .	5.0	ENTAILMENT
+6198	Dwie dziewczynki bawią się .	Dwie dziewczynki bawią się w basenie z kolorowymi piłkami .	3.83	ENTAILMENT
+6211	Uśmiechnięty chłopiec o włosach , które są przemoczone , trzyma w rękach duży , niebieski parasol .	Uśmiechnięty chłopiec o przemoczonych włosach trzyma w rękach duży , niebieski parasol .	5.0	ENTAILMENT
+6212	Jasnowłosa dziewczynka wydmuchuje bańki mydlane przez kółko , które podstawia jej chłopiec .	Bańki mydlane są wydmuchiwane przez jasnowłosą dziewczynkę przez kółko , które podstawia jej chłopiec .	5.0	ENTAILMENT
+6219	Zawodnik ze skórzaną rękawicą stoi w rozkroku , trzymając małą piłkę w prawej ręce .	Człowiek w sportowym stroju stoi na piasku z ugiętymi kolanami i robi zamach ręką , w której trzyma piłkę .	2.33	NEUTRAL
+6220	Mężczyzna wykonuje skok na deskorolce na pochylni obok ogrodzenia .	Człowiek w kasku wykonuje skok na czerwonym quadzie .	0.67	NEUTRAL
+6244	Zawodnik z piłką biegnie po boisku i skręca w prawą stronę .	Zawodnik z piłką , biegnąc po boisku , skręca w prawą stronę .	5.0	ENTAILMENT
+6246	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebieskie stroje , idą drogą w pobliżu drzew palmowych .	Uśmiechnięta dziewczynka w żółtej sukience leży wśród porozrzucanych wokół niej kwiatów .	0.5	NEUTRAL
+6254	Kobieta stojąca pod płotem przygląda się kilku osobom przejeżdżającym na rolkach po drodze asfaltowej .	Chudy ciemnoskóry chłopiec w zielonym ubraniu biegnie po murze .	0.17	NEUTRAL
+6259	Dziewczynka o jasnych włosach w kolorowej sukience stoi wśród białych kwiatów .	Dwie dziewczynki stojące blisko siebie trzymają razem w rękach aparat fotograficzny .	1.17	NEUTRAL
+6278	Trójka dzieci stoi .	Trójka dzieci z parasolami nad głową stoi obok siebie .	3.33	ENTAILMENT
+6288	Mały chłopiec w kapeluszu biegnie na plaży .	Mężczyzna z plecakiem wypada do wody z kajaka , a kawałek dalej leci nad wodą wiosło .	0.17	NEUTRAL
+6293	Mężczyzna w niebieskiej koszuli stoi na trawie w rozkroku .	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	2.17	NEUTRAL
+6298	Żaden chłopak nie wykonuje skoku na deskorolce na ulicy .	Chłopak wykonuje skok na deskorolce na ulicy .	3.5	CONTRADICTION
+6305	Chłopak stoi .	Chłopak w kasku stoi na boisku z uniesionym kijem baseballowym .	3.17	ENTAILMENT
+6315	Dziewczynka patrzy przez zabawkowe okulary z dużym nosem , który jest do nich przytwierdzony .	Dziewczynka w okularach ze sztucznym nosem i brwiami uśmiecha się .	3.5	NEUTRAL
+6334	Mały chłopiec patrzy , jak małe drewniane klocki są ustawiane przez inną osobę .	Mały chłopiec patrzy , jak inna osoba ustawia małe , drewniane klocki .	5.0	ENTAILMENT
+6343	Mostek jest robiony na trawie przez dziewczynkę w koszulce w paski .	Chłopiec w czarnej bluzie trzyma pistolet na wodę i sam też jest polewany wodą .	0.17	NEUTRAL
+6368	Młody chłopak w wysokich butach pokonuje przeszkodę na deskorolce .	Dziewczynka o jasnych włosach stoi na różowej deskorolce .	1.33	NEUTRAL
+6370	Dziewczynka , w towarzystwie dwóch innych dziewczynek przy stole , pochyla się nad tortem z trzema świeczkami .	Dziewczynka pochyla się nad tortem .	3.33	NEUTRAL
+6372	Kobieta sadza malutkie dziecko na deskorolce na kamienistej plaży .	Małe dziecko jest stawiane na plaży na deskorolce przez kobietę .	3.5	NEUTRAL
+6392	Chudy ciemnoskóry chłopiec z kijami do hokeja biegnie po murze .	Chłopiec w zielonym stroju biegnie po murku .	2.83	NEUTRAL
+6398	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z rękami , które są uniesione .	Młody chłopak w czapce skacze z deskorolką w pobliżu okien budynku .	2.33	NEUTRAL
+6409	Chłopak w spodenkach , klapkach i okularach przeciwsłonecznych stoi na trawie , trzymając piłkę .	Piłka jest trzymana przez dziewczynę w rękawicy , a obok niej przebiega osoba w kasku .	1.33	NEUTRAL
+6411	Chłopak w czapce wykonuje skok na deskorolce pod ścianą budynku .	Skok na deskorolce jest wykonywany pod ścianą budynku przez chłopaka w czapce .	4.83	ENTAILMENT
+6416	Mężczyźni grają w futbol amerykański na boisku .	Mężczyzna leży na trawie boiska w trakcie rozgrywającego się meczu .	1.67	NEUTRAL
+6420	Dwie osoby przyglądają się biegnącemu mężczyźnie z numerem , który jest przyklejony do klatki piersiowej .	Mężczyzna w sportowym stroju z numerem biegnie po ulicy .	2.5	NEUTRAL
+6424	Nikt nie stoi wśród białych kwiatów .	Dziewczynka w jasnej sukience stoi przy ogrodzeniu niedaleko dużej fontanny .	0.33	NEUTRAL
+6447	Dziewczynka wchodzi po drabinie .	Osoba w niebieskich spodniach stoi na metalowej drabinie , po której wspina się małe dziecko .	2.0	NEUTRAL
+6479	Grający w koszykówkę chłopiec siedzi , trzymając siatkę z niewielkim wężem .	Chłopiec kuca , trzymając sito , w którym jest mały wąż .	2.83	NEUTRAL
+6497	Skok na deskorolce jest wykonywany przez kobietę w różowej koszulce i czarnych spodniach .	Młody człowiek wyskakuje z okna na parterze budynku obok młyna .	0.33	NEUTRAL
+6509	Dziewczynka w samej spódniczce jest goniona po piasku przez chłopca w samych majteczkach .	Chłopiec w samych majteczkach goni po piasku dziewczynkę w samej spódniczce .	5.0	ENTAILMENT
+6518	Zawodnicy walczą o piłkę w hali sportowej .	Zawodnicy walczą o piłkę na boisku z dużą ilością kibiców na trybunach .	3.33	NEUTRAL
+6522	Osoba w kasku biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	Zawodnik stoi .	0.67	NEUTRAL
+6531	Dziewczynka w pomarańczowej sukience w białe kwiaty trzyma rakietkę do tenisa , stojąc na chodniku przed domem .	Rakietka do tenisa jest trzymana przez dziewczynkę w pomarańczowej sukience w białe kwiaty .	3.67	NEUTRAL
+6532	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z rękami , które są uniesione .	Młody chłopak w czerwonych butach pokonuje przeszkodę na deskorolce .	2.33	NEUTRAL
+6534	Mały chłopiec patrzy , jak inna osoba ustawia drewniane klocki .	Chłopiec trzyma drewniany klocek od układanki stojącej na stole obok .	2.33	NEUTRAL
+6543	Mała dziewczynka w różowej pelerynie trzyma w rękach kolorową rakietę tenisową .	Dwóch chłopców leży w płytkiej wodzie .	0.17	NEUTRAL
+6549	Chłopiec leży na brzuchu na trawie , a między jego nogami leży piłka .	Troje dzieci nie stoi pod różnokolorowymi parasolami przed sceną na placu .	0.17	NEUTRAL
+6553	Dziewczynka patrzy przez zabawkowe okulary z dużym nosem , który jest przytwierdzony .	Dziewczynka patrzy przez zabawkowe okulary z przytwierdzonym dużym nosem .	5.0	ENTAILMENT
+6554	Dziecko w kasku , okularach i pomarańczowej kurtce biegnie przez kałużę na ulicy .	Dziecko w zielonych butach biegnie przez kałużę na ulicy .	3.17	NEUTRAL
+6555	Człowiek w kasku i ochraniaczach wykonuje skok na deskorolce w mieście .	Mężczyzna w okularach skacze wysoko z deskorolką .	2.5	NEUTRAL
+6581	Dziewczynka z bosymi stopami wchodzi do góry po długich schodach .	Dziewczynka wchodzi po schodach .	3.67	NEUTRAL
+6589	Chłopiec w czerwonym kasku odbija piłkę kijem baseballowym .	Chłopiec odbija piłkę kijem .	3.5	NEUTRAL
+6591	Chłopiec i dziewczynka w strojach kąpielowych i rękawkach , które są dmuchane , biegną boso po chodniku , który jest polewany wodą .	Dziewczynka i chłopiec z rękawkami do pływania biegną razem w kierunku pryskającej wody .	3.5	NEUTRAL
+6613	Skok na deskorolce jest wykonywany nad zieloną beczką przez chłopaka .	Człowiek na deskorolce przeskakuje nad niebieską beczką ustawioną na wzniesieniu .	3.0	NEUTRAL
+6631	Mały chłopiec w kapeluszu biegnie boso po bardzo płytkiej wodzie .	Mały chłopiec w kapeluszu biegnie na plaży .	3.5	NEUTRAL
+6643	Mężczyzna wykonuje skok na deskorolce na pochylni obok ogrodzenia .	Skok na deskorolce jest wykonywany na moście przez dziecko .	1.5	NEUTRAL
+6645	Ciemnoskóry chłopak obserwuje , jak drugi chłopak w niebieskiej koszulce skacze z deskorolką w pobliżu schodów .	Chłopak w niebieskim stroju , obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	3.67	NEUTRAL
+6665	Mężczyzna w kasku jedzie na deskorolce po chodniku .	Mężczyzna z torbą i dużą teczką jedzie na deskorolce po chodniku .	2.83	NEUTRAL
+6703	Przewrócony chłopiec jest przytrzymywany ręką przez drugiego , małego chłopca .	Jeden elegancko ubrany chłopiec siedzi na podwyższeniu , a drugi chłopiec przewraca się u jego stóp .	2.67	NEUTRAL
+6706	Piłka przelatuje .	Ubrani na biało mężczyźni w ochraniaczach na nogach rozgrywają mecz na trawie .	0.5	NEUTRAL
+6711	Kobieta w sportowym stroju odbija piłeczkę kijem .	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	1.0	NEUTRAL
+6724	Mężczyzna bez koszulki jedzie po ulicy na deskorolce , trzymając ręce w górze .	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z uniesionymi rękami .	3.17	ENTAILMENT
+6740	Chłopiec skacze w ubraniu do basenu , wyciągając ręce do dołu .	Troje dzieci stoi pod różnokolorowymi parasolami przed sceną na placu .	0.33	NEUTRAL
+6742	Uśmiechnięta dziewczynka robi mostek na trawie .	Dziewczynka w koszulce w paski robi mostek na trawie .	3.67	NEUTRAL
+6747	Trójka dzieci chodzi po kamieniach nad brzegiem wody , w pobliżu cumującego promu .	Mężczyzna w czepku i okularach pływackich płynie z otwartymi ustami .	0.0	NEUTRAL
+6750	Chłopak w kraciastej koszuli skacze z deskorolką na duży głaz .	Chłopak w kraciastej koszuli skacze z deskorolką nieopodal fontanny .	4.0	NEUTRAL
+6752	Dziecko w zimowym stroju bawi się zabawkowym sprzętem do hokeja na dworze .	Mały chłopiec bawi się zabawkowym sprzętem do hokeja na dworze .	3.33	NEUTRAL
+6756	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebieskie stroje , idą drogą w pobliżu drzew palmowych .	Chłopiec i trzy dziewczynki w mundurkach idą , niosąc zeszyty .	2.67	NEUTRAL
+6766	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .	Nikt nie gra w piłkarzyki pod daszkiem .	0.0	NEUTRAL
+6800	Chłopak w spodenkach , klapkach i okularach przeciwsłonecznych stoi na trawie , trzymając piłkę .	Mężczyzna i kobieta w ślubnych strojach idą w kościele wśród elegancko ubranych osób .	0.17	NEUTRAL
+6801	Chłopiec podtrzymywany przez inną osobę siedzi , trzymając siatkę z niewielkim wężem .	Chłopiec siedzi , trzymając siatkę z niewielkim wężem .	4.0	NEUTRAL
+6813	Dziewczynka w czarnej bluzie stoi na różowej deskorolce .	Dziewczynka o jasnych włosach stoi na różowej deskorolce .	3.33	NEUTRAL
+6817	Dziewczyna trzyma piłkę w rękawicy , przyklękając na ziemi , a obok niej przebiega osoba w kasku .	Piłka jest trzymana przez dziewczynę w rękawicy , a obok niej przebiega osoba w kasku .	4.33	NEUTRAL
+6839	Dziewczynka z bosymi stopami wchodzi do góry po długich schodach .	Zabarwione języki są pokazywane przez dwóch chłopców w czapkach z daszkiem .	0.17	NEUTRAL
+6855	Kilka osób biegnie po torach , które są wyrysowane żółtymi liniami na trawie .	Ciemnowłosy chłopiec ubrany w biało - zielony strój biegnie po trawniku .	1.17	NEUTRAL
+6860	Dziecko biegnie boso po lśniącej podłodze .	Mały chłopiec w kapeluszu nie biegnie boso po bardzo płytkiej wodzie .	2.17	NEUTRAL
+6862	Kobieta z kolczykiem w okolicy pępka biegnie z numerem startowym na biodrach .	Kobieta z kolczykiem w okolicy pępka nie biegnie z numerem startowym na biodrach .	3.5	CONTRADICTION
+6866	Dziewczynka w różowej bluzce leży na trawie z założonymi za głowę rękami .	Mostek jest robiony na trawie przez uśmiechniętą dziewczynkę .	1.5	NEUTRAL
+6881	Dwoje dzieci bawi się , a dwoje dzieci biegnie .	Chłopiec w zielono - białym sportowym stroju biegnie po trawie .	1.5	NEUTRAL
+6891	Piłka przelatuje .	Człowiek w sportowym stroju i kasku biegnie na boisku w kierunku lecącej piłki .	2.17	ENTAILMENT
+6893	Jeden mężczyzna trzyma pistolet na wodę i sam też jest polewany wodą .	Chłopiec w czarnej bluzie trzyma pistolet na wodę i sam też jest polewany wodą .	3.83	ENTAILMENT
+6894	Piłka przelatuje .	Podłużna piłka przelatuje przed zawodnikiem w kasku na boisku .	3.5	ENTAILMENT
+6907	Podczas meczu futbolowego jeden zawodnik trzyma w górze piłkę , a drugi zawodnik przewraca się na niego .	Zawodnicy walczą o piłkę na boisku z dużą ilością kibiców na trybunach .	3.0	NEUTRAL
+6909	Trzech łyżwiarzy jedzie po lodzie , pokonując zakręt .	Radosna , mała dziewczynka w jasnej sukience biegnie po trawie .	0.0	NEUTRAL
+6912	Ciepło ubrane dziecko stoi na trawie , pochylając się z plastikowym kijem hokejowym .	Żadne dziecko nie stoi na trawie , pochylając się z plastikowym kijem hokejowym .	3.17	CONTRADICTION
+6913	Mężczyzna w okularach przeciwsłonecznych stoi na trawie , trzymając w rękach podłużną piłkę .	Mężczyzna w okularach przeciwsłonecznych stoi na trawie , trzymając podłużną piłkę .	4.67	ENTAILMENT
+6914	Dwaj chłopcy i jedna dziewczynka chodzą po kamieniach w pobliżu zbiornika wodnego .	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebieskie stroje , idą drogą w pobliżu drzew palmowych .	1.17	NEUTRAL
+6925	Dwoje dzieci pochyla się pod barierką i patrzy w dół .	Trzech mężczyzn spędza czas w górach w słoneczny dzień .	0.17	NEUTRAL
+6942	Dwójka dzieci robi orły na śniegu .	Dwóch mężczyzn w zimowych strojach stoi przy obładowanych rzeczami rowerach obok ośnieżonej drogi .	0.67	NEUTRAL
+6961	Chłopiec leży i drugi chłopiec leży .	Dwóch chłopców leży w płytkiej , błotnistej wodzie .	3.33	ENTAILMENT
+6980	Dziewczynka biegnie po drodze obok krzewów i skał .	Biało - czarny pies wyskakuje z wody .	0.17	NEUTRAL
+6994	Psi zaprzęg ciągnie po śniegu mężczyznę unoszącego rękę do góry .	Mężczyźni w sportowych strojach przepychają się na trawie podczas gry w rugby .	0.33	NEUTRAL
+6996	Chłopiec w kaloszach stoi przy białej barierce z wędką w lewej ręce , prawą trzymając wyciągniętą przed siebie .	Dziewczynka w białej sukience idzie po trawie .	0.0	NEUTRAL
+7001	Mężczyzna robi zdjęcie drugiemu mężczyźnie , który stoi pośród kobiet w ozdobnych sukniach z pióropuszami na głowach .	Ubrani na biało mężczyźni w ochraniaczach na nogach rozgrywają mecz na trawie .	0.33	NEUTRAL
+7002	Dziewczynka w fioletowej koszulce leży na trawie z rękami pod głową .	Dziewczynka w różowej bluzce leży na trawie z rękami , które są założone za głowę .	3.67	NEUTRAL
+7006	Umięśniony mężczyzna w czerwonych spodenkach biega na bieżni .	Mały chłopiec w kapeluszu biegnie po bieżni .	2.5	NEUTRAL
+7007	Dwoje dzieci w czerwonych koszulkach bawi się w stercie liści , a kolejne dwoje dzieci biegnie w ich stronę .	Mężczyzna w okularach narciarskich patrzy przed siebie , za nim dwie osoby zeskakują na nartach z górki .	0.0	NEUTRAL
+7030	Dziecko wykonuje skok na deskorolce na moście .	Skok na deskorolce jest wykonywany na moście przez dziecko .	4.67	ENTAILMENT
+7036	Chłopiec kuca , trzymając sito , w którym jest mały wąż .	Chłopiec siedzi , trzymając siatkę z niewielkim wężem .	3.17	NEUTRAL
+7042	Chłopiec leży na trawie , dotykając nogą podłużnej piłki .	Chłopiec ubrany w biało - zielony strój leży na trawie , dotykając nogą podłużnej piłki .	3.83	ENTAILMENT
+7049	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a piłka jest łapana przez otyłego gracza za nim w rękawicach .	Gracz krykieta w białym stroju stoi na trawie z ugiętymi kolanami , trzymając kij , a otyły gracz za nim łapie piłkę w rękawice .	5.0	ENTAILMENT
+7054	Opalony mężczyzna w kolorowych spodenkach płynie na desce tuż obok wysokiej fali .	Ciemnowłosy chłopiec ubrany w biało - zielony strój biegnie po trawniku .	0.17	NEUTRAL
+7071	Rozebrany chłopiec moczy się w wodzie z fontanny .	Kobieta zadaje cios nogą mężczyźnie podczas walki na ringu .	0.0	NEUTRAL
+7082	Chłopiec leży na trawie , dotykając nogą podłużnej piłki .	Duży terenowy samochód stoi w leśnej okolicy częściowo zanurzony w wodzie .	0.0	NEUTRAL
+7119	Uśmiechnięta dziewczynka robi mostek na trawie .	Mężczyzna grający na kontrabasie stoi przy ogrodzeniu niedaleko dużej fontanny .	0.0	NEUTRAL
+7127	Ciemnoskóry koszykarz z tatuażami na ciele odbija piłkę obok niższego od siebie koszykarza .	Chłopak w kasku stoi na boisku z uniesionym kijem baseballowym .	0.17	NEUTRAL
+7145	Cztery dziewczynki wykonują mostek na trawie , która jest pokryta zeschłymi liśćmi .	Cztery dziewczynki wykonują mostek na trawie pokrytej zeschłymi liśćmi .	5.0	ENTAILMENT
+7166	Osoba biegnie .	Zawodnicy w pobliżu piłki przepychają się między sobą na boisku .	0.5	NEUTRAL
+7168	Chłopak w szarej bluzie stoi przy ogrodzeniu niedaleko dużej fontanny .	Dziewczynka w jasnej sukience stoi przy ogrodzeniu niedaleko dużej fontanny .	3.5	NEUTRAL
+7170	Trójka dzieci zbiega z górki .	Trójka dzieci zbiega po trawie z wysokiej górki .	4.33	ENTAILMENT
+7174	Mały chłopiec przytrzymuje ręką przewróconego przed nim drugiego chłopca .	Uśmiechnięty chłopiec o przemoczonych włosach trzyma w rękach duży , niebieski parasol .	1.0	NEUTRAL
+7182	W mieście , w pobliżu wysokich budynków , duża grupa ludzi jeździ na łyżwach na lodowisku .	Duża grupa dzieci siedzi na podłodze , patrząc w jednym kierunku .	0.33	NEUTRAL
+7189	Dziewczynka dmucha w zestaw do robienia baniek trzymany przez inne dziecko .	Bańki mydlane są wydmuchiwane przez jasnowłosą dziewczynkę przez kółko , które dziewczynce podstawia chłopiec .	3.17	ENTAILMENT
+7231	Mały chłopiec w kapeluszu biegnie na plaży .	Nikt nie biegnie boso po bardzo płytkiej wodzie .	1.0	NEUTRAL
+7239	Dziecko w zimowym stroju bawi się zabawkowym sprzętem do hokeja na dworze .	Mężczyzna grający na kontrabasie stoi na trawie , pochylając się z plastikowym kijem hokejowym w ręce .	0.83	NEUTRAL
+7242	Młody chłopak wykonuje skok z deskorolką nad schodami .	Skok z deskorolką nad schodami jest wykonywany przez młodego chłopaka .	5.0	ENTAILMENT
+7253	Kobieta stojąca za ogrodzeniem obserwuje rozgrywający się na boisku mecz baseballowy .	Dwie osoby w kaskach stoją wśród dużej ilości kwiatów , podpierając się na kierownicy hulajnogi .	0.67	NEUTRAL
+7279	Uśmiechnięta dziewczynka w żółtej sukience leży wśród kwiatów , które są porozrzucane wokół niej .	Uśmiechnięta dziewczynka w żółtej sukience leży wśród porozrzucanych wokół niej kwiatów .	5.0	ENTAILMENT
+7309	Nikt nie wykonuje skoku na deskorolce w pobliżu boisk do koszykówki .	Mężczyzna wykonuje skok na deskorolce w pobliżu boisk do koszykówki .	3.83	CONTRADICTION
+7310	Człowiek skacze ze schodów na deskorolce , obserwowany przez mężczyznę w garniturze .	Skok na deskorolce jest wykonywany nad zieloną beczką przez chłopaka .	2.5	NEUTRAL
+7318	Dziewczynka w koszulce w paski leży z rozłożonymi rękami i nogami wśród kwiatów .	Dziewczynka w żółtej sukience leży z rozłożonymi rękami i nogami wśród kwiatów .	4.0	NEUTRAL
+7337	Dwaj chłopcy biegną po wysokiej trawie w słoneczny dzień .	Dwaj chłopcy biegną po trawie w słoneczny dzień .	4.67	NEUTRAL
+7341	Nikt nie gra w piłkarzyki pod daszkiem .	Dwóch ciemnoskórych chłopców gra w piłkarzyki pod daszkiem .	2.83	CONTRADICTION
+7362	Skok jest wykonywany w pobliżu boiska do koszykówki przez człowieka z deskorolką .	Człowiek z deskorolką wykonuje skok w pobliżu boiska do koszykówki .	5.0	ENTAILMENT
+7363	Osoba w kasku wspina się po piachu , pchając motor , wspomagana przez drugiego człowieka .	Chłopak wykonuje skok na deskorolce na ulicy .	0.17	NEUTRAL
+7364	Chłopiec w czerwonym kasku odbija kijem małą białą piłkę na boisku .	Trójka zawodników na boisku podskakuje w kierunku lecącej do bramki podłużnej piłki .	1.83	NEUTRAL
+7400	Dziecko biegnie boso po lśniącej podłodze .	Dziecko w pidżamie biegnie jasno oświetlonym korytarzem .	2.5	NEUTRAL
+7409	Mężczyzna wykonuje skok na deskorolce na pochylni obok ogrodzenia .	Człowiek skacze z deskorolką nad wzniesieniem pod siatką .	3.67	NEUTRAL
+7424	Zabarwione na zielono języki są wystawiane przez dwóch chłopców w czapkach z daszkiem .	Dwaj chłopcy w czapkach z daszkiem pokazują zabarwione języki .	3.83	NEUTRAL
+7426	Kobieta sadza malutkie dziecko na deskorolce na kamienistej plaży .	Mężczyzna przejeżdża na nartach biegowych , spoglądając na ustawione obok obrazy .	0.17	NEUTRAL
+7427	Dwójka dzieci robi orły na śniegu .	Chłopiec leży , a obok leży piłka .	0.67	NEUTRAL
+7438	Dwóch chłopców biegnie .	Dwaj chłopcy biegną po trawie w słoneczny dzień .	3.67	ENTAILMENT
+7469	Chłopak w niebieskim stroju , obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	Chłopak w niebieskim stroju , który jest obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	5.0	ENTAILMENT
+7474	Na plaży kobieta stawia małe dziecko na deskorolce .	Małe dziecko jest stawiane na plaży na deskorolce przez kobietę .	5.0	ENTAILMENT
+7475	Człowiek w pasiastej bluzie nie idzie chodnikiem , trzymając w ręce deskorolkę .	Człowiek w pasiastej bluzie idzie chodnikiem , trzymając w ręce deskorolkę .	3.67	CONTRADICTION
+7477	Chłopiec w zielonym sportowym stroju biegnie po trawie .	Chłopiec w zielono - białym sportowym stroju biegnie po trawie .	4.0	NEUTRAL
+7492	Jedna osoba siedzi na podwyższeniu , a chłopiec przewraca się u jej stóp .	Jeden elegancko ubrany chłopiec siedzi na podwyższeniu , a drugi chłopiec przewraca się u jego stóp .	3.67	ENTAILMENT
+7520	Człowiek w sportowym stroju stoi na piasku z ugiętymi kolanami i robi zamach ręką , w której trzyma piłkę .	Mężczyzna w sportowym stroju i kasku biegnie po boisku z ręką ułożoną do odbicia lecącej piłki , a dalej biegnie drugi mężczyzna w bluzce w paski .	1.83	NEUTRAL
+7522	Kolorowy pistolet na wodę jest trzymany w ręce przez mokrego chłopca .	Chłopiec w czarnej bluzie trzyma pistolet na wodę i sam też jest polewany wodą .	3.33	NEUTRAL
+7526	Mostek jest wykonywany jednocześnie w pobliżu lasu przez cztery uśmiechające się osoby .	Cztery dziewczynki wykonują mostek na trawie pokrytej zeschłymi liśćmi .	3.67	NEUTRAL
+7542	Żadna dziewczynka nie wchodzi po drabinie , na której stoi wyżej dorosła osoba .	Dziewczynka i chłopiec stoją na trawie , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	0.67	NEUTRAL
+7551	Mały chłopiec w kapeluszu biegnie boso po bardzo płytkiej wodzie .	Nikt nie biegnie z numerem startowym na biodrach .	0.5	NEUTRAL
+7560	Jeden chłopiec biegnie po trawie w stronę piłki , a drugi chłopiec stoi obok .	Dziecko w zielonych butach biegnie przez kałużę na ulicy .	1.17	NEUTRAL
+7579	Nikt nie jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	Młody chłopak w czerwonych butach pokonuje przeszkodę na deskorolce .	2.17	CONTRADICTION
+7586	Kibice na trybunie obserwują , jak mężczyzna z tatuażami na rękach wrzuca piłkę do kosza .	Młody chłopak w czerwonych butach pokonuje przeszkodę na deskorolce .	0.33	NEUTRAL
+7587	Chłopiec leży na trawie , dotykając nogą podłużnej piłki .	Chłopiec leży , a obok niego leży piłka .	3.83	NEUTRAL
+7623	Chłopiec biegnie w kierunku dwóch innych chłopców bawiących się przy stosie pożółkłych liści .	Chłopiec biegnie w kierunku dwóch innych chłopców , którzy bawią się przy stosie pożółkłych liści .	5.0	ENTAILMENT
+7642	Mężczyzna z ochraniaczami na nogach stoi na trawie na stromej górze .	Mężczyzna z ochraniaczami na nogach stoi na trawie w rozkroku .	4.0	NEUTRAL
+7645	Mężczyzna z dużym brzuchem stoi obok czarnego samochodu terenowego .	Dziewczynka i chłopiec stoją na trawie , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	0.67	NEUTRAL
+7654	Dziewczynka w różowej bluzce leży na trawie z założonymi za głowę rękami .	Dziewczynka w fioletowej koszulce leży na trawie z rękami pod głową .	3.17	NEUTRAL
+7681	Ciemnowłosy chłopiec , który jest ubrany w biało - zielony strój , biegnie po trawniku .	Chłopiec w zielono - białym sportowym stroju biegnie po trawie .	4.33	NEUTRAL
+7692	Mężczyzna w kapeluszu siedzi , a dziewczynka stoi w basenie z kolorowymi kulami .	Dwie dziewczynki bawią się w basenie z kolorowymi piłkami .	2.17	NEUTRAL
+7694	Młoda kobieta o jasnych włosach wykonuje skok z deskorolką .	Kobieta w różowej koszulce i czarnych spodniach wykonuje skok na deskorolce .	2.67	NEUTRAL
+7705	Uśmiechnięta dziewczynka robi mostek na trawie .	Na zaśmieconej trawie stoi kanapa , a na niej siedzi mężczyzna .	0.67	NEUTRAL
+7709	Osoba w kasku biegnie w pobliżu dziewczyny z piłką w rękawicy baseballowej .	Osoba biegnie .	2.83	NEUTRAL
+7711	Skośnooka dziewczyna siedzi na grzbiecie siwego mężczyzny , trzymając w rękach kolorowy wiatrak .	Mężczyzna w białym stroju patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	0.83	NEUTRAL
+7719	Dwoje ciemnoskórych dzieci biega po chodniku .	Dwoje ciemnoskórych dzieci biega po piasku .	3.83	NEUTRAL
+7721	Mężczyzna w sportowych spodenkach biegnie po bieżni .	Nikt nie biegnie po bieżni .	3.0	CONTRADICTION
+7724	Kilka osób biegnie po torach wyrysowanych żółtymi liniami na trawie .	Dwa wielbłądy znajdują się na plaży , a na jednym z nich siedzi dwójka dzieci .	0.17	NEUTRAL
+7733	Jedna dziewczynka siedzi , a inna osoba trzymająca deskę stoi w basenie z kolorowymi kulami .	Jedna dziewczynka siedzi , a druga dziewczynka stoi w basenie z kolorowymi kulami .	3.67	NEUTRAL
+7734	Chłopak bez koszulki wykonuje skok na deskorolce nad schodkami obok budynku .	Skok na deskorolce jest wykonywany w mieście przez człowieka w kasku i ochraniaczach .	3.33	NEUTRAL
+7744	Dwaj mężczyźni w kaskach budowlanych siedzą naprzeciwko siebie na elemencie konstrukcyjnym budynku .	Cztery dziewczynki wykonują mostek na trawie pokrytej zeschłymi liśćmi .	0.0	NEUTRAL
+7745	Mała dziewczynka wchodzi po drabinie , na której stoi wyżej dorosła osoba .	Osoba w niebieskich spodniach stoi na metalowej drabinie , po której wspina się małe dziecko .	3.5	NEUTRAL
+7753	Mężczyzna w sportowym stroju stoi na ugiętej nodze na boisku , drugą nogę wystawiając do tyłu .	Mężczyzna i dwie kobiety siedzą jedno za drugim na motocyklu .	0.17	NEUTRAL
+7763	Chłopak w niebieskim stroju , obserwowany przez dwóch innych chłopaków z deskorolkami , wykonuje na schodach skok na deskorolce .	Skok na deskorolce jest wykonywany na schodach przez chłopaka w niebieskim stroju , obserwowanego przez dwóch innych chłopaków z deskorolkami .	4.83	ENTAILMENT
+7767	Dziewczynka w papierowej czapeczce zdmuchuje świeczki na torcie , a obok stoją dwie inne dziewczynki i kobieta .	Dziewczynka , w towarzystwie dwóch innych dziewczynek przy stole , nie pochyla się nad tortem z trzema świeczkami .	2.67	NEUTRAL
+7772	Dziewczynka siedzi na ramionach mężczyzny i trzyma w rękach wiatraczek .	Dziewczynka , siedząc na ramionach mężczyzny , trzyma w rękach wiatraczek .	4.67	ENTAILMENT
+7784	Dziewczynka o jasnych włosach w kolorowej sukience stoi wśród białych kwiatów .	Drugi gracz stoi na łące .	0.83	NEUTRAL
+7787	Dziecko w zielonych butach biegnie przez kałużę na ulicy .	Dziecko w zielonych butach biegnie po kałuży .	4.17	NEUTRAL
+7798	Dziewczynka w białej sukience stoi przed ogrodzoną fontanną .	Dziewczynka w jasnej sukience stoi przy ogrodzeniu niedaleko dużej fontanny .	3.67	NEUTRAL
+7804	Chłopiec przejeżdża przez czerwony most na deskorolce .	Skok na deskorolce jest wykonywany na moście przez dziecko .	3.0	NEUTRAL
+7825	Jasnowłosa dziewczynka w sukience w kwiaty stoi na łące .	Biała kaczka stoi na łące .	1.0	NEUTRAL
+7843	Nikt nie wyskakuje z okna na parterze budynku obok młyna .	Młody człowiek wyskakuje z okna na parterze budynku obok młyna .	3.83	CONTRADICTION
+7855	Chłopak w kraciastej koszuli skacze z deskorolką na duży głaz .	Uśmiechnięty chłopiec zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	0.17	NEUTRAL
+7867	Dziewczynka dmucha w zestaw do robienia baniek trzymany przez inne dziecko .	Mały chłopiec siedzi na podłodze , patrząc w jednym kierunku .	0.83	NEUTRAL
+7868	Dziewczynka w białej sukience nie idzie po trawie .	Dziewczynka w białej sukience idzie po trawie .	3.17	CONTRADICTION
+7869	Kobieta sadza malutkie dziecko na deskorolce na kamienistej plaży .	Malutkie dziecko jest sadzane na deskorolce na kamienistej plaży przez kobietę .	5.0	ENTAILMENT
+7900	Zawodnicy walczą o piłkę nożną na boisku z dużą liczbą kibiców na trybunach .	Zawodnicy walczą o piłkę na boisku z dużą ilością kibiców na trybunach .	4.83	ENTAILMENT
+7925	Chłopak bez koszulki wykonuje skok na deskorolce nad schodkami obok budynku .	Skok z deskorolką nad schodami jest wykonywany przez młodego chłopaka .	3.33	NEUTRAL
+7933	Nikt nie jedzie po ulicy na deskorolce , trzymając ręce w górze .	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z uniesionymi rękami .	3.17	CONTRADICTION
+7938	Dziecko biegnie boso po lśniącej podłodze .	Dziecko w szarym płaszczyku biegnie boso po lśniącej podłodze .	4.0	ENTAILMENT
+7954	Kobieta biegnie za chłopcem .	Kobieta biegnie za małym uśmiechniętym chłopcem .	4.33	ENTAILMENT
+7962	Chłopak bez koszulki wykonuje skok na deskorolce nad schodkami obok budynku .	Skok na deskorolce jest wykonywany nad schodkami obok budynku przez chłopaka bez koszulki .	5.0	ENTAILMENT
+7968	Ciemnoskóre dziewczynki w chustach na głowach i kolorowych sukienkach stoją blisko siebie .	Dzieci w ciemnych okularach stoją blisko siebie .	1.33	NEUTRAL
+7975	Dwóch ciemnoskórych chłopców gra w piłkarzyki pod daszkiem .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy czerwono - niebieskim stole do gry .	3.17	ENTAILMENT
+7978	Dziewczynka siedzi na ramionach mężczyzny i trzyma w rękach wiatraczek .	Chłopiec siedzi .	0.83	NEUTRAL
+7980	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	Piłkarz kopie piłkę w kierunku bramki , obserwowany z daleka przez resztę drużyny .	2.0	NEUTRAL
+7996	Dziecko w czerwonej kurtce trzyma w rękach grudę śniegu .	Cztery dziewczynki bawią się na trampolinie ustawionej na śniegu .	1.17	NEUTRAL
+7999	Troje jasnowłosych dzieci zbiega po trawiastym zboczu .	Troje dzieci zbiega po trawiastym zboczu .	4.17	NEUTRAL
+8009	Nikt nie pokonuje przeszkody na deskorolce .	Młody chłopak w czerwonych butach pokonuje przeszkodę na deskorolce .	3.17	CONTRADICTION
+8023	Rudy chłopiec przytrzymuje leżącą na trawie osobę , inny chłopiec stoi obok z wyciągniętą przed siebie ręką , a kolejne dziecko klęczy , podrzucając rozrzucony dookoła papier toaletowy .	Dwoje dzieci patrzy na dwójkę innych dzieci , które przepychają się na trawie wśród porozrzucanych białych papierów .	2.17	NEUTRAL
+8039	Mężczyzna w sportowych spodenkach biegnie po bieżni .	Mężczyzna biega .	3.17	NEUTRAL
+8046	Chłopiec w czarnej bluzie trzyma pistolet na wodę i sam też jest polewany wodą .	Mokry chłopiec trzyma w ręce kolorowy pistolet na wodę .	3.5	NEUTRAL
+8056	Chłopiec czyta książeczkę na zatłoczonym placu handlowym .	Książeczka jest czytana przez chłopca na zatłoczonym placu handlowym .	5.0	ENTAILMENT
+8067	Dwie młode osoby przejeżdżają przez górski teren na wielbłądach .	Dziewczynka o jasnych włosach stoi na różowej deskorolce .	0.17	NEUTRAL
+8068	Dwóch chłopców leży .	Dwóch chłopców leży w płytkiej , błotnistej wodzie .	3.67	ENTAILMENT
+8071	Jasnowłosa dziewczynka w sukience w kwiaty stoi na łące .	Czarnowłosa kobieta w zielonym stroju jedzie na wrotkach .	0.67	NEUTRAL
+8075	Dziewczynka w różowej bluzce leży na trawie z założonymi za głowę rękami .	Mężczyzna z dzieckiem w nosidełku i mężczyzna z dzieckiem na grzbiecie stoją w pobliżu stromych skał .	0.33	NEUTRAL
+8082	Piłka jest trzymana podczas meczu futbolowego przez jednego zawodnika w górze , a drugi zawodnik przewraca się na niego .	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	1.17	NEUTRAL
+8085	Chłopak w kasku stoi na boisku obok mężczyzny w garniturze , który gra na skrzypcach .	Chłopiec w sportowym stroju i kasku stoi na piasku przed ogrodzeniem , trzymając kij baseballowy .	2.5	NEUTRAL
+8091	Skok na deskorolce jest wykonywany na moście przez dziecko .	Mężczyzna wykonuje skok na deskorolce w pobliżu boisk do koszykówki .	1.5	NEUTRAL
+8126	Chłopak w czapce przejeżdża na deskorolce po rurze przylegającej do budynku .	Chłopak w czapce wykonuje skok na deskorolce pod ścianą budynku .	3.5	NEUTRAL
+8152	Dziewczynka z doczepionymi różowymi włosami stoi przy ogrodzeniu niedaleko dużej fontanny .	Dziewczynka w białej sukience stoi przed ogrodzoną fontanną .	2.67	NEUTRAL
+8159	Mała dziewczynka w różowej pelerynie trzyma w rękach kolorową rakietę tenisową .	Rakieta do tenisa jest trzymana przez dziewczynkę w pomarańczowej sukience w białe kwiaty .	3.17	NEUTRAL
+8168	Ciepło ubrane dziecko stoi na trawie , pochylając się z plastikowym kijem hokejowym .	Dziecko w zimowym stroju bawi się zabawkowym sprzętem do hokeja na dworze .	4.0	NEUTRAL
+8169	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę i rajstopy w paski siedzi z telefonem komórkowym przy uchu .	Mały chłopiec przytrzymuje ręką przewróconego przed nim drugiego chłopca .	0.0	NEUTRAL
+8171	Dwaj chłopcy i jedna dziewczynka chodzą po kamieniach w pobliżu zbiornika wodnego .	Trójka dzieci chodzi po kamieniach nad brzegiem wody , w pobliżu cumującego promu .	3.5	NEUTRAL
+8179	Dziewczynka dmucha w zestaw do robienia baniek trzymany przez inne dziecko .	Dziewczynka dmucha w zestaw do robienia baniek , który jest trzymany przez inne dziecko .	4.67	ENTAILMENT
+8186	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki .	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą porozrywane papiery do pakowania prezentów .	4.33	ENTAILMENT
+8206	Trójka zawodników na boisku podskakuje w kierunku lecącej podłużnej piłki .	Trójka zawodników podskakuje .	3.5	NEUTRAL
+8237	Kilka osób w sportowych strojach , obserwowanych przez widownię spod drzew , ściga się na trawie .	Trzy ciężarówki ścigają się na torze .	0.5	NEUTRAL
+8254	Kilka osób biegnie po torach wyrysowanych żółtymi liniami na trawie .	Dziecko zwrócone plecami do kobiety i dwóch chłopców siedzących wcześniej na karuzeli biegnie z numerami startowymi na biodrach .	1.5	NEUTRAL
+8267	Rudy chłopiec w kapeluszu biegnie na plaży .	Chłopiec i dziewczynka w strojach kąpielowych i dmuchanych rękawkach biegną boso po chodniku polewanym wodą .	0.83	NEUTRAL
+8289	Mężczyzna w okularach przeciwsłonecznych stoi na trawie , trzymając w rękach podłużną piłkę .	Mężczyzna w czerwonej czapce przejeżdża na rolkach obok parku .	0.5	NEUTRAL
+8301	Mężczyźni w białych ubraniach przepychają się na trawie podczas gry w rugby .	Mężczyźni w sportowych strojach przepychają się na trawie podczas gry w rugby .	4.17	NEUTRAL
+8303	Kobieta trenuje bieganie .	Kobieta ze słuchawkami na uszach trenuje bieganie .	3.83	ENTAILMENT
+8311	Kobieta w skąpym sportowym stroju biegnie w maratonie .	Żadna kobieta nie biegnie w maratonie .	2.83	CONTRADICTION
+8316	Chłopak w czapce przejeżdża na deskorolce po rurze przylegającej do budynku .	Skok na deskorolce jest wykonywany pod ścianą budynku przez chłopaka w czapce .	3.33	NEUTRAL
+8320	Chłopak w kolorowych spodenkach kąpielowych podskakuje na piasku z ręką wyprostowaną w kierunku piłki .	Chłopiec i trzy dziewczynki w mundurkach idą , niosąc zeszyty .	0.33	NEUTRAL
+8334	Nikt nie biegnie przed patrzącą na niego kobietą .	Kobieta biegnie za małym uśmiechniętym chłopcem .	2.83	CONTRADICTION
+8341	Kilka osób biegnie po torach wyrysowanych żółtymi liniami na trawie .	Kilka osób w sportowych strojach , obserwowanych przez widownię spod drzew , ściga się na trawie .	2.83	NEUTRAL
+8345	Trójka dzieci chodzi po kamieniach nad brzegiem wody , w pobliżu cumującego promu .	Trójka dzieci nie chodzi po kamieniach nad brzegiem wody , w pobliżu cumującego promu .	3.67	CONTRADICTION
+8372	Ciemnoskóre dziewczynki w chustach na głowach i kolorowych sukienkach stoją blisko siebie .	Dziewczynki w kolorowych strojach i chustach na głowach stoją w dużej grupie .	3.17	NEUTRAL
+8376	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą porozrywane papiery do pakowania prezentów .	Chłopiec w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki wśród porozrzucanych kolorowych papierów .	4.33	NEUTRAL
+8381	Mały chłopiec w kapeluszu biegnie boso po bardzo płytkiej wodzie .	Kobieta w sportowym stroju i słuchawkach biegnie po plaży .	1.0	NEUTRAL
+8385	Dziewczynka w koszulce w paski robi mostek na trawie .	Chłopak w zimowym stroju i czapce z żółtą ozdobą wykonuje skok na snowboardzie wśród drzew .	0.33	NEUTRAL
+8403	Chłopiec , trzymając duży niebieski parasol , uśmiecha się .	Chłopiec kuca , trzymając sito , w którym jest mały wąż .	0.5	NEUTRAL
+8405	Chłopiec , trzymając duży , niebieski parasol , uśmiecha się .	Chłopiec trzyma duży , niebieski parasol i uśmiecha się .	5.0	ENTAILMENT
+8430	Mała dziewczynka w różowej pelerynie trzyma w rękach kolorową rakietę tenisową .	Człowiek płynie w wodzie niedaleko niebieskiej łodzi .	0.0	NEUTRAL
+8446	Umięśniony mężczyzna w czerwonych spodenkach biega na bieżni .	Mężczyzna biega .	3.5	NEUTRAL
+8456	Dziewczynka o jasnych włosach w kolorowej sukience stoi wśród białych kwiatów .	Dziewczynka o jasnych włosach w białej sukience stoi wśród białych kwiatów .	3.83	NEUTRAL
+8473	Ciepło ubrane dziecko stoi obok innych dzieci .	Trójka dzieci z parasolami nad głową stoi obok siebie .	1.83	NEUTRAL
+8475	Uśmiechnięta kobieta stoi w pobliżu dwóch osób siedzących na skuterach śnieżnych .	Trójka dzieci z parasolami nad głową stoi obok siebie .	0.33	NEUTRAL
+8476	Dziewczynka wchodzi po drabinie .	Mała dziewczynka wchodzi po drabinie , na której stoi wyżej dorosła osoba .	3.17	ENTAILMENT
+8484	Mały chłopiec patrzy , jak inna osoba ustawia drewniane klocki .	Mały chłopiec patrzy , jak inna osoba ustawia małe , drewniane klocki .	4.5	ENTAILMENT
+8504	Dziewczynka w pomarańczowej sukience w białe kwiaty trzyma rakietkę do tenisa , stojąc na chodniku przed domem .	Dziewczynka i chłopiec stoją w pobliżu łodzi , wyciągając ręce , inna dziewczynka stoi obok , a za nimi stoi mężczyzna .	0.83	NEUTRAL
+8508	Żadna kobieta nie biegnie po chodniku .	Kobieta ze słuchawkami na uszach trenuje bieganie .	2.67	NEUTRAL
+8546	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w ręku , a dalej biegnie drugi mężczyzna w bluzce w paski .	Zawodnik z piłką , biegnąc po boisku , skręca w prawą stronę .	2.33	NEUTRAL
+8551	Osoba w czarno - różowym stroju jedzie na monocyklu w czasie parady .	Mężczyzna wykonuje skok na deskorolce w pobliżu boisk do koszykówki .	0.17	NEUTRAL
+8562	Zabarwione języki są pokazywane przez dwóch chłopców w czapkach z daszkiem .	Dwóch chłopców w czapkach z daszkiem wystawia zabarwione na zielono języki .	4.67	ENTAILMENT
+8570	Dziewczynka z bosymi stopami wchodzi do góry po długich schodach .	Dwoje ciemnoskórych dzieci biega po piasku .	0.17	NEUTRAL
+8574	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na nogach , które są zgięte , trzymając za plecami grubą pałkę .	Mężczyzna z ochraniaczami na nogach stoi na trawie w rozkroku .	2.33	NEUTRAL
+8597	Dziecko w pomarańczowej kurtce z kapturem na głowie trzyma w rękach bryłę śniegu .	Dziecko w czerwonej kurtce trzyma w rękach grudę śniegu .	4.0	NEUTRAL
+8603	Mężczyzna z torbą i dużą teczką jedzie na deskorolce po chodniku .	Mężczyzna o długich włosach z torbami na ramionach jedzie na deskorolce po chodniku .	3.33	NEUTRAL
+8608	Dziewczynka w koszulce w paski robi mostek na trawie .	Mostek jest robiony na trawie przez uśmiechniętą dziewczynkę .	3.67	NEUTRAL
+8640	Człowiek wjeżdża na kamień na deskorolce .	Deskorolka jest niesiona przez mężczyznę w bluzce w paski .	1.0	NEUTRAL
+8647	Dwie dziewczynki opierają się o dach , chłopiec wspina się na niego , a dziewczynka stoi .	Jeden elegancko ubrany chłopiec siedzi na podwyższeniu , a drugi chłopiec przewraca się u jego stóp .	0.83	NEUTRAL
+8662	Chłopak wykonuje skok na deskorolce na ulicy .	Człowiek skacze na deskorolce obok biało - czerwonego słupka .	3.5	NEUTRAL
+8673	Chłopiec czyta książeczkę na zatłoczonym placu handlowym .	Chłopiec czyta książeczkę na placu handlowym , który jest zatłoczony .	5.0	ENTAILMENT
+8677	Inne dzieci wspinają się po stromej powierzchni w kierunku pomnika .	Dzieci wspinają się po stromej powierzchni w kierunku pomnika .	4.33	ENTAILMENT
+8719	Dziewczynka dmucha w zestaw do robienia baniek trzymany przez inne dziecko .	Kilka kolorowo ubranych osób tańczy z uniesionymi rękami .	0.33	NEUTRAL
+8724	Cztery dziewczynki w kaskach siedzą na quadzie .	Mężczyzna w okularach patrzy w kierunku stojących niedaleko uśmiechających się dzieci .	0.33	NEUTRAL
+8733	Mężczyzna w sportowych spodenkach biegnie po bieżni .	Nikt nie biegnie na plaży .	1.33	NEUTRAL
+8734	Żadna osoba nie stoi na metalowej drabinie , po której wspina się małe dziecko .	Mała dziewczynka wchodzi po drabinie , na której stoi wyżej dorosła osoba .	3.0	NEUTRAL
+8743	Dziecko w kurtce biegnie wśród leżących na ziemi pożółkłych liści .	Dziecko w kurtce nie biegnie wśród leżących na ziemi pożółkłych liści .	3.5	CONTRADICTION
+8757	Chłopak w niebieskiej koszulce , obserwowany przez ciemnoskórego chłopaka , skacze z deskorolką w pobliżu schodów .	Człowiek na deskorolce przeskakuje nad niebieską beczką ustawioną na wzniesieniu .	2.33	NEUTRAL
+8771	Trójka zawodników na boisku podskakuje w kierunku lecącej podłużnej piłki .	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	2.83	NEUTRAL
+8778	Dziecko w kurtce biegnie wśród leżących na ziemi pożółkłych liści .	Dziecko w kasku , okularach i pomarańczowej kurtce biegnie wśród leżących na ziemi pożółkłych liści .	3.83	ENTAILMENT
+8783	Dziewczynki w kolorowych strojach i chustach na głowach stoją w dużej grupie .	Kobiety w pomarańczowych fartuchach i z kwiatami na szyi stoją blisko siebie .	1.5	NEUTRAL
+8785	Troje dzieci nie stoi pod różnokolorowymi parasolami przed sceną na placu .	Troje dzieci stoi pod różnokolorowymi parasolami przed sceną na placu .	3.67	CONTRADICTION
+8819	Dwóch chłopców stoi .	Dwóch ciemnoskórych chłopców stoi pod niewielkim daszkiem przy czerwono - niebieskim stole do gry .	3.5	ENTAILMENT
+8822	Nikt nie pokazuje zabarwionych języków .	Dwaj chłopcy w czapkach z daszkiem pokazują zabarwione języki .	3.5	CONTRADICTION
+8823	Chłopiec w czepku i kostiumie kąpielowym stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą porozrywane papiery do pakowania prezentów .	Chłopiec w szlafroku stoi obok choinki , trzymając miecz świetlny , a na podłodze leżą porozrywane papiery do pakowania prezentów .	4.33	NEUTRAL
+8831	Skok na deskorolce jest wykonywany w pobliżu boisk do koszykówki przez mężczyznę .	Mężczyzna wykonuje skok na deskorolce w pobliżu boisk do koszykówki .	4.67	ENTAILMENT
+8849	Ciemnoskóre dziewczynki w chustach na głowach i kolorowych sukienkach stoją blisko siebie .	Dwie dziewczynki bawią się .	2.0	NEUTRAL
+8854	Chłopiec w białym sportowym stroju biegnie po trawie .	Chłopiec w zielonym stroju biegnie po murku .	2.17	NEUTRAL
+8856	Chłopiec trzyma duży parasol i uśmiecha się .	Chłopiec trzyma duży , niebieski parasol i uśmiecha się .	4.17	ENTAILMENT
+8859	Kobieta w pomarańczowym stroju odbija kijem małą , białą piłkę .	Dwie dziewczynki bawią się w basenie z kolorowymi piłkami .	0.5	NEUTRAL
+8863	Kobieta w białej kurtce robi zdjęcie małym aparatem .	Kobieta w kasku i sportowym stroju stoi w rozkroku obok lecącej piłki , trzymając kij , obserwowana zza ogrodzenia przez inne kobiety .	1.33	NEUTRAL
+8886	Mężczyźni stoją na plaży zwróceni w kierunku dwóch idących nad wodą kobiet .	Uśmiechnięta dziewczynka w różowej kurtce stoi wśród rozrzuconych zeschniętych liści .	0.33	NEUTRAL
+8893	Cztery spożywające posiłki osoby wykonują jednocześnie mostek w pobliżu lasu .	Cztery uśmiechające się osoby wykonują jednocześnie mostek w pobliżu lasu .	3.5	NEUTRAL
+8895	Zabarwione na zielono języki są wystawiane przez dwóch chłopców w czapkach z daszkiem .	Dwóch chłopców w czapkach z daszkiem wystawia zabarwione na zielono języki .	5.0	ENTAILMENT
+8911	Zawodnicy w pobliżu kolorowej piłki przepychają się między sobą na boisku .	Mężczyźni w sportowych strojach przepychają się na trawie podczas gry w rugby .	3.0	NEUTRAL
+8915	Kobieta stojąca za ogrodzeniem obserwuje rozgrywający się na boisku mecz baseballowy .	Kobieta , która stoi za ogrodzeniem , obserwuje rozgrywający się na boisku mecz baseballowy .	5.0	ENTAILMENT
+8917	Człowiek skacze na deskorolce obok białego słupka .	Chłopak wykonuje skok na deskorolce na ulicy .	3.17	NEUTRAL
+8923	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	Chłopiec trzyma drewniany klocek od układanki stojącej na stole obok .	0.0	NEUTRAL
+8927	Chłopak jedzie na deskorolce po niskiej poprzeczce , trzymając ręce w górze .	Młody chłopak w czerwonych butach pokonuje przeszkodę na deskorolce .	2.67	NEUTRAL
+8931	Widziana od tyłu dziewczynka w żółtej sukience pochyla się w stronę sterty arbuzów leżących na podłodze .	Nikt nie pochyla się nad dużym arbuzem .	2.17	CONTRADICTION
+8932	Chłopiec leży , i piłka też leży .	Chłopiec i trzy dziewczynki w mundurkach idą , niosąc zeszyty .	0.83	NEUTRAL
+8940	Człowiek wjeżdża na kamień na różowej deskorolce .	Mężczyzna bez koszulki jedzie po ulicy na deskorolce , trzymając ręce w górze .	2.17	NEUTRAL
+8946	Osoba biegnie .	Mężczyzna leży na trawie boiska w trakcie rozgrywającego się meczu .	0.33	NEUTRAL
+8955	Zabarwione języki są pokazywane przez dwóch chłopców w czapkach z daszkiem .	Dwaj chłopcy w czapkach z daszkiem pokazują zabarwione języki .	5.0	ENTAILMENT
+8974	Dwóch chłopców biegnie po trawniku w kierunku trzeciego .	Dwaj chłopcy biegną po trawie w słoneczny dzień .	3.17	NEUTRAL
+8988	Dziewczynka siedzi na ramionach mężczyzny i trzyma w rękach wiatraczek .	Dziewczynka siedzi i trzyma wiatraczek .	3.83	NEUTRAL
+8995	Człowiek w kasku i sportowym stroju biegnie po trawie , trzymając piłkę .	Żaden człowiek nie biegnie po trawie , trzymając piłkę .	3.5	CONTRADICTION
+8996	Chłopak wykonuje skok na deskorolce nad zieloną beczką .	Człowiek na deskorolce przeskakuje nad niebieską beczką ustawioną na wzniesieniu .	2.5	NEUTRAL
+9001	Dziewczynki w czerwono - czarnych strojach grają na boisku w piłkę nożną .	Trójka dzieci zbiega po trawie z wysokiej górki .	0.17	NEUTRAL
+9006	Widziana od tyłu dziewczynka w żółtej sukience pochyla się w stronę sterty arbuzów leżących na podłodze .	Dziewczynka , która jest widziana od tyłu , w żółtej sukience pochyla się w stronę sterty arbuzów , które leżą na podłodze .	5.0	ENTAILMENT
+9018	Mały chłopiec w kapeluszu biegnie boso po bardzo płytkiej wodzie .	Mały chłopiec w kapeluszu nie biegnie boso po bardzo płytkiej wodzie .	3.67	CONTRADICTION
+9023	Człowiek skacze ze schodów na deskorolce , obserwowany przez mężczyznę w garniturze .	Skok młodego człowieka z deskorolką jest obserwowany przed budynkiem przez mężczyznę w garniturze .	4.17	ENTAILMENT
+9026	Kobieta w różowej koszulce i czarnych spodniach wykonuje skok na deskorolce .	Samochody wyścigowe jadą blisko siebie po torze .	0.0	NEUTRAL
+9056	Kilka osób w sportowych strojach , które są obserwowane przez widownię spod drzew , ściga się na trawie .	Dwóch chłopców biegnie po trawniku w kierunku trzeciego .	0.83	NEUTRAL
+9065	Bieganie jest trenowane przez kobietę ze słuchawkami na uszach .	Trójka dzieci zbiega po trawie z wysokiej górki .	0.17	NEUTRAL
+9076	Dziecko w czerwonej kurtce jedzie na łyżwach podtrzymywane przez drugą osobę .	Osoba w niebieskich spodniach stoi na metalowej drabinie , po której wspina się małe dziecko .	0.67	NEUTRAL
+9091	Mężczyzna zawieszony na linie wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	Uśmiechnięty chłopiec o przemoczonych włosach trzyma w rękach duży , niebieski parasol .	0.0	NEUTRAL
+9092	Nikt nie biegnie po kałuży .	Dziecko w zielonych butach biegnie przez kałużę na ulicy .	2.83	CONTRADICTION
+9107	Dwie osoby grają w baseball na boisku .	Chłopiec w koszuli i kowbojskim kapeluszu siedzi na brązowym koniu .	0.17	NEUTRAL
+9116	Deskorolka jest niesiona przez mężczyznę w bluzce w paski .	Człowiek w pasiastej bluzie idzie chodnikiem , trzymając w ręce deskorolkę .	3.67	ENTAILMENT
+9132	Dziewięciu wioślarzy płynie łodzią .	Dwoje dzieci wspina się po postumencie pomnika .	0.0	NEUTRAL
+9145	Chłopiec i trzy dziewczynki w kostiumie kąpielowym i czepku idą , niosąc zeszyty .	Chłopiec i trzy dziewczynki w mundurkach idą , niosąc zeszyty .	3.17	NEUTRAL
+9158	Deskorolka jest niesiona przez mężczyznę w bluzce w paski .	Mężczyzna w bluzce w paski niesie deskorolkę , idąc po chodniku z płytkami w kształcie gwiazd .	3.33	ENTAILMENT
+9164	Dziecko z okularami na głowie pływa , trzymając w ręce żółty pistolet wodny .	Człowiek skacze na deskorolce obok biało - czerwonego słupka .	0.67	NEUTRAL
+9182	Ciemnowłosy chłopiec , który jest ubrany w biało - zielony strój , biegnie po trawniku .	Dziewczynka i chłopiec z rękawkami do pływania biegną razem w kierunku pryskającej wody .	1.83	NEUTRAL
+9188	Człowiek na deskorolce przeskakuje nad niebieską beczką , która jest ustawiona na wzniesieniu .	Człowiek na deskorolce przeskakuje nad niebieską beczką ustawioną na wzniesieniu .	5.0	ENTAILMENT
+9201	Trzy kobiety ubrane w suknie różnych kolorów tańczą na tle rozwieszonej na ścianie flagi .	Dzieci w mundurkach siedzą na podłodze z zeszytami .	0.33	NEUTRAL
+9202	Młody mężczyzna stoi w rozkroku , trzymając małą piłkę w prawej ręce .	Mężczyzna z ochraniaczami na nogach stoi na trawie w rozkroku .	2.5	NEUTRAL
+9212	Chłopiec siedzi , a drugi chłopiec przewraca się .	Mały chłopiec przytrzymuje ręką przewróconego przed nim drugiego chłopca .	2.33	NEUTRAL
+9221	Zawodnicy w pobliżu piłki przepychają się między sobą na koszykarskim boisku .	Zawodnicy w pobliżu piłki przepychają się między sobą na boisku .	4.33	NEUTRAL
+9235	Dwie osoby leżą na śniegu na plecach z rozłożonymi rękami i nogami .	Dwoje ludzi unosi się ze spadochronem nad terenem wodnym .	0.67	NEUTRAL
+9245	Dziewczynka w niebieskim stroju i złotej koronie na głowie kręci kolorowym kołem na wysokości talii .	Żaden chłopiec nie siedzi , trzymając siatkę z niewielkim wężem .	0.0	NEUTRAL
+9248	Kobieta w skąpym sportowym stroju biegnie w maratonie .	Ktoś biegnie w maratonie .	3.17	NEUTRAL
+9255	Człowiek w kasku i ochraniaczach wykonuje skok na deskorolce w mieście .	Skok na deskorolce jest wykonywany w mieście przez człowieka w kasku i ochraniaczach .	5.0	ENTAILMENT
+9262	Dziecko w kurtce biegnie wśród leżących na ziemi pożółkłych liści .	Dziewczynka obserwowana przez drugą dziewczynkę biegnie po drodze obok krzewów i skał .	0.83	NEUTRAL
+9271	Zawodniczka na boisku próbuje odbić hokejowym kijem lecącą żółtą piłkę .	Zawodniczka na boisku próbuje odbić kijem lecącą żółtą piłkę .	4.33	NEUTRAL
+9276	Umięśniony mężczyzna w czerwonych spodenkach biega na bieżni .	Kobieta biegnie .	2.17	NEUTRAL
+9287	Młoda kobieta o jasnych włosach wykonuje skok z deskorolką .	Młody chłopak w czerwonych butach nie pokonuje przeszkody na deskorolce .	1.83	NEUTRAL
+9289	Osoba w długich włosach z papierosem w ustach stoi przy ulicy , spoglądając na gazetę .	Dziecko w zielonych butach biegnie po kałuży .	0.0	NEUTRAL
+9290	Chłopiec i trzy dziewczynki w mundurkach idą , niosąc zeszyty .	Chłopiec i trzy dziewczyny , wszyscy ubrani w niebiesko - granatowe stroje , idą drogą w pobliżu drzew palmowych .	2.83	NEUTRAL
+9309	Trójka dzieci chodzi po kamieniach nad brzegiem wody , w pobliżu cumującego promu .	Trójka dzieci chodzi po kamieniach .	4.0	NEUTRAL
+9323	Dziecko w pidżamie biegnie jasno oświetlonym korytarzem .	Człowiek wykonuje skok na nartach nad ośnieżonym zboczem w górach .	0.33	NEUTRAL
+9350	Dziewczynka w pomarańczowej sukience w białe kwiaty trzyma rakietkę do tenisa , stojąc na chodniku przed domem .	Kolorowa rakieta tenisowa jest trzymana w rękach przez małą dziewczynkę w różowej pelerynie .	1.83	NEUTRAL
+9354	Zawodnik z piłką biegnie po boisku , skręcając w prawą stronę .	Podłużna piłka przelatuje przed zawodnikiem w kasku na boisku .	1.67	NEUTRAL
+9366	Dziewczynka w papierowej czapeczce zdmuchuje świeczki na torcie , a obok stoją dwie inne dziewczynki i kobieta .	Dwoje nagich , małych dzieci siedzi naprzeciwko siebie , a mniejsze dziecko jest smarowane przez większe dziecko farbą .	0.67	NEUTRAL
+9370	Osoby w kaskach jadą na deskorolkach po krętej drodze asfaltowej .	Osoby w kaskach jadą na deskorolkach po krętej asfaltowej drodze .	5.0	ENTAILMENT
+9373	Dziewczynka stoi .	Dziewczynka o jasnych włosach stoi na różowej deskorolce .	3.33	ENTAILMENT
+9396	Dziewczynka w fioletowej koszulce leży na trawie z rękami pod głową .	Chłopiec leży na dużym brzuchu na trawie , a między jego nogami leży piłka .	1.0	NEUTRAL
+9397	Dzieci nie wspinają się po stromej powierzchni w kierunku pomnika .	Dzieci wspinają się po stromej powierzchni w kierunku pomnika .	3.83	CONTRADICTION
+9403	Osoba w żółtej koszulce , asekurowana na linie , wspina się po ściance wspinaczkowej .	Mężczyzna o długich włosach z torbami na ramionach jedzie na deskorolce po chodniku .	0.17	NEUTRAL
+9404	Mężczyźni przepychają się .	Mężczyźni grają w futbol amerykański na boisku .	1.67	NEUTRAL
+9420	Jasnowłosa dziewczynka wydmuchuje bańki mydlane przez kółko , które podstawia jej chłopiec .	Dziewczynka dmucha w zestaw do robienia baniek , który jest trzymany przez inne dziecko .	3.17	NEUTRAL
+9455	Chłopiec siedzi na toalecie z rękami przy twarzy .	Chłopiec nie siedzi na toalecie z rękami przy twarzy .	4.17	CONTRADICTION
+9460	Chłopiec przegląda niegrubą książkę z kolorową okładką .	Chłopiec czyta książeczkę na placu handlowym , który jest zatłoczony .	2.0	NEUTRAL
+9490	Dwaj mężczyźni z wędkami stoją na plaży w pobliżu łodzi .	Człowiek w sportowym stroju i kasku biegnie na boisku w kierunku lecącej piłki .	0.17	NEUTRAL
+9491	Radosna dziewczynka w jasnej sukience biegnie po trawie .	Radosna , mała dziewczynka w jasnej sukience biegnie po trawie .	4.5	ENTAILMENT
+9493	Dziewczynka w niebieskim stroju i złotej koronie na głowie kręci kolorowym kołem na wysokości talii .	Dziewczynka w skąpym stroju i złotej koronie na głowie kręci kolorowym kołem na wysokości talii .	4.17	NEUTRAL
+9494	Kobieta w kasku i sportowym stroju , która jest obserwowana zza ogrodzenia przez inne kobiety , stoi w rozkroku obok lecącej piłki , trzymając kij .	Kobieta w kasku i sportowym stroju stoi w rozkroku obok lecącej piłki , trzymając kij , obserwowana zza ogrodzenia przez inne kobiety .	5.0	ENTAILMENT
+9503	Dzieci w mundurkach siedzą na podłodze .	Dzieci w mundurkach siedzą na podłodze z zeszytami .	4.5	ENTAILMENT
+9506	Zawodnik na boisku ze skórzaną rękawicą robi wykrok w przód na piasku .	Mężczyzna w sportowym stroju stoi na nodze , która jest ugięta , na boisku , drugą nogę wystawiając do tyłu .	2.5	NEUTRAL
+9510	Przechodzący przed budynkiem mężczyzna w garniturze obserwuje skok młodego człowieka z deskorolką .	Skok młodego człowieka z deskorolką jest obserwowany przed budynkiem przez mężczyznę w garniturze .	4.83	ENTAILMENT
+9511	Małe ciemnoskóre dziecko w brudnych spodenkach stoi zwrócone w kierunku błotnistej wody .	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma ich jednocześnie za ręce .	0.17	NEUTRAL
+9513	Kobieta z rakietą tenisową patrzy ku górze z uniesioną wysoko ręką .	Dwaj chłopcy w czapkach z daszkiem pokazują zabarwione języki .	0.17	NEUTRAL
+9514	Malutkie dziecko jest sadzane przez kobietę na deskorolce na kamienistej plaży .	Człowiek skacze na deskorolce obok biało - czerwonego słupka .	0.83	NEUTRAL
+9515	Przechodzący przed budynkiem mężczyzna w garniturze obserwuje skok młodego człowieka z deskorolką .	Człowiek , który jest obserwowany przez mężczyznę w garniturze , skacze ze schodów na deskorolce .	4.33	NEUTRAL
+9518	Chłopiec w czepku i kostiumie kąpielowym klęczy na fontannie .	Chłopiec w spodenkach kąpielowych i dmuchanych rękawkach klęczy na fontannie .	3.5	NEUTRAL
+9521	Mały chłopiec w kapeluszu biegnie boso po bardzo płytkiej wodzie .	Mały chłopiec w kapeluszu biegnie boso po wodzie .	3.5	NEUTRAL
+9531	Chłopiec kuca .	Chłopiec kuca , trzymając sito , w którym jest mały wąż .	3.17	ENTAILMENT
+9554	Żadna dziewczynka nie stoi na różowej deskorolce .	Dziewczynka w czarnej bluzie stoi na różowej deskorolce .	4.17	CONTRADICTION
+9567	Drewniane patyczki są unoszone w rękach nad postawionymi do góry dnem miską i garnkiem przez dziecko w różowej opasce .	Dzieci w mundurkach siedzą na podłodze z zeszytami .	0.83	NEUTRAL
+9577	Troje dzieci zbiega po trawiastym zboczu .	Trójka dzieci zbiega po trawie z wysokiej górki .	4.17	ENTAILMENT
+9580	Zawodnik w kasku ochronnym biegnie po trawie z podłużną piłką w ręce .	Grupa ludzi z plecakami przemierza szlak na nartach .	0.17	NEUTRAL
+9584	Zawodnicy przepychają się między sobą na boisku w trakcie meczu .	Mała dziewczynka ubrana w strój z różowymi skrzydłami stoi w rozkroku , trzymając małą piłkę w prawej ręce .	0.17	NEUTRAL
+9594	Widziany od tyłu mały chłopiec , stojąc na ziemi obok wiader , trzyma coś w ręku .	Dziewczynka w żółtej sukience leży z rozłożonymi rękami i nogami wśród kwiatów .	0.0	NEUTRAL
+9629	Pięć osób gra na różnych instrumentach , siedząc przy podłużnym stole .	Mężczyzna w sportowym stroju z numerem biegnie po ulicy .	0.33	NEUTRAL
+9630	Kobieta stojąca za ogrodzeniem obserwuje rozgrywający się na boisku mecz baseballowy .	Człowiek w niebieskim kasku stoi na trawie w rozkroku .	0.17	NEUTRAL
+9632	Kobieta sadza malutkie dziecko na deskorolce na kamienistej plaży .	Na plaży kobieta stawia małe dziecko na deskorolce .	3.5	NEUTRAL
+9644	Chłopiec przejeżdża przez czerwony most na deskorolce .	Skok młodego człowieka z deskorolką jest obserwowany przed budynkiem przez mężczyznę w garniturze .	2.0	NEUTRAL
+9657	Dwoje dzieci trzymanych na rękach przez mężczyznę wspina się po postumencie pomnika .	Dzieci wspinają się po stromej powierzchni w kierunku pomnika .	2.67	NEUTRAL
+9667	Chłopiec i dziewczynka w strojach kąpielowych i dmuchanych rękawkach biegną boso po wodzie .	Chłopiec i dziewczynka w strojach kąpielowych i dmuchanych rękawkach biegną boso po chodniku polewanym wodą .	4.17	NEUTRAL
+9692	Ciemnoskóre dziewczynki w chustach na głowach i kolorowych sukienkach stoją blisko siebie .	Nikt nie stoi blisko siebie .	2.67	CONTRADICTION
+9700	Mężczyzna płynie po wodzie , stojąc za sterem .	Mały chłopiec patrzy , jak inna osoba ustawia małe , drewniane klocki .	0.17	NEUTRAL
+9736	Człowiek w kasku i ochraniaczach wykonuje skok na deskorolce w mieście .	Człowiek w kasku wykonuje skok na deskorolce w mieście .	4.33	NEUTRAL
+9741	Mężczyźni grają w futbol amerykański na ogrodzonym boisku .	Mężczyźni w sportowych strojach przepychają się na trawie podczas gry w rugby .	2.17	NEUTRAL
+9744	Mężczyzna w sportowym stroju i kasku biegnie po boisku z piłką w ręku , a dalej biegnie drugi mężczyzna w bluzce w paski .	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	1.0	NEUTRAL
+9745	Kobieta sadza malutkie dziecko na deskorolce na kamienistej plaży .	Kobieta nie sadza malutkiego dziecka na deskorolce na kamienistej plaży .	3.5	CONTRADICTION
+9790	Mała dziewczynka w różowej pelerynie trzyma w rękach kolorową rakietę tenisową .	Kolorowa rakieta tenisowa jest trzymana w rękach przez małą dziewczynkę w różowej pelerynie .	5.0	ENTAILMENT
+9794	Skok na deskorolce jest wykonywany na ulicy przez chłopaka .	Człowiek skacze na deskorolce obok biało - czerwonego słupka .	3.17	NEUTRAL
+9815	Przechodzący przed budynkiem mężczyzna w garniturze obserwuje skok młodego człowieka z deskorolką .	Człowiek skacze ze schodów na deskorolce , obserwowany przez mężczyznę w garniturze .	3.33	NEUTRAL
+9819	Dziewczynka w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .	Człowiek w kasku i kombinezonie jedzie na motorze wyścigowym .	0.0	NEUTRAL
+9821	Dwie dziewczynki nie bawią się w basenie z kolorowymi piłkami .	Jedna dziewczynka siedzi , a druga dziewczynka stoi w basenie z kolorowymi kulami .	3.5	NEUTRAL
+9825	Chłopiec czyta książeczkę na zatłoczonym placu handlowym .	Niegruba książka z kolorową okładką jest przeglądana przez chłopca .	3.0	NEUTRAL
+9836	Trójka zawodników na boisku podskakuje w kierunku lecącej podłużnej piłki .	Dwa ptaki o długich szyjach i pomarańczowych dziobach stoją zwrócone ku sobie .	0.0	NEUTRAL
+9855	Chłopiec w czepku i kostiumie kąpielowym klęczy na fontannie .	Bańki mydlane są puszczane przez dziewczynkę w sukience na trawie , a za nią stoi druga dziewczynka .	0.0	NEUTRAL
+9859	Jeden mężczyzna robi drugiemu zdjęcie na placu .	Jedna dziewczynka siedzi , a druga dziewczynka stoi w basenie z kolorowymi kulami .	0.33	NEUTRAL
+9881	Mężczyzna z kartonową tablicą z napisem biegnie po ulicy .	Mężczyzna w sportowym stroju z numerem biegnie po ulicy .	3.5	NEUTRAL
+9914	Mała dziewczynka w różowej bluzce biegnie niedaleko pomarańczowych skał .	Dziecko z pomarańczowym pasem uczestniczy w pokazie sztuki walki .	0.67	NEUTRAL
+9918	Rozebrany chłopiec moczy się w wodzie z fontanny .	Chłopiec , który jest rozebrany , moczy się w wodzie z fontanny .	5.0	ENTAILMENT
+9937	Ciepło ubrane dziecko stoi na trawie , pochylając się z plastikowym kijem hokejowym .	Dziecko bawi się sprzętem .	2.0	NEUTRAL
+9945	Mężczyzna w sportowych spodenkach biegnie po ulicy .	Dwie osoby przyglądają się biegnącemu mężczyźnie z przyklejonym numerem do klatki piersiowej .	2.0	NEUTRAL
+9990	Dwie osoby leżą na śniegu na plecach z rozłożonymi rękami i nogami .	Orły są robione na śniegu przez dwójkę dzieci .	3.83	ENTAILMENT

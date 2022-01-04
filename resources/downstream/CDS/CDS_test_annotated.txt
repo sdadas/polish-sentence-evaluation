@@ -1,0 +1,1001 @@
+pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgment
+17	Dwoje dzieci wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Mężczyzna , który jest przypięty do liny , wspina się po stromej ścianie skalnej .	2.17	NEUTRAL
+18	Chłopiec i mała dziewczynka odbijają się na trampolinie .	Cztery dziewczynki bawią się na trampolinie , trzy z nich podskakują , a jedna siedzi .	2.0	NEUTRAL
+23	Kobieta w pomarańczowym fartuchu i z kwiatami na szyi stoi na ścieżce , na rozległym trawiastym terenie .	Mężczyzna z plecakiem stoi na ścieżce na rozległym trawiastym terenie .	2.17	NEUTRAL
+28	Mała dziewczynka ubrana w strój z różowymi skrzydłami stoi , trzymając różdżkę w uniesionej do góry ręce .	Cztery ciemnoskóre osoby tańczą obok siebie .	0.0	NEUTRAL
+40	Dwoje dzieci zjeżdża na leżąco z dmuchanej zjeżdżalni .	Dwoje dzieci zjeżdża na leżąco ze zjeżdżalni , która jest dmuchana .	5.0	ENTAILMENT
+52	Kilka kolorowo ubranych osób tańczy z uniesionymi rękami .	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce w czasie walki wrestlingowej na ringu .	2.67	ENTAILMENT
+58	Dziewczynka z doczepionymi różowymi włosami tańczy na piasku obok stojących aut .	Grupa uśmiechających się ludzi tańczy na piasku obok stojących aut .	3.17	NEUTRAL
+61	Żaden człowiek nie stoi na stromej górze .	Człowiek z dużym plecakiem wchodzi po górskim zboczu .	2.33	NEUTRAL
+71	Cztery osoby idą po głębokim śniegu w górach .	Człowiek z plecakiem idzie w górę zbocza , które jest zaśnieżone , w górach .	2.5	NEUTRAL
+84	Grupa ludzi tańczy na piasku obok dwóch samochodów terenowych .	Grupa uśmiechających się ludzi tańczy na piasku obok stojących aut .	3.33	NEUTRAL
+97	Duży krok jest robiony przez młodą osobę w sportowym stroju i rękawicy .	Dziewczyna z rękawicą na ręce biegnie po boisku z żółtą piłką w drugiej ręce .	2.17	NEUTRAL
+100	Chłopak w okularach patrzy na telefon komórkowy , trzymając w ręce plastikowy kubek z napojem .	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , w drugiej ręce trzymając plastikowy kubek z napojem .	4.17	ENTAILMENT
+110	Dwie dziewczynki w różowych spódnicach i bluzkach stoją obok siebie w kuchni .	Dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	1.5	NEUTRAL
+112	Młody człowiek w pasiastych spodniach , który ma kolorowy tatuaż w okolicy żeber , jedzie na deskorolce z uniesionymi rękami .	Chłopiec w czerwonej kurtce z kapturem na głowie siedzi na niewielkiej zjeżdżalni .	0.0	NEUTRAL
+114	Kobieta z profesjonalnym sprzętem wspinaczkowym wisi na stromej skale .	Kobieta wspina się z asekuracją po skale .	2.83	NEUTRAL
+127	Mężczyzna zawieszony na linie wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	Człowiek wspina się po lodowej ścianie z asekuracją .	4.0	NEUTRAL
+181	Wspinaczka jest uprawiana przez człowieka .	Człowiek wspina się po skale z asekuracją .	4.33	ENTAILMENT
+192	Kobieta wspina się z asekuracją po skale .	Kobieta w okularach wisi na stromej skale .	2.0	NEUTRAL
+195	Ciemnoskóry chłopiec przypatruje się dziewczynce zjeżdżającej z kolorowej dmuchanej zjeżdżalni .	Człowiek z plecakiem zjeżdża ze zjeżdżalni na kolanach .	1.33	NEUTRAL
+200	Mężczyzna z dzieckiem w nosidełku i mężczyzna z dzieckiem na grzbiecie stoją w pobliżu stromych skał .	Dwaj mężczyźni w czapkach z daszkiem , w tym jeden z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	2.83	NEUTRAL
+202	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce do góry .	Starszy pan w kapeluszu siedzi na ławce z jedną nogą założoną na drugą .	0.17	NEUTRAL
+263	Dziewczynka w kasku i kombinezonie zjeżdża na zielonej zjeżdżalni .	Kobieta w czarnym kostiumie kąpielowym zjeżdża z fioletowej zjeżdżalni do basenu , trzymając dziecko w niebieskiej kamizelce .	2.0	NEUTRAL
+269	Człowiek z plecakiem przechodzi niedaleko szczytów górskich , które są pokryte śniegiem .	Człowiek z plecakiem przechodzi niedaleko szczytów górskich pokrytych śniegiem .	4.83	ENTAILMENT
+273	Cztery dziewczynki bawią się na trampolinie , trzy z nich podskakują , a jedna siedzi .	Czworo dzieci skacze na trampolinie otoczonej ochronną siatką .	3.5	NEUTRAL
+275	Mała dziewczynka ubrana w strój z różowymi skrzydłami stoi , trzymając różdżkę w uniesionej do góry ręce .	Mężczyzna w bluzie z kapturem stoi , trzymając różdżkę w uniesionej do góry ręce .	2.33	NEUTRAL
+292	Kobieta siedzi na krawężniku obok kosza na śmieci i trzyma przy uchu telefon komórkowy .	Brązowy pies biegnie po trawie , niosąc w zębach zabawkę .	0.33	NEUTRAL
+322	Uśmiechnięta dziewczynka o jasnych włosach zjeżdża na zjeżdżalni .	Uśmiechnięta dziewczynka o czerwonych włosach zjeżdża na zjeżdżalni .	3.67	NEUTRAL
+330	Człowiek z plecakiem i kijkami ogląda się za siebie , stojąc na śniegu w górach .	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	1.5	NEUTRAL
+342	Mężczyzna w kasku i z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	Mężczyzna w kasku , z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	5.0	ENTAILMENT
+343	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku , w pobliżu targu .	Kobieta o czerwonych włosach , która jest ubrana w bluzkę , spódnicę i rajstopy w paski , z telefonem komórkowym przy uchu , siedzi .	2.67	NEUTRAL
+360	Trzy dziewczynki w kapeluszach i długich spódnicach tańczą , a chłopcy grają na smyczkowych instrumentach .	Trzy dziewczynki w kapeluszach i długich spódnicach tańczą , a chłopcy grają na instrumentach .	4.17	NEUTRAL
+378	Kobieta siedzi na krawężniku obok kosza na śmieci i trzyma przy uchu telefon komórkowy .	Kobieta z plecakiem rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	3.33	NEUTRAL
+390	Chłopiec skacze z fotela na podłogę pełną zabawek .	Osoba w kasku ochronnym , z plecakiem na plecach , ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	0.17	NEUTRAL
+417	Cztery osoby z bagażem na plecach chodzą po skalistej górze , która jest pokryta śniegiem .	Czterech turystów idzie ośnieżonym szczytem .	3.17	NEUTRAL
+425	Grupa uśmiechających się ludzi tańczy na piasku obok stojących aut .	Ubrany na czarno chłopiec zjeżdża ze zjeżdżalni na kolanach .	0.0	NEUTRAL
+431	Pięć osób widzianych od tyłu idzie w kierunku pasma gór .	Pięć osób , które są widziane od tyłu , idzie w kierunku pasma gór .	5.0	ENTAILMENT
+439	Kobieta w czarnym kostiumie kąpielowym zjeżdża z fioletowej zjeżdżalni w pontonie , trzymając dziecko w niebieskiej kamizelce .	Kobieta siedzi na zjeżdżalni z nogami w wodzie i trzyma na rękach dziecko w kamizelce ratunkowej .	3.0	NEUTRAL
+442	Nikt nie skacze z niebieskiej zjeżdżalni .	Chłopiec w pasiastej bluzce skacze z niewielkiej zjeżdżalni .	3.0	CONTRADICTION
+455	Mały chłopiec z rękawkami do pływania zjeżdża ze zjeżdżalni do wody .	Grupa osób ubranych w kaski i ochraniacze jedzie na wrotkach .	0.33	NEUTRAL
+456	Widziany od tyłu człowiek z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	Sześć osób w czapkach i kamizelkach siedzi z wiosłami w pontonie , a mężczyzna skacze do wody .	0.67	NEUTRAL
+461	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku , w pobliżu targu .	Kobieta siedzi na krawężniku obok kosza na śmieci i trzyma przy uchu telefon komórkowy .	3.5	NEUTRAL
+462	Turysta z dużym plecakiem i kijkami wskazuje w kierunku gór , które są ośnieżone .	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi nad przepaścią w górach .	2.17	NEUTRAL
+481	Chłopiec i rudowłosa dziewczynka odbijają się na trampolinie .	Człowiek wykonuje skok na trampolinie , przekręcając się do góry nogami .	1.5	NEUTRAL
+493	Kilka osób przemierza zaśnieżony teren niedaleko górskich wzniesień .	Cztery osoby idą po głębokim śniegu w górach .	3.67	ENTAILMENT
+497	Mężczyzna w turystycznym stroju stoi na zboczu w górach .	Mężczyzna w kapeluszu mający na sobie pas z dwoma bidonami stoi na tle górskiego krajobrazu .	3.17	NEUTRAL
+506	Człowiek z dużym plecakiem stoi na ścieżce .	Człowiek z dużym plecakiem stoi na ścieżce na trawiastej górze .	4.0	ENTAILMENT
+527	Jedna osoba w sportowym stroju , rękawicach i kasku kopie drugą w głowę na ringu .	Dziewczynka w kurtce bawi się na zabawkowym pojeździe na placu zabaw .	0.17	NEUTRAL
+532	Mężczyzna bez koszulki i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	Mężczyzna w wianku i kolorowej bluzie i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	3.67	NEUTRAL
+539	Widziany od tyłu człowiek z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	Człowiek idzie , inne osoby też idą .	3.17	NEUTRAL
+545	Mężczyzna przypięty do liny siedzi na szczycie skały , podczas gdy kobieta wspina się do góry .	Kobieta w czarnym kostiumie kąpielowym wisi na stromej skale .	1.67	NEUTRAL
+546	Dziewczynka w białej sukience idzie kamienistą górską doliną , podpierając się kijkami .	Człowiek z plecakiem idzie kamienistą górską doliną , podpierając się kijkami .	3.33	NEUTRAL
+571	Dwaj mężczyźni rozmawiający przez telefon komórkowy idą przez park , a za nimi idzie kilka innych osób .	Sześciu chłopaków i dziewczyna idą po falochronie pod drzewem .	0.67	NEUTRAL
+582	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór pokrytych śniegiem .	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór , które są pokryte śniegiem .	5.0	ENTAILMENT
+589	Dziewczynka w różowej kurtce zjeżdża na brzuchu z czerwonej zjeżdżalni .	Dziewczynka w różowej kurtce zjeżdża na brzuchu po czerwonej zjeżdżalni .	5.0	ENTAILMENT
+593	Dziewczynka stoi , a obok stoi chłopiec .	Dziewczynka w różowej sukience stoi z ręką w górze , a za nią stoi chłopiec .	3.67	ENTAILMENT
+605	Kobieta z warkoczem trzyma w rękach wiosło i unosi się na wodzie na przechylonym kajaku .	Dziecko wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	0.17	NEUTRAL
+613	Osoba na ciemnym koniu przeskakuje przez przeszkodę .	Chłopiec o ciemnych włosach siedzi na czerwonej zjeżdżalni .	0.33	NEUTRAL
+623	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a w oddali idzie piąta osoba .	Człowiek w stroju do nurkowania wchodzi po górskim zboczu .	0.33	NEUTRAL
+626	Czterech mężczyzn idzie .	Czterech mężczyzn bez koszulek idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	2.67	ENTAILMENT
+640	Mężczyzna w kasku siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	Jasno ubarwiony pies pije wodę z kranu .	0.17	NEUTRAL
+673	Mężczyzna , który jest zawieszony na linie , wspina się przy pomocy specjalistycznego sprzętu po skale , która jest oblodzona .	Mężczyzna z tatuażem na plecach i długimi spiętymi włosami wspina się po stromej skale .	2.67	NEUTRAL
+677	Kobieta zadaje cios nogą mężczyźnie podczas walki na ringu .	Skok jest wykonywany przez dziecko w czarno - czerwonym stroju z zasłoniętą twarzą .	0.17	NEUTRAL
+688	Człowiek w pasiastej bluzie idzie chodnikiem , trzymając w ręce deskorolkę .	Mężczyzna w białym kasku wspina się na szczyt skały , asekurując się przy pomocy liny .	0.17	NEUTRAL
+691	Mężczyzna z mikrofonem stoi na tle górskiego krajobrazu .	Mężczyzna w kapeluszu mający na sobie pas z dwoma bidonami stoi na tle górskiego krajobrazu .	2.5	NEUTRAL
+696	Trzy kobiety , które są ubrane w długie szaty , tańczą obok wiszącej za ich plecami flagi .	Trzy kobiety ubrane w długie szaty tańczą obok wiszącej za ich plecami flagi .	4.83	ENTAILMENT
+700	Kilkanaście dziewczynek w białych sukienkach i kokardach na głowie stoi obok siebie na scenie .	Żadne dziewczynki nie stoją na scenie w rzędzie w różnych pozach .	2.83	CONTRADICTION
+704	Pięciu turystów schodzi w dół .	Pięcioro ludzi , jeden za drugim , schodzi ze stromej skalistej góry .	3.67	ENTAILMENT
+706	Pies z otwartym pyskiem stoi na trawie zwrócony w kierunku lecącej piłki .	Trzy kobiety ubrane w długie szaty tańczą obok wiszącej za ich plecami flagi .	0.0	NEUTRAL
+714	Człowiek z plecakiem idzie w górę zaśnieżonego zbocza w górach .	Czarnowłosa kobieta siedzi na drewnianej ławce .	0.5	NEUTRAL
+732	Dziewczynka zjeżdża na dmuchanej zjeżdżalni , w tle patrzy na nią chłopiec .	Elegancko ubrany chłopiec zjeżdża do basenu ze zjeżdżalni .	1.67	NEUTRAL
+740	Cztery osoby idą po głębokim śniegu w górach .	Zaśnieżony teren niedaleko górskich wzniesień jest przemierzany przez kilka osób .	2.83	NEUTRAL
+748	Umięśniony mężczyzna bez koszulki i skąpo ubrana kobieta z kolorową ozdobą na głowie tańczą przed publicznością .	Kilkanaście dziewczynek stoi .	0.0	NEUTRAL
+758	Ciemnoskóry chłopiec przypatruje się dziewczynce zjeżdżającej z kolorowej dmuchanej zjeżdżalni .	Dziewczynka zjeżdża na dmuchanej zjeżdżalni , w tle patrzy na nią chłopiec .	3.5	NEUTRAL
+761	Dziewczyna stoi na rękach na trampolinie .	Żadna dziewczyna nie stoi na rękach na trampolinie .	4.0	CONTRADICTION
+763	Człowiek w czerwonym kasku i kurtce nie stoi obok kamienia .	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	3.83	CONTRADICTION
+764	Chłopiec zjeżdża do basenu ze zjeżdżalni .	Dwie osoby grają w piłkę siatkową na basenie .	0.83	NEUTRAL
+811	Dwaj mężczyźni rozmawiający przez telefon komórkowy idą przez park , a za nimi idzie kilka innych osób .	Chłopak w pasiastej koszulce z telefonem komórkowym w ręce nie stoi wśród ludzi .	1.33	NEUTRAL
+822	Człowiek z plecakiem przemierza samotnie górski teren .	Ptak z rozpostartymi skrzydłami unosi się nad wodą w pobliżu skał .	0.33	NEUTRAL
+838	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają koła , które są dmuchane .	Dwoje dzieci zjeżdża w pontonie po wysokiej , fioletowej zjeżdżalni , a obok leżą na taśmie inne pontony .	2.0	NEUTRAL
+849	Dziewczynka w stroju baletowym , która jest obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	Dziewczynka w stroju baletowym , obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	5.0	ENTAILMENT
+882	Mężczyzna w białym kasku wspina się na linie po ścianie wodospadu .	Mężczyzna wspina się po wodospadzie .	3.17	NEUTRAL
+895	Czterech mężczyzn w czarnych koszulkach idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	Czterech mężczyzn bez koszulek idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	4.17	NEUTRAL
+908	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i podniesionymi rękami .	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i rękami , które są podniesione .	5.0	ENTAILMENT
+923	Mężczyzna wisi nad wodą na linie zaczepionej o stromą , wysoką skałę .	Kobieta wisi na skale .	1.5	NEUTRAL
+925	Nikt nie wspina się z asekuracją po pionowej skale .	Mężczyzna wspina się z asekuracją po pionowej skale .	3.5	CONTRADICTION
+931	Kobieta o czerwonych włosach , która jest ubrana w bluzkę , spódnicę i rajstopy w paski , siedzi z telefonem komórkowym przy uchu .	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę i rajstopy w paski siedzi z telefonem komórkowym przy uchu .	5.0	ENTAILMENT
+934	Umięśniony mężczyzna bez koszulki i skąpo ubrana kobieta z kolorową ozdobą na głowie tańczą przed publicznością .	Mężczyzna bez koszulki i kobieta tańczą .	3.5	NEUTRAL
+937	Widziany od tyłu człowiek z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	Mężczyzna w turystycznym stroju stoi na trawie , opierając się o drewniany słup .	1.33	NEUTRAL
+943	Nikt nie siedzi na niewielkiej zjeżdżalni .	Chłopiec w czerwonej kurtce siedzi na szczycie zjeżdżalni .	3.0	CONTRADICTION
+951	Dziewczynka zjeżdża po pomarańczowej zjeżdżalni .	Dziewczynka , obserwowana przez dwie inne dziewczynki , zjeżdża po pomarańczowej zjeżdżalni .	4.33	ENTAILMENT
+963	Trzy dziewczynki tańczą , a chłopcy grają na instrumentach .	Trzy kolorowo ubrane dziewczynki w kapeluszach i ciemnych okularach tańczą obok siebie .	2.67	NEUTRAL
+980	Uradowana dziewczynka zjeżdża ze zjeżdżalni z uniesionymi rękami .	Dziewczynka widziana od tyłu zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	3.67	NEUTRAL
+1057	Dziewczyna stoi na rękach na trampolinie .	Skok na trampolinie jest wykonywany przez człowieka .	2.5	NEUTRAL
+1082	Kobieta w czarnej bluzce siedzi na murku obok kosza na śmieci i trzyma coś przy uchu .	Mała dziewczynka w kolorowej bluzce siedzi na murku obok śmietnika .	1.5	NEUTRAL
+1093	Dwoje dzieci zjeżdża na leżąco z dmuchanej zjeżdżalni .	Dwoje dzieci zjeżdża .	3.67	NEUTRAL
+1101	Mężczyzna w kasku wspina się z asekuracją na skałę .	Mężczyzna w białym kasku wspina się na szczyt skały , asekurując się przy pomocy liny .	3.67	ENTAILMENT
+1105	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór pokrytych śniegiem .	Turysta z dużym plecakiem i kijkami wskazuje w kierunku gór , które są ośnieżone .	3.0	NEUTRAL
+1112	Kobieta , siedząc na zjeżdżalni z nogami w wodzie , trzyma na rękach dziecko w kamizelce ratunkowej .	Kobieta w czarnym kostiumie kąpielowym zjeżdża z fioletowej zjeżdżalni do basenu , trzymając dziecko w niebieskiej kamizelce .	3.17	NEUTRAL
+1119	Osoba w niebieskiej czapce i z dużym plecakiem podchodzi pod górę po śniegu .	Osoba w niebieskiej czapce podchodzi pod górę po śniegu .	4.0	NEUTRAL
+1129	Człowiek asekuruje na linie mężczyznę wspinającego się po stromej skale .	Mężczyzna wspinający się po stromej skale jest asekurowany na linie przez człowieka .	5.0	ENTAILMENT
+1133	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają dmuchane koła .	Dziecko wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	3.67	NEUTRAL
+1154	Dziewczynka zjeżdża po pomarańczowej zjeżdżalni .	Chłopak w czarnym ubraniu zjeżdża na kolanach na zjeżdżalni , która jest dmuchana .	1.67	NEUTRAL
+1160	Dziewczynka w różowej kurtce zjeżdża na brzuchu z czerwonej zjeżdżalni .	Dziewczynka z małą lalką w ręce zjeżdża na brzuchu z czerwonej zjeżdżalni .	4.17	NEUTRAL
+1164	Pięć psów w zaprzęgu ciągnie za sobą mężczyznę z goglami na oczach .	Czworo dzieci skacze na trampolinie otoczonej ochronną siatką .	0.17	NEUTRAL
+1191	Trzy dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	Trzy skośnookie dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	4.17	ENTAILMENT
+1193	Kilka osób przemierza zaśnieżony teren niedaleko górskich wzniesień .	Cztery osoby idą wzdłuż ściany w górach .	2.67	NEUTRAL
+1198	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , siedzącym ze skrzyżowanymi nogami .	Drugi gracz stoi na rękach na trampolinie .	1.83	NEUTRAL
+1223	Dwaj mężczyźni rozmawiający przez telefon komórkowy idą przez park , a za nimi idzie kilka innych osób .	Kobieta siedzi na zjeżdżalni z nogami w wodzie i trzyma na rękach dziecko w kamizelce ratunkowej .	0.0	NEUTRAL
+1231	Chłopiec zjeżdża do basenu ze zjeżdżalni .	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami , które są uniesione do góry .	4.0	ENTAILMENT
+1236	Kobieta z profesjonalnym sprzętem wspinaczkowym wisi na stromej skale .	Mężczyzna w czerwonej kurtce wspina się po górze , która jest oblodzona .	1.17	NEUTRAL
+1259	Kilka osób przechodzi nad wodą po wiszącym w pobliżu skał moście .	Uśmiechnięta kobieta znajdująca się nad wodą trzyma w rękach wędkę i złowioną rybę .	0.83	NEUTRAL
+1268	Kobieta w niebiesko - różowym stroju z piórami stoi na scenie , trzymając ręce na biodrach .	Na scenie , obok innych osób , stoją dwie kobiety w ozdobnych strojach z piórami .	2.5	NEUTRAL
+1283	Na sali sportowej dwóch chłopców trzyma piłkę do koszykówki , a trzeci wyciąga ręce do góry .	Człowiek wspina się po skale z asekuracją .	0.5	NEUTRAL
+1298	Ubrany na czerwono chłopiec z bosymi stopami nie skacze wysoko do góry .	Chłopiec robi obrót w powietrzu nad trampoliną .	2.17	NEUTRAL
+1306	Chłopiec w spodenkach kąpielowych i dmuchanych rękawkach zjeżdża do basenu ze zjeżdżalni .	Człowiek z dużym plecakiem wchodzi po górskim zboczu .	0.17	NEUTRAL
+1308	Kobieta w łososiowej sukni i mężczyzna ubrany na czarno stoją obok siebie na parkiecie w tanecznych pozach .	Kobieta i mężczyzna tańczą taniec towarzyski na parkiecie .	3.33	NEUTRAL
+1312	Trzy dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	Cztery dziewczynki bawią się na trampolinie ustawionej na śniegu .	2.83	NEUTRAL
+1327	Dziewczynka o długich , jasnych włosach wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Jasnowłosa dziewczynka wspina się po ściance wspinaczkowej .	4.0	NEUTRAL
+1330	Uśmiechnięta dziewczynka siedzi na pomarańczowej zjeżdżalni .	Dziewczynka zjeżdża po pomarańczowej zjeżdżalni .	3.33	NEUTRAL
+1344	Uśmiechnięta dziewczynka o jasnych włosach zjeżdża na zjeżdżalni .	Dziewczynka w błękitnej sukience zjeżdża na zielonej zjeżdżalni .	3.33	NEUTRAL
+1347	Mężczyzna w czapce i kurtce stoi nad wzburzoną wodą , trzymając cienki , podłużny przedmiot .	Młoda osoba w sportowym stroju i rękawicy robi duży krok , trzymając w jednej dłoni piłkę .	0.83	NEUTRAL
+1349	Człowiek w białej kurtce i różowych spodniach wykonuje skok na trampolinie , przekręcając się do góry nogami .	Człowiek wykonuje skok na trampolinie , przekręcając się do góry nogami .	4.17	NEUTRAL
+1360	Żadna dziewczynka nie tańczy na parkiecie obok chłopca .	Dziewczynka w różowej sukience stoi z ręką w górze , a za nią stoi chłopiec .	1.83	NEUTRAL
+1364	Chłopiec w czerwonej kurtce nie siedzi na szczycie zjeżdżalni .	Chłopiec w czerwonej kurtce z kapturem na głowie siedzi na niewielkiej zjeżdżalni .	3.5	CONTRADICTION
+1383	Dziewczynka w różowej kurtce zjeżdża na brzuchu z czerwonej zjeżdżalni .	Dwie opalone kobiety grają w plażową piłkę siatkową .	0.17	NEUTRAL
+1390	Żadna dziewczynka nie siedzi na górnej części zjeżdżalni .	Dziewczynka siedzi na szczycie zjeżdżalni .	3.83	CONTRADICTION
+1394	Dziewczyna w jasnych spodniach stoi na rękach na trampolinie .	Dziewczyna stoi na rękach .	3.67	NEUTRAL
+1402	Chłopak w czarnym ubraniu zjeżdża na kolanach na zjeżdżalni , która jest dmuchana .	Chłopak w czarnym ubraniu zjeżdża na kolanach na dmuchanej zjeżdżalni .	4.83	ENTAILMENT
+1407	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku , w pobliżu targu .	Kilka osób spędza czas na górce pokrytej śniegiem .	0.33	NEUTRAL
+1432	Cztery osoby idą po głębokim śniegu w górach .	Nikt nie idzie po głębokim śniegu w górach .	3.67	CONTRADICTION
+1440	Turysta z dużym plecakiem i kijkami wskazuje w kierunku ośnieżonych gór .	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór , które są pokryte śniegiem .	3.5	NEUTRAL
+1443	Dziewczyna w kapeluszu stoi w wodzie , trzymając w ręce siatkę .	Dwójka dzieci spływa po wodzie pontonem na fioletowej zjeżdżalni .	0.33	NEUTRAL
+1445	Mężczyzna stoi z wędką pośród wzburzonej fali .	Na scenie , obok innych osób , stoją dwie kobiety w ozdobnych strojach z piórami .	0.0	NEUTRAL
+1453	Chłopiec zjeżdża do basenu ze zjeżdżalni .	Chłopiec nie zjeżdża do basenu ze zjeżdżalni .	4.0	CONTRADICTION
+1471	Dziewczynka i chłopiec skaczą na trampolinie stojącej na trawie .	Obrót w powietrzu jest robiony nad trampoliną przez chłopca .	3.33	NEUTRAL
+1488	Chłopiec skaczący na trampolinie przeskakuje nad drugim chłopcem .	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , siedzącym ze skrzyżowanymi nogami .	3.67	ENTAILMENT
+1508	Człowiek w czerwonym kasku i kurtce nie stoi obok kamienia .	Osoba w kasku ochronnym , z plecakiem na plecach , ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	1.0	NEUTRAL
+1511	Uradowana dziewczynka zjeżdża ze zjeżdżalni z uniesionymi rękami .	Dziewczynka zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	4.0	NEUTRAL
+1515	Chłopiec kuca na szczycie fioletowej zjeżdżalni .	Mały chłopiec trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	2.83	NEUTRAL
+1518	Ciemnoskóra dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	Ludzie na trybunach obserwują trzy skaczące nad wodą orki .	0.17	NEUTRAL
+1525	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna , który trzyma linę .	Siedem kobiet wspina się jedna pod drugą po ściance , asekurowane przez mężczyznę .	4.0	NEUTRAL
+1540	Kilka osób przemierza płaski teren , idąc w kierunku gór .	Kobieta w białym swetrze podrzuca małe dziecko do góry .	0.17	NEUTRAL
+1544	Człowiek wspina się po skale asekurowany przez drugą osobę z dołu .	Człowiek asekurowany przez drugą osobę z dołu nie wspina się po skale .	4.0	CONTRADICTION
+1551	Czterech mężczyzn w wojskowych spodniach , a jeden w brązowych , wykonuje taki sam krok taneczny .	Czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , a jeden w brązowej , wykonuje taki sam krok taneczny .	3.17	NEUTRAL
+1558	Człowiek wspina się z asekuracją po skale , która jest pokryta śniegiem i soplami .	Mężczyzna w czerwonej kurtce wspina się po oblodzonej górze .	2.67	NEUTRAL
+1559	Turysta z dużym plecakiem i kijkami wskazuje w kierunku ośnieżonych gór .	Dziewczyna stoi na rękach na trampolinie , a obok niej stoi dziecko .	0.17	NEUTRAL
+1561	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce do góry .	Czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , wykonuje taki sam krok taneczny .	1.17	NEUTRAL
+1576	Chłopak w zielonej koszulce w paski patrzy na telefon , który jest trzymany w dłoni , stojąc pomiędzy innymi ludźmi .	Chłopak w pasiastej koszulce stoi wśród ludzi z telefonem komórkowym w ręce .	4.17	NEUTRAL
+1586	Duży owad unosi się w powietrzu obok kwiatów .	Chłopak w zielonej koszulce w paski patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	0.0	NEUTRAL
+1595	Mężczyzna przypięty do liny siedzi na szczycie skały , podczas gdy kobieta wspina się do góry .	Mężczyzna w kasku siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	3.67	NEUTRAL
+1602	Dziewczynki w białych strojach baletnic stoją na scenie w rzędzie w różnych pozach .	Czterech mężczyzn w wojskowych spodniach i trzech w żółtych koszulkach wykonuje taki sam krok taneczny .	0.33	NEUTRAL
+1603	Dziewczynka w różowej kurtce zjeżdża na brzuchu po czerwonej zjeżdżalni .	Czterech turystów idzie ośnieżonym szczytem .	0.17	NEUTRAL
+1635	Mężczyzna w kapeluszu stoi przy dużym samochodzie terenowym .	Trzy kolorowo ubrane dziewczynki w kapeluszach i ciemnych okularach tańczą obok siebie .	0.33	NEUTRAL
+1640	Mężczyzna przypięty do liny siedzi na szczycie skały , podczas gdy kobieta wspina się do góry .	Mężczyzna siedzi , a kobieta wspina się w jego stronę .	2.83	NEUTRAL
+1650	Osoba w żółtej koszulce , asekurowana na linie , wspina się po ściance wspinaczkowej .	Osoba w żółtej koszulce , która jest asekurowana na linie , wspina się po ściance wspinaczkowej .	5.0	ENTAILMENT
+1663	Człowiek asekuruje na linie mężczyznę wspinającego się po stromej skale .	Mężczyzna bez koszulki wspina się po skale , asekurowany od dołu przez drugiego mężczyznę .	3.83	NEUTRAL
+1670	Uśmiechnięty chłopiec zjeżdża po plastikowej zjeżdżalni .	Uśmiechnięty chłopiec zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	4.33	ENTAILMENT
+1676	Trójka dzieci bawi się w basenie z kolorowymi piłeczkami .	Dziewczyna i chłopiec wypadają ze zjeżdżalni na kolorowe piłeczki , na których siedzi drugi chłopiec .	3.83	ENTAILMENT
+1680	Ciemnoskóra dziewczynka skacze wysoko do góry .	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	1.33	NEUTRAL
+1685	Turysta z dużym plecakiem i kijkami wskazuje w kierunku ośnieżonych gór .	Czwarty mężczyzna stoi na zboczu w górach .	1.33	NEUTRAL
+1688	Nikt nie skacze na trampolinie na świeżym powietrzu .	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	3.0	CONTRADICTION
+1706	Cztery dziewczynki bawią się , trzy z nich podskakują , a jedna siedzi .	Cztery dziewczynki bawią się na trampolinie , trzy z nich podskakują , a jedna siedzi .	4.33	ENTAILMENT
+1710	Grupa ludzi tańczy na piasku obok stojących aut .	Grupa uśmiechających się ludzi tańczy na piasku obok stojących aut .	4.17	ENTAILMENT
+1719	Cztery osoby tańczą .	Cztery ciemnoskóre osoby tańczą na scenie .	3.33	ENTAILMENT
+1731	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma się ich jednocześnie za ręce .	Kobieta i mężczyzna tańczą taniec towarzyski na parkiecie .	0.17	NEUTRAL
+1732	Trójka dzieci bawi się w basenie z kolorowymi piłeczkami .	Troje dzieci bawi się w basenie z kolorowymi piłeczkami .	4.33	ENTAILMENT
+1736	Dwaj trzymający flet mężczyźni siedzą , a trzeci mężczyzna stoi nad przepaścią w górach .	Trzech mężczyzn spędza czas w górach w słoneczny dzień .	1.67	NEUTRAL
+1756	Trzech mężczyzn spędza czas w górach w słoneczny dzień .	Mężczyzna w czerwonej kurtce wspina się po oblodzonej górze .	1.33	NEUTRAL
+1760	Siedem kobiet wspina się po ściance .	Człowiek wspina się z asekuracją po skale pokrytej śniegiem i soplami .	1.83	NEUTRAL
+1764	Dwie dziewczynki bawią się po zmroku na dużej trampolinie , która jest ustawiona na trawniku .	Dwie dziewczynki bawią się po zmroku na dużej trampolinie ustawionej na trawniku .	5.0	ENTAILMENT
+1772	Mężczyzna w kasku siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	Mężczyzna , który jest przypięty do liny , siedzi na szczycie skały , podczas gdy kobieta wspina się do góry .	3.5	NEUTRAL
+1783	Sześciu chłopaków i dziewczyna idą po trawie pod drzewem .	Sześciu chłopaków i dziewczyna idą .	4.0	NEUTRAL
+1788	Kilka dziewczynek tańczy obok siebie z rękami , które są uniesione .	Pięć dziewczyn w kombinezonach i jedna dziewczyna w białym stroju tańczą w rzędzie .	3.17	NEUTRAL
+1790	Człowiek z plecakiem przemierza samotnie górski teren .	Górski teren jest przemierzany samotnie przez człowieka z plecakiem .	5.0	ENTAILMENT
+1796	Dziewczynka zjeżdża na dmuchanej zjeżdżalni , w tle patrzy na nią chłopiec .	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , w drugiej ręce trzymając plastikowy kubek z napojem .	0.5	NEUTRAL
+1804	Kobieta w czarnej bluzce siedzi na murku obok kosza na śmieci i trzyma coś przy uchu .	Małe dziecko prowadzi po ulicy zabawkowy wózek , w którym siedzi lalka .	0.33	NEUTRAL
+1827	Trzy kobiety ubrane w suknie różnych kolorów tańczą na tle rozwieszonej na ścianie flagi .	Trzy kobiety ubrane w długie szaty tańczą obok wiszącej za ich plecami flagi .	3.83	NEUTRAL
+1831	Kobieta w skąpym sportowym stroju biegnie w maratonie .	Trzy dziewczynki w kapeluszach i długich spódnicach tańczą , a chłopcy grają na instrumentach .	0.17	NEUTRAL
+1848	Dwoje dzieci zjeżdża na leżąco z dmuchanej zjeżdżalni .	Trzecia dziewczynka zjeżdża po pomarańczowej zjeżdżalni .	2.5	NEUTRAL
+1858	Grupa ludzi tańczy na piasku obok dwóch brudnych samochodów .	Grupa ludzi tańczy na piasku obok dwóch samochodów terenowych .	4.0	NEUTRAL
+1863	Dziewczynki w białych strojach baletnic stoją na scenie w rzędzie w różnych pozach .	Wozy strażackie stoją na scenie w rzędzie .	0.33	NEUTRAL
+1871	Trzy dziewczynki tańczą , a chłopcy grają na instrumentach .	Trzy dziewczynki w kapeluszach i długich spódnicach tańczą , a chłopcy grają na instrumentach .	4.0	ENTAILMENT
+1875	Mężczyzna z papierosem i butelką w ręce siedzi przy niewielkim stoliku z drugim mężczyzną .	Sędzia z muchą na szyi obserwuje , jak zawodniczka zadaje cios nogą drugiej zawodniczce .	0.17	NEUTRAL
+1892	Mały chłopiec z rękawkami do pływania zjeżdża ze zjeżdżalni do wody .	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	1.83	NEUTRAL
+1900	Kobieta siedzi na krawężniku obok kosza na śmieci i trzyma przy uchu telefon komórkowy .	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku .	4.17	NEUTRAL
+1903	Chłopak zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	Uśmiechnięty chłopiec zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	4.5	ENTAILMENT
+1905	Dziewczynka z mokrymi włosami siedzi przy drewnianym stole , trzymając talerz z jedzeniem w rękach .	Dziewczynka o jasnych włosach siedzi na dużej trampolinie obok podskakującego ciemnoskórego chłopca .	0.83	NEUTRAL
+1912	Taki sam krok taneczny jest wykonywany przez czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , a jednego w brązowej .	Czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , a jeden w brązowej , wykonuje taki sam krok taneczny .	5.0	ENTAILMENT
+1920	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , w drugiej ręce trzymając plastikowy kubek z napojem .	Chłopak w okularach , który jest krótko ostrzyżony , patrzy na telefon , który jest trzymany w ręce , w drugiej ręce trzymając plastikowy kubek z napojem .	5.0	ENTAILMENT
+1922	Trzy kobiety , które są ubrane w suknie różnych kolorów , tańczą na tle flagi , która jest rozwieszona na ścianie .	Trzy kobiety ubrane w długie szaty tańczą obok wiszącej za ich plecami flagi .	4.17	ENTAILMENT
+1929	Dziewczynka w różowej sukience stoi z ręką w górze , a obok niebieskiej hali , z której ulatuje czarny dym , stoi chłopiec .	Dziewczynka w różowej sukience stoi z ręką w górze , a za nią stoi chłopiec .	3.0	NEUTRAL
+1938	Mężczyzna bez koszulki i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	Ubrani w czerwono - białe stroje mężczyzna bez koszulki i skąpo ubrana kobieta z kolorową ozdobą na głowie tańczą przed publicznością .	3.33	NEUTRAL
+1945	Dziewczyna stoi na rękach na trampolinie .	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce do góry .	0.5	NEUTRAL
+1951	Dziewczynki w białych strojach baletnic stoją na scenie w rzędzie w różnych pozach .	Żadne dziewczynki nie stoją na scenie w rzędzie w różnych pozach .	3.17	CONTRADICTION
+1952	Ciemnoskóra dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	Młodsza dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	3.5	NEUTRAL
+1959	Dziewczynki w białych strojach baletnic stoją na scenie pomiędzy innymi ludźmi w różnych pozach .	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna siedzący na krześle .	1.17	NEUTRAL
+1961	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku , w pobliżu targu .	Kobieta z telefonem komórkowym przy uchu siedzi w pobliżu targu .	4.0	NEUTRAL
+1967	Mężczyzna w kasku i z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	Chłopak w czapce przejeżdża na deskorolce po rurze przylegającej do budynku .	0.33	NEUTRAL
+1979	Mężczyzna w sportowym stroju z numerem stoi na zboczu w górach .	Mężczyzna w turystycznym stroju stoi na zboczu w górach .	3.67	NEUTRAL
+1995	Żaden chłopiec nie kuca na szczycie zjeżdżalni .	Chłopiec kuca na szczycie zjeżdżalni .	4.17	CONTRADICTION
+1997	Dziewczynka w błękitnej sukience zjeżdża na zielonej zjeżdżalni .	Nikt nie zjeżdża na zjeżdżalni .	2.83	CONTRADICTION
+2022	Koszykarz w pomarańczowym stroju kozłuje piłkę , a obok stoi drugi gracz , trzymając rękę wyciągniętą w bok .	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna siedzący na krześle .	0.0	NEUTRAL
+2024	Siedem kobiet wspina się po ściance .	Siedem kobiet wspina się jedna pod drugą po ściance , asekurowane przez mężczyznę .	3.83	ENTAILMENT
+2038	Trzej mężczyźni w zielonych bluzkach stoją obok siebie w różnych pozach , trzymając się za ręce , a za nimi stoi czwarty mężczyzna .	Trzej mężczyźni w zielonych bluzkach stoją obok siebie w różnych pozach , trzymając się za ręce , a przed bramą stoi czwarty mężczyzna .	4.0	NEUTRAL
+2044	Kobieta w ozdobnym stroju z tatuażem na brzuchu wygina się mocno do tyłu .	Trzy dziewczynki , które są kolorowo ubrane , w kapeluszach i ciemnych okularach tańczą obok siebie .	0.83	NEUTRAL
+2047	Człowiek uprawia wspinaczkę .	Człowiek uprawia wspinaczkę , asekurując się na linie .	4.17	ENTAILMENT
+2053	Dziewczynka i siedzący ze skrzyżowanymi nogami chłopiec skaczą na trampolinie .	Dziewczyna stoi na rękach na trampolinie , a obok niej stoi dziecko .	2.5	NEUTRAL
+2066	Pięć dziewczyn w kombinezonach i jedna dziewczyna w białym stroju tańczą w rzędzie .	Kilka dziewczynek tańczy obok siebie z uniesionymi rękami .	2.67	NEUTRAL
+2075	Młody mężczyzna z plecakiem stoi na rozległym trawiastym terenie , niedaleko pasących się owiec .	Mężczyzna w turystycznym stroju stoi na trawie , opierając się o drewniany słup .	1.5	NEUTRAL
+2081	Turysta z dużym plecakiem i kijkami wskazuje w kierunku ośnieżonych gór .	Turysta z dużym plecakiem i kijkami wskazuje w kierunku gór , które są ośnieżone .	5.0	ENTAILMENT
+2104	Dziewczynka z doczepionymi różowymi włosami tańczy , unosząc ręce do góry .	Uśmiechająca się kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	2.33	NEUTRAL
+2106	Kobieta zadaje nogą cios w twarz drugiej kobiety podczas walki .	Kobieta zadaje nogą cios .	3.83	NEUTRAL
+2111	Kobieta w czarnej bluzce siedzi na murku obok kosza na śmieci i trzyma coś przy uchu .	Kobieta w czarnej bluzce siedzi na murku obok kosza na śmieci , trzymając coś przy uchu .	5.0	ENTAILMENT
+2160	Mężczyzna , który jest przypięty do liny , wspina się po stromej ścianie skalnej .	Mężczyzna w czerwonej kurtce wspina się po oblodzonej górze .	2.17	NEUTRAL
+2166	Cztery ciemnowłose kobiety w turkusowych strojach tańczą .	Cztery kobiety tańczą .	3.0	NEUTRAL
+2170	Pięciu turystów z plecakami schodzi w dół kamienistego zbocza .	Pięcioro ludzi , jeden za drugim , schodzi ze stromej skalistej góry .	3.33	NEUTRAL
+2171	Pies o biszkoptowym kolorze przebywa blisko małej dziewczynki .	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę i rajstopy w paski siedzi z telefonem komórkowym przy uchu .	0.17	NEUTRAL
+2172	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , siedzącym ze skrzyżowanymi nogami .	Dziecko w kurtce i czapce zjeżdża po śniegu , siedząc w dmuchanym kole .	0.33	NEUTRAL
+2173	Taniec towarzyski jest tańczony na parkiecie przez kobietę i mężczyznę .	Kobieta w łososiowej sukni i mężczyzna ubrany na czarno stoją obok siebie na parkiecie w tanecznych pozach .	3.0	NEUTRAL
+2175	Dwóch mężczyzn wisi na linach .	Dwóch mężczyzn w kaskach wisi na linach w pobliżu dużej skały .	4.17	ENTAILMENT
+2192	Mężczyzna , który jest przypięty do liny , wspina się po stromej ścianie skalnej .	Mężczyzna przypięty do liny wspina się po stromej ścianie skalnej .	5.0	ENTAILMENT
+2193	Dziewczyna stoi na rękach na trampolinie .	Dziewczyna nie stoi na rękach na trampolinie .	4.5	CONTRADICTION
+2202	Mężczyzna zawieszony na linie wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	Mężczyzna , który jest zawieszony na linie , wspina się przy pomocy specjalistycznego sprzętu po skale , która jest oblodzona .	4.67	ENTAILMENT
+2213	Na scenie stoją dwie kobiety w ozdobnych strojach z piórami .	Kobieta w niebiesko - różowym stroju z piórami stoi na scenie , trzymając ręce na biodrach .	2.83	NEUTRAL
+2224	Trzy dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	Cztery dziewczynki bawią się na trampolinie , która jest ustawiona na śniegu .	2.83	NEUTRAL
+2225	Kobieta w czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	Pięć dziewczyn w kombinezonach i jedna dziewczyna w białym stroju tańczą w rzędzie .	1.0	NEUTRAL
+2240	Duży drapieżny ptak leci w dół , w kierunku uciekającej po trawie myszy .	Ubrany na czerwono chłopiec z bosymi stopami skacze wysoko do góry .	0.0	NEUTRAL
+2242	Dziewczynki w czerwono - czarnych strojach grają na boisku w piłkę nożną .	Uśmiechnięty chłopiec zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	0.33	NEUTRAL
+2256	Turysta z dużym plecakiem i kijkami wskazuje w kierunku gór , które są ośnieżone .	Człowiek z dużym plecakiem wchodzi po górskim zboczu .	1.83	NEUTRAL
+2263	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku .	Chłopak w pasiastej koszulce stoi wśród ludzi z telefonem komórkowym w ręce .	1.33	NEUTRAL
+2268	Chłopak w czerwonym stroju patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	Chłopak w zielonej koszulce w paski patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	3.83	NEUTRAL
+2276	Umięśniony mężczyzna bez koszulki i skąpo ubrana kobieta z kolorową ozdobą na głowie tańczą przed publicznością .	Chłopak w kraciastej koszuli skacze z deskorolką na duży głaz .	0.33	NEUTRAL
+2279	Jednakowo ubrane dziewczyny z kolorowym makijażem oczu tańczą .	Chłopiec z częściowo odpiętą deską snowboardową i dziewczynka z nartami jadą wyciągiem .	0.5	NEUTRAL
+2290	Mężczyzna bez koszulki wspina się po skale , asekurowany od dołu przez drugiego mężczyznę .	Mężczyzna bez koszulki , który jest asekurowany od dołu przez drugiego mężczyznę , wspina się po skale .	5.0	ENTAILMENT
+2293	Mała dziewczynka ubrana w strój z różowymi skrzydłami stoi , trzymając różdżkę w uniesionej do góry ręce .	Dziewczynka w niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	3.17	NEUTRAL
+2330	Czwórka mężczyzn idzie .	Czwórka mężczyzn bez koszulek idzie pod górę jeden za drugim .	4.0	ENTAILMENT
+2339	Dziewczynka w różowej kurtce zjeżdża na brzuchu z czerwonej zjeżdżalni .	Dziewczynka w różowej kurtce zjeżdża na brzuchu po zielonej zjeżdżalni .	3.17	NEUTRAL
+2342	Kobieta z profesjonalnym sprzętem wspinaczkowym wisi na stromej skale .	Kobieta wisi na skale .	3.83	NEUTRAL
+2366	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma ich jednocześnie za ręce .	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który podtrzymywany za ręce przez kobietę , stawia kroki .	0.17	NEUTRAL
+2380	Dziewczynka i chłopiec skaczą na trampolinie stojącej na trawie .	Piłkarz na boisku patrzy w kierunku lecącej do bramki piłki .	0.33	NEUTRAL
+2388	Jednakowo ubrane dziewczyny z kolorowym makijażem oczu tańczą .	Grupa uśmiechających się ludzi tańczy .	2.0	NEUTRAL
+2393	Dziewczynka z doczepionymi różowymi włosami tańczy , unosząc ręce do góry .	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i podniesionymi rękami .	3.33	NEUTRAL
+2394	Sześciu chłopaków i dziewczyna idą po trawie pod drzewem .	Dwaj mężczyźni , którzy rozmawiają przez telefon komórkowy , idą przez park , a za nimi idzie kilka innych osób .	1.83	NEUTRAL
+2398	Trzecia dziewczynka stoi obok kamienia .	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	2.17	NEUTRAL
+2403	Kierowca w białym kasku jedzie samochodem wyścigowym , pozostawiając za sobą dużo kurzu .	Czwórka mężczyzn bez koszulek idzie pod górę jeden za drugim .	0.17	NEUTRAL
+2426	Człowiek w długich , pomarańczowych spodniach wspina się po skale .	Mężczyzna z tatuażem na plecach i długimi spiętymi włosami wspina się po stromej skale .	3.0	NEUTRAL
+2429	Dziewczynka w różowej kurtce zjeżdża na brzuchu po czerwonej zjeżdżalni .	Mężczyzna w kapeluszu i kurtce kuca na szczycie zjeżdżalni .	1.33	NEUTRAL
+2447	Kobieta z profesjonalnym sprzętem wspinaczkowym wisi na stromej skale .	Nikt nie wisi na stromej skale .	3.0	CONTRADICTION
+2448	Dwie dziewczynki w różowych spódnicach i bluzkach stoją obok siebie w kuchni .	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce podniesione do góry .	1.17	NEUTRAL
+2460	Kobieta zadaje cios nogą mężczyźnie podczas walki na ringu .	Pojazd o czterech dużych kołach wjeżdża na górę zniszczonych aut .	0.0	NEUTRAL
+2463	Trzej mężczyźni w zielonych bluzkach stoją obok siebie w różnych pozach , trzymając się za ręce , a za nimi stoi czwarty mężczyzna .	Ciemnoskóry mężczyzna , który jest podparty o uda dwóch innych mężczyzn , trzyma ich jednocześnie za ręce .	2.5	NEUTRAL
+2481	Mężczyzna i dwie dziewczyny stoją w wąwozie , który jest wypełniony wodą , dalej cztery inne osoby chodzą po kamieniach .	Grupa ludzi brodzi w wodzie przepływającej pośród wysokich , stromych skał .	2.33	NEUTRAL
+2484	Osoba w żółtej koszulce , asekurowana na linie , wspina się po ściance wspinaczkowej .	Niewielki kolorowy samolot leci , pozostawiając za sobą ślad dymny .	0.0	NEUTRAL
+2490	Dziewczyna w jasnych spodniach stoi na rękach na trampolinie .	Żaden chłopiec nie skacze wysoko do góry .	0.17	NEUTRAL
+2491	Osoba wspina się po dużej , stromej skale .	Człowiek wspina się po dużej , stromej skale .	5.0	ENTAILMENT
+2496	Grupa osób patrzy na kobietę wykonującą skok w dal .	Człowiek z dużym niebieskim plecakiem na plecach stoi na stromej górze .	0.17	NEUTRAL
+2513	Mężczyzna w kasku siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	Mężczyzna w koszuli we wzorki siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	3.5	NEUTRAL
+2522	Dziecko o jasnych włosach zjeżdża ze zjeżdżalni prosto do piasku .	Chłopiec widziany od tyłu wypada na piasek ze zjeżdżalni .	2.83	NEUTRAL
+2529	Nikt nie zjeżdża ze zjeżdżalni na kolanach .	Chłopak w czarnym ubraniu zjeżdża na kolanach na dmuchanej zjeżdżalni .	3.17	CONTRADICTION
+2534	Czterech turystów idzie ośnieżonym szczytem .	Cztery osoby z bagażem na plecach chodzą po skalistej górze pokrytej śniegiem .	3.5	ENTAILMENT
+2542	Chłopiec , który jest ubrany na niebiesko , zjeżdża po pomarańczowej zjeżdżalni .	Uśmiechnięty chłopiec zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	3.0	NEUTRAL
+2544	Mężczyzna w białym kasku wspina się na linie po ścianie wodospadu .	Mężczyzna płynący na desce patrzy w kierunku człowieka , którego zalewa wysoka fala .	1.0	NEUTRAL
+2554	Kobieta w krótkiej czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	Cztery kobiety tańczą .	0.33	NEUTRAL
+2558	Człowiek wisi na linie obok klifu nad wodą .	Człowiek wspina się po ściance wspinaczkowej .	1.33	NEUTRAL
+2564	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami uniesionymi do góry .	Chłopiec zjeżdża do basenu z niebieskiej zjeżdżalni .	2.33	NEUTRAL
+2576	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce do góry .	Kilka kolorowo ubranych osób tańczy z rękami , które są uniesione .	3.33	NEUTRAL
+2579	Człowiek wspina się po lodowej ścianie z asekuracją .	Kobieta siedzi na skórzanym fotelu w galerii handlowej i trzyma w ręku torby .	0.33	NEUTRAL
+2588	Kobieta , siedząc na zjeżdżalni z nogami w wodzie , trzyma na rękach dziecko w kamizelce ratunkowej .	Kobieta siedzi na zjeżdżalni z nogami w wodzie i trzyma na rękach dziecko w kamizelce ratunkowej .	5.0	ENTAILMENT
+2600	Dzieci wspinają się na szczyt skały , asekurując się przy pomocy liny .	Mężczyzna w kasku wspina się z asekuracją na skałę .	1.67	NEUTRAL
+2609	Dwaj mężczyźni rozmawiający przez telefon komórkowy idą przez park , a za nimi idzie kilka innych osób .	Dwaj mężczyźni , którzy rozmawiają przez telefon komórkowy , idą przez park , a za nimi idzie kilka innych osób .	5.0	ENTAILMENT
+2619	Dziewczynka z różowymi włosami , które są doczepione , tańczy , unosząc ręce do góry .	Trzy kobiety ubrane w długie szaty tańczą obok wiszącej za ich plecami flagi .	1.33	NEUTRAL
+2622	Mężczyzna zwrócony w kierunku dwóch idących nad wodą kobiet wspina się po stromej ścianie skalnej .	Mężczyzna przypięty do liny wspina się po stromej ścianie skalnej .	3.17	NEUTRAL
+2623	Trójka dzieci bawi się w basenie z kolorowymi piłeczkami .	Dziewczynka i ciemnoskóry chłopiec wypadają ze zjeżdżalni na kolorowe piłeczki , na których siedzi drugi chłopiec .	3.33	ENTAILMENT
+2624	Zgromadzone wielkie zbiorowisko ludzi stoi na stromej górze .	Mężczyzna z plecakiem stoi na ścieżce na rozległym trawiastym terenie .	1.0	NEUTRAL
+2625	Dwójka dzieci nie spływa po wodzie pontonem na fioletowej zjeżdżalni .	Dwoje dzieci zjeżdża w pontonie po wysokiej , fioletowej zjeżdżalni , a obok leżą na taśmie inne pontony .	3.0	CONTRADICTION
+2626	Mężczyzna otoczony przez kobiety w ozdobnych sukniach i piórach na głowach wspina się z asekuracją po pionowej skale .	Człowiek w stroju Świętego Mikołaja wspina się po ścianie .	1.17	NEUTRAL
+2644	Chłopiec w bluzce w paski i spodniach dresowych skacze na trampolinie na świeżym powietrzu .	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	3.67	NEUTRAL
+2655	Mężczyzna w białym fartuchu i czapce siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	Człowiek w długich , pomarańczowych spodniach wspina się po skale .	1.83	NEUTRAL
+2710	Dziecko o jasnych włosach zjeżdża ze zjeżdżalni prosto do piasku .	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	2.33	NEUTRAL
+2742	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	Osoba w kasku ochronnym , z plecakiem na plecach , ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	1.5	NEUTRAL
+2748	Mężczyzna w czerwonej kurtce wspina się po górze , która jest oblodzona .	Mężczyzna w czerwonej kurtce wspina się po oblodzonej górze .	5.0	ENTAILMENT
+2752	Jasnowłosa dziewczynka wspina się po ściance wspinaczkowej .	Człowiek z długimi włosami wisi na linie obok klifu nad wodą .	1.0	NEUTRAL
+2758	Człowiek w kasku stoi na zboczu w górach .	Mężczyzna w kapeluszu mający na sobie pas z dwoma bidonami stoi na tle górskiego krajobrazu .	1.17	NEUTRAL
+2778	Dziewczynka o jasnych włosach siedzi na dużej trampolinie przy plastikowej żółto - niebieskiej huśtawce .	Dziewczynka o jasnych włosach siedzi na dużej trampolinie obok podskakującego ciemnoskórego chłopca .	2.83	NEUTRAL
+2779	Jasnowłosa dziewczynka wspina się po ściance wspinaczkowej .	Dziewczynka wspina się po ściance .	3.83	NEUTRAL
+2794	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a w oddali idzie piąta osoba .	Czterech chłopaków z plecakami idzie ścieżką przez błoto , a w oddali idzie piąta osoba .	3.5	NEUTRAL
+2818	Kobieta w ozdobnym stroju z tatuażem na brzuchu wygina się mocno do tyłu .	Kobieta w białej czapce z daszkiem z tatuażem na brzuchu wygina się mocno do tyłu .	4.0	NEUTRAL
+2820	Człowiek wspina się po skale .	Człowiek wspina się po skale z asekuracją .	4.17	ENTAILMENT
+2839	Mężczyzna w czerwonej koszulce wspina się po wodospadzie z asekuracją .	Mężczyzna o jasnych , długich włosach wspina się na linie po ścianie wodospadu .	3.17	NEUTRAL
+2844	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	Chłopiec w pasiastej bluzce skacze z niewielkiej zjeżdżalni .	1.83	NEUTRAL
+2845	Cztery ciemnowłose kobiety w turkusowych strojach tańczą .	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna , który siedzi na krześle .	1.83	NEUTRAL
+2855	Kobieta w różowym stroju z piórami stoi na scenie , trzymając ręce na biodrach .	Kobieta w niebiesko - różowym stroju z piórami stoi na scenie , trzymając ręce na biodrach .	4.0	ENTAILMENT
+2857	Człowiek w czerwonej koszulce stoi na stromej górze .	Cztery osoby z bagażem na plecach chodzą po skalistej górze pokrytej śniegiem .	1.83	NEUTRAL
+2864	Kobieta siedząc na zjeżdżalni z nogami w wodzie , trzyma na rękach dziecko w kamizelce ratunkowej .	Uśmiechnięty chłopiec zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	1.5	NEUTRAL
+2872	Żadna kobieta nie wspina się po gładkiej skale .	Człowiek wspina się po skale z asekuracją .	2.67	NEUTRAL
+2879	Mężczyzna , który jest przypięty do liny , wspina się po stromej ścianie skalnej .	Mężczyzna wspina się z asekuracją po pionowej skale .	3.83	NEUTRAL
+2881	Kobieta wisi na skale .	Człowiek uprawia wspinaczkę , asekurując się na linie .	1.83	NEUTRAL
+2885	Dwaj mężczyźni w czapkach z daszkiem , jeden z niebieskim plecakiem , stoją w pobliżu wysokich skał .	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	0.5	NEUTRAL
+2889	Mała dziewczynka ubrana w strój z różowymi skrzydłami stoi , trzymając różdżkę w uniesionej do góry ręce .	Człowiek na desce snowboardowej skacze ze stromej skały .	0.0	NEUTRAL
+2895	Żaden chłopiec nie siedzi na niewielkiej zjeżdżalni .	Chłopiec w czerwonej kurtce z kapturem na głowie siedzi na niewielkiej zjeżdżalni .	3.5	CONTRADICTION
+2918	Jasnowłosa dziewczynka wspina się po ściance wspinaczkowej .	Mężczyzna w łódce wiosłuje jednym wiosłem po wodzie .	0.17	NEUTRAL
+2921	Trzej mężczyźni w zielonych bluzkach stoją obok siebie w różnych pozach , trzymając się za ręce , a za nimi stoi czwarty mężczyzna .	Czterech turystów idzie ośnieżonym szczytem .	0.17	NEUTRAL
+2935	Kobieta zadaje nogą cios w twarz drugiej kobiety podczas walki .	Dwie kobiety w czarnym płaszczu i brązowej czapce kopią się nawzajem .	2.5	NEUTRAL
+2937	Włochaty owad ze skrzydełkami siedzi na żółtym kwiatku .	Kilka dziewczynek tańczy obok siebie z uniesionymi rękami .	0.0	NEUTRAL
+2945	Mała dziewczynka ubrana w strój z różowymi skrzydłami stoi , trzymając różdżkę w uniesionej do góry ręce .	Dziewczynka w fioletowo - niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	3.17	NEUTRAL
+2946	Dwoje dzieci wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Dwoje dzieci wspina się po ściance .	3.83	NEUTRAL
+2948	Para młodych ludzi całuje się na ławce w parku .	Chłopiec w bluzce w paski i spodniach dresowych skacze z niebieskiej zjeżdżalni .	0.33	NEUTRAL
+2992	Kobieta w ozdobnym stroju z tatuażem na brzuchu wygina się mocno do tyłu .	Kobieta w krótkiej czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	2.83	NEUTRAL
+2995	Skok na trampolinie jest wykonywany przez człowieka .	Chłopiec robi obrót w powietrzu nad trampoliną .	4.0	ENTAILMENT
+3000	Mężczyzna z tatuażem na plecach i długimi włosami , które są spięte , wspina się po stromej skale .	Mężczyzna z tatuażem na plecach i długimi spiętymi włosami wspina się po stromej skale .	5.0	ENTAILMENT
+3004	Chłopiec i dziewczynka odbijają się na trampolinie .	Dziewczynka o jasnych włosach siedzi na dużej trampolinie obok podskakującego ciemnoskórego chłopca .	3.5	NEUTRAL
+3018	Pięć osób widzianych od tyłu idzie w kierunku pasma gór .	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi .	0.5	NEUTRAL
+3027	Mały chłopiec z rękawkami do pływania zjeżdża ze zjeżdżalni do wody .	Chłopiec w spodenkach kąpielowych i rękawkach , które są dmuchane , zjeżdża do basenu ze zjeżdżalni .	3.5	ENTAILMENT
+3036	Cztery kobiety w kostiumach kąpielowych grają w siatkówkę na plaży .	Dziewczyna stoi na rękach na trampolinie , a obok niej stoi dziecko .	0.33	NEUTRAL
+3047	Kobieta zadaje nogą cios w twarz drugiej kobiety podczas walki .	Dwie kobiety w białych strojach do walki kopią się nawzajem .	3.0	NEUTRAL
+3053	Jedna osoba w sportowym stroju , rękawicach i kasku kopie drugą w głowę na ringu .	Osoba kopie drugą .	2.67	NEUTRAL
+3055	Mężczyzna w kasku siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	Łysy mężczyzna wspina się z asekuracją po pionowej skale .	1.33	NEUTRAL
+3059	Dwaj mężczyźni w czapkach z daszkiem , jeden z niebieskim plecakiem , a drugi z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	Mężczyzna z nartami i mężczyzna z dzieckiem na plecach stoją w pobliżu stromych skał .	2.83	NEUTRAL
+3079	Mężczyzna bez koszulki wspina się po skale , asekurowany od dołu przez drugiego mężczyznę .	Trzej mężczyźni w sportowych strojach podskakują do piłki , a dwaj kolejni mężczyźni biegną w ich stronę .	0.5	NEUTRAL
+3083	Ciemnoskóry chłopiec przypatruje się dziewczynce zjeżdżającej z kolorowej dmuchanej zjeżdżalni .	Ciemnoskóry chłopiec przypatruje się dziewczynce , która zjeżdża z kolorowej zjeżdżalni , która jest dmuchana .	5.0	ENTAILMENT
+3085	Dziewczynka w żółtej sukience pochyla się nad dużym arbuzem .	Człowiek wspina się po dużej , stromej skale .	0.17	NEUTRAL
+3093	Mężczyzna , który jest ubrany w czerwono - biały strój i czapkę z pomponem , wspina się po ścianie , na której zawieszone są lampki choinkowe .	Mężczyzna ubrany w czerwono - biały strój i czapkę z pomponem wspina się po ścianie , na której zawieszone są lampki choinkowe .	4.83	ENTAILMENT
+3094	Chłopak w okularach patrzy na telefon komórkowy , trzymając w ręce plastikowy kubek z napojem .	Chłopak w okularach patrzy na telefon komórkowy , trzymając w uniesionej do góry ręce plastikowy kubek z napojem .	4.33	ENTAILMENT
+3102	Nikt nie wspina się z asekuracją po ściance .	Młoda kobieta wspina się po gładkiej skale .	2.5	NEUTRAL
+3120	Mężczyzna z torbą i dużą teczką jedzie na deskorolce po chodniku .	Człowiek z dużym plecakiem stoi na ścieżce na trawiastej górze .	0.5	NEUTRAL
+3122	Człowiek wisi na linie obok klifu nad wodą .	Jeden ciemny , mały pies i dwa białe , małe psy stoją na chodniku .	0.0	NEUTRAL
+3133	Człowiek wspina się po lodowej ścianie z asekuracją .	Trzeci mężczyzna wspina się z asekuracją po pionowej skale .	3.0	NEUTRAL
+3136	Kilka osób przemierza płaski teren , idąc w kierunku gór .	Płaski teren jest przemierzany przez kilka osób .	4.0	NEUTRAL
+3137	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , w drugiej ręce trzymając plastikowy kubek z napojem .	Chłopak patrzy na telefon .	3.5	NEUTRAL
+3167	Dwaj mężczyźni w czapkach z daszkiem , jeden z niebieskim plecakiem , a drugi z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	Człowiek stoi do połowy w wodzie z wędką .	0.67	NEUTRAL
+3187	Żadna kobieta nie siedzi na murku obok śmietnika .	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę i rajstopy w paski siedzi z telefonem komórkowym przy uchu .	1.17	NEUTRAL
+3200	Dwie kobiety w białych strojach do sztuk walki , obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	Sędzia z muchą na szyi obserwuje , jak zawodniczka zadaje cios nogą drugiej zawodniczce .	3.0	ENTAILMENT
+3208	Kobieta zadaje nogą cios w twarz drugiej kobiety podczas walki .	Mężczyzna jedzie motocyklem wraz z psem w okularach siedzącym w bocznym wózku .	0.0	NEUTRAL
+3219	Dziewczyna w jasnych spodniach stoi na rękach na trampolinie .	Nikt nie stoi na rękach na trampolinie .	2.83	NEUTRAL
+3253	Dziewczynka w różowej kurtce zjeżdża na brzuchu po czerwonej zjeżdżalni .	Nikt nie zjeżdża na brzuchu po czerwonej zjeżdżalni .	3.17	CONTRADICTION
+3259	Dziewczynka zjeżdża po pomarańczowej zjeżdżalni .	Dziewczynka nie zjeżdża po pomarańczowej zjeżdżalni .	4.0	CONTRADICTION
+3262	Dwoje dzieci w spodniach i koszulkach wspina się po ściance wspinaczkowej .	Młoda kobieta wspina się po lodowej ścianie z asekuracją .	1.83	NEUTRAL
+3263	Kilka kolorowo ubranych osób tańczy z uniesionymi rękami .	Kilkanaście dziewczynek w białych sukienkach i kokardach na głowie stoi z rozłożonymi szeroko rękami na scenie .	1.33	NEUTRAL
+3274	Dziewczynka o długich , jasnych włosach wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Dziewczynka o jasnych włosach wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	4.5	NEUTRAL
+3288	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami uniesionymi do góry .	Chłopiec zjeżdża do basenu ze zjeżdżalni .	4.33	NEUTRAL
+3296	Dwoje dzieci wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Dziecko biegnie boso po lśniącej podłodze .	0.67	NEUTRAL
+3307	Mężczyzna wisi nad wodą na linie zaczepionej o stromą , wysoką skałę .	Człowiek nie wisi na linie obok klifu nad wodą .	3.33	NEUTRAL
+3314	Chłopiec skaczący na trampolinie przeskakuje nad drugim chłopcem .	Grupa ludzi brodzi w wodzie przepływającej pośród wysokich , stromych skał .	0.33	NEUTRAL
+3316	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który stawia kroki podtrzymywany za ręce przez kobietę .	Kobieta trzyma chłopca za ręce , patrząc pod nogi .	2.67	NEUTRAL
+3317	Starsza kobieta o skośnych oczach siedzi na górnej części zjeżdżalni .	Mała dziewczynka w kolorowej bluzce siedzi na górnej części zjeżdżalni .	2.33	NEUTRAL
+3326	Chłopiec w czerwonej kurtce siedzi na szczycie zjeżdżalni .	Chłopiec w czerwonej kurtce z kapturem na głowie siedzi na niewielkiej zjeżdżalni .	3.5	NEUTRAL
+3332	Człowiek z plecakiem przechodzi niedaleko szczytów górskich , które są pokryte śniegiem .	Człowiek z plecakiem idzie kamienistą górską doliną , podpierając się kijkami .	3.0	NEUTRAL
+3350	Dziewczynka i chłopiec skaczą na trampolinie .	Chłopiec i dziewczynka odbijają się .	4.0	ENTAILMENT
+3356	Mężczyzna w zimowym stroju i kasku idzie po śniegu , trzymając linę .	Żaden mężczyzna nie idzie po śniegu , trzymając linę .	3.0	CONTRADICTION
+3357	Nikt nie chodzi po skalistej górze pokrytej śniegiem .	Cztery osoby z bagażem na plecach chodzą po skalistej górze pokrytej śniegiem .	3.0	CONTRADICTION
+3359	Człowiek w stroju świętego Mikołaja nie wspina się po ścianie .	Człowiek wspina się po wysokiej skalnej ścianie .	2.33	NEUTRAL
+3360	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który stawia kroki podtrzymywany za ręce przez kobietę .	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który , podtrzymywany za ręce przez kobietę , stawia kroki .	5.0	ENTAILMENT
+3366	Dziewczynka zjeżdża na dmuchanej zjeżdżalni , w tle patrzy na nią chłopiec .	Ciemnoskóry chłopiec przypatruje się dziewczynce , która zjeżdża z kolorowej zjeżdżalni , która jest dmuchana .	3.83	ENTAILMENT
+3368	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku , w pobliżu targu .	Człowiek uprawia wspinaczkę , asekurując się na linie .	0.5	NEUTRAL
+3374	Człowiek wykonuje skok na trampolinie , przekręcając się do góry nogami .	Chłopiec robi obrót w powietrzu nad trampoliną .	4.0	NEUTRAL
+3388	Dziewczynka zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	4.17	NEUTRAL
+3394	Chłopiec w spodenkach kąpielowych i dmuchanych rękawkach zjeżdża do basenu ze zjeżdżalni .	Chłopiec w spodenkach kąpielowych i rękawkach , które są dmuchane , zjeżdża do basenu ze zjeżdżalni .	5.0	ENTAILMENT
+3445	Dziewczynki w białych strojach baletnic stoją na scenie w rzędzie w różnych pozach .	Chłopiec w papierowej koronie siedzi w wózku na zakupy .	0.33	NEUTRAL
+3452	Człowiek z dużym plecakiem stoi na ścieżce na trawiastej górze .	Mężczyzna z plecakiem stoi na ścieżce na rozległym trawiastym terenie .	3.33	NEUTRAL
+3459	Cztery ciemnowłose kobiety w turkusowych strojach nie tańczą .	Grupa ludzi tańczy na piasku obok dwóch samochodów terenowych .	1.5	NEUTRAL
+3466	Dziewczynka i chłopiec skaczą na trampolinie .	Dziewczynka i drugie dziecko , chłopiec , skaczą na trampolinie .	4.67	ENTAILMENT
+3470	Mężczyzna z plecakiem stoi na rozległym trawiastym terenie .	Mężczyzna z plecakiem stoi na ścieżce na rozległym trawiastym terenie .	4.0	ENTAILMENT
+3471	Mężczyzna bez koszulki i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	Człowiek w kasku i kombinezonie jedzie na tylnym kole żółtego motocyklu , a za nim jedzie na motorze druga osoba .	0.33	NEUTRAL
+3482	Nikt nie zjeżdża ze zjeżdżalni prosto do piasku .	Chłopiec w czerwonej kurtce z kapturem na głowie siedzi na niewielkiej zjeżdżalni .	2.17	NEUTRAL
+3487	Trzy kobiety , które są ubrane w suknie różnych kolorów , tańczą na tle flagi , która jest rozwieszona na ścianie .	Trzy kobiety ubrane w suknie różnych kolorów tańczą na tle rozwieszonej na ścianie flagi .	5.0	ENTAILMENT
+3492	Dziewczyna stoi na rękach na trampolinie , a obok niej stoi dziecko .	Dwie dziewczynki bawią się po zmroku na dużej trampolinie ustawionej na trawniku .	2.0	NEUTRAL
+3506	Dziewczynka zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	Chłopiec zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	3.5	NEUTRAL
+3513	Chłopiec zjeżdża do basenu ze zjeżdżalni .	Jasnowłosy chłopiec zjeżdża do basenu ze zjeżdżalni .	4.33	ENTAILMENT
+3527	Dziewczynka stoi i stoi chłopiec .	Dziewczynka w różowym stroju tańczy na parkiecie obok chłopca .	1.67	NEUTRAL
+3543	Kobieta w krótkiej czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	Mężczyzna w białym sportowym stroju i czarnym kasku stoi na trawie na zgiętych nogach , trzymając za plecami grubą pałkę .	0.17	NEUTRAL
+3562	Kilka osób przechodzi nad wodą po wiszącym w pobliżu skał moście .	Widziany od tyłu człowiek z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	2.83	NEUTRAL
+3566	Turysta z dużym plecakiem i kijkami wskazuje w kierunku gór , które są ośnieżone .	Człowiek z dużym plecakiem stoi na ścieżce na trawiastej górze .	2.17	NEUTRAL
+3574	Mężczyzna w białym kasku wspina się na linie po ścianie wodospadu .	Mężczyzna w czerwonej koszulce wspina się po wodospadzie z asekuracją .	3.17	NEUTRAL
+3575	Chłopiec w spodenkach kąpielowych i rękawkach , które są dmuchane , zjeżdża do basenu ze zjeżdżalni .	Chłopiec w granatowym ubraniu siedzi na czerwonej zjeżdżalni .	2.17	NEUTRAL
+3580	Dwóch mężczyzn w sportowych strojach walczy na ringu .	Dwie kobiety w białych strojach do sztuk walki , obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	1.67	NEUTRAL
+3583	Osoba robi krok .	Młoda osoba w sportowym stroju i rękawicy robi duży krok , trzymając w jednej dłoni piłkę .	2.83	ENTAILMENT
+3593	Piłkarz na boisku patrzy w kierunku lecącej do bramki piłki .	Dziewczynka w różowym stroju tańczy na parkiecie obok chłopca .	0.5	NEUTRAL
+3601	Kobieta w ciemnych okularach siedzi na murku obok śmietnika z telefonem komórkowym przy uchu .	Chłopak w pasiastej koszulce z telefonem komórkowym w ręce stoi na dużym terenie .	1.33	NEUTRAL
+3602	Kobieta ubrana w kombinezon ochronny i mężczyzna tańczą taniec towarzyski na parkiecie .	Kobieta i mężczyzna tańczą taniec towarzyski na parkiecie .	4.33	NEUTRAL
+3623	Człowiek wspina się po dużej skale .	Człowiek wspina się po dużej , stromej skale .	4.17	ENTAILMENT
+3624	Grupa ludzi tańczy na piasku obok dwóch niebieskich samochodów .	Czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , a jeden w brązowej , wykonuje taki sam krok taneczny .	2.0	NEUTRAL
+3635	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna , który siedzi na krześle .	Trzy kobiety ubrane w suknie różnych kolorów tańczą na tle rozwieszonej na ścianie flagi .	1.5	NEUTRAL
+3666	Kobieta i mężczyzna widziani od tyłu siedzą przy stolikach w czytelni .	Dwóch mężczyzn wisi na linach nad wejściem do jaskini .	0.17	NEUTRAL
+3694	Pięć osób widzianych od tyłu idzie w kierunku pasma gór .	Płaski teren jest przemierzany przez kilka osób .	2.17	NEUTRAL
+3701	Uśmiechnięty chłopiec zjeżdża po plastikowej zjeżdżalni .	Chłopiec ubrany na niebiesko zjeżdża po pomarańczowej zjeżdżalni .	2.17	NEUTRAL
+3708	Mężczyzna i dwie dziewczyny stoją w wypełnionym wodą wąwozie , dalej cztery inne osoby chodzą po kamieniach .	Grupa ludzi brodzi w wodzie przepływającej pośród wysokich , stromych skał .	1.83	NEUTRAL
+3709	Osoba w kasku ochronnym , z plecakiem na plecach , która jest ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	1.67	NEUTRAL
+3713	Uśmiechnięta dziewczynka o jasnych włosach zjeżdża na zjeżdżalni .	Dwaj mężczyźni w białych strojach biorą udział w walce przed publicznością .	0.33	NEUTRAL
+3729	Ciemnoskóra dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	Dziewczynka z różowymi włosami , które są doczepione , tańczy , unosząc ręce do góry .	2.0	NEUTRAL
+3742	Kilkanaście dziewczynek w białych sukienkach i kokardach na głowie stoi obok siebie na scenie .	Mężczyzna z tatuażem na prawej ręce trzyma w rękach aparat fotograficzny .	0.17	NEUTRAL
+3768	Dziewczynka o jasnych włosach nie siedzi na dużej trampolinie obok podskakującego ciemnoskórego chłopca .	Chłopiec i dziewczynka odbijają się na trampolinie .	1.83	NEUTRAL
+3787	Młoda kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	Kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	4.33	NEUTRAL
+3797	Czterech mężczyzn bez koszulek nie idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	Czterech turystów idzie ośnieżonym szczytem .	1.67	NEUTRAL
+3798	Mała dziewczynka ubrana w strój z różowymi skrzydłami stoi , trzymając różdżkę w uniesionej do góry ręce .	Mała dziewczynka , która jest ubrana w strój z różowymi skrzydłami , stoi , trzymając różdżkę w uniesionej do góry ręce .	5.0	ENTAILMENT
+3835	Dwie dziewczynki obserwują taniec na parkiecie innej dziewczynki , która jest ubrana w strój baletnicy .	Dwie dziewczynki obserwują taniec na parkiecie innej dziewczynki ubranej w strój baletnicy .	4.83	ENTAILMENT
+3840	Kobieta wspina się z asekuracją po skale .	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a w oddali idzie piąta osoba .	0.17	NEUTRAL
+3841	Widziana od tyłu dziewczynka w koszulce i dżinsach stoi na kamienistej plaży nad brzegiem wody .	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	0.5	NEUTRAL
+3861	Mężczyzna zawieszony na linie wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	Mężczyzna w czerwonej kurtce wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	4.0	NEUTRAL
+3863	Ciemnoskóry mężczyzna , który jest podparty o uda dwóch innych mężczyzn , trzyma ich jednocześnie za ręce .	Dwie dziewczynki obserwują taniec na parkiecie innej dziewczynki ubranej w strój baletnicy .	0.17	NEUTRAL
+3867	Człowiek wchodzi po zboczu .	Człowiek z dużym plecakiem wchodzi po górskim zboczu .	3.5	ENTAILMENT
+3872	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , siedzącym ze skrzyżowanymi nogami .	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , który siedzi ze skrzyżowanymi nogami .	5.0	ENTAILMENT
+3876	Mężczyzna w białym kasku wspina się na linie po ścianie wodospadu .	Człowiek w czerwonej koszulce , który jest asekurowany przez drugą osobę , wspina się po dużej , stromej skale .	2.17	NEUTRAL
+3882	Widziany od tyłu człowiek z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	Kilka osób przechodzi .	3.33	NEUTRAL
+3893	Mężczyzna , który jest zawieszony na linie , wspina się przy pomocy specjalistycznego sprzętu po skale , która jest oblodzona .	Dwóch mężczyzn w kaskach wisi na linach w pobliżu dużej skały .	1.83	NEUTRAL
+3898	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i podniesionymi rękami .	Dziewczynka z różowymi włosami , które są doczepione , tańczy , unosząc ręce do góry .	2.83	NEUTRAL
+3900	Pięcioro ludzi ubranych w czerwone kombinezony , jeden za drugim , schodzi ze stromej , skalistej góry .	Pięcioro ludzi , jeden za drugim , schodzi ze stromej skalistej góry .	4.0	NEUTRAL
+3915	Dziewczynka całuje z zamkniętymi oczami pysk psa .	Chłopiec ubrany na niebiesko zjeżdża po pomarańczowej zjeżdżalni .	0.33	NEUTRAL
+3925	Obrót w powietrzu jest robiony nad trampoliną przez chłopca .	Chłopiec robi obrót w powietrzu nad trampoliną .	5.0	ENTAILMENT
+3927	Nikt nie idzie pod górę jeden za drugim .	Czterech mężczyzn bez koszulek idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	2.5	NEUTRAL
+3938	Człowiek asekuruje na linie mężczyznę wspinającego się po stromej skale .	Mężczyzna , który jest zawieszony na linie , wspina się przy użyciu specjalistycznego sprzętu po skale , która jest oblodzona .	2.5	NEUTRAL
+3941	Mężczyzna bez koszulki wspina się po skale , asekurowany od dołu przez drugiego mężczyznę .	Nikt nie wspina się z asekuracją po pionowej skale .	2.83	CONTRADICTION
+3944	Człowiek z plecakiem idzie na tle ośnieżonych górskich zboczy .	Człowiek z plecakiem idzie kamienistą górską doliną , podpierając się kijkami .	3.5	NEUTRAL
+3947	Kilkanaście dziewczynek w białych sukienkach i kokardach na głowie stoi obok siebie na scenie .	Dziewczynki w białych strojach baletnic stoją na scenie w rzędzie w różnych pozach .	3.17	NEUTRAL
+3957	Dziewczynka w błękitnej sukience zjeżdża na zielonej zjeżdżalni .	Jasnowłosa dziewczynka w sukience w kwiaty stoi na łące .	1.33	NEUTRAL
+3964	Dwóch mężczyzn wisi na linach .	Dwóch mężczyzn wisi na linach nad wejściem do jaskini .	4.17	ENTAILMENT
+3971	Kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna siedzący na krześle .	3.17	NEUTRAL
+3972	Trzy osoby w kaskach i kombinezonach jadą blisko siebie na łyżwach .	Dwoje dzieci zjeżdża w pontonie po wysokiej , fioletowej zjeżdżalni , a obok leżą na taśmie inne pontony .	0.67	NEUTRAL
+3982	Trzech mężczyzn w sportowych strojach gra w hokeja na trawie .	Kobieta w łososiowej sukni i mężczyzna ubrany na czarno stoją obok siebie na parkiecie w tanecznych pozach .	0.5	NEUTRAL
+3998	Uradowana dziewczynka zjeżdża ze zjeżdżalni z uniesionymi rękami .	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami , które są uniesione do góry .	2.33	NEUTRAL
+4002	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma ich jednocześnie za ręce .	Trzej mężczyźni stoją .	1.83	NEUTRAL
+4005	Nikt nie zjeżdża na kolanach na dmuchanej zjeżdżalni .	Chłopak w czarnym ubraniu zjeżdża na kolanach na dmuchanej zjeżdżalni .	2.83	CONTRADICTION
+4008	Mężczyzna wisi nad wodą na linie zaczepionej o stromą , wysoką skałę .	Duży , mokry pies z obrożą na szyi biegnie po piasku nad wodą .	0.0	NEUTRAL
+4018	Dziewczynka i chłopiec skaczą na trampolinie stojącej na trawie .	Dziewczynka i chłopiec skaczą na trampolinie .	4.17	NEUTRAL
+4029	Człowiek w stroju świętego Mikołaja nie wspina się po ścianie .	Człowiek w stroju Świętego Mikołaja wspina się po ścianie .	3.5	CONTRADICTION
+4035	Cztery ciemnowłose kobiety w turkusowych strojach tańczą .	Biały pies i czarny pies biegną obok siebie po trawie obserwowane przez ludzi .	0.0	NEUTRAL
+4051	Człowiek w długich spodniach wspina się po skale .	Mężczyzna z tatuażem na plecach i długimi spiętymi włosami wspina się po stromej skale .	2.5	NEUTRAL
+4054	Widziany od tyłu człowiek siedzi na kamieniu obok wodospadu .	Grupa ludzi tańczy na piasku obok dwóch samochodów terenowych .	0.33	NEUTRAL
+4091	Dwaj mężczyźni w ciemnych okularach i czarnych koszulach biorą udział w walce przed publicznością .	Dwaj mężczyźni w białych strojach walczą ze sobą , kopiąc się nawzajem .	3.0	NEUTRAL
+4093	Kilka osób z plecakami idzie ścieżką po kamienistym terenie .	Kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	0.0	NEUTRAL
+4099	Dwaj mężczyźni biorą udział w walce .	Dwaj mężczyźni w białych strojach biorą udział w walce przed publicznością .	3.5	ENTAILMENT
+4105	Osoba w niebieskiej czapce i z dużym plecakiem podchodzi pod górę po śniegu .	Człowiek przejeżdża na żółtym quadzie wzdłuż ogrodzenia .	0.33	NEUTRAL
+4143	Dziewczynka zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	Kobieta , dziewczynka i pies bawią się w śniegu w lesie .	0.67	NEUTRAL
+4144	Chłopiec siedzi na niewielkiej zjeżdżalni w wodzie .	Chłopiec w czerwonej kurtce z kapturem na głowie siedzi na niewielkiej zjeżdżalni .	2.67	NEUTRAL
+4164	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i podniesionymi rękami .	Nikt nie tańczy z zamkniętymi oczami i podniesionymi rękami .	2.83	CONTRADICTION
+4167	Dwoje dzieci w spodniach i koszulkach wspina się po ściance wspinaczkowej .	Dwoje dzieci w spodniach i koszulkach nie wspina się po ściance wspinaczkowej .	4.33	CONTRADICTION
+4170	Człowiek w kasku trzyma linki położonej na ziemi paralotni , a druga osoba przytrzymuje jej skrzydło .	Chłopiec w czerwonej kurtce siedzi na szczycie zjeżdżalni .	0.0	NEUTRAL
+4174	Nikt nie zjeżdża ze zjeżdżalni na kolanach .	Ubrany na czarno chłopiec zjeżdża ze zjeżdżalni na kolanach .	3.33	CONTRADICTION
+4185	Uśmiechnięta dziewczynka o jasnych włosach zjeżdża na zjeżdżalni .	Dziewczynka zjeżdża na zjeżdżalni .	4.0	NEUTRAL
+4189	Kobieta w ciemnych okularach siedzi na murku obok śmietnika z telefonem komórkowym przy uchu .	Kobieta w czarnej bluzce siedzi na murku obok kosza na śmieci i trzyma coś przy uchu .	3.17	NEUTRAL
+4196	Dziewczynka w różowej kurtce zjeżdża na brzuchu po czerwonej zjeżdżalni .	Troje dzieci zbiega po trawiastym zboczu .	0.67	NEUTRAL
+4199	Gracz hokeja na lodzie klęczy przed bramką , trzymając kij hokejowy .	Czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , a jeden w brązowej , wykonuje taki sam krok taneczny .	0.17	NEUTRAL
+4202	Mężczyzna wisi nad wodą na linie zaczepionej o stromą , wysoką skałę .	Człowiek wisi na linie obok klifu nad wodą .	3.33	NEUTRAL
+4204	Nikt nie skacze na trampolinie otoczonej ochronną siatką .	Czworo dzieci skacze na trampolinie otoczonej ochronną siatką .	2.83	CONTRADICTION
+4225	Cztery ciemnowłose kobiety w turkusowych strojach tańczą .	Dziewczyny , które są jednakowo ubrane , z kolorowym makijażem oczu tańczą .	2.67	NEUTRAL
+4230	Dziewczynka w stroju baletowym , która jest obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	Kobieta w niebiesko - różowym stroju z piórami stoi na scenie , trzymając ręce na biodrach .	0.67	NEUTRAL
+4232	Chłopiec kuca na szczycie zjeżdżalni .	Mały chłopiec trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	2.83	NEUTRAL
+4257	Jednakowo ubrane dziewczyny z kolorowym makijażem oczu tańczą .	Cztery ciemnowłose kobiety w turkusowych strojach tańczą .	2.5	NEUTRAL
+4267	Dziewczynka i chłopiec skaczą na trampolinie .	Dziewczynka obserwowana przez inną dziewczynkę i chłopiec skaczą na trampolinie .	4.17	ENTAILMENT
+4298	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna siedzący na krześle .	Kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	2.83	NEUTRAL
+4310	Dziewczynka w różowej kurtce zjeżdża na brzuchu z czerwonej zjeżdżalni .	Mały chłopiec nie trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	1.5	NEUTRAL
+4311	Turysta z dużym plecakiem i kijkami wskazuje w kierunku ośnieżonych gór .	Turysta z plecakiem wskazuje w kierunku ośnieżonych gór .	4.0	NEUTRAL
+4322	Osoba w żółtej koszulce , asekurowana na linie , wspina się po ściance wspinaczkowej .	Dziewczyna wspina się z asekuracją po ściance .	2.67	NEUTRAL
+4328	Sześciu chłopaków i dziewczyna idą po trawie pod drzewem .	Kobieta w żakiecie i dżinsach rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	0.17	NEUTRAL
+4344	Dziecko siedzi w zawieszonym pod sufitem małym samolocie .	Mężczyzna wspina się z asekuracją po pionowej skale .	0.33	NEUTRAL
+4345	Dwoje dzieci w spodniach i koszulkach wspina się po ściance wspinaczkowej .	Dwoje małych dzieci wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	3.83	NEUTRAL
+4356	Chłopiec w bluzce w paski i spodniach dresowych skacze z niebieskiej zjeżdżalni .	Chłopiec w pasiastej bluzce skacze z niewielkiej zjeżdżalni .	3.5	NEUTRAL
+4361	Dwóch mężczyzn wisi na linach nad wejściem do jaskini .	Dwóch mężczyzn w kaskach wisi na linach w pobliżu dużej skały .	3.67	NEUTRAL
+4366	Czas jest spędzany w górach w słoneczny dzień przez trzech mężczyzn .	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi nad przepaścią w górach .	3.33	NEUTRAL
+4420	Młody mężczyzna z plecakiem stoi na rozległym trawiastym terenie , niedaleko pasących się owiec .	Mężczyzna w turystycznym stroju stoi na trawie , trzymając czapkę i opierając się o drewniany słup .	2.17	NEUTRAL
+4422	Chłopiec w czerwonej kurtce siedzi na czerwonej zjeżdżalni .	Chłopiec o ciemnych włosach siedzi na czerwonej zjeżdżalni .	3.33	NEUTRAL
+4430	Chłopak w zielonej koszulce w paski patrzy na telefon , który jest trzymany w dłoni , stojąc pomiędzy innymi ludźmi .	Kobieta z czerwonymi dredami rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	1.5	NEUTRAL
+4434	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi .	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi nad przepaścią w górach .	3.67	ENTAILMENT
+4435	Dziewczyna w jasnych spodniach stoi na rękach na trampolinie .	Dziewczyna stoi na rękach na trampolinie .	4.0	NEUTRAL
+4452	Chłopiec w spodenkach kąpielowych i dmuchanych rękawkach zjeżdża do basenu ze zjeżdżalni .	Jasnowłosy chłopiec wypada na piasek ze zjeżdżalni .	2.17	NEUTRAL
+4455	Kobieta i mężczyzna z wędką stoją nad brzegiem morza , na kamienistej plaży .	Cztery osoby z bagażem na plecach chodzą po skalistej górze pokrytej śniegiem .	0.67	NEUTRAL
+4456	Dziewczynka siedzi na szczycie zjeżdżalni .	Mała dziewczynka w kolorowej bluzce siedzi na górnej części zjeżdżalni .	3.83	ENTAILMENT
+4462	Kilka osób przemierza płaski teren , idąc w kierunku gór .	Pięć osób , które są widziane od tyłu , idzie w kierunku pasma gór .	3.67	ENTAILMENT
+4487	Chłopak w czarnym ubraniu zjeżdża na kolanach na dmuchanej zjeżdżalni .	Ubrany na czarno chłopiec zjeżdża ze zjeżdżalni na kolanach .	4.17	NEUTRAL
+4493	Kilka kolorowo ubranych osób tańczy z uniesionymi rękami .	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce do góry .	4.17	ENTAILMENT
+4497	Mężczyzna , który jest zawieszony na linie , wspina się przy pomocy specjalistycznego sprzętu po skale , która jest oblodzona .	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna trzymający linę .	1.5	NEUTRAL
+4501	Jednakowo ubrane dziewczyny z kolorowym makijażem oczu tańczą .	Dziewczyny z kolorowym makijażem oczu , które są jednakowo ubrane , tańczą .	5.0	ENTAILMENT
+4502	Człowiek wchodzi po zboczu .	Człowiek z dużym niebieskim plecakiem na plecach stoi na stromej górze .	2.33	NEUTRAL
+4508	Mała dziewczynka w kolorowej bluzce nie siedzi na górnej części zjeżdżalni .	Mała dziewczynka w kolorowej bluzce siedzi na górnej części zjeżdżalni .	3.5	CONTRADICTION
+4539	Ubrany na czerwono chłopiec z bosymi stopami skacze z niewielkiej zjeżdżalni .	Chłopiec w bluzce w paski i spodniach dresowych skacze z niebieskiej zjeżdżalni .	2.67	NEUTRAL
+4551	Młoda kobieta wspina się po gładkiej skale .	Młoda kobieta o jasnych włosach wspina się po stromej skale w słoneczny dzień .	3.5	NEUTRAL
+4564	Chłopiec skacze z fotela na podłogę pełną zabawek .	Chłopiec robi obrót w powietrzu nad trampoliną .	0.67	NEUTRAL
+4581	Pięć dziewczyn i jeszcze jedna dziewczyna tańczą .	Kilka dziewczynek tańczy obok siebie z uniesionymi rękami .	3.17	NEUTRAL
+4592	Dwóch mężczyzn nie wisi na linach nad wejściem do jaskini .	Dwóch mężczyzn wisi na linach nad wejściem do jaskini .	3.83	CONTRADICTION
+4603	Cztery osoby z bagażem na plecach chodzą po skalistej górze , która jest pokryta śniegiem .	Osoba w kasku ochronnym , z plecakiem na plecach , ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	0.5	NEUTRAL
+4611	Człowiek płynie po wzburzonej wodzie na desce z żaglem niedaleko brzegu .	Mężczyzna z tatuażem na plecach i długimi spiętymi włosami wspina się po stromej skale .	0.0	NEUTRAL
+4627	Dziecko o jasnych włosach zjeżdża ze zjeżdżalni prosto do piasku .	Dziecko o mokrych włosach zjeżdża ze zjeżdżalni prosto do piasku .	4.17	NEUTRAL
+4636	Młody człowiek wyskakuje z okna na parterze budynku obok młyna .	Mężczyzna w turystycznym stroju stoi na zboczu w górach .	0.17	NEUTRAL
+4637	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna , który trzyma linę .	Mężczyzna ubrany w czerwono - biały strój i czapkę z pomponem wspina się po ścianie , na której zawieszone są lampki choinkowe .	1.0	NEUTRAL
+4648	Dwaj mężczyźni rozmawiający przez telefon komórkowy idą przez park , a za nimi idzie kilka innych osób .	Kolorowe pojazdy z szerokimi kołami jadą obok siebie , pokonując zakręt .	0.33	NEUTRAL
+4649	Nikt nie trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	Chłopiec kuca na szczycie zjeżdżalni .	1.83	NEUTRAL
+4672	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami uniesionymi do góry .	Człowiek przejeżdża na żółtym quadzie wzdłuż ogrodzenia .	0.0	NEUTRAL
+4675	Dziewczynka w fioletowo - niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	Dziewczynka w niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	4.5	NEUTRAL
+4693	Żaden człowiek nie stoi na stromej górze .	Człowiek z dużym niebieskim plecakiem na plecach stoi na stromej górze .	3.83	CONTRADICTION
+4704	Człowiek w kasku i sportowym stroju biegnie po trawie , trzymając piłkę .	Mężczyzna w kasku wspina się z asekuracją na skałę .	0.67	NEUTRAL
+4719	Nikt nie skacze z niewielkiej zjeżdżalni .	Chłopiec w pasiastej bluzce skacze z niewielkiej zjeżdżalni .	3.33	CONTRADICTION
+4732	Człowiek wspina się po lodowej ścianie z asekuracją .	Człowiek wspina się po ścianie .	3.67	NEUTRAL
+4757	Dwoje dzieci w spodniach i koszulkach nie wspina się po ściance wspinaczkowej .	Dwóch mężczyzn wisi na linach nad wejściem do jaskini .	0.67	NEUTRAL
+4759	Policjant siedzi na tylnym kole zaparkowanego na ulicy policyjnego motocyklu .	Mężczyzna i dwie dziewczyny stoją w wypełnionym wodą wąwozie , dalej cztery inne osoby chodzą po kamieniach .	0.17	NEUTRAL
+4766	Grupa tańczy .	Cztery ciemnoskóre osoby tańczą na scenie .	3.33	NEUTRAL
+4789	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i podniesionymi rękami .	Kobieta w sportowym stroju wykonuje skok o tyczce .	0.17	NEUTRAL
+4791	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce do góry .	Dziewczyny tańczą .	2.5	NEUTRAL
+4800	Dziewczynka i chłopiec skaczą na trampolinie .	Dziewczynka i chłopiec skaczą na trampolinie , która stoi na trawie .	3.67	ENTAILMENT
+4818	Cios zadawany nogą przez zawodniczkę drugiej zawodniczce jest obserwowany przez sędziego z muchą na szyi .	Sędzia z muchą na szyi obserwuje , jak zawodniczka zadaje cios nogą drugiej zawodniczce .	4.83	ENTAILMENT
+4852	Grupa ludzi brodzi w wodzie przepływającej pośród stromych skał .	Grupa ludzi brodzi w wodzie przepływającej pośród wysokich , stromych skał .	4.5	ENTAILMENT
+4862	Chłopiec w czapce z daszkiem i kolorowej koszulce trzyma w rękach wędkę .	Człowiek z plecakiem przechodzi niedaleko szczytów górskich pokrytych śniegiem .	0.33	NEUTRAL
+4863	Dziewczynka w błękitnej sukience zjeżdża na zielonej zjeżdżalni .	Dziewczynka zjeżdża na brzuchu po zjeżdżalni .	3.83	NEUTRAL
+4868	Dwie kobiety w sportowych strojach plażowych grają przeciwko sobie w siatkówkę na piasku .	Człowiek wspina się z asekuracją po skale pokrytej śniegiem i soplami .	0.17	NEUTRAL
+4880	Kobieta trzyma chłopca za ręce , patrząc pod nogi .	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna , który siedzi na krześle .	0.33	NEUTRAL
+4886	Pięcioro ludzi , jeden za drugim , schodzi ze śniegowej skalistej góry .	Grupa ludzi brodzi w wodzie przepływającej pośród wysokich , stromych skał .	1.5	NEUTRAL
+4891	Kobieta w czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	Trzy dziewczynki w kapeluszach i długich spódnicach tańczą , a chłopcy grają na instrumentach .	0.17	NEUTRAL
+4905	Człowiek w stroju świętego Mikołaja nie wspina się po ścianie .	Mężczyzna ubrany w czerwono - biały strój i czapkę z pomponem wspina się po ścianie , na której zawieszone są lampki choinkowe .	2.67	CONTRADICTION
+4909	Żaden chłopak nie stoi wśród ludzi .	Chłopak w pasiastej koszulce stoi wśród ludzi z telefonem komórkowym w ręce .	3.5	CONTRADICTION
+4940	Dwoje dzieci zjeżdża w pontonie po wysokiej zjeżdżalni , a obok leżą na taśmie inne pontony .	Dwoje dzieci zjeżdża w pontonie po wysokiej , fioletowej zjeżdżalni , a obok leżą na taśmie inne pontony .	4.0	ENTAILMENT
+4946	Chłopiec skaczący na trampolinie przeskakuje nad drugim chłopcem .	Dziewczyna w jasnych spodniach nie stoi na rękach na trampolinie .	1.5	NEUTRAL
+4952	Dziewczynka zjeżdża na dmuchanej zjeżdżalni , w tle patrzy na nią chłopiec .	Dziewczynka zjeżdża na zjeżdżalni , która jest dmuchana , w tle patrzy na nią chłopiec .	5.0	ENTAILMENT
+4974	Mężczyzna w turystycznym stroju stoi na trawie , trzymając czapkę i opierając się o drewniany słup .	Żaden mężczyzna nie stoi na trawie , trzymając czapkę i opierając się o drewniany słup .	3.17	CONTRADICTION
+4977	Człowiek wspina się z asekuracją po skale , która jest pokryta śniegiem i soplami .	Człowiek wspina się z asekuracją po skale pokrytej śniegiem i soplami .	5.0	ENTAILMENT
+4983	Dwaj mężczyźni w czapkach z daszkiem , jeden z niebieskim plecakiem , a drugi z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	Młoda kobieta wspina się po gładkiej skale .	0.67	NEUTRAL
+4985	Dziewczynka w stroju baletowym , obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	Dwie dziewczynki obserwują taniec na parkiecie innej dziewczynki ubranej w strój baletnicy .	4.5	ENTAILMENT
+4986	Osoba w niebieskiej czapce i z dużym plecakiem podchodzi pod górę po śniegu .	Człowiek z plecakiem idzie w górę zaśnieżonego zbocza w górach .	3.83	NEUTRAL
+4989	Dziewczyna stoi i dziecko też stoi .	Chłopiec i dziewczynka odbijają się na trampolinie .	1.0	NEUTRAL
+5001	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór pokrytych śniegiem .	Mężczyzna w kasku z plecakiem na plecach , przemierzając bardzo zaśnieżony teren , trzyma się liny .	2.83	NEUTRAL
+5010	Mężczyzna w czerwonej koszulce wspina się po wodospadzie z asekuracją .	Chłopiec siedzi na bujanym koniku na placu zabaw .	0.33	NEUTRAL
+5012	Jedna osoba w sportowym stroju , rękawicach i kasku kopie drugą w głowę na ringu .	Mężczyzna leży na plecach na ringu , a skok jest wykonywany przez drugiego mężczyznę obok .	2.17	NEUTRAL
+5016	Mężczyzna i dwie dziewczyny stoją w wąwozie , który jest wypełniony wodą , a dalej cztery inne osoby chodzą po kamieniach .	Pięciu turystów z plecakami schodzi w dół kamienistego zbocza .	0.83	NEUTRAL
+5017	Mężczyzna zawieszony na linie wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	Wspinaczka jest uprawiana przez człowieka .	3.17	NEUTRAL
+5035	Podczas mglistej pogody człowiek płynie na desce surfingowej w pobliżu dużego , czerwonego mostu .	Dwie dziewczynki obserwują taniec na parkiecie innej dziewczynki ubranej w strój baletnicy .	0.17	NEUTRAL
+5036	Kobieta trzyma chłopca za ręce , patrząc pod nogi .	Kobieta trzyma chłopca .	3.33	NEUTRAL
+5037	Chłopiec wypada na piasek ze zjeżdżalni .	Chłopiec w spodenkach kąpielowych i rękawkach , które są dmuchane , zjeżdża do basenu ze zjeżdżalni .	1.5	NEUTRAL
+5040	Kilka kolorowo ubranych osób tańczy z rękami , które są uniesione .	Kilka dziewczynek tańczy obok siebie z uniesionymi rękami .	3.33	NEUTRAL
+5047	Dziecko w zimowym stroju siedzi na okrągłych sankach na śniegu .	Pięciu turystów z plecakami schodzi w dół kamienistego zbocza .	0.33	NEUTRAL
+5056	Żaden chłopiec nie skacze wysoko do góry .	Ubrany na czerwono chłopiec z bosymi stopami skacze wysoko do góry .	2.83	CONTRADICTION
+5061	Trzech mężczyzn widzianych od tyłu stoi na plaży , patrząc w kierunku lądu za wodą .	Dziewczynka w stroju baletowym , obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	0.17	NEUTRAL
+5089	Mały chłopiec z rękawkami do pływania zjeżdża ze zjeżdżalni do wody .	Mały chłopiec z rękawkami do pływania zjeżdża ze zjeżdżalni z uniesionymi rękami .	4.17	NEUTRAL
+5107	Chłopiec skaczący na trampolinie przeskakuje nad drugim chłopcem .	Chłopiec , który skacze na trampolinie , przeskakuje nad drugim chłopcem .	5.0	ENTAILMENT
+5170	Kobieta zadaje nogą cios w twarz drugiej kobiety podczas walki .	Osoba w czarnym stroju wymachuje mieczem w pobliżu siedzących na ławce kobiet .	1.33	NEUTRAL
+5183	Człowiek w czerwonej koszulce wspina się po dużej , stromej skale asekurowany przez drugą osobę .	Chłopak w zielonej koszulce skacze na trawie do góry z uniesionymi rękami .	0.33	NEUTRAL
+5185	Mężczyzna w zimowym stroju i kasku idzie po śniegu , trzymając linę .	Chłopiec w czerwonym kasku odbija piłkę kijem baseballowym .	0.33	NEUTRAL
+5190	Chłopiec w granatowym ubraniu siedzi na czerwonej zjeżdżalni .	Chłopiec o ciemnych włosach siedzi na czerwonej zjeżdżalni .	4.17	NEUTRAL
+5202	Dziewczynka w fioletowo - niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	Chłopak w zimowym stroju i czapce z żółtą ozdobą wykonuje skok na snowboardzie wśród drzew .	0.17	NEUTRAL
+5207	Dziewczynka zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	Dziewczynka zjeżdża po zielonej zjeżdżalni i trzyma ręce wysoko .	5.0	ENTAILMENT
+5212	Dziewczynka i chłopiec skaczą na trampolinie .	Jeździec przeskakuje na koniu przez przeszkodę .	0.0	NEUTRAL
+5219	Mężczyźni w czapkach z daszkiem przepychają się na trawie podczas gry w rugby .	Młoda osoba w sportowym stroju i rękawicy robi duży krok , trzymając w jednej dłoni piłkę .	0.83	NEUTRAL
+5222	Mężczyzna z dzieckiem w nosidełku i mężczyzna z dzieckiem na grzbiecie stoją w pobliżu stromych skał .	Mężczyźni stoją .	2.33	NEUTRAL
+5236	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a w oddali idzie piąta osoba .	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a po chodniku idzie piąta osoba .	4.17	NEUTRAL
+5256	Dwoje dzieci wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Dwoje dzieci w spodniach i koszulkach wspina się po ściance wspinaczkowej .	3.33	NEUTRAL
+5258	Człowiek z plecakiem idzie na tle ośnieżonych górskich zboczy .	Dziewczynka i chłopiec skaczą na trampolinie .	0.0	NEUTRAL
+5272	Chłopak w zielonej koszulce w paski patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	Chłopak w pasiastej koszulce stoi wśród ludzi z telefonem komórkowym w ręce .	3.83	NEUTRAL
+5307	Ciemnoskóry chłopiec przypatruje się dziewczynce zjeżdżającej z kolorowej dmuchanej zjeżdżalni .	Człowiek z dużym niebieskim plecakiem na plecach stoi na stromej górze .	0.5	NEUTRAL
+5308	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór pokrytych śniegiem .	Grupa kolarzy jedzie bardzo blisko siebie po drodze asfaltowej .	0.0	NEUTRAL
+5319	Dwoje dzieci zjeżdża na leżąco ze zjeżdżalni , która jest dmuchana .	Chłopiec kuca na szczycie zjeżdżalni .	1.17	NEUTRAL
+5322	Kobieta i dziewczynki tańczą .	Na scenie , obok innych osób , stoją dwie kobiety w ozdobnych strojach z piórami .	1.33	NEUTRAL
+5326	Człowiek wspina się po skale .	Człowiek uprawia wspinaczkę , asekurując się na linie .	3.67	ENTAILMENT
+5329	Kobieta z czerwonymi dredami rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę i rajstopy w paski siedzi z telefonem komórkowym przy uchu .	3.0	NEUTRAL
+5335	Cztery dziewczynki bawią się na trampolinie , która jest ustawiona na śniegu .	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	1.67	NEUTRAL
+5339	Mężczyzna przypięty do liny siedzi na szczycie skały , podczas gdy kobieta wspina się do góry .	Pies o biszkoptowym kolorze przebywa blisko małej dziewczynki .	0.17	NEUTRAL
+5343	Chłopiec w kasku jedzie po trawie na rowerze , a obok niego biegnie starszy chłopak .	Chłopiec kuca na szczycie zjeżdżalni .	0.5	NEUTRAL
+5354	Mężczyzna w czerwonej kurtce wspina się po górze , która jest oblodzona .	Człowiek wspina się z asekuracją po skale pokrytej śniegiem i soplami .	3.17	NEUTRAL
+5360	Chłopiec i dziewczynka odbijają się .	Dziewczynka o jasnych włosach siedzi na dużej trampolinie obok podskakującego ciemnoskórego chłopca .	1.83	NEUTRAL
+5374	Człowiek z plecakiem przemierza samotnie górski teren .	Człowiek z plecakiem idzie na tle górskich zboczy , które są ośnieżone .	3.17	NEUTRAL
+5398	Mężczyzna , który jest ubrany w czerwono - biały strój i czapkę z pomponem , wspina się po ścianie , na której zawieszone są lampki choinkowe .	Człowiek w stroju Świętego Mikołaja wspina się po ścianie .	3.67	NEUTRAL
+5400	Kobieta w łososiowej sukni i mężczyzna ubrany na czarno stoją obok siebie na parkiecie .	Kobieta w łososiowej sukni i mężczyzna ubrany na czarno stoją obok siebie na parkiecie w tanecznych pozach .	3.83	NEUTRAL
+5404	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , w drugiej ręce trzymając plastikowy kubek z napojem .	Czterech chłopców stoi wokół piłki pod dużymi drzwiami .	0.83	NEUTRAL
+5411	Mężczyzna w kapeluszu , który ma na sobie pas z dwoma bidonami , stoi na tle górskiego krajobrazu .	Człowiek z plecakiem przechodzi niedaleko szczytów górskich pokrytych śniegiem .	1.83	NEUTRAL
+5419	Dziewczyna stoi , a obok stoi dziecko .	Dziewczyna stoi na rękach na trampolinie , a obok niej stoi dziecko .	4.0	ENTAILMENT
+5422	Ciemnoskóry chłopiec przypatruje się dziewczynce zjeżdżającej z kolorowej dmuchanej zjeżdżalni .	Dziewczynka zjeżdża na zjeżdżalni , która jest dmuchana , w tle patrzy na nią chłopiec .	4.17	NEUTRAL
+5462	Szary ptak z długim dziobem frunie nisko nad podobnymi ptakami nad brzegiem wody .	Chłopiec w granatowym ubraniu siedzi na czerwonej zjeżdżalni .	0.0	NEUTRAL
+5474	Sześciu chłopaków i dziewczyna idą po trawie pod drzewem .	Sześciu chłopaków i dziewczyna idą pod drzewem .	4.0	ENTAILMENT
+5475	Dziecko o jasnych włosach zjeżdża ze zjeżdżalni prosto do piasku .	Chłopiec wypada na piasek ze zjeżdżalni .	3.5	NEUTRAL
+5485	Uśmiechnięta dziewczynka o jasnych włosach zjeżdża na zjeżdżalni .	Dziewczynka zjeżdża .	3.17	NEUTRAL
+5495	Nikt , jeden za drugim , nie schodzi ze stromej skalistej góry .	Pięciu turystów z plecakami schodzi w dół kamienistego zbocza .	2.5	NEUTRAL
+5507	Dwóch bokserów walczy ze sobą .	Dwaj mężczyźni w białych strojach walczą ze sobą , kopiąc się nawzajem .	2.0	NEUTRAL
+5518	Dziewczyna stoi i stoi dziecko .	Dwie dziewczynki bawią się po zmroku na dużej trampolinie ustawionej na trawniku .	0.17	NEUTRAL
+5530	Umięśniony mężczyzna przelatuje nad powierzchnią ringu głową w dół , obok leżącego na plecach mężczyzny z twarzą , która jest pomalowana .	Sędzia z muchą na szyi obserwuje , jak zawodniczka zadaje cios nogą drugiej zawodniczce .	0.67	NEUTRAL
+5531	Chłopiec w bluzce w paski i spodniach wojskowych skacze z niebieskiej zjeżdżalni .	Chłopiec w bluzce w paski i spodniach dresowych skacze z niebieskiej zjeżdżalni .	4.0	NEUTRAL
+5534	Dwie dziewczynki i chłopiec skaczą do basenu , wyciągając ręce do góry .	Człowiek wspina się po wysokiej skalnej ścianie .	0.17	NEUTRAL
+5544	Czas jest spędzany w górach w słoneczny dzień przez trzech mężczyzn .	Pięcioro ludzi , jeden za drugim , schodzi ze stromej skalistej góry .	0.67	NEUTRAL
+5551	Osoba w niebieskiej czapce i z dużym plecakiem podchodzi pod górę po śniegu .	Człowiek z plecakiem idzie w górę zbocza , które jest zaśnieżone , w górach .	3.83	NEUTRAL
+5562	Człowiek w kasku i kombinezonie jedzie na quadzie obok barierki , za którą znajduje się tor dla pojazdów .	Chłopiec i dziewczynka odbijają się na trampolinie .	0.17	NEUTRAL
+5572	Osoba w kasku ochronnym , z plecakiem na plecach , która jest ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	Osoba w kasku ochronnym , z plecakiem na plecach , ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	5.0	ENTAILMENT
+5595	Dwoje dzieci wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Dwoje dzieci w spodniach i różowych koszulkach wspina się po ściance wspinaczkowej .	3.33	NEUTRAL
+5597	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma ich jednocześnie za ręce .	Cztery osoby w kaskach i jednakowych czerwono - czarnych kurtkach zjeżdżają na nartach z góry .	0.5	NEUTRAL
+5617	Człowiek wisi na linie obok klifu nad wodą .	Mężczyzna wisi nad wodą na linie zaczepionej o stromą skałę .	3.5	NEUTRAL
+5642	Mężczyzna w kasku i z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	Górski teren jest przemierzany samotnie przez człowieka z plecakiem .	2.17	NEUTRAL
+5651	Dziewczyna i chłopiec wypadają ze zjeżdżalni na kolorowe piłeczki , na których siedzi drugi chłopiec .	Dziewczyna i chłopiec wypadają ze zjeżdżalni na kolorowe piłeczki , a przy stole , na którym leżą akcesoria do zwijania papierosów , siedzi drugi chłopiec .	3.17	NEUTRAL
+5652	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a w oddali idzie piąta osoba .	Mężczyzna w sportowym stroju z numerem biegnie po ulicy .	0.33	NEUTRAL
+5661	Dziewczynka zjeżdża na dmuchanej zjeżdżalni , w tle patrzy na nią chłopiec .	Dziecko w kasku , okularach i pomarańczowej kurtce zjeżdża na dmuchanej zjeżdżalni , w tle patrzy na nie chłopiec .	2.67	NEUTRAL
+5665	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają koła , które są dmuchane .	Chłopiec w czerwonej kurtce siedzi na szczycie zjeżdżalni .	1.5	NEUTRAL
+5673	Kobieta w czarnej bluzce siedzi na murku obok kosza na śmieci i trzyma coś przy uchu .	Żadna kobieta nie rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	2.33	NEUTRAL
+5723	Mężczyzna ubrany w biały strój i czapkę z pomponem wspina się po ścianie , na której zawieszone są lampki choinkowe .	Człowiek wspina się po dużej , stromej skale .	1.5	NEUTRAL
+5732	Mężczyźni w turbanach na głowie siedzą na czerwonej zjeżdżalni .	Chłopiec o ciemnych włosach siedzi na czerwonej zjeżdżalni .	1.83	NEUTRAL
+5747	Mężczyzna wisi nad wodą na linie zaczepionej o stromą , wysoką skałę .	Mężczyzna wisi nad wodą na linie , która jest zaczepiona o stromą , wysoką skałę .	5.0	ENTAILMENT
+5748	Chłopiec w spodenkach kąpielowych i dmuchanych rękawkach zjeżdża do basenu ze zjeżdżalni .	Chłopiec zjeżdża ze zjeżdżalni .	3.5	NEUTRAL
+5763	Chłopak w okularach patrzy na telefon komórkowy , trzymając w ręce plastikowy kubek z napojem .	Kilka osób spaceruje po podmokłym terenie na plaży .	0.0	NEUTRAL
+5767	Kobieta zadaje cios nogą mężczyźnie podczas walki na ringu .	Jedna osoba w sportowym stroju , rękawicach i kasku kopie drugą w głowę na ringu .	2.5	NEUTRAL
+5806	Mężczyzna i dwie dziewczyny stoją w wąwozie , który jest wypełniony wodą , dalej cztery inne osoby chodzą po kamieniach .	Mężczyzna i dwie dziewczyny stoją w wypełnionym wodą wąwozie , dalej cztery inne osoby chodzą po kamieniach .	5.0	ENTAILMENT
+5841	Dwaj ubrani w czerwono - białe stroje mężczyźni w białych rękawicach bokserskich walczą ze sobą na ringu .	Dwaj mężczyźni w białych strojach biorą udział w walce przed publicznością .	2.5	NEUTRAL
+5846	Człowiek z plecakiem idzie w górę zaśnieżonego zbocza w górach .	W górach człowiek z plecakiem idzie w górę zbocza , które jest zaśnieżone .	5.0	ENTAILMENT
+5858	Kobieta o ciemnych włosach stoi na trawie w rozkroku .	Dziewczyna z rękawicą na ręce biegnie po boisku z żółtą piłką w drugiej ręce .	0.17	NEUTRAL
+5860	Obrót w powietrzu jest robiony nad trampoliną przez chłopca .	Człowiek wykonuje skok na trampolinie , przekręcając się do góry nogami .	3.67	NEUTRAL
+5864	Kilka osób z plecakami idzie ścieżką po kamienistym terenie .	Kilka osób z plecakami nie idzie ścieżką po kamienistym terenie .	3.5	CONTRADICTION
+5880	Chłopiec zjeżdża do basenu ze zjeżdżalni .	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają koła , które są dmuchane .	3.33	ENTAILMENT
+5881	Mężczyzna w białym kasku nie wspina się na szczyt skały , asekurując się przy pomocy liny .	Mężczyzna w białym kasku wspina się na szczyt skały , asekurując się przy pomocy liny .	3.83	CONTRADICTION
+5896	Grupa ludzi brodzi w wodzie przepływającej pośród wysokich skał .	Mężczyzna i dwie dziewczyny stoją w wypełnionym wodą wąwozie , dalej cztery inne osoby chodzą po kamieniach .	2.17	NEUTRAL
+5908	Chłopiec skaczący na trampolinie przeskakuje nad drugim chłopcem .	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , siedzącym z nogami , które są skrzyżowane .	4.0	ENTAILMENT
+5920	Kilka kolorowo ubranych osób tańczy z uniesionymi rękami .	Kobieta w białym swetrze podrzuca małe dziecko do góry .	0.33	NEUTRAL
+5922	Człowiek z plecakiem idzie w górę zaśnieżonego zbocza w górach .	Osoba w niebieskiej czapce podchodzi pod górę po śniegu .	3.17	NEUTRAL
+5941	Trzech zawodników z kijami do hokeja biegnie po trawie za piłką .	Dwie dziewczynki bawią się po zmroku na dużej trampolinie ustawionej na trawniku .	0.33	NEUTRAL
+5948	Skok na trampolinie jest wykonywany przez człowieka .	Człowiek wykonuje skok na trampolinie , przekręcając się do góry nogami .	3.83	ENTAILMENT
+5958	Człowiek z plecakiem idzie na tle ośnieżonych górskich zboczy .	Człowiek z plecakiem idzie na tle górskich zboczy , które są ośnieżone .	5.0	ENTAILMENT
+5972	Chłopiec wspina się po gładkiej skale .	Młoda kobieta wspina się po gładkiej skale .	2.67	NEUTRAL
+5988	Młody mężczyzna z plecakiem stoi na rozległym trawiastym terenie , niedaleko pasących się owiec .	Dziewczynka w różowym kapeluszu i z zegarkiem na ręce spogląda przez obiektyw aparatu fotograficznego .	0.0	NEUTRAL
+5997	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi nad przepaścią w górach .	Trzech mężczyzn spędza czas w górach w słoneczny dzień .	3.33	NEUTRAL
+6028	Kobieta w czarnym kostiumie kąpielowym nie zjeżdża z fioletowej zjeżdżalni do basenu , trzymając dziecko w niebieskiej kamizelce .	Kobieta w czarnym kostiumie kąpielowym zjeżdża z fioletowej zjeżdżalni do basenu , trzymając dziecko w niebieskiej kamizelce .	4.5	CONTRADICTION
+6032	Grupa tańczy .	Kobieta w łososiowej sukni i mężczyzna ubrany na czarno stoją obok siebie na parkiecie w tanecznych pozach .	1.83	NEUTRAL
+6035	Taniec towarzyski jest tańczony na parkiecie przez kobietę i mężczyznę .	Kobieta i mężczyzna tańczą taniec towarzyski na parkiecie .	5.0	ENTAILMENT
+6041	Mężczyzna i dwie dziewczyny stoją , cztery osoby chodzą .	Mężczyzna i dwie dziewczyny stoją w wypełnionym wodą wąwozie , dalej cztery inne osoby chodzą po kamieniach .	3.5	ENTAILMENT
+6044	Pięć osób widzianych od tyłu idzie w kierunku pasma gór .	Dziewczynka i chłopiec skaczą na trampolinie .	0.17	NEUTRAL
+6053	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają koła , które są dmuchane .	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają dmuchane koła .	5.0	ENTAILMENT
+6069	Trzy dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	Dwie dziewczynki bawią się po zmroku na dużej trampolinie , która jest ustawiona na trawniku .	2.17	NEUTRAL
+6071	Trzy dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	Czas jest spędzany na trampolinie w zimowy dzień przez trzy dziewczyny i jednego chłopca .	5.0	ENTAILMENT
+6078	Dwoje dzieci zjeżdża z kolorowej dmuchanej zjeżdżalni .	Dwoje dzieci zjeżdża z kolorowej zjeżdżalni , która jest dmuchana .	4.83	ENTAILMENT
+6085	Człowiek z plecakiem przemierza samotnie górski teren .	Człowiek z niebieskim plecakiem przemierza samotnie górski teren .	3.67	ENTAILMENT
+6086	Jasnowłosa dziewczynka wspina się po ściance wspinaczkowej .	Mężczyzna bez koszulki , asekurowany od dołu przez drugiego mężczyznę , wspina się po ściance wspinaczkowej .	2.0	NEUTRAL
+6087	Człowiek asekuruje na linie mężczyznę wspinającego się po stromej skale .	Dwie osoby trzymają rozłożony na ziemi spadochron .	0.33	NEUTRAL
+6088	Dziewczynka zjeżdża po pomarańczowej zjeżdżalni .	Chłopiec i dziewczynka odbijają się na trampolinie .	0.83	NEUTRAL
+6114	Dziewczynka w różowej kurtce zjeżdża na brzuchu z czerwonej zjeżdżalni .	Dziewczynka zjeżdża ze zjeżdżalni .	3.67	NEUTRAL
+6116	Ubrany na czarno chłopiec nie zjeżdża ze zjeżdżalni na kolanach .	Dziecko wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	0.33	NEUTRAL
+6123	Sędzia obserwuje , jak zawodniczka zadaje cios nogą drugiej zawodniczce .	Sędzia z muchą na szyi obserwuje , jak zawodniczka zadaje cios nogą drugiej zawodniczce .	4.0	ENTAILMENT
+6129	Młody mężczyzna z plecakiem stoi na rozległym trawiastym terenie , niedaleko pasących się owiec .	Młody mężczyzna z plecakiem stoi na rozległym trawiastym terenie .	3.83	NEUTRAL
+6140	Dziewczynka w różowym stroju tańczy na parkiecie obok chłopca .	Mężczyzna ubrany w czerwono - biały strój i czapkę z pomponem wspina się po ścianie , na której zawieszone są lampki choinkowe .	0.33	NEUTRAL
+6156	Cztery osoby idą po głębokim śniegu w górach .	Widziana od tyłu dziewczynka w koszulce i dżinsach stoi na kamienistej plaży nad brzegiem wody .	0.17	NEUTRAL
+6164	Kobieta zadaje cios nogą mężczyźnie podczas walki na ringu .	Osoba jest kopana w głowę na ringu przez drugą osobę w sportowym stroju , rękawicach i kasku .	2.83	NEUTRAL
+6174	Człowiek wspina się po skale z asekuracją .	Człowiek uprawia wspinaczkę , asekurując się na linie .	4.67	ENTAILMENT
+6183	Dziewczyna wspina się z asekuracją po ściance .	Dziewczyna wspina się po ściance .	4.5	NEUTRAL
+6201	Czworo dzieci skacze na trampolinie , która jest otoczona ochronną siatką .	Cztery dziewczynki bawią się na trampolinie , trzy z nich podskakują , a jedna siedzi .	2.67	NEUTRAL
+6203	Uradowana dziewczynka zjeżdża ze zjeżdżalni prosto do piasku .	Ubrany na czarno chłopiec zjeżdża ze zjeżdżalni na kolanach .	2.17	NEUTRAL
+6204	Mężczyzna jedzie na jednej nodze na rolkach , trzymając drugą nogę .	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi nad przepaścią w górach .	0.0	NEUTRAL
+6224	Dziewczyna w jasnych spodniach stoi na rękach na trampolinie .	Dziewczyna w jasnych spodniach nie stoi na rękach na trampolinie .	4.17	CONTRADICTION
+6225	Kilkanaście dziewczynek w białych sukienkach i kokardach na głowie stoi obok siebie na scenie .	Kilkanaście dziewczynek stoi .	2.83	NEUTRAL
+6228	Kobieta w krótkiej czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	Żadna kobieta nie wygina się mocno do tyłu .	2.5	CONTRADICTION
+6245	Chłopiec w czapce skacze na trampolinie na świeżym powietrzu .	Ubrany na czerwono chłopiec z bosymi stopami skacze wysoko do góry .	2.17	NEUTRAL
+6258	Dziewczyna z rękawicą na ręce biegnie po boisku wzdłuż ogrodzenia .	Dziewczyna z rękawicą na ręce biegnie po boisku z żółtą piłką w drugiej ręce .	3.0	NEUTRAL
+6263	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi .	Człowiek z plecakiem idzie kamienistą górską doliną , podpierając się kijkami .	0.5	NEUTRAL
+6285	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	Kobieta siedzi na zjeżdżalni z nogami w wodzie i trzyma na rękach dziecko w kamizelce ratunkowej .	1.0	NEUTRAL
+6310	Człowiek wspina się po skale asekurowany przez drugą osobę z dołu .	Papuga i pies stoją na chodniku na ogrodzonym drewnianym płotem terenie .	0.0	NEUTRAL
+6313	Chłopiec w czerwonym ubraniu skacze na trampolinie na świeżym powietrzu .	Ubrany na czerwono chłopiec z bosymi stopami skacze wysoko do góry .	3.0	NEUTRAL
+6319	Siedem kobiet wspina się po ściance .	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna trzymający linę .	3.33	ENTAILMENT
+6320	Kilkanaście dziewczynek w białych sukienkach i kokardach na głowie stoi obok siebie na scenie .	Taniec na parkiecie dziewczynki ubranej w strój baletnicy jest obserwowany przez dwie dziewczynki .	1.67	NEUTRAL
+6360	Pręgowany kot liże swoją łapę na chodniku .	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają dmuchane koła .	0.17	NEUTRAL
+6365	Mały chłopiec z rękawkami do pływania zjeżdża ze zjeżdżalni do wody .	Mały chłopiec z rękawkami do pływania zjeżdża z kolorowej zjeżdżalni do wody .	4.5	ENTAILMENT
+6369	Chłopiec w czerwonej kurtce nie siedzi na szczycie zjeżdżalni .	Chłopiec w czerwonej kurtce siedzi na szczycie zjeżdżalni .	4.17	CONTRADICTION
+6381	Czas jest spędzany w górach w słoneczny dzień przez trzech mężczyzn .	Trzech mężczyzn spędza czas w górach w słoneczny dzień .	5.0	ENTAILMENT
+6383	Człowiek wspina się po stromej skale .	Mężczyzna przypięty do liny wspina się po stromej ścianie skalnej .	3.83	ENTAILMENT
+6387	Mężczyzna w turystycznym stroju stoi na trawie , trzymając czapkę i opierając się o drewniany słup .	Mężczyzna w turystycznym stroju stoi na trawie , opierając się o drewniany słup .	4.0	NEUTRAL
+6393	Cztery osoby jadą na koniach po plaży .	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna trzymający linę .	0.17	NEUTRAL
+6396	Czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , a jeden w brązowej , wykonuje taki sam krok taneczny .	Cztery ciemnoskóre osoby tańczą na scenie .	1.17	NEUTRAL
+6414	Załadowany ludźmi samochód jedzie po drodze asfaltowej .	Trzech mężczyzn spędza czas w górach w słoneczny dzień .	0.0	NEUTRAL
+6417	Kilka kolorowo ubranych osób tańczy z rękami , które są uniesione .	Kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	2.0	NEUTRAL
+6429	Mężczyzna z dzieckiem w nosidełku i mężczyzna z dzieckiem na grzbiecie stoją w pobliżu stromych skał .	Mężczyzna z dzieckiem w nosidełku i mężczyzna z turbanem na głowie stoją w pobliżu stromych skał .	3.5	NEUTRAL
+6444	Kobieta trzyma chłopca za ręce , patrząc pod nogi .	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który podtrzymywany za ręce przez kobietę , stawia kroki .	2.5	ENTAILMENT
+6448	Jedna osoba w sportowym stroju , rękawicach i kasku kopie drugą w głowę na ringu .	Cios jest zadawany nogą mężczyźnie podczas walki na ringu przez kobietę .	2.5	NEUTRAL
+6478	Dziecko w zimowym stroju siedzi na okrągłych sankach na śniegu .	Człowiek w długich , pomarańczowych spodniach wspina się po skale .	0.5	NEUTRAL
+6482	Dziecko wpada do basenu .	Dziecko wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	4.17	ENTAILMENT
+6484	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają koła , które są dmuchane .	Dziecko wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	4.0	NEUTRAL
+6485	Dwoje dzieci zjeżdża na leżąco z dmuchanej zjeżdżalni .	Dwoje dzieci zjeżdża z kolorowej zjeżdżalni , która jest dmuchana .	4.0	NEUTRAL
+6547	Człowiek wisi na linie obok klifu nad wodą .	Człowiek wisi na linie obok klifu nad falującą wodą .	4.67	ENTAILMENT
+6564	Chłopiec , który skacze na trampolinie , przeskakuje nad drugim chłopcem .	Czworo dzieci skacze na trampolinie otoczonej ochronną siatką .	2.17	NEUTRAL
+6567	Mały chłopiec z rękawkami do pływania zjeżdża ze zjeżdżalni do wody .	Chłopiec w spodenkach kąpielowych i dmuchanych rękawkach zjeżdża do basenu ze zjeżdżalni .	3.67	NEUTRAL
+6571	Dziewczyna w jasnych spodniach stoi na rękach na trampolinie .	Trójka mężczyzn gra w hokeja na trawie .	0.67	NEUTRAL
+6573	Kobieta w krótkiej czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	Kobieta w czerwonej bluzce i kolorowej spódnicy odchyla się głęboko plecami do tyłu , patrząc za siebie .	4.5	NEUTRAL
+6579	Uśmiechnięta dziewczynka siedzi na pomarańczowej zjeżdżalni .	Dziewczynka nie zjeżdża po pomarańczowej zjeżdżalni .	3.17	NEUTRAL
+6583	Człowiek w stroju Świętego Mikołaja wspina się po ścianie .	Mężczyzna ubrany w czerwono - biały strój i czapkę z pomponem wspina się po ścianie , na której zawieszone są lampki choinkowe .	3.83	ENTAILMENT
+6584	Człowiek wspina się po stromej skale .	Człowiek wspina się po wysokiej skalnej ścianie .	4.0	ENTAILMENT
+6614	Dziewczynka i chłopiec skaczą na trampolinie stojącej na trawie .	Dziewczynka i chłopiec skaczą na trampolinie , która stoi na trawie .	5.0	ENTAILMENT
+6615	Trzy dziewczynki , które są kolorowo ubrane , w kapeluszach i ciemnych okularach tańczą obok siebie .	Trzy dziewczynki w kapeluszach i długich spódnicach tańczą , a chłopcy grają na instrumentach .	2.83	NEUTRAL
+6622	Żadna kobieta nie wspina się po stromej skale w słoneczny dzień .	Młoda kobieta o jasnych włosach wspina się po stromej skale w słoneczny dzień .	3.83	CONTRADICTION
+6629	Dwójka dzieci nie spływa po wodzie pontonem na fioletowej zjeżdżalni .	Dwójka dzieci spływa po wodzie pontonem na fioletowej zjeżdżalni .	3.17	CONTRADICTION
+6632	Człowiek z plecakiem idzie w górę zbocza , które jest zaśnieżone , w górach .	Czterech mężczyzn bez koszulek idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	2.0	NEUTRAL
+6641	Nikt nie kuca na szczycie zjeżdżalni .	Chłopak w czarnym ubraniu zjeżdża na kolanach na dmuchanej zjeżdżalni .	1.67	NEUTRAL
+6642	Trzy kobiety , które są ubrane w długie szaty , tańczą obok wiszącej za ich plecami flagi .	Trzy kobiety ubrane w suknie różnych kolorów tańczą na tle rozwieszonej na ścianie flagi .	4.0	NEUTRAL
+6649	Dwoje dzieci zjeżdża z kolorowej dmuchanej zjeżdżalni .	Dwoje dzieci zjeżdża na leżąco ze zjeżdżalni , która jest dmuchana .	3.83	NEUTRAL
+6671	Dwaj mężczyźni w czapkach z daszkiem , jeden z niebieskim plecakiem , a drugi z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	Dwaj mężczyźni w czapkach z daszkiem , jeden z plecakiem , drugi z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	4.33	ENTAILMENT
+6672	Młody mężczyzna z plecakiem stoi na rozległym trawiastym terenie , niedaleko pasących się owiec .	Okulary przeciwsłoneczne są noszone przez osobę w kasku ochronnym , z plecakiem na plecach , ubraną w czerwoną kurtkę .	0.83	NEUTRAL
+6689	Osoba w kasku , wspomagana przez drugiego człowieka , wspina się z asekuracją na skałę .	Mężczyzna w białym kasku wspina się na szczyt skały , asekurując się przy pomocy liny .	3.17	NEUTRAL
+6702	Żadna dziewczynka nie siedzi na szczycie zjeżdżalni .	Chłopiec w bluzce w paski i spodniach dresowych skacze z niebieskiej zjeżdżalni .	1.67	NEUTRAL
+6704	Czterech turystów idzie szczytem , który jest ośnieżony .	Czterech turystów idzie ośnieżonym szczytem .	5.0	ENTAILMENT
+6712	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , w drugiej ręce trzymając plastikowy kubek z napojem .	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , trzymając też plastikowy kubek z napojem .	4.5	ENTAILMENT
+6715	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który stawia kroki podtrzymywany za ręce przez kobietę .	Dziecko wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	0.17	NEUTRAL
+6716	Kilka osób przemierza zaśnieżony teren niedaleko górskich wzniesień .	Zaśnieżony teren niedaleko górskich wzniesień jest przemierzany przez kilka osób .	5.0	ENTAILMENT
+6734	Dwoje dzieci w spodniach i koszulkach wspina się po ściance wspinaczkowej .	Czarny pies skacze do basenu , przy którym stoi człowiek .	0.0	NEUTRAL
+6737	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna , który siedzi na krześle .	Kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	4.0	NEUTRAL
+6741	Dwoje dzieci zjeżdża z kolorowej dmuchanej zjeżdżalni .	Żadna dziewczynka nie siedzi na pomarańczowej zjeżdżalni .	2.17	NEUTRAL
+6753	Dwaj mężczyźni w białych strojach walczą ze sobą , kopiąc się nawzajem .	Dwaj mężczyźni w białych strojach biorą udział w walce przed publicznością .	4.0	ENTAILMENT
+6771	Taki sam krok taneczny jest wykonywany przez czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach i jednego w brązowej .	Cztery ciemnoskóre osoby tańczą na scenie .	1.83	NEUTRAL
+6774	Mężczyzna w jasnej koszuli siedzi tuż obok podskakującej do góry trójki dzieci .	Mężczyzna przypięty do liny wspina się po stromej ścianie skalnej .	0.83	NEUTRAL
+6776	Kilka osób z plecakami idzie ścieżką po kamienistym terenie .	Mężczyzna w kapeluszu ma na sobie pas z dwoma bidonami i stoi na tle górskiego krajobrazu .	0.17	NEUTRAL
+6783	Młoda osoba w sportowym stroju i rękawicy robi duży krok , trzymając w jednej dłoni piłkę .	Dziewczyna z rękawicą na ręce biegnie po boisku z żółtą piłką w drugiej ręce .	2.33	NEUTRAL
+6793	Cztery osoby z bagażem na plecach chodzą po skalistej górze , która jest pokryta śniegiem .	Cztery osoby z bagażem na plecach chodzą po skalistej górze pokrytej śniegiem .	5.0	ENTAILMENT
+6803	Trójka dzieci bawi się w basenie z kolorowymi piłeczkami .	Trójka dzieci bawi się w basenie z kolorowymi piłkami .	4.67	ENTAILMENT
+6806	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę , rajstopy w paski i być może w strój kąpielowy siedzi .	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę i rajstopy w paski siedzi z telefonem komórkowym przy uchu .	3.83	NEUTRAL
+6809	Kobieta trzyma chłopca za ręce , patrząc pod nogi .	Pięcioro dzieci huśta się na dużej , okrągłej huśtawce , za którą stoi jeszcze jedna osoba .	0.17	NEUTRAL
+6842	Dziewczyna stoi na rękach .	Ubrany na czerwono chłopiec z bosymi stopami skacze wysoko do góry .	0.67	NEUTRAL
+6858	Osoba w żółtej koszulce , asekurowana na linie , wspina się po ściance wspinaczkowej .	Mężczyzna wisi nad wodą na linie , która jest zaczepiona o stromą , wysoką skałę .	2.33	NEUTRAL
+6863	Dziewczynka z różowymi włosami , które są doczepione , tańczy , unosząc ręce do góry .	Grupa uśmiechających się ludzi tańczy na piasku obok stojących aut .	1.67	NEUTRAL
+6872	Mężczyzna w turystycznym stroju stoi na trawie , trzymając czapkę i opierając się o drewniany słup .	Młody mężczyzna z plecakiem stoi niedaleko pasących się owiec .	1.83	NEUTRAL
+6885	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór pokrytych śniegiem .	Turysta z dużym plecakiem i kijkami wskazuje w kierunku ośnieżonych gór .	3.33	NEUTRAL
+6896	Mężczyzna w kasku siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	Mężczyzna w koszuli i krawacie siedzi na skale nad wodą , a kobieta wspina się w jego stronę .	3.67	ENTAILMENT
+6918	Chłopak w zielonej koszulce w paski patrzy na telefon , który jest trzymany w dłoni , stojąc pomiędzy innymi ludźmi .	Chłopak w zielonej koszulce w paski patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	5.0	ENTAILMENT
+6944	Człowiek wspina się z asekuracją po skale pokrytej śniegiem i soplami .	Mężczyzna w czerwonej kurtce wspina się po oblodzonej górze .	2.5	NEUTRAL
+6947	Cztery dziewczynki bawią się na trampolinie ustawionej na śniegu .	Pięć dziewczyn w kostiumach kąpielowych skacze do wody , trzymając się za ręce .	0.5	NEUTRAL
+6949	Kilka osób przechodzi nad wodą po wiszącym w pobliżu skał moście .	Człowiek , który jest widziany od tyłu , z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	3.67	NEUTRAL
+6963	Dziecko ubrudzone farbkami wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają dmuchane koła .	1.83	NEUTRAL
+6981	Dwie kobiety w białych strojach do sztuk walki , które są obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	Sędzia z muchą na szyi obserwuje , jak zawodniczka zadaje cios nogą drugiej zawodniczce .	2.83	NEUTRAL
+7003	Czworo dzieci skacze na trampolinie , która jest otoczona ochronną siatką .	Czworo dzieci skacze na trampolinie otoczonej ochronną siatką .	4.83	ENTAILMENT
+7029	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który stawia kroki podtrzymywany za ręce przez kobietę .	Chłopiec jest trzymany za ręce przez kobietę .	3.17	NEUTRAL
+7045	Bujające się na huśtawce dziecko wpada do niewielkiego basenu , w którym znajdują się akcesoria do pływania .	Chłopiec o ciemnych włosach siedzi na czerwonej zjeżdżalni .	0.83	NEUTRAL
+7046	Dwaj mężczyźni w czapkach z daszkiem walczą ze sobą , kopiąc się nawzajem .	Dwaj mężczyźni w białych strojach walczą ze sobą , kopiąc się nawzajem .	4.0	NEUTRAL
+7061	Kobieta w ozdobnym stroju z tatuażem na brzuchu wygina się mocno do tyłu .	Kobieta w różowym stroju kąpielowym z tatuażem na brzuchu wygina się mocno do tyłu .	3.83	NEUTRAL
+7064	Dziewczyna w jasnych spodniach stoi na rękach obok drugiej osoby .	Dwie dziewczynki bawią się po zmroku na dużej trampolinie ustawionej na trawniku .	0.5	NEUTRAL
+7065	Kobieta o czerwonych włosach , która jest ubrana w bluzkę , spódnicę i rajstopy w paski , z telefonem komórkowym przy uchu siedzi .	Kobieta z czerwonymi dredami rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	3.0	NEUTRAL
+7088	Człowiek wspina się po skale asekurowany przez drugą osobę z dołu .	Człowiek , który jest asekurowany przez drugą osobę z dołu , wspina się po skale .	5.0	ENTAILMENT
+7096	Osoba w żółtej koszulce , asekurowana na linie , wspina się po ściance wspinaczkowej .	Dziewczyna wspina się po ściance .	2.83	NEUTRAL
+7100	Osoba w niebieskiej czapce i z dużym plecakiem podchodzi pod górę po śniegu .	Osoba podchodzi pod górę .	2.83	NEUTRAL
+7134	Cztery dziewczynki bawią się na trampolinie ustawionej na śniegu .	Czas jest spędzany na trampolinie w zimowy dzień przez trzy dziewczyny i jednego chłopca .	2.0	NEUTRAL
+7148	Dwoje dzieci zjeżdża w pontonie po wysokiej , fioletowej zjeżdżalni , a obok leżą na taśmie inne pontony .	Dwójka dzieci spływa po wodzie pontonem na fioletowej zjeżdżalni .	3.83	NEUTRAL
+7175	Ciemnoskóra dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	Dwie dziewczynki w różowych spódnicach i bluzkach stoją obok siebie w kuchni .	1.17	NEUTRAL
+7183	Kilka osób przemierza zaśnieżony teren niedaleko górskich wzniesień .	Kilka skaczących ze skoczni osób przemierza zaśnieżony teren niedaleko górskich wzniesień .	3.5	ENTAILMENT
+7188	Kobieta wspina się po skale .	Młoda kobieta wspina się po gładkiej skale .	4.17	ENTAILMENT
+7206	Mężczyzna i kobieta tańczą .	Dziewczynka w różowej sukience stoi z ręką w górze , a za nią stoi chłopiec .	0.17	NEUTRAL
+7208	Mężczyzna w białym kasku wspina się na linie po ścianie wodospadu .	Mężczyzna z ciemnymi włosami i wąsami wspina się na linie po ścianie wodospadu .	3.5	NEUTRAL
+7223	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , siedzącym ze skrzyżowanymi nogami .	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim siedzącym chłopcem .	4.17	NEUTRAL
+7225	Chłopiec wypada na piasek ze zjeżdżalni .	Chłopiec wypada ze zjeżdżalni .	4.17	NEUTRAL
+7230	Człowiek w czerwonej koszulce wspina się po dużej , stromej skale asekurowany przez drugą osobę .	Dwoje dzieci wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	2.0	NEUTRAL
+7232	Nikt nie idzie kamienistą górską doliną , podpierając się kijkami .	Człowiek z plecakiem przechodzi niedaleko szczytów górskich pokrytych śniegiem .	1.67	NEUTRAL
+7234	Mężczyźni siedzący na piętach trzymają się poręczy , będąc na górze połyskującej zjeżdżalni .	Mały chłopiec trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	3.17	NEUTRAL
+7240	Mężczyzna bez koszulki , który jest asekurowany od dołu przez drugiego mężczyznę , wspina się po skale .	Siedem kobiet wspina się jedna pod drugą po ściance , asekurowane przez mężczyznę .	2.33	NEUTRAL
+7244	Cztery jasnowłose dziewczynki bawią się na trampolinie , trzy z nich podskakują , a jedna siedzi .	Czworo dzieci skacze na trampolinie otoczonej ochronną siatką .	2.33	NEUTRAL
+7245	Dziecko w czerwonej bluzie stoi obok wędki opartej o barierkę .	Mały chłopiec trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	0.5	NEUTRAL
+7246	Mężczyzna w turystycznym stroju stoi na trawie , trzymając czapkę i opierając się o drewniany słup .	Mężczyzna i dziecko płyną żółtym kajakiem .	0.0	NEUTRAL
+7250	Człowiek wspina się po stromej skale .	Młoda kobieta o jasnych włosach wspina się po stromej skale w słoneczny dzień .	3.17	ENTAILMENT
+7262	Kilka osób z plecakami idzie ścieżką po kamienistym terenie .	Mężczyzna z ciemną brodą siedzi w pojeździe komunikacyjnym .	0.33	NEUTRAL
+7281	Chłopiec o ciemnych włosach nie siedzi na czerwonej zjeżdżalni .	Chłopiec o ciemnych włosach siedzi na czerwonej zjeżdżalni .	3.5	CONTRADICTION
+7295	Mężczyzna bez koszulki asekurowany od dołu przez drugiego mężczyznę wspina się po skale .	Człowiek w długich , pomarańczowych spodniach wspina się po skale .	2.33	NEUTRAL
+7302	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a w oddali idzie piąta osoba .	Kilka osób idzie ścieżką .	2.83	NEUTRAL
+7311	Człowiek z plecakiem idzie w górę zaśnieżonego zbocza w górach .	Żaden człowiek nie stoi na ścieżce na trawiastej górze .	1.83	NEUTRAL
+7315	Dwaj mężczyźni rozmawiający przez telefon komórkowy idą przez park , a za nimi idzie kilka innych osób .	Sześciu chłopaków i dziewczyna idą po trawie pod drzewem .	1.17	NEUTRAL
+7331	Czas jest spędzany na trampolinie w zimowy dzień przez trzy dziewczyny i jednego chłopca .	Dziewczynka o jasnych włosach siedzi na dużej trampolinie obok podskakującego ciemnoskórego chłopca .	2.0	NEUTRAL
+7334	Człowiek przejeżdża na żółtym quadzie wzdłuż ogrodzenia .	Grupa uśmiechających się ludzi tańczy na piasku obok stojących aut .	0.0	NEUTRAL
+7342	Mężczyzna w czerwonej koszulce wspina się po wodospadzie z asekuracją .	Kobieta nie wspina się z asekuracją po skale .	2.0	NEUTRAL
+7345	Dwoje dzieci zjeżdża z kolorowej dmuchanej zjeżdżalni .	Dwoje dzieci zjeżdża na leżąco z dmuchanej zjeżdżalni .	3.83	NEUTRAL
+7347	Dwaj mężczyźni walczą ze sobą .	Dwaj mężczyźni w białych strojach biorą udział w walce przed publicznością .	3.5	ENTAILMENT
+7356	Trzej mężczyźni w zielonych bluzkach stoją obok siebie w różnych pozach , trzymając się za ręce , a za nimi stoi czwarty mężczyzna .	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i rękami , które są podniesione .	0.33	NEUTRAL
+7383	Zawodniczka z piłką do koszykówki spogląda w górę .	Dziewczyna z rękawicą na ręce biegnie po boisku z żółtą piłką w drugiej ręce .	1.0	NEUTRAL
+7385	Dwoje dzieci w spodniach i koszulkach wspina się po ściance wspinaczkowej .	Dwoje dzieci wspina się po ściance .	3.5	NEUTRAL
+7392	Mężczyzna , który jest zawieszony na linie , wspina się przy pomocy specjalistycznego sprzętu po skale , która jest oblodzona .	Mężczyzna w białym kasku wspina się na szczyt skały , asekurując się przy pomocy liny .	3.5	NEUTRAL
+7407	Pięcioro ludzi schodzi .	Czwórka mężczyzn bez koszulek idzie pod górę jeden za drugim .	0.67	NEUTRAL
+7425	Mężczyzna bez koszulki asekurowany od dołu przez drugiego mężczyznę wspina się po ścianie .	Człowiek w stroju Świętego Mikołaja wspina się po ścianie .	1.0	NEUTRAL
+7428	Człowiek asekuruje na linie mężczyznę wspinającego się po stromej skale .	Mężczyzna bez koszulki , który jest asekurowany od dołu przez drugiego mężczyznę , wspina się po skale .	3.83	NEUTRAL
+7449	Kilka kolorowo ubranych osób tańczy z uniesionymi rękami .	Kilka kolorowo ubranych osób tańczy z rękami , które są uniesione .	4.83	ENTAILMENT
+7453	Mężczyzna w kapeluszu , który ma na sobie pas z dwoma bidonami , stoi na tle górskiego krajobrazu .	Mężczyzna w turystycznym stroju stoi na zboczu w górach .	2.33	NEUTRAL
+7454	Kobieta w ozdobnym stroju z tatuażem na brzuchu wygina się mocno do tyłu .	Dwa podobne do siebie psy idą po trawie , trzymając razem w pysku czerwoną zabawkę .	0.0	NEUTRAL
+7455	Kobieta z profesjonalnym sprzętem wspinaczkowym wisi na stromej skale .	Mały chłopiec patrzy , jak inna osoba ustawia małe , drewniane klocki .	0.0	NEUTRAL
+7458	Jednakowo ubrane dziewczyny z kolorowym makijażem oczu tańczą .	Nikt nie tańczy .	2.17	CONTRADICTION
+7461	Taniec na parkiecie innej dziewczynki ubranej w strój baletnicy jest obserwowany przez dwie dziewczynki .	Dziewczynka w stroju baletowym , obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	4.33	NEUTRAL
+7528	Kilka osób przechodzi nad wodą po wiszącym w pobliżu skał moście .	Kilka osób asekurowanych na linie przechodzi nad wodą po wiszącym w pobliżu skał moście .	4.17	ENTAILMENT
+7538	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma ich jednocześnie za ręce .	Ciemnoskóry mężczyzna , który jest podparty o uda dwóch innych mężczyzn , trzyma ich jednocześnie za ręce .	5.0	ENTAILMENT
+7540	Cztery dziewczynki bawią się na trampolinie ustawionej na śniegu .	Cztery dziewczynki bawią się na trampolinie , która jest ustawiona na śniegu .	5.0	ENTAILMENT
+7555	Mężczyzna wisi nad wodą na linie zaczepionej o stromą , wysoką skałę .	Mężczyzna wisi nad wodą na linie zaczepionej o wysoką skałę .	4.5	NEUTRAL
+7569	Brudny człowiek wspina się po wysokiej skalnej ścianie .	Człowiek wspina się po dużej , stromej skale .	3.83	NEUTRAL
+7570	Kobieta w czarnym kostiumie kąpielowym zjeżdża z fioletowej zjeżdżalni do basenu , trzymając dziecko w niebieskiej kamizelce .	Kobieta siedzi na zjeżdżalni z nogami w wodzie i trzyma na rękach dziecko w kamizelce ratunkowej .	3.17	NEUTRAL
+7588	Mężczyzna przypięty do liny siedzi na szczycie skały , podczas gdy kobieta wspina się do góry .	Mężczyzna , który jest przypięty do liny , siedzi na szczycie skały , podczas gdy kobieta wspina się do góry .	5.0	ENTAILMENT
+7613	Kowboj jadący na koniu wymachuje lassem .	Dwaj mężczyźni w białych strojach walczą ze sobą , kopiąc się nawzajem .	0.0	NEUTRAL
+7617	Dwie kobiety w białych strojach do sztuk walki , które są obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	Dwie kobiety w białych strojach do sztuk walki , obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	5.0	ENTAILMENT
+7630	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i podniesionymi rękami .	Taki sam krok taneczny jest wykonywany przez czterech mężczyzn w wojskowych spodniach , wśród których trzech jest w żółtych koszulkach , a jeden w brązowej .	0.83	NEUTRAL
+7637	Mężczyzna zawieszony na linie wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	Wiewiórka z orzechem skacze po śniegu .	0.17	NEUTRAL
+7640	Kilka osób przemierza płaski teren , idąc w kierunku gór .	Człowiek z plecakiem przechodzi niedaleko szczytów górskich , które są pokryte śniegiem .	2.0	NEUTRAL
+7648	Czterech mężczyzn bez koszulek idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	Czwórka mężczyzn bez koszulek idzie pod górę jeden za drugim .	3.5	NEUTRAL
+7651	Czterech mężczyzn z długimi włosami i tatuażami idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	Czwórka mężczyzn bez koszulek idzie pod górę jeden za drugim .	3.67	NEUTRAL
+7655	Mężczyzna w kasku płynie samotnie kajakiem po wzburzonej wodzie .	Kobieta i mężczyzna tańczą taniec towarzyski na parkiecie .	0.0	NEUTRAL
+7662	Chłopak w czarnym ubraniu zjeżdża na kolanach na zjeżdżalni , która jest dmuchana .	Ubrany na czarno chłopiec zjeżdża ze zjeżdżalni na kolanach .	4.17	NEUTRAL
+7667	Pięcioro ludzi , jeden za drugim , nie schodzi ze stromej skalistej góry .	Trzech mężczyzn spędza czas w górach w słoneczny dzień .	1.0	NEUTRAL
+7670	Mężczyzna bez koszulki i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	Człowiek z dużym plecakiem stoi z ręką w górze , a za nim stoi chłopiec .	0.17	NEUTRAL
+7678	Pięć osób widzianych od tyłu idzie w kierunku pasma gór .	Pięć osób widzianych od tyłu idzie po śniegu .	3.33	NEUTRAL
+7679	Jedna osoba w sportowym stroju , rękawicach i kasku kopie drugą w głowę na ringu .	Jedna osoba jest kopana w głowę na ringu przez drugą osobę w sportowym stroju , rękawicach i kasku .	5.0	ENTAILMENT
+7700	Mężczyzna zawieszony na linie wspina się przy pomocy specjalistycznego sprzętu po oblodzonej skale .	Człowiek wspina się po wysokiej ścianie z asekuracją .	3.5	NEUTRAL
+7704	Człowiek z plecakiem przemierza samotnie górski teren .	Człowiek z plecakiem idzie na tle ośnieżonych górskich zboczy .	3.83	NEUTRAL
+7723	Mężczyzna w okularach i w niebieskiej koszuli przechodzi niedaleko szczytów górskich pokrytych śniegiem .	Człowiek z plecakiem przechodzi niedaleko szczytów górskich pokrytych śniegiem .	3.5	NEUTRAL
+7737	Ciemnoskóra dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	Skośnooka dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	2.67	NEUTRAL
+7750	Kilka osób przemierza zaśnieżony teren niedaleko górskich wzniesień .	Dwaj mężczyźni pływają na deskach niedaleko brzegu .	0.17	NEUTRAL
+7751	Dwoje dzieci zjeżdża w pontonie po fioletowej zjeżdżalni , a obok leżą na taśmie inne pontony .	Dziewczynka siedzi na szczycie zjeżdżalni .	1.83	NEUTRAL
+7764	Żadna dziewczyna nie biegnie po boisku z żółtą piłką w drugiej ręce .	Młoda osoba w sportowym stroju i rękawicy robi duży krok , trzymając w jednej dłoni piłkę .	1.83	NEUTRAL
+7781	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma ich jednocześnie za ręce .	Mężczyźni są trzymani za ręce przez ciemnoskórego mężczyznę podpartego o uda dwóch innych mężczyzn .	4.67	ENTAILMENT
+7791	Człowiek wspina się po skale .	Mężczyzna w kasku wspina się z asekuracją na skałę .	3.0	ENTAILMENT
+7794	Mężczyzna z tatuażem na plecach i długimi włosami , które są spięte , wspina się po stromej skale .	Człowiek w długich , pomarańczowych spodniach wspina się po skale .	2.0	NEUTRAL
+7800	Chłopak w kolorowych spodenkach kąpielowych podskakuje na piasku z ręką wyprostowaną w kierunku piłki .	Chłopak w czarnym ubraniu zjeżdża na kolanach na dmuchanej zjeżdżalni .	1.0	NEUTRAL
+7807	Mężczyzna z plecakiem stoi na ścieżce .	Człowiek z dużym plecakiem stoi na ścieżce na trawiastej górze .	3.17	NEUTRAL
+7818	Trzy dziewczynki w kapeluszach i długich spódnicach tańczą , a chłopcy grają na instrumentach .	Trzy kolorowo ubrane dziewczynki w kapeluszach i ciemnych okularach tańczą obok siebie .	2.83	NEUTRAL
+7829	Grupa ludzi tańczy na piasku obok dwóch samochodów zabytkowych .	Grupa uśmiechających się ludzi tańczy na piasku obok stojących aut .	3.5	NEUTRAL
+7834	Umięśniony mężczyzna bez koszulki i skąpo ubrana kobieta z kolorową ozdobą na głowie tańczą przed publicznością .	Mężczyzna i kobieta tańczą .	3.17	NEUTRAL
+7836	Mały pies z dużymi uszami trzyma w pysku patyk .	Cztery dziewczynki bawią się na trampolinie , trzy z nich podskakują , a jedna siedzi .	0.5	NEUTRAL
+7865	Kobieta z profesjonalnym sprzętem wspinaczkowym wisi na stromej skale .	Kobieta wspina się z asekuracją po skale .	3.17	NEUTRAL
+7871	Człowiek z dużym plecakiem wchodzi po górskim zboczu .	Człowiek z dużym niebieskim plecakiem na plecach stoi na stromej górze .	3.0	NEUTRAL
+7873	Młode dziewczyny z chustami na biodrach tańczą , unosząc ręce do góry .	Jasnowłosa dziewczynka tańczy , unosząc ręce do góry .	3.17	NEUTRAL
+7888	Dziewczyna wspina się z asekuracją po ściance .	Mężczyzna z plecakiem stoi w płytkiej wodzie , trzymając linkę .	0.17	NEUTRAL
+7895	Dużo ludzi siedzi przy zastawionych stolikach na przestronnej sali .	Człowiek z dużym plecakiem wchodzi po górskim zboczu .	0.17	NEUTRAL
+7909	Kobieta wspina się z asekuracją po skale .	Żadna kobieta nie wspina się z asekuracją po skale .	4.17	CONTRADICTION
+7911	Kobieta w ciemnych okularach siedzi na murku obok śmietnika z telefonem komórkowym przy uchu .	Kobieta w ciemnych okularach i w sukience siedzi na murku obok śmietnika .	3.83	NEUTRAL
+7914	Chłopiec wypada na piasek ze zjeżdżalni .	Dziecko o jasnych , kręconych włosach zjeżdża ze zjeżdżalni prosto do piasku .	2.17	NEUTRAL
+7916	Dziewczynka w różowym stroju nie tańczy na parkiecie obok chłopca .	Dziewczynka w różowym stroju tańczy na parkiecie obok chłopca .	3.5	CONTRADICTION
+7919	Pięcioro płynących pontonem ludzi , jeden za drugim , spływa strumieniem ze stromej , skalistej góry .	Pięcioro ludzi , jeden za drugim , schodzi ze stromej skalistej góry .	1.17	NEUTRAL
+7939	Kilka osób z plecakami idzie ścieżką po kamienistym terenie .	Czterech chłopaków z plecakami idzie ścieżką wśród traw i kamieni , a w oddali idzie piąta osoba .	3.33	ENTAILMENT
+7949	Sześciu chłopaków i dziewczyna idą po trawie pod drzewem .	Osoba w kasku wspina się po piachu , pchając motor , wspomagana przez drugiego człowieka .	0.0	NEUTRAL
+7951	Uśmiechnięta dziewczynka zjeżdża ze zjeżdżalni .	Mała dziewczynka w kolorowej bluzce siedzi na górnej części zjeżdżalni .	2.5	NEUTRAL
+7959	Osoba w niebieskiej czapce i z dużym plecakiem podchodzi pod górę po śniegu .	Grupa ludzi brodzi w wodzie , która przepływa pośród wysokich , stromych skał .	0.67	NEUTRAL
+7965	Ciemnoskóra dziewczynka klaszcze w dłonie , patrząc na tańczącą obok starszą dziewczynkę .	Dwie dziewczynki stoją .	1.83	NEUTRAL
+7986	Dwoje dzieci zjeżdża na leżąco z dmuchanej zjeżdżalni .	Mężczyzna i dwie dziewczyny stoją w wypełnionym wodą wąwozie , dalej cztery inne osoby chodzą po kamieniach .	0.33	NEUTRAL
+7992	Chłopak w okularach patrzy na telefon komórkowy , trzymając w ręce plastikowy kubek z napojem .	Chłopak w okularach , który jest krótko ostrzyżony , patrzy na telefon trzymany w ręce , w drugiej ręce trzymając plastikowy kubek z napojem .	4.17	ENTAILMENT
+7993	Uśmiechnięta dziewczynka siedzi na pomarańczowej zjeżdżalni .	Uśmiechnięta dziewczynka nie siedzi na pomarańczowej zjeżdżalni .	3.33	CONTRADICTION
+8007	Wspinaczka jest uprawiana przez człowieka .	Człowiek uprawia wspinaczkę , asekurując się na linie .	3.83	ENTAILMENT
+8014	Mężczyzna w kapeluszu , który ma na sobie pas z dwoma bidonami , stoi na tle górskiego krajobrazu .	Mężczyzna w kapeluszu mający na sobie pas z dwoma bidonami stoi na tle górskiego krajobrazu .	5.0	ENTAILMENT
+8029	Dziewczynka w różowej kurtce zjeżdża na brzuchu po czerwonej zjeżdżalni .	Dziewczynka w czepku pływackim i stroju kąpielowym zjeżdża na brzuchu z czerwonej zjeżdżalni .	2.5	NEUTRAL
+8035	Kobieta w różowym stroju z piórami stoi na scenie , trzymając ręce na biodrach .	Na scenie , obok innych osób , stoją dwie kobiety w ozdobnych strojach z piórami .	2.17	NEUTRAL
+8037	Zaśnieżony teren niedaleko górskich wzniesień jest przemierzany przez kilka osób .	Człowiek z dużym niebieskim plecakiem na plecach stoi na stromej górze .	1.0	NEUTRAL
+8049	Kilka osób z plecakami idzie ścieżką po kamienistym terenie .	Czterech chłopaków idzie i idzie inna osoba .	1.5	NEUTRAL
+8076	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku , w pobliżu targu .	Kobieta z telefonem komórkowym siedzi na krawężniku , w pobliżu targu .	4.17	NEUTRAL
+8103	Mężczyzna w białym kasku wspina się na linie po ścianie wodospadu .	Mężczyzna z ochraniaczami na nogach wspina się na linie po ścianie wodospadu .	3.17	NEUTRAL
+8106	Ciemnoskóry mężczyzna podparty o uda dwóch innych mężczyzn trzyma ich jednocześnie za ręce .	Trzej mężczyźni w zielonych bluzkach stoją obok siebie w różnych pozach , trzymając się za ręce , a za nimi stoi czwarty mężczyzna .	1.83	NEUTRAL
+8109	Dziewczynka w stroju baletowym , która jest obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	Dwie dziewczynki obserwują taniec na parkiecie innej dziewczynki ubranej w strój baletnicy .	4.5	NEUTRAL
+8114	Mężczyzna wspina się z asekuracją po pionowej skale .	Mężczyzna przypięty do liny wspina się po stromej ścianie skalnej .	3.83	ENTAILMENT
+8122	Dziewczyna i chłopiec wypadają ze zjeżdżalni na kolorowe piłeczki , na których siedzi drugi chłopiec .	Dziewczynka zjeżdża na zjeżdżalni , która jest dmuchana , w tle patrzy na nią chłopiec .	2.67	NEUTRAL
+8143	Kobieta nie wspina się z asekuracją po skale .	Mężczyzna wspina się z asekuracją po pionowej skale .	2.5	NEUTRAL
+8173	Piłkarz siedzi na murawie boiska i pije wodę z butelki .	Dziewczynka siedzi na szczycie zjeżdżalni .	0.67	NEUTRAL
+8187	Kilka osób przemierza płaski teren , idąc w kierunku gór .	Pięć osób widzianych od tyłu idzie w kierunku pasma gór .	3.5	NEUTRAL
+8195	Umięśniony mężczyzna bez koszulki i skąpo ubrana kobieta z kolorową ozdobą na głowie tańczą przed publicznością .	Mężczyzna bez koszulki i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	3.17	NEUTRAL
+8196	Mężczyzna w turystycznym stroju stoi na trawie , trzymając czapkę i opierając się o drewniany słup .	Człowiek z plecakiem idzie na tle górskich zboczy , które są ośnieżone .	1.17	NEUTRAL
+8201	Dwie kobiety w białych strojach do walki kopią się nawzajem .	Chłopiec w samych majteczkach goni po piasku dziewczynkę w samej spódniczce .	0.5	NEUTRAL
+8207	Człowiek wspina się po skale asekurowany przez drugą osobę z dołu .	Mężczyzna wspina się po wodospadzie .	2.0	NEUTRAL
+8209	Sześciu chłopaków i dziewczyna idą .	Chłopak w zielonej koszulce w paski patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	0.5	NEUTRAL
+8210	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami uniesionymi do góry .	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami , które są uniesione do góry .	5.0	ENTAILMENT
+8215	Chłopiec przejeżdża przez czerwony most na deskorolce .	Mężczyzna z plecakiem stoi na ścieżce na rozległym trawiastym terenie .	0.33	NEUTRAL
+8216	Dwie dziewczynki nie bawią się po zmroku na dużej trampolinie ustawionej na trawniku .	Dwie dziewczynki bawią się po zmroku na dużej trampolinie ustawionej na trawniku .	3.83	CONTRADICTION
+8220	Podczas meczu piłki nożnej bramkarz leży na murawie , obok niego znajduje się dwóch graczy z przeciwnych drużyn , inni piłkarze idą w ich stronę , a piłka leci w stronę bramki .	Człowiek wykonuje skok na trampolinie , przekręcając się do góry nogami .	0.33	NEUTRAL
+8225	Dziewczyna wspina się z asekuracją po ściance .	Jakaś kobieta wspina się po gładkiej skale .	3.17	NEUTRAL
+8227	Człowiek z plecakiem przemierza samotnie górski teren .	Osoba w niebieskiej czapce podchodzi pod górę po śniegu .	2.0	NEUTRAL
+8264	Człowiek z dużym plecakiem stoi na ścieżce z rękami ułożonymi do odbicia lecącej piłki .	Mężczyzna z plecakiem stoi na ścieżce na rozległym trawiastym terenie .	2.0	NEUTRAL
+8275	Mężczyzna w zimowym stroju i kasku idzie po śniegu , trzymając linę .	Mężczyzna i dwie dziewczyny stoją w wąwozie , który jest wypełniony wodą , dalej cztery inne osoby chodzą po kamieniach .	1.17	NEUTRAL
+8282	Dzieci w mundurkach siedzą na podłodze z zeszytami .	Człowiek w stroju Świętego Mikołaja wspina się po ścianie .	0.33	NEUTRAL
+8283	Kobieta w ciemnych okularach siedzi na murku obok śmietnika z telefonem komórkowym przy uchu .	Załadowany ludźmi samochód jedzie po drodze asfaltowej .	0.17	NEUTRAL
+8286	Siedem kobiet asekurowanych przez mężczyznę nie wspina się jedna pod drugą po ściance .	Siedem kobiet wspina się jedna pod drugą po ściance , asekurowane przez mężczyznę .	3.67	CONTRADICTION
+8326	Dziecko w zielonych butach biegnie po kałuży .	Młoda kobieta o jasnych włosach wspina się po stromej skale w słoneczny dzień .	0.17	NEUTRAL
+8337	Kobieta z czerwonymi dredami , siedząc w pobliżu kontenerów na śmieci , nie rozmawia przez telefon komórkowy .	Kobieta z czerwonymi dredami rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	4.33	CONTRADICTION
+8373	Kilka osób przechodzi nad wodą po wiszącym w pobliżu skał moście .	Młody mężczyzna z plecakiem znajduje się na rozległym , trawiastym terenie .	0.0	NEUTRAL
+8398	Dziewczynka z doczepionymi różowymi włosami tańczy , unosząc ręce do góry .	Publiczność i sędzia obserwują dwóch walczących na ringu mężczyzn w rękawicach bokserskich .	0.0	NEUTRAL
+8424	Dziewczynka o długich , jasnych włosach wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Chłopiec w biało - czerwonym stroju biegnie po boisku z piłką koszykową w rękach .	0.5	NEUTRAL
+8425	Człowiek z plecakiem idzie na tle górskich zboczy , które są ośnieżone .	Mężczyzna i dwie dziewczyny stoją w wypełnionym wodą wąwozie , dalej cztery inne osoby chodzą po kamieniach .	0.83	NEUTRAL
+8433	Dziewczynka w fioletowo - niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	Cztery ciemnowłose kobiety w tradycyjnych strojach tańczą .	0.0	NEUTRAL
+8448	Dziewczynka widziana od tyłu siedzi na szczycie zjeżdżalni .	Mała dziewczynka w kolorowej bluzce siedzi na górnej części zjeżdżalni .	3.5	NEUTRAL
+8464	Dziewczynka zjeżdża po zielonej zjeżdżalni , trzymając ręce w górze .	Dziewczynka zjeżdża po niebieskiej zjeżdżalni .	3.67	NEUTRAL
+8474	Zawodniczka w biało - niebieskim stroju przeskakuje przez płotek na bieżni biegowej .	Chłopiec w pasiastej bluzce skacze z niewielkiej zjeżdżalni .	0.5	NEUTRAL
+8480	Człowiek z plecakiem idzie na tle ośnieżonych górskich zboczy .	Górski teren jest przemierzany samotnie przez człowieka z plecakiem .	3.5	ENTAILMENT
+8486	Młoda kobieta wspina się po pionowej skale .	Młoda kobieta wspina się po gładkiej skale .	4.0	NEUTRAL
+8488	Osoba w kasku jeździ hulajnogą po placu , gdzie rozstawione są pomarańczowe słupki .	Dwóch mężczyzn w kaskach wisi na linach w pobliżu dużej skały .	0.5	NEUTRAL
+8493	Dziecko wykonuje skok na deskorolce na moście .	Trzy kobiety ubrane w suknie różnych kolorów tańczą na tle rozwieszonej na ścianie flagi .	0.0	NEUTRAL
+8516	Dziewczynka w błękitnej sukience zjeżdża na zielonej zjeżdżalni .	Dziewczynka w białym stroju baletnicy zjeżdża na zielonej zjeżdżalni .	3.5	NEUTRAL
+8523	Mężczyzna w czerwonej koszulce wspina się po wodospadzie z asekuracją .	Mężczyzna wspina się po wodospadzie .	3.83	NEUTRAL
+8535	Dziecko o jasnych włosach zjeżdża ze zjeżdżalni prosto do piasku .	Młoda kobieta o jasnych włosach wykonuje skok z deskorolką .	1.0	NEUTRAL
+8554	Człowiek w czerwonej koszulce wspina się po dużej , stromej skale asekurowany przez drugą osobę .	Człowiek w czerwonej koszulce , który jest asekurowany przez drugą osobę , wspina się po dużej , stromej skale .	5.0	ENTAILMENT
+8556	Mężczyzna z dzieckiem w nosidełku i mężczyzna z dzieckiem na grzbiecie stoją w pobliżu stromych skał .	Dwaj mężczyźni w czapkach z daszkiem , jeden z niebieskim plecakiem , a drugi z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	2.17	NEUTRAL
+8560	Kobieta w ozdobnym stroju z tatuażem na brzuchu wygina się mocno do tyłu .	Kobieta w czerwonej bluzce i kolorowej spódnicy odchyla się głęboko do tyłu plecami , patrząc za siebie .	2.5	NEUTRAL
+8564	Dziewczynka nie siedzi na szczycie zjeżdżalni .	Dziewczynka siedzi na szczycie zjeżdżalni .	3.67	CONTRADICTION
+8583	Mężczyzna w kasku i czarnej kurtce wykonuje skok , jadąc na quadzie .	Mała dziewczynka w kolorowej bluzce siedzi na górnej części zjeżdżalni .	0.33	NEUTRAL
+8584	Mężczyzna bez koszulki i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	Mężczyzna i skąpo ubrana kobieta z piórami na głowie tańczą na ulicy , przykucając .	4.33	NEUTRAL
+8600	Chłopiec w szlafroku skacze z niebieskiej zjeżdżalni .	Chłopiec w bluzce w paski i spodniach dresowych skacze z niebieskiej zjeżdżalni .	3.67	NEUTRAL
+8606	Siedem kobiet wspina się jedna pod drugą po ściance , asekurowane przez mężczyznę .	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna trzymający linę .	4.0	NEUTRAL
+8627	Dziewczyna wspina się z asekuracją po ściance .	Jedna dziewczyna wspina się z asekuracją po ściance .	4.83	ENTAILMENT
+8635	Chłopak w okularach patrzy na telefon komórkowy , trzymając w ręce plastikowy kubek z napojem .	Kobieta o czerwonych włosach , która jest ubrana w bluzkę , spódnicę i rajstopy w paski , siedzi z telefonem komórkowym przy uchu .	1.33	NEUTRAL
+8636	Człowiek wspina się po lodowej ścianie z asekuracją .	Mężczyzna , który jest zawieszony na linie , wspina się przy pomocy specjalistycznego sprzętu po skale , która jest oblodzona .	3.83	ENTAILMENT
+8641	Dwie kobiety w białych strojach do walki kopią się nawzajem .	Dwie kobiety kopią się .	3.83	NEUTRAL
+8649	Cztery rowery stoją pod budynkiem w pobliżu odpoczywającego mężczyzny na leżaku .	Cztery ciemnoskóre osoby tańczą na scenie .	0.33	NEUTRAL
+8653	Chłopiec w pasiastej bluzce nie skacze z niewielkiej zjeżdżalni .	Mały chłopiec trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	2.5	NEUTRAL
+8657	Jasnowłosa dziewczynka wspina się po wysokiej skalnej ścianie .	Człowiek wspina się po wysokiej skalnej ścianie .	3.17	NEUTRAL
+8674	Chłopiec zjeżdża ze zjeżdżalni do basenu z rękami uniesionymi do góry .	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	2.5	NEUTRAL
+8683	Dziewczynka i chłopiec skaczą na trampolinie stojącej na trawie .	Inna dziewczynka i chłopiec skaczą na trampolinie .	3.83	NEUTRAL
+8700	Mężczyzna w bluzie z kapturem i kobieta w okularach całują się na plaży .	Kobieta w niebiesko - różowym stroju z piórami stoi na scenie , trzymając ręce na biodrach .	0.17	NEUTRAL
+8701	Dziewczyna wspina się z asekuracją po ściance .	Osoba w żółtej koszulce , która jest asekurowana na linie , wspina się po ściance wspinaczkowej .	3.0	NEUTRAL
+8709	Człowiek w niebieskiej koszuli i kapeluszu jedzie na białym koniu między krzewami .	Pięć dziewczyn w kombinezonach i jedna dziewczyna w białym stroju tańczą w rzędzie .	0.33	NEUTRAL
+8727	Na scenie stoją dwie kobiety w ozdobnych strojach z piórami .	Na scenie , obok innych osób , stoją dwie kobiety w ozdobnych strojach z piórami .	4.17	ENTAILMENT
+8738	Mężczyzna w kasku i z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	Mężczyzna w zimowym stroju i kasku idzie po śniegu , trzymając linę .	4.0	ENTAILMENT
+8748	Dziewczynka zjeżdża po pomarańczowej zjeżdżalni .	Żadna dziewczynka nie siedzi na pomarańczowej zjeżdżalni .	3.5	NEUTRAL
+8750	Dziewczyna i chłopiec wypadają ze zjeżdżalni na kolorowe piłeczki , na których siedzi drugi chłopiec .	Człowiek w kasku stoi na kamieniu na tylnym kole motoru .	0.17	NEUTRAL
+8760	Cztery dziewczynki bawią się na trampolinie ustawionej na śniegu .	Dziewczyna stoi na rękach w słoneczny dzień , a obok niej stoi dziecko .	0.5	NEUTRAL
+8765	Kobieta w łososiowej sukni i mężczyzna ubrany na czarno stoją przy wozie , z którego leje się woda na płonącą stertę desek , na parkiecie w tanecznych pozach .	Kobieta i mężczyzna tańczą taniec towarzyski na parkiecie .	2.17	NEUTRAL
+8802	Jasnowłosa dziewczynka wspina się po gładkiej skale .	Młoda kobieta o jasnych włosach wspina się po stromej skale w słoneczny dzień .	2.83	NEUTRAL
+8805	Dziewczynka i chłopiec stoją .	Dziewczynka w stroju baletowym , obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	0.67	NEUTRAL
+8812	Kobieta siedzi na krawężniku obok kosza na śmieci i trzyma przy uchu telefon komórkowy .	Kobieta , siedząc na krawężniku obok kosza na śmieci , trzyma przy uchu telefon komórkowy .	4.83	ENTAILMENT
+8829	Mężczyzna z długimi , jasnymi włosami gra na gitarze z otwartymi ustami .	Dziewczynka w różowej sukience stoi z ręką w górze , a za nią stoi chłopiec .	0.17	NEUTRAL
+8870	Mężczyzna w kasku i z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	Mężczyzna w kasku przemierza teren .	3.5	NEUTRAL
+8879	Trójka dzieci bawi się w basenie z kolorowymi piłeczkami .	Osoba w kasku ochronnym , z plecakiem na plecach , ubrana w czerwoną kurtkę , nosi okulary przeciwsłoneczne .	0.33	NEUTRAL
+8881	Kobieta w ciemnych okularach siedzi na murku obok śmietnika z telefonem komórkowym przy uchu .	Żadna kobieta nie siedzi na murku obok śmietnika .	2.67	CONTRADICTION
+8888	Uśmiechnięta dziewczynka siedzi na pomarańczowej zjeżdżalni .	Nikt nie siedzi na górnej części zjeżdżalni .	2.33	NEUTRAL
+8898	Krótko ostrzyżony chłopak w okularach patrzy na trzymany w ręce telefon , w drugiej ręce trzymając plastikowy kubek z napojem .	Kobieta siedzi na krawężniku obok kosza na śmieci , trzymając przy uchu telefon komórkowy .	0.83	NEUTRAL
+8912	Nikt nie wisi na linach nad wejściem do jaskini .	Dwóch mężczyzn w kaskach wisi na linach w pobliżu dużej skały .	2.83	CONTRADICTION
+8937	Chłopiec widziany od tyłu kuca na szczycie zjeżdżalni .	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają dmuchane koła .	2.0	NEUTRAL
+8947	Na scenie , obok innych osób , stoją dwie kobiety z butelkami w rękach .	Na scenie , obok innych osób , stoją dwie kobiety w ozdobnych strojach z piórami .	3.5	NEUTRAL
+8975	Chłopiec i dziewczynka odbijają się .	Chłopiec i dziewczynka odbijają się na trampolinie .	4.17	ENTAILMENT
+8979	Dziecko w błękitnej kurtce zjeżdża na sankach , szurając butami po śniegu .	Chłopak w pasiastej koszulce stoi wśród ludzi z telefonem komórkowym w ręce .	0.17	NEUTRAL
+8981	Człowiek w kasku i sportowym stroju wchodzi po górskim zboczu .	Człowiek z dużym plecakiem wchodzi po górskim zboczu .	2.5	NEUTRAL
+8987	Dwóch mężczyzn w kaskach nie wisi na linach w pobliżu dużej skały .	Dwóch mężczyzn wisi na linach nad wejściem do jaskini .	2.67	CONTRADICTION
+9012	Uśmiechnięta dziewczynka o jasnych włosach zjeżdża na zjeżdżalni .	Kobieta w białej czapce z daszkiem odbija rakietą żółtą piłkę .	0.33	NEUTRAL
+9019	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	Dwójka dzieci spływa po wodzie pontonem na fioletowej zjeżdżalni .	1.5	NEUTRAL
+9022	Kobieta z telefonem komórkowym przy uchu siedzi na krawężniku , w pobliżu targu .	Kobieta , siedząc na krawężniku obok kosza na śmieci , trzyma przy uchu telefon komórkowy .	4.0	NEUTRAL
+9029	Uradowana dziewczynka zjeżdża ze zjeżdżalni z uniesionymi rękami .	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	5.0	ENTAILMENT
+9038	Mężczyzna bez koszulki wspina się po skale , asekurowany od dołu przez drugiego mężczyznę .	Człowiek asekuruje na linie mężczyznę , który wspina się po stromej skale .	3.67	NEUTRAL
+9048	Lalka siedzi na czerwonej zjeżdżalni .	Chłopiec w granatowym ubraniu siedzi na czerwonej zjeżdżalni .	2.17	NEUTRAL
+9055	Pięciu turystów z plecakami nie schodzi w dół kamienistego zbocza .	Pięciu turystów z plecakami schodzi w dół kamienistego zbocza .	4.0	CONTRADICTION
+9057	Mężczyzna z dzieckiem w nosidełku i mężczyzna z dzieckiem na grzbiecie stoją w pobliżu stromych skał .	Trzy dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	0.17	NEUTRAL
+9060	Chłopiec podtrzymywany przez dorosłą osobę zjeżdża do basenu ze zjeżdżalni .	Chłopiec ubrany na niebiesko zjeżdża po pomarańczowej zjeżdżalni .	2.83	NEUTRAL
+9062	Mężczyzna z kijami trekkingowymi i dużym plecakiem stoi w pobliżu gór , które są pokryte śniegiem .	Mężczyzna w kapeluszu mający na sobie pas z dwoma bidonami stoi na tle górskiego krajobrazu .	2.67	NEUTRAL
+9066	Człowiek , który jest widziany od tyłu , z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	Mężczyzna w turystycznym stroju stoi na zboczu w górach .	1.17	NEUTRAL
+9067	Człowiek z plecakiem idzie kamienistą górską doliną , podpierając się kijkami .	Człowiek z plecakiem przechodzi niedaleko szczytów górskich pokrytych śniegiem .	3.0	NEUTRAL
+9070	Kobieta z czerwonymi dredami rozmawia przez telefon komórkowy , siedząc na skale nad wodą .	Kobieta o czerwonych włosach ubrana w bluzkę , spódnicę i rajstopy w paski siedzi z telefonem komórkowym przy uchu .	2.83	NEUTRAL
+9085	Człowiek w czerwonej koszulce wspina się po dużej , stromej skale asekurowany przez drugą osobę .	Człowiek , który jest asekurowany przez drugą osobę z dołu , wspina się po skale .	4.0	NEUTRAL
+9101	Mężczyzna w kasku i z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	Żaden mężczyzna nie idzie po śniegu , trzymając linę .	2.5	CONTRADICTION
+9108	Dziewczynka o długich , jasnych włosach wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Uśmiechnięta dziewczynka wspina się po ściance wspinaczkowej .	2.83	NEUTRAL
+9117	Widziany od tyłu człowiek z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	Człowiek , który jest widziany od tyłu , z dużym plecakiem idzie po moście wiszącym nad rzeką , a dalej idą inne osoby .	5.0	ENTAILMENT
+9124	Dziewczyna i chłopiec wypadają ze zjeżdżalni na kolorowe piłeczki , na których siedzi drugi chłopiec .	Trójka dzieci nie bawi się w basenie z kolorowymi piłeczkami .	2.67	NEUTRAL
+9125	Dziewczynka w różowej sukience stoi z ręką w górze , a za nią stoi chłopiec .	Dziewczynka w różowym stroju tańczy na parkiecie obok chłopca .	3.0	NEUTRAL
+9135	Dwaj mężczyźni w czapkach z daszkiem , jeden z niebieskim plecakiem , a drugi z dzieckiem na ramionach , stoją w pobliżu wysokich skał .	Czterech turystów idzie szczytem , który jest ośnieżony .	1.17	NEUTRAL
+9191	Uśmiechnięta dziewczynka o jasnych włosach zjeżdża na zjeżdżalni .	Żadne dziecko nie zjeżdża ze zjeżdżalni prosto do piasku .	3.17	NEUTRAL
+9200	Mężczyzna w kapeluszu siedzi z gitarą na trybunie nad wodą .	Siedem kobiet wspina się jedna pod drugą po ściance , asekurowane przez mężczyznę .	0.33	NEUTRAL
+9225	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna , który siedzi na krześle .	Dziewczynka w różowej sukience macha rękami , w których trzyma kolorowe chustki , a w lustrze odbijają się tańczące kobieta i dwie inne dziewczynki oraz mężczyzna siedzący na krześle .	5.0	ENTAILMENT
+9229	Kilka dziewczynek tańczy obok siebie z rękami , które są uniesione .	Kilka dziewczynek tańczy obok siebie z uniesionymi rękami .	5.0	ENTAILMENT
+9231	Kobieta zjeżdża .	Kobieta w czarnym kostiumie kąpielowym zjeżdża z fioletowej zjeżdżalni do basenu , trzymając dziecko w niebieskiej kamizelce .	2.5	ENTAILMENT
+9246	Kobieta zadaje nogą cios w twarz drugiej kobiety podczas walki .	Cios w twarz kobiety jest zadawany nogą podczas walki przez drugą kobietę .	4.67	ENTAILMENT
+9254	Człowiek wspina się po skale asekurowany przez drugą osobę z dołu .	Człowiek w czerwonej koszulce asekurowany przez drugą osobę wspina się po stromej skale .	4.0	ENTAILMENT
+9256	Dziewczynka w fioletowo - niebieskim kostiumie ze skrzydłami stoi , trzymając w górze rękę z różdżką , a inna osoba celuje w nią cienkim przedmiotem .	Mała dziewczynka , która jest ubrana w strój z różowymi skrzydłami , stoi , trzymając różdżkę w uniesionej do góry ręce .	3.67	NEUTRAL
+9298	Człowiek w czerwonej koszulce wspina się po dużej , stromej skale asekurowany przez drugą osobę .	Człowiek wspina się po skale asekurowany przez drugą osobę z dołu .	3.83	NEUTRAL
+9315	Pięć dziewczyn w kombinezonach i jedna dziewczyna w formalnym stroju tańczą w rzędzie .	Pięć dziewczyn w kombinezonach i jedna dziewczyna w białym stroju tańczą w rzędzie .	3.67	NEUTRAL
+9326	Chłopiec ubrany na niebiesko zjeżdża po pomarańczowej zjeżdżalni .	Uśmiechnięty chłopiec zjeżdża po plastikowej , pomarańczowej zjeżdżalni .	3.5	NEUTRAL
+9334	Jeden chłopiec skacze w rozkroku na trampolinie nad drugim chłopcem , siedzącym ze skrzyżowanymi nogami .	Chłopiec , który skacze na trampolinie , przeskakuje nad drugim chłopcem .	3.67	NEUTRAL
+9339	Czterech turystów idzie szczytem , który jest ośnieżony .	Cztery osoby z bagażem na plecach chodzą po skalistej górze pokrytej śniegiem .	3.67	ENTAILMENT
+9343	Mężczyzna wspina się z asekuracją po pionowej skale .	Mężczyzna przypięty do liny wspina się po stromej ścianie skalnej .	4.17	ENTAILMENT
+9414	Jasnowłosa dziewczynka wspina się po ściance wspinaczkowej .	Dziewczynka o jasnych włosach wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	4.0	ENTAILMENT
+9422	Dziewczynka z doczepionymi różowymi włosami tańczy , unosząc ręce do góry .	Dziewczynka z różowymi włosami , które są doczepione , tańczy , unosząc ręce do góry .	4.83	ENTAILMENT
+9439	Czarny pies stoi na kamieniu , opierając się o niego swoimi białymi przednimi łapami .	Kobieta w czarnym kostiumie kąpielowym zjeżdża z fioletowej zjeżdżalni do basenu , trzymając dziecko w niebieskiej kamizelce .	0.17	NEUTRAL
+9441	Człowiek w pomarańczowych spodniach wspina się po skale .	Człowiek w długich , pomarańczowych spodniach wspina się po skale .	4.33	ENTAILMENT
+9450	Mężczyzna wspina się .	Mężczyzna w białym kasku wspina się na szczyt skały , asekurując się przy pomocy liny .	3.5	ENTAILMENT
+9451	Ludzie spacerują i siedzą na plaży , a jedna z osób puszcza latawiec .	Człowiek z plecakiem idzie kamienistą górską doliną , podpierając się kijkami .	0.0	NEUTRAL
+9454	Nikt nie walczy ze sobą , kopiąc się nawzajem .	Dwaj mężczyźni w białych strojach walczą ze sobą , kopiąc się nawzajem .	4.0	CONTRADICTION
+9457	Kobieta trzyma chłopca za ręce , patrząc pod nogi .	Chłopiec jest trzymany za ręce przez kobietę .	4.33	NEUTRAL
+9459	Kobieta w ciemnych okularach siedzi na murku obok śmietnika z telefonem komórkowym przy uchu .	Kobieta w czarnej bluzce siedzi na murku obok kosza na śmieci , trzymając coś przy uchu .	3.33	NEUTRAL
+9475	Mężczyzna z dzieckiem w nosidełku i mężczyzna z dzieckiem na grzbiecie stoją w pobliżu stromych skał .	Kobieta w fioletowej kurtce z kapturem na głowie idzie pod górę .	0.17	NEUTRAL
+9487	Dziewczynki w białych strojach baletnic stoją na scenie w rzędzie w różnych pozach .	Kilkanaście dziewczynek stoi .	3.17	NEUTRAL
+9504	Trzy dziewczynki , które są kolorowo ubrane , w kapeluszach i ciemnych okularach tańczą obok siebie .	Trzy kolorowo ubrane dziewczynki w kapeluszach i ciemnych okularach tańczą obok siebie .	4.5	ENTAILMENT
+9505	Nikt nie wspina się po oblodzonej górze .	Mężczyzna w czerwonej kurtce wspina się po oblodzonej górze .	3.17	CONTRADICTION
+9509	Trzy dziewczyny i jeden chłopiec spędzają czas na trampolinie w zimowy dzień .	Człowiek z nartami ubrany w czerwony kombinezon wykonuje skok na skoczni pokrytej śniegiem .	0.5	NEUTRAL
+9529	Młoda kobieta z kolorowymi bransoletkami na ręce siedzi na czerwonej zjeżdżalni .	Chłopiec w granatowym ubraniu siedzi na czerwonej zjeżdżalni .	1.5	NEUTRAL
+9536	Dwie kobiety w białych strojach do walki kopią się nawzajem .	Jedna osoba jest kopana w głowę na ringu przez drugą osobę w sportowym stroju , rękawicach i kasku .	2.5	NEUTRAL
+9548	Dziecko w stroju wojownika ninja skacze pod drzewami .	Kobieta z czerwonymi dredami rozmawia przez telefon komórkowy , siedząc w pobliżu kontenerów na śmieci .	0.33	NEUTRAL
+9560	Chłopiec skaczący na trampolinie przeskakuje nad drugim chłopcem .	Dziecko z pomarańczowym pasem uczestniczy w pokazie sztuki walki .	0.67	NEUTRAL
+9566	Dwie kobiety w białych strojach do walki kopią się nawzajem .	Cios jest zadawany kobiecie nogą w twarz podczas walki przez drugą kobietę .	3.0	NEUTRAL
+9571	Człowiek wspina się po wysokiej skalnej ścianie .	Człowiek wspina się po dużej , stromej skale .	4.17	ENTAILMENT
+9574	Uśmiechnięta dziewczynka siedzi na pomarańczowej zjeżdżalni .	Mężczyzna z brodą siedzi na fotelu u fryzjera .	0.17	NEUTRAL
+9575	Kobieta zadaje cios nogą mężczyźnie podczas walki na ringu .	Cios jest zadawany nogą mężczyźnie podczas walki na ringu przez kobietę .	5.0	ENTAILMENT
+9597	Kobieta i dziewczynki tańczą .	Kobieta i małe dziewczynki tańczą na parkiecie w sali z lustrem .	3.5	ENTAILMENT
+9611	Dwoje dzieci zjeżdża w pontonie po wysokiej zjeżdżalni , a obok leżą na taśmie inne pontony .	Dwójka dzieci spływa po wodzie pontonem na fioletowej zjeżdżalni .	3.17	NEUTRAL
+9618	Dziewczynka o długich , jasnych włosach wspina się po ściance wspinaczkowej z kolorowymi uchwytami .	Wspinaczka jest uprawiana przez człowieka .	2.0	NEUTRAL
+9620	Człowiek asekuruje na linie mężczyznę wspinającego się po stromej skale .	Człowiek asekuruje na linie mężczyznę , który wspina się po stromej skale .	5.0	ENTAILMENT
+9636	Uradowana dziewczynka zjeżdża ze zjeżdżalni z uniesionymi rękami .	Mała dziewczynka w stroju kąpielowym wskakuje do niewielkiego basenu , który stoi na trawie .	1.67	NEUTRAL
+9643	Na scenie stoją dwie kobiety w ozdobnych strojach z piórami .	Trzy kolorowo ubrane dziewczynki w kapeluszach i ciemnych okularach tańczą obok siebie .	0.33	NEUTRAL
+9670	Cios zadawany nogą przez zawodniczkę drugiej zawodniczce jest obserwowany przez sędziego z muchą na szyi .	Dwie kobiety w białych strojach do sztuk walki , obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	3.5	NEUTRAL
+9678	Jednakowo ubrane dziewczyny z kolorowym makijażem oczu tańczą .	Taniec na parkiecie dziewczynki ubranej w strój baletnicy jest obserwowany przez dwie inne dziewczynki .	1.83	NEUTRAL
+9687	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna , który trzyma linę .	Siedem tak samo ubranych kobiet wspina się po skale , a obok stoi mężczyzna trzymający linę .	5.0	ENTAILMENT
+9689	Dziewczynka z doczepionymi różowymi włosami tańczy , unosząc ręce do góry .	Jasnowłosa dziewczynka tańczy z zamkniętymi oczami i rękami , które są podniesione .	2.67	NEUTRAL
+9690	Mężczyzna w zimowym stroju i kasku idzie po śniegu , trzymając linę .	Mężczyzna w kasku z plecakiem na plecach przemierza bardzo zaśnieżony teren , trzymając się liny .	4.0	NEUTRAL
+9695	Dziewczynka o jasnych włosach siedzi na dużej trampolinie .	Dziewczynka o jasnych włosach siedzi na dużej trampolinie obok podskakującego ciemnoskórego chłopca .	3.67	ENTAILMENT
+9704	Kilka osób przemierza zaśnieżony teren niedaleko górskich wzniesień .	Cztery osoby z bagażem na plecach chodzą po skalistej górze , która jest pokryta śniegiem .	3.67	ENTAILMENT
+9706	Dziecko o jasnych włosach zjeżdża ze zjeżdżalni prosto do piasku .	Nikt nie zjeżdża ze zjeżdżalni prosto do piasku .	3.5	CONTRADICTION
+9710	Pięć dziewczyn i jeszcze jedna dziewczyna tańczą .	Pięć dziewczyn w kombinezonach i jedna dziewczyna w białym stroju tańczą w rzędzie .	3.5	ENTAILMENT
+9714	Mały chłopiec trzyma się poręczy , będąc na górze kolorowej zjeżdżalni .	Mały chłopiec trzyma się poręczy , będąc na górze połyskującej zjeżdżalni .	4.0	NEUTRAL
+9730	Chłopiec wypada na piasek ze zjeżdżalni .	Człowiek w czerwonym kasku i kurtce stoi obok kamienia .	0.17	NEUTRAL
+9748	Dwaj mężczyźni siedzą , a dziewczynka stoi nad przepaścią w górach .	Dwaj mężczyźni siedzą , a trzeci mężczyzna stoi nad przepaścią w górach .	3.33	NEUTRAL
+9786	Duży krok jest robiony przez młodą osobę w sportowym stroju i rękawicy .	Młoda osoba w sportowym stroju i rękawicy robi duży krok , trzymając w jednej dłoni piłkę .	3.83	ENTAILMENT
+9800	Kobieta wspina się z asekuracją po skale .	Mężczyzna asekurowany od dołu przez drugiego mężczyznę wspina się z asekuracją po pionowej skale .	2.5	NEUTRAL
+9818	Ani jeden chłopak nie stoi wśród ludzi .	Chłopak w zielonej koszulce w paski patrzy na trzymany w dłoni telefon , stojąc pomiędzy innymi ludźmi .	2.67	CONTRADICTION
+9835	Mężczyzna wspina się na skałę .	Mężczyzna w kasku wspina się z asekuracją na skałę .	4.0	ENTAILMENT
+9842	Uśmiechnięty mężczyzna w okularach patrzy na chłopca , który stawia kroki podtrzymywany za ręce przez kobietę .	Kobieta i dziewczynki tańczą .	0.67	NEUTRAL
+9858	Młoda dziewczyna w kolorowych spodenkach rzuca czymś do wody .	Mężczyzna w kapeluszu mający na sobie pas z dwoma bidonami stoi na tle górskiego krajobrazu .	0.17	NEUTRAL
+9893	Dziewczynka w stroju kąpielowym obserwowana przez dwie inne dziewczynki podskakuje nad podłogą .	Dziewczynka w stroju baletowym , obserwowana przez dwie inne dziewczynki , podskakuje nad podłogą .	4.17	ENTAILMENT
+9894	Dwie dziewczynki bawią się po zmroku na dużej trampolinie , która jest ustawiona na trawniku .	Dziewczyna stoi na rękach na trampolinie , a obok niej stoi dziecko .	2.0	NEUTRAL
+9897	Dwoje dzieci zjeżdża po zjeżdżalni , a obok leżą pontony .	Dwoje dzieci zjeżdża w pontonie po wysokiej , fioletowej zjeżdżalni , a obok leżą na taśmie inne pontony .	3.33	ENTAILMENT
+9902	Chłopiec i dziewczynka odbijają się na trampolinie .	Czterech mężczyzn bez koszulek idzie jeden za drugim pod górę w pobliżu wąwozu , w którym płynie rzeka .	0.33	NEUTRAL
+9906	Żadna grupa nie tańczy na piasku obok stojących aut .	Grupa ludzi tańczy na piasku obok dwóch samochodów terenowych .	3.33	CONTRADICTION
+9907	Trzy kobiety ubrane w bluzki , spódnice i rajstopy w paski tańczą obok wiszącej za ich plecami flagi .	Trzy kobiety ubrane w długie szaty tańczą obok wiszącej za ich plecami flagi .	3.5	NEUTRAL
+9915	Nikt nie tańczy na scenie .	Czterech mężczyzn w wojskowych spodniach , trzech w żółtych koszulkach , a jeden w brązowej , wykonuje taki sam krok taneczny .	1.83	NEUTRAL
+9917	Dwie dziewczynki w różowych spódnicach i bluzkach stoją obok siebie w kuchni .	Mały chłopiec huśta się na huśtawce zrobionej z opony .	0.17	NEUTRAL
+9922	Chłopiec wpada do basenu .	Chłopiec wpada ze zjeżdżalni do małego basenu , w którym pływają dmuchane koła .	3.33	ENTAILMENT
+9924	Papuga i pies stoją na chodniku na ogrodzonym drewnianym płotem terenie .	Dwie kobiety w białych strojach do sztuk walki , obserwowane przez mężczyznę , wykonują kopnięcia w swoim kierunku .	0.0	NEUTRAL
+9931	Cztery ciemnoskóre osoby tańczą obok siebie .	Dziewczynka w różowym stroju tańczy na parkiecie obok chłopca .	2.17	NEUTRAL
+9964	Osoba w różowo - czarnym kapeluszu i dużych białych okularach przemieszcza się monocyklem w trakcie parady ulicznej .	Pięcioro ludzi , jeden za drugim , schodzi ze stromej skalistej góry .	0.17	NEUTRAL
+9969	Chłopiec , który jest ubrany na niebiesko , zjeżdża po pomarańczowej zjeżdżalni .	Chłopiec ubrany na niebiesko zjeżdża po pomarańczowej zjeżdżalni .	5.0	ENTAILMENT
+9987	Dwie dziewczynki w różowych spódnicach i bluzkach stoją obok siebie w kuchni .	Dwie dziewczynki stoją .	2.5	NEUTRAL
+9989	Trójka dzieci bawi się w basenie z kolorowymi piłeczkami .	Dziewczynka , która jest uradowana , zjeżdża ze zjeżdżalni z rękami , które są uniesione .	0.83	NEUTRAL
+9999	Dwoje dzieci zjeżdża z kolorowej dmuchanej zjeżdżalni .	Cztery osoby na chodniku grają na instrumentach w pobliżu budynku .	0.0	NEUTRAL
