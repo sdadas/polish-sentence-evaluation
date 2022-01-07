@@ -4,6 +4,7 @@ import os
 import json
 import functools
 
+from sentevalpl.tasks import get_task_names
 from utils.table import TablePrinter, TableColumn
 
 logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.DEBUG)
@@ -20,20 +21,19 @@ def evaluate(name: str, params=None):
     subprocess.run(cmd)
 
 def print_results(results_file: str):
-    header = ["method", "WCCRS Hotels", "WCCRS Medicine", "CDS-E", "CDS-R", "SICK-E", "SICK-R", "8TAGS"]
+    header = ["method"]
+    header.extend(get_task_names())
     table = [header]
-    score = lambda val, ds: "%.2f" % (val["results"][ds].get("acc", val["results"][ds].get("pearson", 0) * 100),)
+    score = lambda val, ds: "%.2f" % (val["results"][ds].get("acc", val["results"][ds].get("spearman", 0) * 100),)
     with open(results_file, "r", encoding="utf-8") as input_file:
         for line in input_file:
             obj = json.loads(line)
             s = functools.partial(score, obj)
-            row = [
-                obj["method"], s("WCCRS_HOTELS"), s("WCCRS_MEDICINE"), s("CDSEntailment"), s("CDSRelatedness"),
-                s("SICKEntailment"), s("SICKRelatedness"), s('8TAGS')
-            ]
+            row = [obj["method"]]
+            row.extend([s(task_name) for task_name in get_task_names()])
             table.append(row)
     printer: TablePrinter = TablePrinter()
-    for idx in range(1, 8): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
+    for idx in range(1, len(header)): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
     printer.print(table)
 
 
@@ -72,4 +72,5 @@ if __name__ == '__main__':
     evaluate("sentence_transformers", {"model_name": "distilbert-multilingual-nli-stsb-quora-ranking"})
     evaluate("sentence_transformers", {"model_name": "paraphrase-multilingual-mpnet-base-v2"})
     evaluate("sentence_transformers", {"model_name": "paraphrase-multilingual-MiniLM-L12-v2"})
+
     print_results(results)

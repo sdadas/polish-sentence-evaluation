@@ -17,5 +17,5 @@ class SentenceTransformersEmbedding(EmbeddingBase):
 
     def batcher(self, params, batch: List[List[str]]) -> np.ndarray:
         batch = [" ".join(sent) if sent != [] else "." for sent in batch]
-        embeddings = self.model.encode(batch)
+        embeddings = self.model.encode(batch, show_progress_bar=False)
         return embeddings

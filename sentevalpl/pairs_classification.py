@@ -139,7 +139,6 @@ class RelatednessEval(object):
 
 class EntailmentEval(RelatednessEval):
     def __init__(self, task_path, task_name='SICK', seed=1111):
-        super().__init__(task_path, task_name, seed)
         logging.debug(f'***** Transfer task : {task_name}-Entailment*****\n\n')
         self.task_name = task_name
         self.seed = seed

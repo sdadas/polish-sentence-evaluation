@@ -3,6 +3,7 @@ from __future__ import absolute_import, division, unicode_literals
 from senteval import utils
 from sentevalpl.pairs_classification import RelatednessEval, EntailmentEval
 from sentevalpl.classifier import SentEvalClassifier
+from sentevalpl.tasks import get_task_names, get_task_by_name
 
 
 class SE(object):
@@ -22,13 +23,9 @@ class SE(object):
         self.params = params
         self.batcher = batcher
         self.prepare = prepare if prepare else lambda x, y: None
-        self.list_tasks = [
-            "WCCRS_HOTELS", "WCCRS_MEDICINE", "CDSEntailment", "CDSRelatedness",
-            "SICKEntailment", "SICKRelatedness", "8TAGS"
-        ]
+        self.list_tasks = get_task_names()
 
     def eval(self, name):
-        # evaluate on evaluation [name], either takes string or list of strings
         if (isinstance(name, list)):
             self.results = {x: self.eval(x) for x in name}
             return self.results
@@ -36,21 +33,16 @@ class SE(object):
         tpath = self.params.task_path
         assert name in self.list_tasks, str(name) + ' not in ' + str(self.list_tasks)
 
-        if name == 'WCCRS_HOTELS':
-            self.evaluation = SentEvalClassifier(tpath + '/downstream/WCCRS_HOTELS', name, 4, seed=self.params.seed)
-        elif name == 'WCCRS_MEDICINE':
-            self.evaluation = SentEvalClassifier(tpath + '/downstream/WCCRS_MEDICINE', name, 4, seed=self.params.seed)
-        elif name == 'SICKRelatedness':
-            self.evaluation = RelatednessEval(tpath + '/downstream/SICK', task_name='SICK', seed=self.params.seed)
-        elif name == 'SICKEntailment':
-            self.evaluation = EntailmentEval(tpath + '/downstream/SICK', task_name='SICK', seed=self.params.seed)
-        elif name == 'CDSRelatedness':
-            self.evaluation = RelatednessEval(tpath + '/downstream/CDS', task_name='CDS', seed=self.params.seed)
-        elif name == 'CDSEntailment':
-            self.evaluation = EntailmentEval(tpath + '/downstream/CDS', task_name='CDS', seed=self.params.seed)
-        elif name == '8TAGS':
-            self.evaluation = SentEvalClassifier(tpath + '/downstream/8TAGS', name, 8, seed=self.params.seed)
-
+        task = get_task_by_name(name)
+        task_dir = task["dir"]
+        task_path = f"{tpath}/downstream/{task_dir}"
+        task_type = task["type"]
+        classes = {"classification": SentEvalClassifier, "entailment": EntailmentEval, "relatedness": RelatednessEval}
+        eval_class = classes[task_type]
+        if task_type == "classification":
+            self.evaluation = eval_class(task_path, name, task["num_classes"], seed=self.params.seed)
+        else:
+            self.evaluation = eval_class(task_path, task_dir, seed=self.params.seed)
         self.params.current_task = name
         self.evaluation.do_prepare(self.params, self.prepare)
         self.results = self.evaluation.run(self.params, self.batcher)

@@ -1,5 +1,6 @@
 import logging
 import os
+from collections import namedtuple
 from pathlib import Path
 
 import fire
@@ -7,6 +8,7 @@ import json
 
 from typing import Union
 
+from sentevalpl.tasks import get_task_names
 from utils.analyzer import PolishAnalyzer
 from methods.base import EmbeddingBase
 from methods.utils import cached
@@ -14,6 +16,8 @@ from sentevalpl.engine import SE
 
 root_dir = os.path.dirname(os.path.realpath(__file__))
 
+
+TaskDef = namedtuple("TaskDef", ("id", "name", ))
 
 class SentEvaluator(object):
 
@@ -146,13 +150,11 @@ class SentEvaluator(object):
         cache_dir = Path(root_dir, f".cache/{method_name}")
         cache_dir.mkdir(parents=True, exist_ok=True)
         se = SE(params, cached(method.batcher, cache_dir), method.prepare)
-        transfer_tasks = [
-            "WCCRS_HOTELS", "WCCRS_MEDICINE", "CDSEntailment", "CDSRelatedness",
-            "SICKEntailment", "SICKRelatedness", "8TAGS"
-        ]
+        transfer_tasks = get_task_names()
         results = se.eval(transfer_tasks)
-        del results["CDSRelatedness"]["yhat"]
-        del results["SICKRelatedness"]["yhat"]
+        for key, val in results.items():
+            if "yhat" in val.keys():
+                del val["yhat"]
         results = {"method": method_name, "results": results}
         logging.info(results)
         with open(os.path.join(root_dir, "results.txt"), "a+") as output_file:
