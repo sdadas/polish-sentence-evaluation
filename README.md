@@ -1,10 +1,44 @@
 ### Evaluation of Sentence Representations in Polish
-This repository contains source code from the paper "[Evaluation of Sentence Representations in Polish](https://arxiv.org/pdf/1910.11834.pdf)". 
+This repository contains experiments related to dense representations of sentences in Polish. It includes code for evaluating different sentence representation methods such as aggregated word embeddings or neural sentence encoders, both multilingual and language-specific. This source code has been used in the following publications:
+
+
+#### [[1]](https://aclanthology.org/2020.lrec-1.207/) Evaluation of Sentence Representations in Polish 
+
 The paper contains evaluation of eight sentence representation methods (Word2Vec, GloVe, FastText, ELMo, Flair, BERT, LASER, USE) on five polish linguistic tasks.
 Dataset for these tasks are distributed with the repository and two of them are released specifically for this evaluation:
-the [SICK (Sentences Involving Compositional Knowledge)](https://github.com/text-machine-lab/MUTT/tree/master/data/sick) corpus translated to Polish and 8TAGS classification dataset.
-Pre-trained models used in this study are available for download in separate repository: [Polish NLP Resources](https://github.com/sdadas/polish-nlp-resources).
+the [SICK (Sentences Involving Compositional Knowledge)](https://github.com/text-machine-lab/MUTT/tree/master/data/sick) corpus translated to Polish and 8TAGS classification dataset. Pre-trained models used in this study are available for download in separate repository: [Polish NLP Resources](https://github.com/sdadas/polish-nlp-resources).
 
+<details>
+  <summary>BibTeX</summary>
+  
+  ```
+  @inproceedings{dadas-etal-2020-evaluation,
+    title = "Evaluation of Sentence Representations in {P}olish",
+    author = "Dadas, Slawomir  and Pere{\l}kiewicz, Micha{\l} and Po{\'s}wiata, Rafa{\l}",
+    booktitle = "Proceedings of the 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2020.lrec-1.207",
+    pages = "1674--1680",
+    language = "English",
+    ISBN = "979-10-95546-34-4",
+}
+  ```
+</details>
+
+### Updates:
+
+- **20.01.2022** - [New code example](https://github.com/sdadas/polish-sentence-evaluation/tree/master/examples/paraphrase_mining) added: training sentence encoders on paraphrase pairs mined from OPUS parallel corpus.
+- **23.10.2020** - Added pre-trained multilingual models from the [Sentence-Transformers](https://www.sbert.net/) library
+- **02.09.2020** - Added [LaBSE](https://tfhub.dev/google/LaBSE/1) multilingual sentence encoder
+- **09.05.2020** - Added new [Polish RoBERTa](https://github.com/sdadas/polish-roberta) models
+- **03.03.2020** - Added [XLM-RoBERTa (base)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
+- **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
+- **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
+
+### Evaluation results:
 <table>
   <thead>
     <th><strong>#</strong></th>
@@ -57,15 +91,6 @@ Pre-trained models used in this study are available for download in separate rep
 </table>
 
 Table: Evaluation of sentence representations on four classification tasks and one semantic relatedness task (SICK-R). For classification, we report accuracy of each model. For semantic relatedness, Pearson correlation between true and predicted relatedness scores is reported.
-
-### Updates:
-
-- **23.10.2020** - Added pre-trained multilingual models from the [Sentence-Transformers](https://www.sbert.net/) library
-- **02.09.2020** - Added [LaBSE](https://tfhub.dev/google/LaBSE/1) multilingual sentence encoder
-- **09.05.2020** - Added new [Polish RoBERTa](https://github.com/sdadas/polish-roberta) models
-- **03.03.2020** - Added [XLM-RoBERTa (base)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
-- **02.02.2020** - Added detailed results of static word embedding models with dimensionalities from 300 to 800
-- **01.02.2020** - Added [Polish RoBERTa](https://github.com/sdadas/polish-nlp-resources#roberta) model and multilingual [XLM-RoBERTa (large)](https://github.com/pytorch/fairseq/tree/master/examples/xlmr) model
 
 ### Evaluated methods:
 
