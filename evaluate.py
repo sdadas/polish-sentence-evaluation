@@ -54,49 +54,55 @@ class SentEvaluator(object):
         self.evaluate(method, "flair", **kwargs)
 
     def bert(self, **kwargs):
-        from methods.word_vectors import BertEmbedding
-        method = BertEmbedding()
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("bert-base-multilingual-cased", layers="top")
         self.evaluate(method, "bert", **kwargs)
 
     def roberta_base_top(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/roberta/", layers="top")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("resources/roberta_base_transformers/", layers="top")
         self.evaluate(method, "roberta_base_top", **kwargs)
 
     def roberta_base_all(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/roberta/", layers="all")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("resources/roberta_base_transformers/", layers="all")
         self.evaluate(method, "roberta_base_all", **kwargs)
 
     def roberta_large_top(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/roberta-large/", layers="top")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("resources/roberta_large_transformers/", layers="top")
         self.evaluate(method, "roberta_large_top", **kwargs)
 
     def roberta_large_all(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/roberta-large/", layers="all")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("resources/roberta_large_transformers/", layers="all")
         self.evaluate(method, "roberta_large_all", **kwargs)
 
     def xlmr_base_top(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/xlmr.base/", layers="top", bpe_filename="sentencepiece.bpe.model")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("xlm-roberta-base", layers="top")
         self.evaluate(method, "xlmr_base_top", **kwargs)
 
     def xlmr_base_all(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/xlmr.base/", layers="all", bpe_filename="sentencepiece.bpe.model")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("xlm-roberta-base", layers="all")
         self.evaluate(method, "xlmr_base_all", **kwargs)
 
     def xlmr_large_top(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/xlmr.large/", layers="top", bpe_filename="sentencepiece.bpe.model")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("xlm-roberta-large", layers="top")
         self.evaluate(method, "xlmr_large_top", **kwargs)
 
     def xlmr_large_all(self, **kwargs):
-        from methods.roberta import RobertaEmbedding
-        method = RobertaEmbedding("resources/xlmr.large/", layers="all", bpe_filename="sentencepiece.bpe.model")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding("xlm-roberta-large", layers="all")
         self.evaluate(method, "xlmr_large_all", **kwargs)
+
+    def huggingface(self, **kwargs):
+        model_name = kwargs.get("model_name")
+        from methods.huggingface import HuggingfaceModelEmbedding
+        method = HuggingfaceModelEmbedding(model_name, layers="top")
+        self.evaluate(method, "huggingface_" + model_name.replace("/", "_"), **kwargs)
 
     def laser(self, **kwargs):
         from methods.laser import LaserEmbedding
@@ -109,15 +115,13 @@ class SentEvaluator(object):
         self.evaluate(method, "use", **kwargs)
 
     def labse(self, **kwargs):
-        from methods.labse import LABSEEmbedding
-        method = LABSEEmbedding()
-        self.evaluate(method, "labse", **kwargs)
+        self.sentence_transformers(model_name="sentence-transformers/LaBSE", **kwargs)
 
     def sentence_transformers(self, **kwargs):
         from methods.sentence_transformer import SentenceTransformersEmbedding
         model_name = kwargs.get("model_name")
         method = SentenceTransformersEmbedding(model_name)
-        self.evaluate(method, "sentence_transformers_" + model_name, **kwargs)
+        self.evaluate(method, "sentence_transformers_" + model_name.replace("/", "_"), **kwargs)
 
     def evaluate_keyed_vectors(self, path: Union[Path, str], name: str, **kwargs):
         if isinstance(path, str): path = Path(path)

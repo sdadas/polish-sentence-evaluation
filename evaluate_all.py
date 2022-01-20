@@ -22,6 +22,7 @@ def evaluate(name: str, params=None):
 
 def print_results(results_file: str):
     header = ["method"]
+    header.append("average")
     header.extend(get_task_names())
     table = [header]
     score = lambda val, ds: "%.2f" % (val["results"][ds].get("acc", val["results"][ds].get("spearman", 0) * 100),)
@@ -30,7 +31,11 @@ def print_results(results_file: str):
             obj = json.loads(line)
             s = functools.partial(score, obj)
             row = [obj["method"]]
-            row.extend([s(task_name) for task_name in get_task_names()])
+            row_scores = [s(task_name) for task_name in get_task_names()]
+            avg_score = sum(float(val) for val in row_scores) / len(row_scores)
+            row.append("%.2f" % (avg_score,))
+            row.extend(row_scores)
+            print(" & ".join(row))
             table.append(row)
     printer: TablePrinter = TablePrinter()
     for idx in range(1, len(header)): printer.column(idx, align=TableColumn.ALIGN_CENTER, width=15)
@@ -53,7 +58,7 @@ if __name__ == '__main__':
     evaluate("fasttext", {"pooling": "concat"})
     evaluate("elmo_all")
     evaluate("elmo_top")
-    evaluate("bert", {"batch-size": 32})
+    evaluate("bert", {"batch-size": 256})
     evaluate("roberta_base_top", {"batch-size": 256})
     evaluate("roberta_base_all", {"batch-size": 256})
     evaluate("roberta_large_top", {"batch-size": 256})
@@ -66,6 +71,8 @@ if __name__ == '__main__':
     evaluate("laser", {"batch-size": 10000})
     evaluate("use")
     evaluate("labse")
+    evaluate("huggingface", {"model_name": "allegro/herbert-base-cased"})
+    evaluate("huggingface", {"model_name": "allegro/herbert-large-cased"})
     evaluate("sentence_transformers", {"model_name": "distiluse-base-multilingual-cased-v2"})
     evaluate("sentence_transformers", {"model_name": "xlm-r-distilroberta-base-paraphrase-v1"})
     evaluate("sentence_transformers", {"model_name": "xlm-r-bert-base-nli-stsb-mean-tokens"})

@@ -2,6 +2,11 @@
 
 TASKS = [
     {
+        "dir": "PPC",
+        "name": "PPC",
+        "type": "ppc"
+    },
+    {
         "dir": "WCCRS_HOTELS",
         "name": "WCCRS_HOTELS",
         "type": "classification",
@@ -19,14 +24,14 @@ TASKS = [
         "type": "entailment"
     },
     {
-        "dir": "CDS",
-        "name": "CDSC-R",
-        "type": "relatedness"
-    },
-    {
         "dir": "SICK",
         "name": "SICK-E",
         "type": "entailment"
+    },
+    {
+        "dir": "CDS",
+        "name": "CDSC-R",
+        "type": "relatedness"
     },
     {
         "dir": "SICK",
@@ -38,7 +43,7 @@ TASKS = [
         "name": "8TAGS",
         "type": "classification",
         "num_classes": 8
-    },
+    }
 ]
 
 

@@ -3,7 +3,7 @@ from typing import Callable
 import numpy as np
 import logging
 
-def cached(batcher_func: Callable, cache: Path) -> Callable:
+def cached(batcher_func: Callable, cache: Path, overwrite: bool=False) -> Callable:
     def batcher(params, batch):
         task_name = params.current_task
         dataset = params.get("batcher_dataset")
@@ -12,7 +12,7 @@ def cached(batcher_func: Callable, cache: Path) -> Callable:
         if task_name and dataset and offset:
             file_name = f"{task_name}_{dataset}_{offset}_{size}.npy"
             cached_file = cache / file_name
-            if cached_file.exists():
+            if cached_file.exists() and not overwrite:
                 logging.debug("Loading batch from cache %s", file_name)
                 return np.load(str(cached_file.absolute()))
             else:

@@ -1,7 +1,7 @@
 from __future__ import absolute_import, division, unicode_literals
 
 from senteval import utils
-from sentevalpl.pairs_classification import RelatednessEval, EntailmentEval
+from sentevalpl.pairs_classification import RelatednessEval, EntailmentEval, PPCEval
 from sentevalpl.classifier import SentEvalClassifier
 from sentevalpl.tasks import get_task_names, get_task_by_name
 
@@ -37,7 +37,7 @@ class SE(object):
         task_dir = task["dir"]
         task_path = f"{tpath}/downstream/{task_dir}"
         task_type = task["type"]
-        classes = {"classification": SentEvalClassifier, "entailment": EntailmentEval, "relatedness": RelatednessEval}
+        classes = {"classification": SentEvalClassifier, "entailment": EntailmentEval, "relatedness": RelatednessEval, "ppc": PPCEval}
         eval_class = classes[task_type]
         if task_type == "classification":
             self.evaluation = eval_class(task_path, name, task["num_classes"], seed=self.params.seed)

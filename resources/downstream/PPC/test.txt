@@ -1,0 +1,1001 @@
+sentence_A	sentence_B	label
+Piasek nad Chinami.	Burza piaskowa w Chinach.	2
+Gdy usłyszała tę wiadomość, płakała wniebogłosy.	Kiedy usłyszała tę wiadomość, płakała.	1
+Człowiek kroi kawałek chleba.	Nikt nie kroi kawałka chleba.	3
+Strażakom udało się błyskawicznie opanować płomienie.	Strażakom - dzięki błyskawicznej akcji - udało się ugasić płomienie i zapobiec rozprzestrzenieniu się pożaru.	2
+Miał ten przywilej, że chodził do prywatnej szkoły.	Miał przywilej uczęszczać do prywatnej szkoły.	1
+Naga dama pokryta farbą do ciała idzie przed tłumem ludzi.	Nie ma pani chodzącej w farbie do ciała przed tłumem.	3
+Rekordowa "Szlachetna Paczka".	Szlachetna Paczka jest rekordowa.	1
+Nikt nie praktykuje bezpieczeństwa wodnego i nie nosi kamizelek ratunkowych.	Ta grupa osób praktykuje bezpieczeństwo wodne i nosi kamizelki ratunkowe.	3
+Co pan powie na mleko z cukrem?	Co powiesz na słodkie mleko?	2
+Dwóch chłopców bawi się na trampolinie.	Nikt nie bawi się na trampolinie.	3
+Nie ma piłkarza, który jest blokowany przez przeciwnika.	Piłkarz jest blokowany przez przeciwnika.	3
+Nikt nie opłukuje steka wodą.	Osoba opłukuje stek wodą.	3
+Zakaz odbywania pojedynków, a wszelkie spory rozwiązywać przed niezależnym sędzią.	Zakaz pojedynków i rozstrzyganie sporów przed niezależnym sędzią.	1
+Mężczyzna nie jedzie konno.	Mężczyzna jedzie na koniu.	3
+Pożar wzbudził panikę w teatrze.	Ogień wywołał panikę w teatrze.	1
+Dorosły jest w amfiteatrze i rozmawia z chłopcem.	W amfiteatrze nie ma osoby dorosłej, która rozmawiałaby z chłopcem.	3
+Mężczyzna wyjmuje jedzenie z pudełka.	Mężczyzna wkłada kurczaka do pojemnika.	3
+Dosłownie wszędzie.	Praktycznie z każdego miejsca.	1
+Już nie wiem, co robić.	Nie wiem już, co robić.	1
+Bob jest lubiany w szkole.	Bob jest popularny w szkole.	1
+Szkoda, że nie usłyszałem wystąpienia.	Szkoda, że nie wystąpiłem.	3
+Poszliśmy się pobawić do parku.	Poszliśmy pobawić się w parku.	1
+Zrozumiałeś, co powiedział?	Wiesz, co powiedział?	1
+Nie ma śpiewającego klauna.	Klaun śpiewa.	3
+Spotkajmy się jutro na dworcu.	Spotkajmy się jutro na stacji.	1
+Można wprowadzić nową kategorię przestępstw: prowadzenie samochodu bez prawa jazdy po wcześniejszym odebraniu go przez sąd - zaproponował prof. Jan Hartman w "Faktach po Faktach" podczas dyskusji o walce z pijanymi na drogach.	Według Hartmana można wprowadzić nową kategorię przestępstw - prowadzenie samochodu bez prawa jazdy po wcześniejszym odebraniu go przez sąd.	2
+Nie ma nikogo, kto jeździłby na rowerze po błotnistym szlaku.	Osoba jedzie na rowerze błotnistym szlakiem.	3
+Nie, to nie może być prawdą.	Nie, to nie może być prawda.	1
+Klub uchodźców awansował do pierwszej ligi w Szwecji.	Szwedzki projekt socjalny tak bardzo im się spodobał, że piłkarski klub uchodźców awansował do pierwszej ligi.	2
+Mi się to też nie podoba.	No i nie podobasz mi się.	3
+Czy ma pan zapałki?	Czy masz zapałki?	1
+Kobieta je ciastko.	Kobieta nie je ciastka.	3
+Tu nie wolno palić.	Nie wolno tu palić.	1
+Biały pies ma na sobie bożonarodzeniową opaskę z rogami renifera i bawi się w trawie z brązowym psem.	Biały pies nie nosi stroju renifera i nie znajduje się w pobliżu brązowego psa.	3
+Jego przemówienie było wyjątkowo słabe.	Jego przemówienie było bardzo mizerne.	1
+Na gitarze gra mężczyzna.	Na gitarze nikt nie gra.	3
+Rosja: w Dagestanie zastrzelono pięciu ekstremistów.	W trakcie operacji antyterrorystycznej w Dagestanie na południu Rosji zastrzelono pięciu ekstremistów, w tym wysokiego rangą przywódcę Państwa Islamskiego (IS), Rustama Aselderowa - poinformowała w niedzielę Federalna Służba Bezpieczeństwa (FSB).	2
+Znajdę twój zgubiony pierścionek.	Zgubię twój znaleziony pierścionek.	3
+Kiedy razem pracowaliśmy, zawsze robiła sobie ze mnie żarty.	Kiedy razem pracowaliśmy, zawsze się ze mnie śmiała.	1
+Pałac Buckingham pokazał nowy portret księcia Filipa.	Pałac Buckingham zaprezentował w poniedziałek obraz przedstawiający męża królowej Elżbiety II i księcia Edynburga Filipa.	2
+Poszedłem z mamą do Disneylandu.	Pojechałem z mamą do Lidla.	3
+Mały nosorożec unika dorosłego nosorożca.	Mały nosorożec podąża za dorosłym nosorożcem.	3
+To między innymi polska wódka, Cava, Tokaj czy Porto.	Na liście są m.in: polska wódka (jako jedyny produkt z Polski), Cava, Champagne, Feta, Irish whiskey, Münchener Bier, Ouzo, Porto, Prosciutto di Parma i Queso Manchego, Českobudějovické pivo i Tokaj.	2
+Bill ma przynajmniej 6 dolarów.	Bill ma co najmniej 6 dolarów.	1
+Wypadek zdarzył się dokładnie rok temu.	Wypadek miał miejsce dokładnie rok temu.	1
+Kobieta smaży trochę jedzenia.	Nie ma kobiety, która smaży jedzenie na głębokim oleju.	3
+Ciekawym, co się stało Paulowi.	Ciekawe, co się stało z Paulem.	1
+Wolność nie jest za darmo.	Wolność nie jest darmowa.	1
+Mierzył on 241 cm i ważył 103 kg.	Sum mierzył 238 cm i ważył 90 kg.	3
+Nagrobki pochodzą z końca XVI lub z początku XVII wieku.	Nagrobki pochodzą z końca XVI wieku lub z początku XVII wieku.	1
+Temperatury topienia powyższych związków są znacznie wyższe od temperatury procesu.	Temperatura topnienia tych związków jest znacznie wyższa niż temperatura procesu.	1
+Kot nie czołga się pod meblem.	Kot czołga się pod meblem.	3
+Władimir Putin i Baszar al-Asad spotkali się w Syrii.	Prezydenci Władimir Putin i Baszar al-Asad spotkali się w stolicy Syrii, Damaszku.	2
+Po chwili dzieci się uspokoiły.	Po jakimś czasie dzieci się nudziły.	3
+Nie znoszę tłumu.	Nienawidzę tłumu.	1
+On jest poniekąd dużym dzieckiem.	W pewnym sensie jest dużym dzieckiem.	1
+W Dawnej medycynie zaprezentował osiągnięcia starożytnej medycyny pięciu starożytnych kultur: Egiptu, Mezopotamii, Indii, Peru, Chin i Meksyku.	W starożytnej medycynie przedstawił osiągnięcia starożytnej medycyny pięciu starożytnych kultur: Egiptu, Mezopotamii, Indii, Peru, Chin i Meksyku.	1
+Od tego momentu oboje pisali wiersze i prozę, w zależności od humoru.	Od tamtej pory obaj pisali prozę i wiersze, w zależności od nastroju.	1
+On bardzo lubi język angielski.	Bardzo lubi angielski.	1
+Pobiła 5 rekordów świata.	Pobiła pięć rekordów świata.	1
+Mogę skorzystać z tego telefonu?	Mogę skorzystać z telegrafu?	3
+Po odejściu z Marynarki Wojennej zaczął grać na gitarze dla lokalnego zespołu.	Po opuszczeniu marynarki zaczął grać na gitarze dla lokalnej kapeli.	1
+Gdzie wczoraj poszedłeś?	Gdzie byłeś zeszłej nocy?	2
+Zainwestował 500 tys. zł w w akcje.	Zainwestował 500 tysięcy zł w nieruchomości.	3
+Tanaka chyba zdał egzamin.	Myślę, że Tanaka zdał egzamin.	1
+"Le Monde" o zwrocie Macrona w stronę Putina i Rosji.	Francuski dziennik "Le Monde", komentując stan relacji francusko-rosyjskich, pisze o zwrocie prezydenta Emmanuela Macrona w stronę Rosji.	2
+Przywódcą GDI jest generał Solomon, absolwent West Point, i długotrwały członek organizacji.	Szefem GDI jest generał Solomon, absolwent West Point i długoletni członek organizacji.	1
+Nikt nie siedzi na krzesłach i nie patrzy na ocean.	Dwoje dorosłych siedzi na krzesłach i patrzy na ocean.	3
+Naraża panią Ewę Kopacz na pośmiewisko, złośliwości.	Naraża panią Ewę Kopacz na złośliwości.	2
+Jestem tak zajęty, że nie mam czasu na rozrywki.	Jestem tak zajęty, że nie mam czasu na zabawę.	1
+Ta koszulka jest na mnie za mała.	Ta koszulka mogłaby być o rozmiar mniejsza.	3
+Jestem ci niezmiernie wdzięczny za pomoc.	Jestem bardzo wdzięczny za pomoc.	1
+Jeśli przyjdzie, powiedz, by na mnie zaczekał.	Jeśli przyjdzie, powiedz mu, żeby na mnie nie czekał.	3
+To bardzo dobre.	To jest bardzo dobre.	1
+Nie jest pan głodny?	Nie jesteś głodny?	1
+Nie ma śpiewającego klauna.	Klaun śpiewa, a ludzie tańczą.	3
+Wsunął pieniądze do kieszeni.	Wyciągnął kasę z kieszeni.	3
+Nie spodziewałem się, że się tu pojawisz.	Nie spodziewałem się, że tu przyjdziesz.	1
+To jest tego samego koloru co moje.	To ten sam kolor, co mój.	1
+Korea Północna poprosiła Mongolię o pomoc żywieniową.	Mongolskie serwisy informacyjne podały w poniedziałek, że Korea Płn. zwróciła się o pomoc żywieniową.	2
+Erdogan: tureckie siły wkrótce wejdą do miasta Afrin.	Tureckie siły otoczyły miasto Afrin na północy Syrii i wkrótce do niego wejdą - powiedział w piątek w Ankarze prezydent Turcji Recep Tayyip Erdogan.	2
+Z ostatniej chwili.	W ostatniej chwili.	1
+To restauracja, w której często jadam.	To restauracja, w której często jem.	1
+Ustąpiła z tej funkcji w październiku 2017.	W październiku 2017 roku zrezygnowała z tej funkcji.	1
+Pierwsi lokatorzy wprowadzą się do nich we wrześniu.	Pierwsi lokatorzy będą mogli się wprowadzić pod koniec września tego roku.	2
+"Nie możemy pozwolić, by Iran zyskał broń nuklearną".	Ale nie możemy pozwolić, by Iran zyskał broń nuklearną - podkreślił.	2
+W Żywcu policjanci rozdają wodę kierowcom w w korku.	Funkcjonariusze w Żywcu rozdają butelki wody kierowcom, którzy stoją w korku.	2
+Obama i Karzaj: rozmowy z talibami będą kontynuowane.	Prezydenci USA i Afganistanu Barack Obama i Hamid Karzaj potwierdzili we wtorek, że rozmowy z talibami będą kontynuowane mimo ataku talibów na obiekty w pobliżu pałacu prezydenckiego w centrum Kabulu.	2
+Ken poszedł do parku na spotkanie z Magdą.	Ken poszedł do parku spotkać się z Marysią.	3
+Kto pomaga twej matce?	Kto pomaga twojej matce?	1
+Nie ma praktykującego karateki, który kopnąłby innego mężczyznę, który ma na sobie ochronne rękawice bokserskie.	Praktykujący karateka kopie w innego mężczyznę, który ma na sobie ochronne rękawice bokserskie.	3
+Na szczęście nikt nie został ranny.	Na szczęście nikt nie wstał rano.	3
+Daję kotu tabletkę.	Daję kotkowi pigułkę.	1
+Poniżej znajduje się klasyfikacja generalna Pucharu Kontynentalnego po przeprowadzeniu dziewięciu konkursów indywidualnych.	Poniżej znajduje się ogólna klasyfikacja Pucharu Kontynentalnego po dziewięciu indywidualnych konkursach.	1
+Adam Z. miał im przyznać się do zabójstwa Ewy Tylman.	Podczas nieprotokołowanej rozmowy z policjantami, Adam Z. miał przyznać się do zabójstwa Ewy Tylman.	2
+Na brzegu nie ma nikogo.	Na brzegu znajduje się grupa ludzi.	3
+Nieostrożność to twój wróg!	Niestrawność jest twoim wrogiem!	3
+Archeolodzy nazywają Starą Łebę "polskimi Pompejami".	Archeolodzy nazywają lewobrzeżną część Łeby "polskimi Pompejami".	1
+Nadal trwają tam prace nad wzmocnieniem konstrukcji.	Wzmacnianie konstrukcji budynku wciąż trwa.	2
+Byłem zmęczony, ale pracowałem dalej.	Byłem zmęczony, ale dalej się obijałem.	3
+Czy twoja matka umie prowadzić samochód?	Czy twoja mama umie prowadzić samochód?	1
+Nie ma kota bawiącego się urządzeniem.	Urządzeniem bawi się kot.	3
+Osoba nie kroi czosnku na kawałki nożem.	Osoba tnie czosnek na kawałki nożem.	3
+Mężczyźni w brązowych szortach chodzą po skałach nad rzeką.	Mężczyźni w brązowe szorty nie chodzą po skałach nad rzeką.	3
+Tłum nie ogląda dwóch samochodów wyścigowych, które wyjeżdżają z linii startu.	Tłum ogląda dwa samochody wyścigowe, które wyjeżdżają z linii startu.	3
+Ludzie zwisają na taśmach i kopią się nawzajem.	Nikt nie zwisa na taśmach i nie kopie innych.	3
+Dziewczynka w mundurze gra na flecie z zespołem marszowym.	Dziewczynka w mundurze nie gra na flecie z zespołem marszowym.	3
+Liczyłem, że wyzdrowieje.	Miałem nadzieję, że wyzdrowieje.	1
+Lekarz zalecił mu rzucenie palenia.	Lekarz kazał mu rzucić heroinę.	3
+Pokaż ranę.	Pokaż mi ranę.	1
+Stewardessa podchodzi do chłopaków.	Stewardessa zbliża się do chłopców.	1
+Czemu pytasz?	Dlaczego płaczesz?	3
+Liście lancetowate, o długości około 6 mm.	Włókniny o długości około 6 mm.	3
+Nie ma lekko.	To jest łatwe.	3
+Mężczyzna gra używając gitary.	Mężczyzna nie gra na gitarze.	3
+Postąpił jak święty.	Zachowywał się jak świrnięty.	3
+Bloomberg: Tillerson musi odpowiedzieć na pytania o związki z Putinem.	Desygnowany na stanowisko sekretarza stanu USA Rex Tillerson musi odpowiedzieć na pytania o związki z Władimirem Putinem i konflikty interesów - piszą we wtorek amerykańskie media.	2
+Wskutek burzy samolot nie mógł wystartować.	Samolot nie mógł wystartować z powodu burzy.	1
+Imran Khan zaprzysiężony przez parlament na premiera.	Imran Khan, były krykiecista i lider Pakistańskiego Ruchu na rzecz Sprawiedliwości (PTI), został w sobotę w Islamabadzie zaprzysiężony na premiera Pakistanu.	2
+Obama "trzy razy odwoływał misję zabicia bin Ladena".	Barack Obama trzy razy odwoływał misję zabicia Osamy bin Ladena.	2
+Musisz bardzo się starać.	Musisz się bardzo postarać.	1
+On właśnie się uczy.	Uczy się.	1
+Zderzyły się dwa samochody ciężarowe i auto osobowe.	W momencie zdarzenia doszło do zapłonu dwóch samochodów ciężarowych.	3
+Spoliczkowała go.	Uderzyła go.	2
+Zna pan p. Browna?	Znasz pana Brown'a?	1
+1,6 tys. kilometrów w 24 dni.	1,6 tys. kilometrów w niewiele ponad trzy tygodnie.	2
+Leżeli na sztucznej trawie.	Leżały na sztucznej trawie.	3
+Mało udzielał się towarzysko.	Nie był zbyt towarzyski.	2
+Turysta jest na szczycie góry i tańczy.	Na szczycie góry nie tańczącego turysty.	3
+Nawet nie pożegnał się ze mną.	Nawet się ze mną nie pożegnał.	1
+Turcy najechali na Węgry.	Turcy wtargnęli na Węgry.	1
+Czy mogę wejść do środka?	Mogę wejść?	1
+Clinton zawetował wtedy ustawę budżetową, przedstawioną mu przez Kongres.	Clinton zawetował jednak ustawę i tym samym USA zostały bez budżetu.	2
+Pożyczyłem słownik od kolegi.	Pożyczyłem słownik z biblioteki.	3
+Można dodać oleju sezamowego i przypraw.	Można dodać olej sezamowy i przyprawy.	1
+W tym pomieszczeniu nie wolno palić.	Nie wolno palić w tym pokoju.	1
+Nie ma chłopca patrzącego na kalendarz.	Chłopiec czyta kalendarz.	3
+Dziś masz małą gorączkę, prawda?	Masz dziś gorączkę, prawda?	1
+Czy mógłbym skorzystać z twojego telefonu?	Mogę skorzystać z toalety?	3
+Mnie również miło cię widzieć.	Też się cieszę, że cię widzę.	1
+Po zderzeniu dwóch samochodów jeden z samochodów stanął w płomieniach.	Dwa samochody zderzyły się ze sobą, jeden z nich stanął w płomieniach.	1
+Musisz być posłuszny rodzicom.	Powinieneś być posłuszny władzom.	3
+Zgubił się pan?	Zgubiłeś się?	1
+Pałac królewski zbudowano na wzgórzu.	Królewski pałac został zbudowany na wzgórzu.	1
+On jest ojcem Taro.	To brat Taro.	3
+Proszę nie pić alkoholu.	Nie pij alkoholu.	1
+On na pewno zda egzamin wstępny.	Jestem pewien, że zda egzamin końcowy.	3
+Jego starszy brat zmarł w ubiegłym miesiącu.	Jego starszy brat zmarł w zeszłym roku.	3
+Stwierdził, że drzwi są zamknięte.	Powiedział, że drzwi są zamknięte.	1
+Zebraliśmy się w grupę.	Zebraliśmy się w grupie.	1
+Przepraszam na momencik.	Przepraszam na chwilę.	1
+Savićević pracował więc do czerwca 2003.	W rezultacie Savićević pracował do czerwca 2003 roku.	2
+Została ona zburzona po drugiej wojnie światowej przez władze miasta pod pretekstem utworzenia niezbędnego targowiska.	Po II wojnie światowej władze miejskie zniszczyły ją pod pretekstem stworzenia koniecznego rynku.	1
+Nie mogę zasnąć.	Mogę spać.	3
+Umie pan prowadzić samochód?	Umiesz prowadzić?	1
+Pakiet dla klimatu?	Pakiet klimatyczny?	1
+Szef rządu tymczasowo pokieruje Ministerstwem Sportu.	Szef rządu tymczasowo pokieruje również Ministerstwem Sportu.	1
+Nigdy nie zapomnę pańskiej życzliwości.	Nigdy nie zapomnę waszej dobroci.	1
+Angielszczyzna to mój język ojczysty.	Angielski to mój ojczysty język.	1
+Wyrzucam moją starą marynarkę.	Wyrzucę starą kurtkę.	3
+Jest żądny sławy.	Jest sławny.	2
+W wodzie znajduje się pies o złotej sierści.	Pies ze złocistą sierścią jest z wody.	3
+Miłego Halloween!	Wesołego Halloween!	1
+Jak śmiesz mówić do mnie w ten sposób?	Jak śmiesz tak do mnie mówić?	1
+Można zobaczyć pański paszport?	Mógłby pan spojrzeć na swój własny paszport?	3
+Mężczyźni piłują belki.	Nie ma piłujących mężczyzn.	3
+Wybacz, czy mówisz po angielsku?	Przepraszam, mówi pan po polsku?	3
+Wychowywała się we Włoszech, w Anglii, w Szwajcarii i w Ameryce.	Wychowywała się we Włoszech, Anglii, Szwajcarii i Ameryce.	1
+To będzie pięć tysięcy jenów japońskich.	To będzie pięć tysięcy japońskich jenów.	1
+Jak się nazywa ta ulica?	Jak nazywa się ta ulica?	1
+Chciałem go uderzyć, ale on uciekł ode mnie.	Chciałem go uderzyć, ale on zrobił to pierwszy.	3
+Myślę, że sprawiłem mu przykrość.	Myślę, że go skrzywdziłem.	1
+Somalijscy piraci uwolnili 26 marynarzy po 4 latach.	Uwolniono 26 marynarzy przetrzymywanych od ponad czterech przez somalijskich piratów.	2
+Mieszkamy na Ziemi.	Żyjemy na Ziemi.	1
+W powietrzu skacze deskorolkarz.	Żaden deskorolkarz nie skacze w powietrzu.	3
+Izzy wyznaje George'owi swoją miłość do niego, ale wie, że nie mogą być razem.	Izzy mówi George'owi, że go kocha, ale wie, że nie mogą być razem.	1
+Nie ma mężczyzny wrzucającego piłkę na meczu koszykówki.	Zawodnik wrzuca piłkę do siatki, a tłum jest w tle.	3
+Już jest za późno.	Już za późno.	1
+Mój ojciec leżał dwa miesiące w szpitalu.	Mój ojciec spędził dwa miesiące w szpitalu.	1
+Miał ten przywilej, że chodził do prywatnej szkoły.	Miał to nieszczęście uczęszczać do prywatnej szkoły.	3
+W żaden sposób nie mogę.	Nie mogę tego zrobić.	2
+Pamiętnik dziewczyny z okupowanej Warszawy.	"Pamiętnik okupowanej dziewczyny z Warszawy."	3
+Ta zupa jest za słona.	Zupa jest zbyt słona.	1
+Poszłam do chińskiej restauracji.	Poszedłem do indyjskiej restauracji.	3
+Ten pies próbował mnie ugryźć w rękę.	Ten pies próbował ugryźć mnie w rękę.	1
+Ziemniak jest obierany przez kobietę.	Kobieta nie obiera ziemniaka.	3
+O ile mi wiadomo, ta plotka nie jest prawdą.	Z tego co wiem, to nie jest tylko plotka.	3
+Wreszcie pokazał prawdziwą twarz.	W końcu pokazał prawdziwą twarz.	1
+Jestem lepszy od Chrystusa, bo on umarł tylko raz.	Właściwie to jestem lepszy od Chrystusa, bo on umarł tylko raz - stwierdził władca Zimbabwe, cytowany przez brytyjski "Daily Telegraph".	2
+Mężczyzna z kamerą bada przedmiot.	Nie ma mężczyzny z kamerą, który badałby ten obiekt.	3
+Mój aparat jest wodoodporny.	Moja kamera jest wodoodporna.	3
+Ona ukończy siedemnaście lat w lutym.	W lutym będzie miała 17 lat.	1
+Cieszę się, że spotkam Jane.	Miło było mi poznać Jane.	1
+Zmarł na zawał serca w Pasadenie.	Zmarł na atak serca w Pasadenie.	1
+Eros Ramazzotti zaprasza stuletnią fankę na koncert.	Znany włoski piosenkarz, muzyk i kompozytor Eros Ramazzotti zaprosił na swój koncert 98-letnią fankę.	3
+Czy jest w pobliżu telefon?	Czy w pobliżu jest kebab?	3
+Jest pan bardzo miły.	Jesteś bardzo miły.	1
+Putin po raz pierwszy po przerwie spotyka się z Unią.	Po raz pierwszy po powrocie na stanowisko prezydenta Władimir Putin spotyka się z najwyższymi przedstawicielami Unii Europejskiej.	2
+Po ataku Kurdów zginęło czterech tureckich żołnierzy.	Czterech tureckich żołnierzy zginęło, a dwóch zostało rannych w sobotę w dwóch odrębnych atakach kurdyjskich bojowników - poinformowało ministerstwo obrony Turcji.	2
+To był gorący wieczór.	To była napięta sytuacja.	3
+Nie ma człowieka, który mocowałby tłumik do pistoletu.	Mężczyzna mocuje tłumik do pistoletu.	3
+Studiowała architekturę w latach 1918–1925 na Wydziale Architektury Politechniki Warszawskiej.	W latach 1918-1925 studiowała architekturę w Warszawie.	2
+Ginie przypadkowo.	Umiera przypadkowo.	2
+Mam bilet powrotny do Tokio.	Mam bilet z powrotem do Tokio.	1
+Wróciła do domu przygnębiona.	Wróciła do domu z depresją.	1
+Osoba nie rozrywa papieru.	Ktoś rozrywa papier.	3
+Nie ma nikogo, kto kroiłby pomidor.	Ktoś tnie pomidora.	3
+Nie ma kobiety wyciskającej sok z cytryny.	Kobieta wyciska cytrynę.	3
+O, jest!	Oto i on!	2
+Ta piękna dziewczyna to moja siostra.	Ta piękna dziewczyna jest moją siostrą.	1
+Ewakuowano 11 osób.	Z kamienicy ewakuowano 11 mieszkańców.	2
+Wiecie, czyj jest ten samochód?	Wiecie, kto jest włascicielem tego samochodu?	1
+On chyba przyjdzie na imprezę.	Myślę, że przyjdzie na uroczystość.	1
+Teraz Neapol rozpoczął "rejestrację etniczną" Romów.	W Neapolu rozpoczęła się akcja rejestracji Romów.	2
+To wykształcony człowiek po studiach wyższych.	To wykształcony człowiek, absolwent wyższej uczelni.	1
+Z powodu złej pogody musieliśmy odwołać posiedzenie.	Z powodu złej pogody musieliśmy odwołać spotkanie.	1
+Czy zechciałby mi pan powiedzieć prawdę?	Nie okłamie mnie pan?	1
+Ona nic tylko narzeka.	Ona tylko narzeka.	1
+Jego starszy brat zmarł w ubiegłym miesiącu.	W zeszłym miesiącu zmarł jego starszy brat.	1
+Przysięgam, ja nigdy bym tego nie zrobił.	Przysięgam, że nigdy bym tego nie zrobił.	1
+Zrobiła to po swojemu.	Zrobiła to na swój sposób.	1
+Mój ojciec zmarł przed moim narodzeniem.	Mój ojciec zmarł przed moimi narodzinami.	1
+Kiedy zamierzasz rzucić palenie?	Kiedy przestaniesz palić?	1
+Podczas lotu był dowódcą załogi - pilotem szkolącym.	Podczas lotu pełnił funkcję pilota kontrolującego.	3
+210 stron raportu - tyle samo co we wstępnej wersji.	Raport ma 210 stron - tyle samo co jego wstępna wersja z października.	2
+Jeszcze w 1532 r. mieszkańcy Dithmarschen przyjęli luteranizm.	W roku 1532 mieszkańcy Dithmarschen przyjęli luteranizm.	1
+Dwie kobiety noszą bikini na piaszczystej plaży.	Na piaszczystej plaży nie ma kobiet noszących bikini.	3
+On często jeździ za granicę.	Często wyjeżdża za granicę.	1
+Mutlimedialna fontanna we Wrocławiu rozpoczęła sezon.	Wrocławska fontanna zainaugurowała kolejny sezon.	2
+Czy mówi pan po włosku?	Mówisz po włosku?	1
+Mała dziewczynka się huśta, a kobieta stoi za nią.	Dziewczynka stoi za dziewczynką, która się huśta.	3
+Przed jakimiś drzewami nie stoi małe dziecko.	Małe dziecko stoi przed jakimiś drzewami.	3
+Mężczyzna nie kroi ziemniaka.	Mężczyzna kroi ziemniaka.	3
+Jego działania są bezprawne.	Jego działania są nielegalne.	1
+Nie ma dzieci skaczących na trampolinie.	Kilka dzieci skacze na trampolinie.	3
+Kolor czarny często kojarzymy ze śmiercią.	Czarny kolor często wiąże się ze smołą.	3
+Zrobisz to przed obiadem?	Zrobisz to po obiedzie?	3
+Dziecko nie śmieje się i nie czołga.	Dziecko się śmieje i czołga.	3
+W 1985 ożenił się po raz drugi z Monique Faye.	W 1985 po raz drugi poślubił Monique Faye.	1
+Wygląda na wielce szczęśliwego.	Wygląda na szczęśliwego.	1
+Polana znajduje się na obszarze ochrony ścisłej TANAP-u.	Polana znajduje się w ścisłej strefie ochronnej TANAP.	1
+Oskarżony Przemysław K. trafi do więzienia na 15 lat.	Przemysław K. ma trafić za kratki na 15 lat.	2
+Nie ma mężczyzny, który miesza.	Mężczyzna miesza.	3
+Gdyby wiedzieli, że tak się stanie, zmieniliby plany.	Gdyby wiedzieli, że tak się stanie, zmieniliby swoje plany.	1
+Myślę, że ona ma powyżej sześćdziesiątki.	Myślę, że ma ponad 60 lat.	1
+Ustawa o stanie klęski żywiołowej przewiduje wyraźnie, że masowe występowanie choroby zakaźnej jest uzasadnieniem dla wprowadzenia takiego stanu - dodał.	Ustawa o stanie klęski żywiołowej przewiduje wyraźnie, że masowe występowanie choroby zakaźnej jest uzasadnieniem dla wprowadzenia takiego stanu - wyjaśnił.	1
+Z niewyjaśnionych dotąd przyczyn umarł, zanim samolot wylądował.	Zmarł zanim samolot wylądował.	2
+Mężczyzna jedzie konno.	Mężczyzna nie jedzie konno.	3
+Mężczyzna jedzie na rowerze elektrycznym.	Mężczyzna nie jedzie na rowerze.	3
+Wacker Thun – szwajcarski klub piłki ręcznej mężczyzn z siedzibą w Thun.	Wacker Thun - szwajcarski klub piłkarski z siedzibą w Thun.	2
+Nie ma rzeczy ważniejszej niż przyjaźń.	Nie ma nic ważniejszego niż przyjaźń.	1
+Kobieta jedzie na nartach wodnych.	Kobieta nie jeździ na nartach wodnych.	3
+Taro nie zawsze jest tutaj.	Nie zawsze tu jest.	2
+Muszę skończyć zadanie domowe przed kolacją.	Muszę dokończyć pracę domową przed kolacją.	1
+Jest za stary, by pływać.	Jest za stary na pływanie.	1
+Cztery psy bawią się na trawiastym terenie.	Cztery psy nie bawią się na trawiastym terenie.	3
+Wysiedli z samochodu.	Wyszli z samolotu.	3
+Wypadek zdarzył się na moich oczach.	Wypadek miał miejsce na moich oczach.	1
+Do tego budynku nie ma wstępu.	Nie ma dostępu do tego budynku.	1
+Zmarł w 1976 po długiej chorobie i został pochowany na cmentarzu św. Jana Chrzciciela w Orle.	W roku 1976 zmarł po długiej chorobie i został pochowany na cmentarzu św. Jana Chrzciciela w Orle.	1
+Boże, zachowaj nas.	Boże, chroń nas.	1
+Mężczyzna przecina papierową płytkę.	Mężczyzna nie przecina papierowej płytki.	3
+Kot gra na keyboardzie.	Nie ma kota grającego na keyboardzie.	3
+Sport który uprawiam: biegi narciarskie i kolarstwo.	Sport który uprawiam: rower, siatkówka, narciarstwo, bieganie, żeglarstwo.	3
+Nie ma kobiety, która kroi ziemniaka.	Kobieta tnie ziemniaka.	3
+Kobieta tnie ziemniaka.	Nie ma kobiety, która kroi ziemniaka.	3
+Obserwatorzy patrzyli, jak wchodził do samolotu.	Obserwatorzy widzieli, jak wsiadał do samolotu.	1
+Dziewczyna przemawiała w parku.	Dziewczyna mówiła w parku.	1
+Borsuk sprytnie kopie ziemię.	Borsuk nie zakopuje dziury.	3
+Dwóch chłopców leży w oceanie niedaleko plaży.	Dwóch chłopców leży w oceanie daleko na plażę.	3
+Od jego śmierci minęły trzy lata.	Minęły trzy lata od jego wyprowadzki.	3
+Chyba wybrał pan zły numer.	Myślę, że wybrałeś złe rozwiązanie.	3
+Musimy na niego poczekać.	Musimy na niego zaczekać.	1
+Na Krymie wydano już 15 tys. rosyjskich paszportów.	Około 15 tys. paszportów rosyjskich zostało jak dotąd wydanych na Krymie i w Sewastopolu, a przyjęto 60 tys. wniosków o ich wydanie – poinformował w Symferopolu przedstawiciel rosyjskiej Federalnej Służby Migracyjnej.	2
+Wrzucił papiery z powrotem do szuflady.	Włożył papiery do szuflady.	1
+Mężczyzna jest w domu i rzuca ostrzami w bliski cel.	Mężczyzna jest na zewnątrz i rzuca ostrzami w bliski cel.	3
+Ktoś kroi pomidora.	Nikt nie kroi pomidora w plastry.	3
+Studiowała język i literaturę francuską na Uniwersytecie w Strasburgu.	Studiowała francuski język i literaturę na Uniwersytecie w Strasburgu.	1
+Wipler utrzymuje, że został pobity przez policjantów.	Wipler twierdzi, że został przez nich brutalnie pobity, z kolei policja utrzymuje, że to poseł zachowywał się agresywnie.	2
+W wolnych chwilach robi lalki.	Robi lalki w wolnym czasie.	1
+Pani rozbija surowe jajka do miski.	Pani nie rozbija surowych jaj do miski.	3
+Jeden z dwóch musi odejść.	Jeden z nich musi odejść.	2
+Bardzo się cieszę, że tu jestem.	Cieszę się, że tu jestem.	1
+Na temat komputerów wiem mało.	Nie wiem zbyt wiele o komputerach.	1
+U republikańskiego senatora Johna McCaina wykryto raka mózgu.	U republikańskiego senatora z Arizony Johna McCaina lekarze zdiagnozowali raka mózgu (glejaka) - poinformowało w środę jego biuro.	2
+Pierwszy raz się to zdarzyło.	To był pierwszy raz.	1
+Rosja była zaangażowana w wojnach z Napoleonem, więc Persowie posiadali niezwykłą przewagę liczebną (około 55:12).	Rosja była zaangażowana w wojny z Napoleonem, więc Persowie mieli niesamowitą przewagę liczebną (około 55:12).	1
+Zadzwonię do ciebie, jak tylko dotrę na lotnisko.	Zadzwonię jak tylko dotrę na lotnisko.	1
+Kobieta jedzie na snowboardzie po pochylni, a za nią stoi inna kobieta.	Nie ma kobiety, zjeżdżającej na snowboardzie po pochylni i nie ma innej kobiety, która stałaby za nią.	3
+Zarabiam 100€ dziennie.	Zarabiam 100 euro dziennie.	1
+Nie ma mężczyzny posypującego pizzę pokrojonym serem.	Mężczyzna kładzie trochę sera na pizzę.	3
+Nie wychodź, bo leje.	Nie wychodź, bo pada.	1
+Nie ma królika bawiącego się zabawkowym królikiem.	Królik bawi się królikiem zabawką.	3
+Jest to więc sonet francuski.	Więc jest to francuski sonet.	1
+Zabawkowy pociąg uderza w samochodzik.	Zabawkowy pociąg nie trafia w samochodzik.	3
+Zapłaci najwyżej 20 dolarów.	Zapłaci co najmniej 20 dolarów.	3
+Czy ma pan siostrę?	Masz siostrę?	1
+Taro nie zawsze jest tutaj.	Taro nie zawsze tu jest.	1
+Czy jest miejsce na jeszcze jedną osobę?	Czy jest miejsce dla kogoś innego?	1
+Nie wiem nic o Japonii.	Nic nie wiem o Polsce.	3
+Syria: dżihadyści wymordowali co najmniej 30 ludzi.	Dżihadyści z Państwa Islamskiego wymordowali co najmniej 30 ludzi, w tym dzieci, podczas napadu na wieś Madżube w centralnej syryjskiej prowincji Hama - podała Syryjskie Obserwatorium Praw Człowieka.	2
+W taki zimny dzień nie chcę wychodzić na dwór bez płaszcza.	W taki zimny dzień nie chcę wychodzić bez płaszcza.	1
+Biłeś się z Kenem?	Walczyłeś z Rockym?	3
+Za kradzież grozi jej teraz nawet do 5 lat więzienia.	Grozi jej do 5 lat więzienia.	2
+Stado reniferów przecina drogę.	Stado reniferów nie przecina drogi.	3
+Dwie osoby zginęły.	W wypadku śmierć poniosły dwie osoby.	2
+Jej matka przyjeżdża pociągiem o 9:10.	Jego matka odjeżdża pociągiem o 9:11.	3
+Jeśli dobrze pamiętam, są kuzynami.	Jeśli dobrze pamiętam, to są kuzynami.	1
+Zmarła kobieta ranna od strzałów w czeskim szpitalu.	Zmarła kobieta, która została ranna we wtorek od kul napastnika w szpitalu w Ostrawie na wschodzie Czech.	2
+Nie sposób zadowolić wszystkich.	Nie trzeba zadowolić wszystkich.	3
+Zbił okno celowo.	Celowo wybił okno.	1
+Wyszliśmy w deszczu, ale jak wróciliśmy, świeciło słońce.	Wyszliśmy w deszczu, ale gdy wróciliśmy, słońce świeciło.	1
+Poprosiłem ją o zrobienie czterech kopii tego listu.	Poprosiłem ją, by wykonała cztery kopie tego listu.	1
+Gimnazjaliści poznali wyniki kwietniowych egzaminów.	W piątek absolwenci gimnazjów, którzy pisali w kwietniu egzamin, dostali wyniki testów.	2
+Albright: Polska jest bezpieczna, bo należy do NATO.	Polska jest bezpiecznym krajem, bo należy do NATO - podkreśliła Albright.	2
+Kobieta nie gotuje krewetek.	Kobieta gotuje krewetki.	3
+Kilka kobiet ma na sobie różowe uszy królicze i wskazuje na prawo.	Kobiety nie mają na sobie króliczych uszu i numerów startowych, i nie wskazują na nic w oddali.	3
+Dlaczegoś się spóźnił?	Dlaczego się spóźniłeś?	1
+Zrobiła to sama.	Sama to zrobiła.	1
+Jane nie mogła tak powiedzieć.	Jane nie mogła tego powiedzieć.	1
+Pokój był przesycony zapachem perfum.	Pokój był pełen perfum.	1
+Oba kraje od kilku lat są formalnie w stanie wojny.	Oba kraje od lat są formalnie w stanie wojny.	1
+Naprawdę nie można tego wyrzucać!	Naprawdę możesz to wyrzucić!	3
+Sztuka dla sztuki.	Sztuka sztuki.	3
+Dzieciaki ubrane w kostiumy grają w grę.	Nie ma dzieciaków ubranych w kostiumy grających w grę.	3
+Porcja druga zawiera mięso.	Druga porcja zawiera warzywa.	3
+I bardzo chciała opowiedzieć mamie, co się wydarzyło.	Stanęliśmy na poboczu, bo bardzo chciała opowiedzieć mamie, co się stało.	2
+Czy to produkt szwajcarski?	Czy to szwajcarski produkt?	1
+Tom wygląda na mądrego chłopaka.	Tom wygląda na bystrego chłopca.	1
+W swojej pracy naukowej specjalizował się w badaniach nad literaturą frankojęzycznej Kanady.	W swojej pracy naukowej specjalizuje się w badaniach literatury francuskojęzycznej w Kanadzie.	1
+Jego syna wyrzucono ze szkoły.	Jego syn został wyrzucony ze szkoły.	1
+Młody mężczyzna z brązowymi włosami i okularami przeciwsłonecznymi siedzi przed puszkami z sodą.	Przed puszkami z sodą nie siedzi żaden młody mężczyzna o brązowych włosach i okularach przeciwsłonecznych.	3
+Dlaczego on to zrobił?	Dlaczego on tego nie wykonał?	3
+Mówię po francusku nie gorzej od niej.	Mówię po francusku, nie gorzej niż ona.	1
+Jedna z hipotez mówi, że w samolocie zabrakło paliwa.	Jedna z hipotez zakłada, że w samolocie zabrakło paliwa.	1
+To nieważne.	To istotne.	3
+Stał z szeroko rozstawionymi nogami.	Stał z szeroko rozstawionymi ramionami.	3
+Język to narzędzie porozumiewania się z ludźmi.	Język jest narzędziem komunikacji z ludźmi.	1
+On ma niezły aparat.	Ma drogiego smartfona.	3
+To ciasto jest za słodkie.	Ale pyszne ciasto, takie nie zbyt słodkie.	3
+Nie ma człowieka chodzącego w deszczu.	Mężczyzna idzie w deszczu.	3
+Kupiłem to.	Skupiłem się.	3
+Tutaj - według wstępnych szacunków - zginęło 10 osób.	Policja podała, że według wstępnych ustaleń zginęło tutaj około 10 osób.	2
+Zdenerwowałem go.	Rozśmieszyłem go.	3
+Rosyjska flota postawiona w stan gotowości bojowej.	Mało tego - stacjonuje tam też rosyjska flota, która w związku z wydarzeniami na szczytach ukraińskiej władzy - została postawiona w stan gotowości bojowej.	2
+Jeśli kogoś z Gabonu uraziłem to przepraszam - dodał.	Jeśli ktoś w Gabonie poczuł się urażony, to przepraszam.	1
+Wygląda, że jest chory.	Wygląda na zmęczonego.	3
+Wygląda zjawiskowo.	Wygląda olśniewająco.	1
+Nie powinniśmy mówić o winie, nie powinniśmy mówić o takiej ostrej reakcji.	"Nie powinniśmy mówić o winie".	2
+W latach 50. XIX wieku odkryto tu ropę naftową.	W latach pięćdziesiątych XIX wieku odkryto tu ropę naftową.	1
+Ukradł drut z Auschwitz, bo "jego ojciec tam zginął".	Tłumaczył, że zabrał drut znaleziony na terenie obozu, ponieważ jego ojciec zginął w Auschwitz.	2
+Policja uniemożliwiła ucieczkę przestępcy.	Policja powstrzymała przestępcę przed ucieczką.	1
+"Partia będzie go błagała na klęczkach, żeby został".	Gdyby on chciał odejść, to ta partia rzuci się na kolana i będzie go błagała na klęczkach, żeby on został.	2
+Jeleń skacze przez ogrodzenie z siatki.	Jeleń nie skacze przez płot.	3
+Dziś Światowy Dzień Toalet.	Dziś, bynajmniej to nie żart, obchodzimy Światowy Dzień Toalet.	2
+Usnęła nie zdejmując swetra.	Zasnęła bez zdejmowania czapki.	3
+Były zdjęcia, autografy, piski i ogólne uwielbienie.	Były autografy, wspólne zdjęcia i piski.	2
+Pani West przygotowuje śniadanie.	Pani West robi śniadanie.	1
+Zbudowano go jakieś 500 lat temu.	Zbudowano go około 500 lat temu.	1
+Dodał, że on w to nie wierzy.	Dodał, że jest gorącym zwolennikiem tego.	3
+Musimy promować handel z ościennymi krajami.	Musimy promować handel z krajami sąsiadującymi.	1
+Podczas mszy w obchodzony w Nowy Rok Światowy Dzień Pokoju Benedykt XVI powiedział, że pokój jest dobrem, o które trzeba się modlić jako o dar Boży, a jednocześnie budować go z całych sił.	Tak, pokój jest dobrem w najwyższym stopniu, o które trzeba się modlić jako o Boży dar, a jednocześnie budować z całych sił - stwierdził Benedykt XVI.	2
+"Partia Kaczyńskiego rozczarowała Polaków".	"Partia Jarosława Kaczyńskiego rozczarowała Polaków" - tymi słowami rosyjski dziennik "Wriemia Nowostiej" komentuje przebieg wyborów samorządowych w Polsce.	2
+Kobieta nie nakłada makijażu na mężczyznę.	Kobieta nakłada makijaż na mężczyznę.	3
+Mój młodszy brat jeszcze śpi.	Mój młodszy brat wciąż śpi.	1
+Drzwi pozostały zamknięte.	Drzwi są zamknięte.	2
+Mężczyzna orientalny i dwie kobiety odwracają się do kamery.	Mężczyzna orientalny i dwie kobiety zwrócone są w stronę kamery.	3
+Nie ma człowieka, który kosi trawę.	Mężczyzna kosi trawę.	3
+Ten problem stanowi prawdziwe wyzwanie.	Ten problem jest niedużym wyzwaniem.	3
+On ma dobrą opinię.	Ma dobrą reputację.	1
+Nie sposób zadowolić wszystkich.	Nie da się zadowolić wszystkich.	1
+Człowiek stoi na rozległym polu lodowcowym.	Na rozległym polu lodowcowym nie ma nikogo.	3
+Ona ma ujmującą osobowość.	Ona ma uroczą osobowość.	1
+Rosja krytykuje działania NATO w Europie Wschodniej.	Szefowie resortów dyplomacji i obrony Rosji, Siergiej Ławrow i Siergiej Szojgu, skrytykowali działania NATO w Europie Wschodniej.	2
+Leży 23 km od miasta Shrewsbury.	W odległości 23 km od miasta Shrewsbury.	2
+Prokurator zatrzymany za jazdę pod wpływem alkoholu.	Prokurator ze śląskiego wydziału Prokuratury Krajowej Maciej M. został zatrzymany za prowadzenie samochodu po pijanemu.	2
+On jeździ do szkoły autobusem.	Jedzie autem do szkoły.	3
+W klasie są tylko trzy dziewczynki.	W klasie są tylko trzy dziewczyny.	1
+Nie lubię powieści bez bohatera.	Nie lubię powieści bez bohaterów.	1
+To się zdarzyło między ósmą a dziesiątą.	To stało się między ósmą a dwunastą.	3
+Grupa ludzi nie stoi przy stole do mieszania dźwięków.	Grupa ludzi stoi przy stole do mieszania dźwięków.	3
+Rób jak chcesz.	Rób, co chcesz.	1
+W butelce jest jeszcze trochę mleka.	W butelce jest jeszcze mleko.	1
+Nie chcę się związywać z jedną firmą.	Nie chcę się spotykać z jedną firmą.	3
+Samolot jest w trakcie startu.	Nie startuje żaden samolot.	3
+Wiele budynków, w tym meczety, zostało zniszczonych.	Wiele budynków zostało zniszczonych, w tym meczety.	1
+Młodzi chłopcy nie pozują z zieloną piłką w parku.	Młodzi chłopcy pozują z zieloną piłką w parku.	3
+Mężczyzna w garniturze nie jest otoczony przez fotografów.	Mężczyzna w garniturze jest otoczony przez fotografów.	3
+Dwa psy walczą i przytulają się.	Nie ma walczących i przytulających się psów.	3
+Nie jestem w stanie odpowiedzieć na to pytanie.	Nie mogę odpowiedzieć na to pytanie.	1
+Czy jest zamężna?	Czy jest mężczyzną?	3
+W końcu przyjął propozycję, ale z zastrzeżeniem maksymalnie półrocznej kadencji.	W końcu przyjął wniosek, ale nie czekał dłużej niż sześć miesięcy.	3
+Pewnie jakieś środki trzeba będzie dokładać - dodała.	Pewnie jakieś środki trzeba będzie dokładać - powiedziała.	1
+Średnica obiektu szacowana jest na około 12 tysięcy metrów.	Średnica obiektu szacuje się na około 12 000 metrów.	1
+Pani dodaje ser do sosu.	Kobieta wyjmuje ser z sosu.	3
+Wziął książkę z półki.	Ukradł książkę z półki.	2
+Wydaje mi się, że ten pociąg ma spóźnienie.	Myślę, że ten pociąg się spóźnia.	1
+To trzęsienie ziemi wywołało potężne tsunami.	To trzęsienie ziemi wywołało ogromne tsunami.	1
+Domena jaroslawkaczynski.pl sprzedana za 100 tys. zł.	Tuż po północy zakończyła się aukcja domeny jaroslawkaczynski.pl. Ostatecznie została wylicytowana za 100 tysięcy złotych.	2
+John odziedziczył spory majątek.	John odziedziczył wielką fortunę.	1
+Kiedy wypadek miał miejsce?	Kiedy miał miejsce wypadek?	1
+Ubiegał się o członkostwo klubu jeździeckiego.	Poprosił o członkostwo w klubie jeździeckim.	1
+Życzy pan sobie naprawy tego zegarka?	Chcesz naprawić ten zegarek?	2
+Kobieta kładzie szaszłyki na grillu.	Nie ma kobiety umieszczającej szaszłyki na grillu.	3
+W 1990 po raz pierwszy został członkiem rumuńskiego Senatu.	W 1990 roku po raz pierwszy został członkiem rumuńskiego Senatu.	1
+Tony mówi dobrze po angielsku.	Tony dobrze mówi po angielsku.	1
+Ma pieniędzy aż nadto.	Ma niewystarczająco dużo pieniędzy.	3
+Nie rób nic po łebkach.	Nie rób nic z głową.	3
+Duża zielona piłka uderza w ziemniaka.	Duża zielona piłka nie trafia w ziemniaka.	3
+Nie bądź taki zachłanny.	Nie bądź chciwy.	1
+Kiedy otworzyłem pudełko, okazało się puste.	Kiedy otworzyłem pudełko, okazało się, że jest do połowy puste.	3
+Dziewczynka nakłada makijaż na twarz.	Nie ma dziewczyny, która nakładałaby makijaż na twarz.	3
+Wejście do zamku znajdowało się w części północnej, gdzie mieści się częściowo zachowana brama.	Wejście do zamku znajdowało się w północnej części, gdzie znajduje się częściowo zachowana brama.	1
+Nikt nie ubija jajka.	Ktoś ubija jajko.	3
+Mężczyzna jeździ na jednym kole na rowerze górskim.	Nie ma mężczyzny na rowerze jadącym tylko na jednym kole.	3
+Kobieta ma na sobie niebieską koszulę z białą kamizelką i białą czapką oraz rozmawia i maszeruje.	Nie ma kobiety ubranej w niebieską koszulę z białą kamizelką i białą czapką, rozmawiającej i maszerującej.	3
+Jem śniadanie codziennie o siódmej.	Codziennie o siódmej jem śniadanie.	1
+Przyjdziesz na moją imprezę?	Mogę przyjść na twoje przyjęcie?	3
+Dał mi żywność, ale zabrał pieniądze.	Dał mi jedzenie, ale też pieniądze.	3
+Znajdujące się na zewnątrz lodowisko jest pełne ludzi.	W parku łyżwiarskim nie ma zbyt wielu ludzi.	3
+Mam na to dość czasu.	Mam na to wystarczająco dużo czasu.	1
+W taki śnieg nie chce mi się wychodzić na dwór.	W tym błocie nie chcę wychodzić.	3
+Kowboje wjechali do nieznanego miasta.	Kowboje weszli do nieznanego miasta.	3
+Szef NATO: nie będziemy zawracać łodzi z uchodźcami.	NATO nie będzie zatrzymywać i zawracać łodzi z uchodźcami - podkreślił sekretarz generalny.	2
+Bill przyniósł mi tę książkę.	Bill przyniósł mi książkę.	1
+Latem 2009 roku Johnson podpisał trzyletni kontrakt z Plymouth Argyle grającym w Football League Championship.	W lecie 2009 roku Johnson podpisał trzyletni kontrakt z Plymouth Argyle na Mistrzostwach Football League.	3
+Czytasz jakąś interesującą książkę?	Czy czytasz jakąś ciekawą książkę?	1
+Poszła wczoraj do szpitala.	Wczoraj poszła do szpitala.	1
+To był smutny, jesienny dzień.	To była smutna jesień.	3
+Brązowy pies skacze w powietrzu.	W powietrzu nie skacze żaden brązowy pies.	3
+Zaatakował i zabił w kinie podczas seansu dla dzieci.	Zaatakował swoje ofiary w kinie podczas seansu dla dzieci.	2
+Inni zostawiają tam auta i przesiadają się do metra.	Zostawiają auta i przesiadają się do metra.	2
+Czy procedura składania wniosku zostanie uproszczona?	Czy procedura składania wniosku i przyznawania świadczeń zostanie uproszczona?	2
+Uwielbiam jeździć na pikniki.	Uwielbiam ping pong.	3
+W śniegu nie stoi żadna młoda Azjatycka z różowymi rękawiczkami.	Młoda azjatycka kobieta z różowymi rękawiczkami stoi w śniegu.	3
+Jest mocno wkurzona.	Jest bardzo wkurzona.	1
+Zwymiotowałem.	Zwymiotowałam.	3
+Lucy przyszła mnie odwiedzić trzy dni temu.	Lucy przyszła do mnie trzy dni temu.	1
+Nie ma mężczyzny jedzącego żywność.	Mężczyzna je jakieś jedzenie.	3
+Wysyłam ją do Kalifornii.	Wyślę ją do kalifatu.	3
+W sezonie 1911 Amerykanin wystartował w trzech wyścigach.	W sezonie 1911 Amerykanin rozpoczął trzy wyścigi.	2
+Nikt go nie szukał.	Nikt go nie znalazł, bo nikt nie szukał.	2
+W 1639 roku miały miejsce kolejne zamieszki na tle religijnym.	W roku 1639 miały miejsce kolejne zamieszki religijne.	1
+Tom to mój dobry przyjaciel.	Tom jest moim dobrym przyjacielem.	1
+Ontologia: Światłość to pierwsza forma.	Ontologia: Światło jest pierwszą formą.	1
+Lepiej zrób tak jak mówią.	Lepiej zrób to, co mówią.	1
+Czytałeś już dzisiejszą gazetę?	Czytałaś dzisiejszą gazetę?	3
+To gruba ryba.	To poważny gracz.	1
+Publiczność ryczała ze śmiechu.	Widownia była cicha.	3
+Spotkałem pewną staruszkę.	Poznałem staruszkę.	1
+Autobus odjeżdża co dziesięć minut.	Autobus odjeżdża co 10 minut.	1
+Przedstawiła mi tę panią.	Przedstawiła mnie tej pani.	2
+Znam trochę hiszpański.	Mówię trochę po hiszpańsku.	1
+Zawaliła się część budynku na terenie byłej kopalni.	Częściowo zawalił się budynek znajdujący się na terenie dawnej kopalni Mysłowice.	2
+Zamknij się i posłuchaj!	Zamknij się i słuchaj!	1
+Mężczyzna pości.	Mężczyzna je.	3
+Pisanie utworu trwało od jesieni 1981 roku do wiosny 1982.	Pisanie trwało od jesieni 1981 roku do wiosny 1982 roku.	2
+Nie ma wyjątków od tej reguły.	Nie ma obowiązku przestrzegać tej zasady.	3
+Na album wybrano pięć utworów.	W albumie wybrano pięć piosenek.	1
+Mężczyzna gra na dwóch keyboardach.	Nie ma mężczyzny grającego na dwóch keyboardach.	3
+Pan pochodzi z Hokkaido, prawda?	Jesteś z Hiroshimy, prawda?	3
+Nie ma chłopca wiszącego wędkę i biegnącego przed rybę.	Chłopiec wiesza wędkę i biegnie przed rybą.	3
+Osoba wykonuje sztuczki na motocyklu.	Osoba nie wykonuje sztuczek na motocyklu.	3
+Jego sukces bardzo mnie podłamał.	Jego sukces bardzo mnie wzmocnił.	3
+Trzech chłopców w kostiumach karate nie walczy.	Trzech chłopców w kostiumach karate walczy.	3
+Osoba nie ścieli łóżka.	Osoba ścieli łóżko.	3
+Ona jest nie tylko miła, ale i uczciwa.	Jest nie tylko miła, ale też szczera.	2
+Wcześniej był lekkoatletą – specjalizował się w dziesięcioboju, w 1974 zdobył tytuł mistrza NRD.	W 1974 roku zdobył tytuł mistrza NRD.	2
+Nie ma kobiety mieszającej jaja.	Kobieta miksuje jaja.	3
+Godzinę temu wyszła ze szpitala.	Opuściła szpital godzinę temu.	1
+Mój syn umie już liczyć do stu.	Mój syn potrafi liczyć do stu.	1
+Kobieta panieruje kotlety wieprzowe.	Nie ma kobiety panierującej kotlety wieprzowe.	3
+Nie wolno nam łamać danego słowa.	Nie wolno nam złamać słowa.	1
+Kołobrzeg: zgwałcił kobietę i wypchnął ją z balkonu.	W sobotę miał ją zgwałcić w mieszkaniu, a kiedy kobieta uciekła na balkon, zrzucić ją z pierwszego piętra.	2
+Od tygodnia pada śnieg.	Śnieg pada od tygodnia.	1
+Rajoy: Nie wyobrażam sobie Hiszpanii bez Katalonii.	Nie wyobrażam Hiszpanii bez Katalonii, ani Katalonii poza Hiszpanią i Europą - oświadczył szef rządu w Madrycie, Mariano Rajoy, uważany za zdecydowanego krytyka katalońskiego referendum.	2
+Jest absolwentem Ithaca College w Ithaca.	Ukończył Ithaca College w Ithaca.	1
+Mężczyzna siedzi na krześle i przeciera oczy.	Nie ma mężczyzny siedzącego na krześle i przecierającego oczy.	3
+To za małe.	Jest za mały.	2
+Powalone drzewa, auta w rowach i zaskoczone bociany.	Powalone drzewa, kierowcy odśnieżający jezdnie, auta w rowach, pługi śnieżne i... zaskoczone bociany.	2
+Wykluczył jednak wstrzymanie dostaw broni do Rijadu.	Wykluczył jednak ograniczenie sprzedaży amerykańskiej broni Rijadowi.	2
+Nie potrafi się nawet podpisać.	Nie może nawet podpisać.	2
+Mary zdradziła Johnowi tajemnicę.	Mary zdradziła Johnowi sekret.	1
+Bierz które chcesz.	Weź, co chcesz.	1
+Nie ma wątpliwości do jego uczciwości.	Nie ma wątpliwości co do jego uczuciowości.	3
+Jestem sprytny.	Jestem niezdarny.	3
+Moja siostra nie uczy się teraz.	Moja siostra się nie uczy.	1
+Mogę mówić wyłącznie za siebie.	Potrafię mówić tylko za siebie.	1
+Kraków stara się na unijne fundusze na budowę metra.	Władze Krakowa wnioskują o unijne dofinansowanie do budowy metra.	1
+Studenci demonstrowali przeciw nowemu rządowi.	Studenci protestowali przeciwko nowemu rządowi.	1
+Urodziła się tutaj Kristina Mladenovic, francuska tenisistka.	Kristina Mladenovic, francuska tenisistka, urodziła się tutaj.	1
+Kiedyś było to piękne miasto.	To było kiedyś piękne miasto.	1
+Czeska rządząca koalicja zachowa większość w Senacie.	Trzy partie tworzące koalicję rządzącą w Republice Czeskiej zachowają większość w Senacie.	2
+Donald Trump: USS Boxer zestrzelił irańskiego drona.	Amerykański okręt wojenny USS Boxer zniszczył irańskiego drona nad cieśniną Ormuz - oświadczył Donald Trump.	2
+Młoda dziewczyna z różową koszulą spokojnie leży na trawie.	Młoda dziewczyna z różową koszulą nie leży spokojnie na trawie.	3
+Mężczyzna gra na bambusowym flecie.	Mężczyzna nie gra na flecie.	3
+Jest fotogeniczny.	To fotografem.	3
+Nie ma sensu płakać nad rozlanym mlekiem.	Nie ma sensu się rozczulać nad tą sprawą, która jest w toku.	3
+Niektóre komisje wojewódzkie bez żadnego protokołu.	Niektóre komisje nie otrzymały ani jednego protokołu.	1
+W pobliżu nie było nikogo.	Nikogo nie było w pobliżu.	1
+Jak byłem młody, często grałem w padla.	W młodości często grałem w tenisa.	3
+Powstrzymywanie Rosji się nie powiodło - oświadczył.	Powstrzymywanie Rosji się nie powiodło - powiedział Putin.	2
+Pośliznął się na lodzie.	Poślizgnął się na lodzie.	1
+Lubię baklawę.	Lubię bakłażany.	3
+Kopacz do Tuska: dziękujemy, wiele ci zawdzięczamy.	Dziękujemy, wiele ci zawdzięczamy - zwróciła się do Tuska.	2
+Lodowisko znajdujące się na zewnątrz jest puste.	Znajdujące się na zewnątrz lodowisko jest pełne ludzi.	3
+Przykro mi, że nie dotrzymałem obietnicy.	Przepraszam, że nie dotrzymałem obietnicy.	1
+Dlaczego nie?	Czemu nie?	1
+Uratowali dwie osoby z płonącego mieszkania.	Policjanci uratowali z płonącego mieszkania w Ustce dwie osoby.	2
+Nie mogła przyjść, ponieważ jest chora.	Nie mogła przyjść, bo była chora.	1
+Żółw podąża za rybą.	Ryby podążają za żółwem.	3
+Ten portfel jest zrobiony z papieru.	Ten portfel jest ze skóry.	3
+Wyskoczył oknem.	Wyskoczył przez okno.	1
+Mówi pan po angielsku?	Mówisz po angielsku?	1
+Po co przyszłaś tak wcześnie?	Dlaczego przyszłaś tak wcześnie?	1
+Szczęść Boże!	Niech cię Bóg błogosławi!	1
+Kavanaugh zaprzysiężony na sędziego Sądu Najwyższego.	Kavanaugh został zaprzysiężony na stanowisko sędziego Sądu Najwyższego bezpośrednio po zatwierdzeniu jego nominacji przez Senat.	2
+Jedzenie w tej nowej restauracji jest wyśmienite.	Jedzenie w tej nowej restauracji jest okropne.	3
+Judy jest inteligentna.	Judy jest mądra.	1
+Le Pen winny "negowania zbrodni przeciwko ludzkości".	Popularny i kontrowersyjny Sąd apelacyjny uznał, że Le Pen jest winny "negowania zbrodni przeciwko ludzkości".	2
+Jedyne w Małopolsce Centrum Urazowe straci 3 mln zł.	Jedyne funkcjonujące w Małopolsce Centrum Urazowe straci 3 mln zł.	2
+Wyglądała zdrowiej niż ostatnio.	Wyglądała na zdrowszą niż ostatnio.	1
+Ciotka przyniosła mi kwiaty.	Ciocia przyniosła mi kwiaty.	1
+Kobieta w jeansach siedzi na siodle konia.	Nie ma na sobie osoby ubranej w dżinsy siedzącej na siodle konnym.	3
+Papier płonie łatwo.	Płomień płonie wysoko.	3
+Na śniegu nie ma nikogo ubranego w ubrania, które zapewniają kamuflaż.	Dwie osoby są na śniegu, ubrane w ubrania, które zapewniają kamuflaż.	3
+Przekroczyliśmy budżet o 2 tysiące jenów.	Przekroczyliśmy budżet o 2000 jenów.	1
+To dżentelmen w każdym calu.	To dżentelmen pod każdym względem.	1
+Wieś posiada także klub sportowy.	Wioska posiada również klub sportowy.	1
+Myślę, że sprawiłem mu przykrość.	Myślę, że go niesłusznie go oceniłem, czym sprawiłem mu przykrość.	2
+Jego choroba to może być rak.	Jego choroba może być nowotworem.	1
+Od wczoraj leje.	Od wczoraj pada.	1
+Podała typowy przykład muzyki współczesnej.	Podała typowy przykład współczesnej muzyki.	1
+W ataku rannych zostało czterech irackich żołnierzy.	Jak przekazano w oświadczeniu rannych zostało czterech irackich wojskowych.	2
+Demokracja jest formą rządów.	Demokracja jest ustrojem politycznym.	2
+Powiedziałam, masz stąd wyjść, tu nie wolno wchodzić.	Powiedziałam, że ma stąd wyjść, bo tu nie wolno wchodzić.	1
+Postanowił nie startować w wyborach prezydenckich.	Zdecydował się nie kandydować na wybory prezydenckie.	1
+Chłopaki, lecę.	Chłopaki nie płaczą.	3
+Surfer opiera się na desce surfingowej.	O deskę surfingową nie opiera się żaden surfer.	3
+Osoba obiera ziemniaka.	Nie ma osoby obierającej ziemniaka.	3
+Jutro o tej porze będę się uczył w bibliotece.	Jutro o tej porze będę studiował w bibliotece.	1
+Sprawdzaliśmy jego przeszłość.	Sprawdziliśmy jego przeszłość.	1
+Cieszę się, że mam tylu dobrych przyjaciół.	Cieszę się, że mam tak wielu dobrych przyjaciół.	1
+Cześć, Fred, co powiesz na badmintona w czwartek?	Hej, Fred, co powiesz na grę w badmintona w czwartek?	1
+We wrześniu 2016 Kolář przeszedł do Gaziantepsporu.	We wrześniu 2016 roku Kolář przeniósł się do Gaziantepsporu.	1
+Dziwna sprawa.	Normalna sprawa.	3
+Ryb w morzu jest mnóstwo.	W morzu jest dużo ryb.	1
+To chyba nieporozumienie.	Myślę, że to nieporozumienie.	1
+Wiewiórka biega dookoła.	Wiewiórka nie biega w kółko.	3
+Na flecie gra mężczyzna.	Na flecie nie gra mężczyzna.	3
+II wojna światowa skończyła się w 1945 roku.	W roku 1945 zakończyła się II wojna światowa.	1
+Nie ma mężczyzny w czarnym kasku i pchającego rower.	Jeden mężczyzna ma na sobie czarny kask i popycha rower.	3
+To są moje książki.	To moje książki.	1
+Pies biegnie po drodze.	Na drodze nie biega żaden pies.	3
+Nie ma kobiety, która sieka ośmiornicę.	Kobieta tnie gotowaną ośmiornicę.	3
+Chciałbym być tam z tobą.	Chciałbym być sobą.	3
+To doprawdy interesująca powieść.	To bardzo interesująca książka.	1
+Wiadomość rozprzestrzeniała się powoli.	Wiadomość rozeszła się powoli.	1
+Wystroiła się i wyszła na imprezę.	Ubrała się i poszła na pogrzeb.	3
+Mogę zaciągnąć zasłony?	Mogę zasłonić zasłony?	1
+Łapcie go!	Brać go!	1
+Mężczyzna rozmyśla.	Nie ma człowieka myślącego.	3
+Kobieta czyści krewetkę.	Nie ma kobiety czyszczącej krewetkę.	3
+Lekarz nie pomaga pacjentowi.	Lekarz pomaga pacjentowi.	3
+Sfingował własne samobójstwo.	Popełnił samobójstwo.	3
+Zgadzam się z tobą w tym względzie.	Zgadzam się z tobą w tej sprawie.	1
+Mam nauczyć się tego wiersza na pamięć.	Muszę nauczyć się tego wiersza na pamięć.	1
+Chciałbym wypróbować ten nowy model, zanim go kupię.	Chciałbym spróbować tego nowego modelu, zanim go kupię.	1
+Historia nauczycielką życia.	Nauczycielka od historii nie żyje.	3
+Pies pływa w jeziorze i świeci na niego słońce.	Nie ma psa pływającego w jeziorze, na którego świeci słońce.	3
+Po 29 miesiącach parlament Libanu wybrał prezydenta.	Po blisko 2,5 roku wakatu libański parlament wybrał prezydenta kraju.	2
+Nie lubiła życia w mieście.	Nie podobało jej się życie na wsi.	3
+Ależ z niego szczęściarz!	Szczęściarz z niego.	1
+Nikogo nie ma na motocyklu i nie stoi na siedzeniu.	Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu.	3
+Wnioski o umorzenie złożyli adwokaci 20 oskarżonych.	Wnioski o umorzenie sprawy złożyli adwokaci 20 spośród oskarżonych.	2
+Dlaczego nie lubisz jego sposobu mówienia?	Dlaczego nie podoba ci się jego sposób mówienia?	1
+Mogę usiąść obok pana?	Czy mogę usiąść obok ciebie?	1
+Cokolwiek się zdarzy, zachowaj spokój.	Cokolwiek się stanie, zachowaj spokój.	1
+Poszedł złą ścieżką.	Poszedł na ciemną stronę mocy.	3
+Jak daleko jest stąd do Ueno?	Jak daleko stąd jest Ueno?	1
+Nie ma mężczyzny krojącego rybę.	Mężczyzna kroi rybę.	3
+Czy jest zamężna?	Jest mężatką?	1
+Dwa psy i dwie osoby siedzą w lesie.	W lesie chodzą dwa psy i dwie osoby.	3
+Była tak uszczęśliwiona, że zaczęła tańczyć.	Była tak unieszczęśliwiona, że zaczęła płakać.	3
+W latach 1996 i 1998 był wybierany ponownie na to stanowisko.	W 1996 r. i 1998 r. został ponownie wybrany na to stanowisko.	1
+Nie żyje ani jego matka, ani ojciec.	Jego matka i ojciec nie żyją.	1
+Zadzwonię do niego później.	Zadzwonię później.	2
+Wczoraj poszliśmy pływać w rzece.	Wczoraj poszliśmy popływać w rzece.	1
+Po obiedzie grałem w tenisa.	Po kolacji grałem w tenisa.	3
+Policja jest zdania, że cały incydent był wypadkiem.	Obecnie policja twierdzi jednak, że był to nieszczęśliwy wypadek.	2
+Chłopiec ucieka przed liną rybacką.	Chłopiec biegnie w kierunku liny rybackiej.	3
+Ratownicy w nocy mówili, że poszukiwane osoby znaleźli pod stropami i ścianami, które w czasie katastrofy złożyły się, jak „domek z kart.	Podczas późnowieczornych briefingów ratownicy sygnalizowali, że poszukiwane osoby znaleźli pod stropami i ścianami, które w czasie katastrofy "złożyły się, jak przysłowiowy domek z kart".	2
+Motocyklista na motorze pochyla się na ostrym zakręcie.	Nie ma motocyklisty na motorze pochylającego się na ostrym zakręcie.	3
+Nie ma kucharza krojącego papryki dzwonkowe.	Osoba kroi w kostkę paprykę, która jest pomarańczowa.	3
+Wiele osób znajduje się w parku łyżwiarskim.	Niewiele ludzi jest w parku łyżwiarskim.	3
+Polskich akcentów na mundialu jednak nie zabraknie.	Polskich akcentów na mundialu trzeba więc szukać na siłę.	3
+Powiedz mu, by zaczekał.	Powiedz mu, żeby poczekał.	1
+Ogólnie rzecz biorąc, jest to dosyć długi proces, zależny od wilgoci.	W zasadzie jest to dość długi proces, w zależności od wilgotności.	1
+Oni chcą wzniecić bunt.	Chcą wywołać rewolucję.	1
+To Japonia.	To jest Japonia.	1
+Do sądu właśnie trafił akt oskarżenia w tej sprawie.	Akt oskarżenia trafił już do sądu.	2
+Kobieta przygotowuje rybę.	Nie ma kobiety przygotowującej ryby.	3
+Wyrosła na wspaniałą kobietę.	Zostałą wychowana przez wspaniałą kobietę.	3
+Do tej pory w Polsce potwierdzono infekcję u 12 877 osób, spośród których 644 zmarło.	Łącznie w Polsce od początku epidemii potwierdzono 12 877 zakażeń, a 644 pacjentów zmarło.	2
+Nie wolno mi wychodzić po 22:00.	Nie mogę wyjść po 23:00.	3
+Kobieta budzi się nad jeziorem.	Kobieta nie jeździ na nartach wodnych.	3
+W 2002 wygrała turniej Dutch Junior Open w Castricum (w finale pokonała Katerynę Bondarenko) oraz doszła do finału Eravis Epitok Cup w Budapeszcie.	W 2002 roku wygrała turniej Dutch Junior Open w Castricum (w finale pokonała Katerinę Bondarenko) i osiągnęła finał Eravis Epitok Cup w Budapeszcie.	1
+Nie ma śpiewających klaunów i tańczących ludzi.	Klaun śpiewa, a ludzie tańczą.	3
+Nie ma mężczyzny w czerwonym stroju skaczącego w brudnym wyścigu rowerowym.	Mężczyzna w czerwonym stroju skacze w brudnym wyścigu rowerowym.	3
+Do Aleksandrii przybył przez Maltę 24 maja.	Wrócił do Aleksandrii 24 maja przez Maltę.	2
+Spróbujmy coś.	Spróbujmy czegoś nowego, czegoś ekscytującego.	2
+Ma na rękach rękawiczki.	Ma krew na rękach.	3
+Sondy E-6 i ich późniejsze warianty były większe i bardziej złożone od swych poprzedników.	Sondy E-6 i ich późniejsze warianty były większe i bardziej złożone niż ich poprzednicy.	1
+Zapłaci najwyżej 20 dolarów.	Zapłaci więcej niż 20 dolarów.	3
+Ten kapelusz jest na mnie za mały.	Ten kaszkiet jest dla mnie za duży.	3
+Nie ma mężczyzny jedzącego jakieś jedzenie.	Mężczyzna je jakieś jedzenie.	3
+W zeszłym roku sporo padało.	W zeszłym roku padało dużo deszczu.	1
+Dziewczynka w różu kręci wstążką.	Nie ma dziewczyny w różowym, która by kręciła wstążką.	3
+Dziś wieczorem jestem wolny.	Dziś jestem zniewolony.	3
+Teren wokół świątyni porastają wierzby.	Wokół świątyni rosną wierzby.	1
+Całe wschodnie wybrzeże otwarte jest na Atlantyk.	Całe wschodnie wybrzeże jest otwarte na Atlantyk.	1
+Krople deszczu waliły w szyby.	Krople deszczu uderzały w dach.	3
+Czy język międzynarodowy jest potrzebny?	Czy potrzebujemy języka esperanto?	3
+Mam co do niego podejrzenia.	Podejrzewam go.	1
+On jest moim nowym przyjacielem.	To mój nowy wróg.	3
+Próbował łomem otworzyć zamknięte drzwi.	Próbował otworzyć zamknięte drzwi łomem.	1
+W końcu chcę się ustatkować i założyć rodzinę, ale jeszcze nie teraz.	W końcu chcę założyć rodzinę, ale jeszcze nie teraz.	2
+Trzech młodych mężczyzn biega, skacze i kopie w pobliżu automatu sprzedającego.	W pobliżu automatu nie ma biegajacych, skaczących i kopiących mężczyzn.	3
+Na laptopie nie pracuje żaden mężczyzna.	Mężczyzna pracuje na laptopie.	3
+Brązowo - czerwony pies kopie swoim nosem w torbie na prezent świątyczny.	Czerwono - brązowy pies nie kopie swoim nosem w torbie na prezent świątyczny.	3
+Wolę narty od pływania.	Wolę jeździć na nartach niż pływać.	1
+Nie ma mężczyzny, który by robił odwrotne salto na trampolinie.	Mężczyzna robi odwrotne salto na trampolinie.	3
+Dwaj mężczyźni z ranami kłutymi trafili do szpitala.	Dwaj mężczyźni w wieku 25 i 39 lat trafili do szpitala z poważnymi obrażeniami.	2
+Dziecko w zielono - białym kostiumie sportowym odpoczywa na trawie.	Dziecko w zielono - białym kostiumie sportowym biegnie po trawie.	3
+Od 1982 r. mieszkał w Saint-Malo w Normandii.	W 1982 roku mieszkał w Saint-Malo w Normandii.	2
+Opowiedział synowi interesującą historię.	Opowiedział swojemu synowi ciekawą historię.	1
+Ktoś ukradł mi walizkę.	Ktoś ukradł moją walizkę.	1
+Nie ma osoby, która kroiłaby jakieś grzyby.	Osoba kroi grzyby nożem.	3
+Ojciec gestem kazał mi wyjść z pokoju.	Ojciec kazał mi wyjść z pokoju.	2
+Naprawdę musisz zobaczyć ten film.	Naprawdę nie warto oglądać tego filmu.	3
+Rosja stała się światowym liderem pod względem zakupów złota - ocenia Światowa Rada Złota.	Informację o tym, że Rosja stała się największym nabywcą złota podał w piątek rosyjski portal RBK, powołując się na oceny Światowej Rady Złota (WGC).	2
+Wszystkie pokazy odbywają się w Europejskim Centrum Solidarności w Gdańsku.	Festiwal odbywa się w Gdańsku, w Europejskim Centrum Solidarności.	2
+Pies nie biegnie w kierunku piłki.	Pies biegnie przez pole i ściga piłkę.	3
+Ponad 440 zabytkowych monet zamiast dysku w laptopie.	W laptopie znaleźli ponad 440 zabytkowych monet.	2
+Brązowy pies patrzy uważnie na brązowego i białego psa.	Nie ma brązowego psa patrzącego uważnie na brązowego i białego psa.	3
+Była pierwszą w historii kobietą na tym stanowisku.	Była pierwszą kobietą na tym stanowisku w historii.	1
+Mężczyzna nie ćwiczy na podłodze.	Mężczyzna wykonuje ćwiczenia na podłodze.	3
+Władcą naszego kraju jest dobry i mądry król.	Władca naszego kraju jest tyranem i głupcem.	3
+Powinieneś maksymalnie zmarnować szanse.	Powinieneś jak najlepiej wykorzystać okazję.	3
+Francois Hollande: Charlie Hebdo żyje i żyć będzie.	Charlie Hebdo żyje i żyć będzie - dodał Francuz.	2
+Mgła gęstnieje.	Mgła staje się coraz gęstsza.	1
+Moja praca polega na opiece nad dziećmi.	Moim zadaniem jest opiekować się dziećmi.	1
+5-latek ukradł z terenu firmy przewozowej autobus.	Z tereny firmy przewozowej 25-latek ukradł autobus.	2
+Nie zapominaj zgasić gaz przed wyjściem z domu.	Nie zapomnij wyłączyć gazu przed wyjściem z domu.	1
+Wzrost znaczenia buraków cukrowych, tytoniu i chmielu.	Wzmocnienie znaczenia buraków cukrowych, tytoniu i chmielu.	1
+Weszła do kuchni, ale nikogo tam nie było.	Poszła do kuchni, ale nikogo tam nie było.	1
+To ta książka.	To jest książka.	2
+To ty byłeś w błędzie.	To ty się myliłeś.	1
+Mężczyzna nie tańczy.	Tańczy mężczyzna.	3
+Tańczy mężczyzna.	Mężczyzna nie tańczy.	3
+Korea Północna: oficjalna oaza szczęścia i dobrobytu.	Oficjalnie Korea Północna przedstawia swój kraj jako oazę spokoju i szczęścia.	2
+W szpitalu im. J. Strusia w Poznaniu zmarł 71-latek.	65-letni pacjent szpitala i.m. J. Strusia w Poznaniu zmarł w nocy ze środy na czwartek.	3
+Kobieta ma na sobie duże okulary przeciwsłoneczne i w obu rękach trzyma gazety.	Nie ma kobiety noszącej duże okulary przeciwsłoneczne i trzymającej gazety w obu rękach.	3
+Oficer wojskowy szczeka na rekrutów.	Oficer wojskowy nie szczeka na rekrutów.	3
+Z jeziora nie wyłania się żaden pies.	Z jeziora wyłania się pies.	3
+Nie ma rodziny pozującej przy kominku i choince.	Jakaś rodzina pozuje przed kominkiem i choinką.	3
+Wejdzie też do annałów nauki światowej - podkreśla.	Wejdzie do annałów nauki światowej - podkreśla.	1
+Do wypadku doszło w Kłodzku na drodze krajowej nr 46.	Do zderzenia doszło na drodze krajowej nr 46, tuż przy zjeździe na Kłodzko od strony Nysy.	2
+Cztery osoby idą chodnikiem po mieście, a jeden w zielonym kapeluszu rozmawia przez telefon komórkowy.	Cztery osoby idą chodnikiem po mieście, a ten w zielonym kapeluszu nie rozmawia przez telefon komórkowy.	3
+W dżudo technika jest ważniejsza niż siła.	W judo technika jest ważniejsza niż siła.	1
+Nie przepadam za bywaniem w miejscach, gdzie nikogo nie znam.	Nie lubię być w miejscach, gdzie wszystkich znam.	3
+Czy wręczył rezygnację?	Czy zrezygnował z wręczenia?	3
+Dzięki pomocy lekarzy wygrała z chorobą.	Lekarze pomogli jej pokonać chorobę.	1
+Zadziwia mnie twoja ignorancja.	Zaskakuje mnie twoja ignorancja.	1
+Nie spodziewałem się, że się tu pojawisz.	Nie spodziewałem się, że przyjdziesz.	1
+Jak śmiesz mówić do mnie w ten sposób?	Jak możesz tak do mnie mówić?	1
+Wzrok jest jednym z pięciu zmysłów.	Słuch jest jednym z pięciu zmysłów.	3
+Nie ma grupy osób tańczących.	Kobiety tańczą na zewnątrz.	3
+Czy nie mógłbyś przedstawić mnie p. Harrisonowi z PC Interactive?	Czy mógłbyś przedstawić mnie panu Harrisonowi z PC Interactive?	1
+Ziobro: opozycja stworzyła front ochrony przestępców.	Ale opozycja, kierując się egoizmem, utworzyła front ochrony przestępców - grzmiał minister sprawiedliwości Zbigniew Ziobro.	2
+Gram w gry planszowe dla towarzystwa.	Gram w gry planszowe dla firmy.	3
+Autobus jeździ co dziesięć minut.	Autobus jeździ co 10 minut.	1
+Gdzie pan mieszka?	Czy pan jest bezdomny?	3
+Urodziła się i wychowała w Osace.	Urodziła się i dorastała w Osace.	1
+Dlaczego on nie może dziś grać w tenisa?	Dlaczego nie może dziś grać w padla?	3
+Babcia trzylatka wyszła na chwilę na klatkę schodową.	Babcia chłopca wyszła na chwilę na klatkę schodową.	2
+Mężczyzna kosi trawnik.	Mężczyzna nie kosi trawnika.	3
+Nie wiesz, czy on ma dziewczynę?	Nie wiesz, czy on jest wolny?	2
+Statek rozładowano w porcie.	Statek został wyładowany w porcie.	1
+Nie ma czarno - białego psa skaczącego na piłkę.	Czarno - biały pies skacze na piłkę.	3
+Nikt nie chce słuchać moich poglądów.	Nikt nie chce słuchać moich opinii.	1
+W czasie wakacji pracowałem na poczcie.	Podczas wakacji pracowałem na poczcie.	1
+Mężczyzna wystrzela ze strzelby.	Nie ma mężczyzny wystrzeliwującego ze strzelby.	3
+Nie umiem powiedzieć na pewno, gdzie on mieszka.	Nie mogę powiedzieć, gdzie mieszka.	1
+"Internet jedynym sposobem komunikacji".	Internet jest jedynym sposobem komunikacji - podkreślał.	2
+Usnął, czytając książkę.	Zasnął, czytając książkę.	1
+Po drugie służą jako pośrednicy między duchami przodków i członkami rodziny.	Po drugie, służą jako pośrednicy między duchami przodków a członkami rodziny.	1
+Możesz jechać, jeśli chcesz.	Możesz iść, jeśli chcesz.	3
+Donald Trump: nie zabiegam o zmianę reżimu w Iranie.	Donald Trump powiedział też dziennikarzom, że nie zabiega o zmianę reżimu w Iranie.	2
+Księżyc ukryty jest za chmurami.	Księżyc jest ukryty za chmurami.	1
+Mężczyźni nie walczą na pięści na ringu.	Dwóch mężczyzn walczy na pięści na ringu.	3
+Muszę zmienić ubrania, bo schudłem.	Muszę zmienić ubranie, bo schudłem.	2
+Po latach stała się równie piękna jak jej matka.	Po latach stała się tak piękna jak jej matka.	1
+Kiedy się obudziłem, słońce już było wysoko.	Kiedy się obudziłem, słońce było już wysoko.	1
+Oblał egzamin.	Nie zdał egzaminu.	1
+Ile kosztuje zabezpieczenie miesięcznic smoleńskich?	Ile kosztuje zabezpieczenie miesięcznicy smoleńskiej?	1
+Przepraszam, ale proszę mi pozwolić zwrócić uwagę na trzy błędy w powyższym artykule.	Przepraszam, ale pozwolę sobie zwrócić uwagę na trzy błędy w tym artykule.	1
+Bała się, czy nie spóźni się na pociąg.	Bała się, że spóźni się na pociąg.	1
+Łatwo wpadam w gniew.	Łatwo wpadam w zachwyt.	3
+Ten człowiek czuł wstyd, że urodził się biedakiem.	Wstydził się, że urodził się niski.	3
+W 1946 mianowano go profesorem zwyczajnym.	W roku 1946 został profesorem.	1
+Nie ma osoby, która by cięła imbir.	Człowiek kroi imbir.	3
+Nie znam pana.	Nie znam cię.	1
+Facet kosi trawnik.	Nie ma człowieka, który kosi trawę.	3
+Jaki ma pani tytuł na dyplomie - dociekał Urbaniak.	Ale jaki tytuł znajduje się na pani dyplomie - nie ustępował Urbaniak.	1
+Sąd zastosował wobec mężczyzny trzymiesięczny areszt.	Decyzją sądu został aresztowany na trzy miesiące.	1
+Wysiada pan?	Co pan zrobił?	3
+Wypadek zdarzył się dokładnie rok temu.	Wypadek miał miejsce dokładnie rok od dzisiaj.	1
+Nie ma osoby włączającej kamery.	Osoba włącza kamery.	3
+To jest najtańsza ze wszystkich metod.	To najtańsza metoda, ale daje niepewne rezultaty.	2
+Posiadał rondo oraz otwory wentylacyjne.	Miał rondo i otwory wentylacyjne.	1
+Słoń jest dosiadany przez kobietę.	Słoń nie jest dosiadany przez kobietę.	3
+Ona chce jechać za granicę.	Chce wrócić z zagranicy.	3
+Kobieta wkłada jedzenie do garnka z gorącą wodą.	Kobieta wkłada jedzenie do garnka z zimną wodą.	3
+CSIS: Korea Północna ma 13 ukrytych baz nuklearnych.	Korea Północna ma co najmniej 13 ukrytych baz nuklearnych, które nadal funkcjonują - wynika z opublikowanego w poniedziałek raportu Amerykańskiego Centrum Studiów Strategicznych i Międzynarodowych (CSIS).	2
+Muszę teraz iść?	Muszę już iść?	1
+Mam szybko rosnący zarost.	Mam szybko rosnącą brodę.	1
+Nauczyciel pomylił nasze nazwiska.	Nauczyciel pomylił nasze imiona.	3
+Kiedy patrzę na to zdjęcie, przypominają mi się szczęśliwe czasy.	Kiedy patrzę na to zdjęcie, przypomina mi to szczęśliwe czasy.	1
+Wyobrażasz sobie świat bez pieniędzy?	Czy potrafisz sobie wyobrazić świat bez pieniędzy?	1
+Kupiłem tuzin jaj.	Sprzedałem tuzin jajek.	3
+Słyszałeś kiedyś o nim?	Słyszałeś o nim?	1
+Wcześniej czy później zachoruje.	Prędzej czy później wyzdrowieje.	3
+Kot wylizuje mleko ze spodka.	Żaden kot nie pije mleka łapczywie.	3
+Nie zapomnę pańskiej uprzejmości.	Nie zapomnę waszej uprzejmości.	1
+Teraz grozi mu 5 lat więzienia za niszczenie mienia.	Grozi mu do 5 lat więzienia.	2
+Odpręż się.	Napnij mięśnie.	3
+Podoba się?	Podobna do ciebie?	3
+Muszą słuchać poleceń.	Muszą wykonywać rozkazy.	1
+Scenariusz serialu napisał Craig Silverstein.	Scenariusz serialu został napisany przez Craiga Silversteina.	1
+Ceny ostatnio są bardzo wysokie.	W ostatnim czasie ceny były bardzo wysokie.	1
+Pussy′s Dead – trzeci album grupy Autolux, wydany w 2016 roku.	Pussy's Dead - trzeci album zespołu Autolux wydany w 2016 roku.	1
+O swojej śmierci dowiedziałem się przez przypadek.	Dowiedziałem się o mojej śmierci przez przypadek.	1
+On boi się tego psa.	Pies się boi.	3
+W praktyce lekceważono przepisy dekretu.	W praktyce przepisy dekretu nie były przestrzegane.	1
+To droga na skróty do szkoły.	To skrót do przedszkola.	3
+O dziewiątej nie mogę iść.	Nie mogę iść o dziewiątej.	1
+Od jak dawna uczysz się angielskiego?	Jak długo uczysz się angielskiego?	1
+Możesz się przejechać moim motorem.	Możesz jeździć moim motocyklem.	1
+Sejm uchwalił nowelizację ustawy o TK autorstwa PiS.	Sejm uchwalił we wtorek wieczorem nowelizację ustawy o Trybunale Konstytucyjnym autorstwa PiS.	2
+Brak mu własnego zdania.	On nie kieruje się zdaniem innych.	3
+Oprowadzę pana po domu.	Pokażę ci dom.	1
+Kierowca karetki w stanie ciężkim trafił do szpitala.	Kierowca karetki w stanie ciężkim został przewieziony na oddział intensywnej opieki medycznej szpitala w Łęczycy.	2
+Nie mogę go znieść.	Nie zniosę tego.	3
+Jabłko spadło na ziemię.	Jabłko spadło na podłogę.	2
+Jennifer Aniston i Justin Theroux ogłosili separację.	Jennifer Aniston i Justin Theroux ogłosili w czwartek separacje po niecałych trzech latach małżeństwa - poinformował rzecznik aktorki Stephen Huvane.	2
+Miała błyszczące, czarne oczy.	Miała jasne, błyszczące oczy.	3
+Nie mam czasu nawet na czytanie.	Nie mam czasu na czytanie.	1
+Nie ma dziecka bawiącego się z wylewką na zewnątrz, a reszta jego rodziny bawi się na świeżym powietrzu.	Dziecko bawi się wylewką wodną na zewnątrz, a reszta jego rodziny to ogląda.	3
+Widzisz tę zaśmieconą górę?	Czy widzisz tę ośnieżoną górę?	3
+Kiedy do ciebie przyszedł?	Kiedy przyszedł do ciebie?	1
+Rosja wstrzymała naloty w syryjskiej prowincji Idlib.	W niedzielę o północy Rosja i jej sojusznicy wstrzymali naloty w regionie Idlib w Syrii.	2
+Lepiej, by przyznał się do przestępstwa.	Lepiej, żeby przyznał się do przestępstwa.	1
+Połowa rodziców pozwala dzieciom pić w domu alkohol.	Aż połowa rodziców nie widzi nic złego w tym, że alkohol piją z nimi w domu dzieci, które nie skończyły czternastu lat.	2
+Nie zaśpij jutro rano.	Nie śpij jutro rano.	2
+Podkreślił, że polski rolnik "zawsze stał za Polską".	Zaznaczył, że polscy rolnicy "zawsze stali za Polską".	1
+W większości swoich filmów był aktorem aktywnym.	W większości filmów był aktywnym aktorem.	1
+On jest moim bliskim przyjacielem.	To mój bliski krewny.	3
+Powoli, lecz pewnie do zwycięstwa.	Szybko, ale niepewnie aż do zwycięstwa.	3
+Nawet jak wyrzucicie swoich trzech kolegów, będę się przyglądała jak doprowadzacie do tego, że oni składają mandaty - komentowała Julia Pitera (PO).	Nawet jak wyrzucicie swoich trzech kolegów z PIS będę się przyglądała z uwagą, jak doprowadzacie do tego, że oni składają mandaty - zapowiedziała Julia Pitera (PO).	2
+Prokuratura zauważyła też, że materiały partii Razem zawierają "potępienie i dezaprobatę dla działań reżimów totalitarnych".	W komunikacie prokuratury podkreślono, że materiały partii Razem zawierają "potępienie i dezaprobatę dla działań reżimów totalitarnych".	1
+Byłem już tutaj.	Jestem tu pierwszy raz.	3
+Mężczyzna nie kroi ziemniaków.	Mężczyzna kroi ziemniaki.	3
+Czy nie zna pan przypadkiem prof. Browna?	Profesor Brown jest filozofem.	3
+Ci ludzie stali na lodzie jakieś 30 metrów od brzegu.	Ci ludzie stali od brzegu jakieś 30 metrów.	2
+Zgubiła wagę.	Straciła na wadze.	2
+Nie ma rowerzysty bmx skaczącego na brudnych rampach przed zbiornikiem wodnym.	Dwóch rowerzystów bmx skacze na brudnych rampach przed zbiornikiem wodnym.	3
+Jak leci?	Jak się masz?	1
+Przez pomyłkę wziąłem twój parasol.	Wziąłem twój parasol przez pomyłkę.	1
+Ogień gasiło przez kilka godzin prawie 90 strażaków.	Gaszenie pożaru trwało prawie cztery godziny, w akcji uczestniczyło 88 strażaków.	2
+Mężczyzna posypuje pizzę serem.	Nie ma mężczyzny posypującego serem pizzę.	3
+Jeszcze nie zapamiętałem jej adresu.	Nie pamiętam jeszcze jej adresu.	1
+Tamten dom jest lepszy niż ten.	Ten dom jest lepszy od tego.	1
+Dziesięć tysięcy dodać pięć tysięcy pięćset daje piętnaście tysięcy pięćset.	Dziesięć tysięcy plus pięć tysięcy pięćset daje piętnaście tysięcy pięćset.	1
+Młody chłopiec jedzie na brudnym rowerze przez błoto.	Przez błoto nie jedzie żaden młody chłopiec na brudnym rowerze.	3
+Człowiek obiera cebulę.	Nie ma osoby obierającej cebulę.	3
+Pochodzę z Singapuru.	Jestem z Szanghaju.	3
+Gdybym był tobą.	Na twoim miejscu.	1
+Jego odkrycie przyniosło rewolucję w transporcie.	Jego odkrycie doprowadziło do rewolucji w transporcie lądowym.	2
+Nie ma mężczyzny grającego na gitarze.	Mężczyzna gra na gitarze.	3
+Mężczyzna gra na gitarze.	Nie ma mężczyzny grającego na gitarze.	3
+Był załamany porażką.	Był zdruzgotany porażką.	1
+Częściowe zamknięcie granicy potępiło rosyjskie MSZ.	Decyzję o częściowym zamknięciu granicy ostro skrytykowało rosyjskie MSZ.	2
+Byłem zaskoczony śmiercią Johna.	Zaskoczyła mnie śmierć Johna.	1
+Nie chcę nigdzie chodzić.	Nie chcę nigdzie iść.	1
+Woda jest cieczą.	Woda jest płynem.	1
+Ile kosztuje przejazd autobusem?	Ile kosztuje jazda autobusem?	1
+Siedziba zespołu znajduje się w Danbury w Connecticut.	Siedziba zespołu znajduje się w Danbury, Connecticut.	1
+Byłem zawiedziony.	Byłem rozczarowany.	1
+Osoba nie rysuje.	Osoba rysuje.	3
+Szary pies odbija piłkę nożną głową na trawiastym boisku.	Szary pies odbija piłkę tenisową głową na trawiastym boisku.	3
+Chcę zadzwonić, ale nie mam drobnych.	Chciałbym zadzwonić, ale nie mam nic na karcie.	3
+Zjedz teraz kolację.	Zjedz kolację.	1
+Ale tak, mam ogromną rodzinę i wielu kuzynów w Portoryko.	Ale tak, mam dużą rodzinę i wielu kuzynów w Puerto Rico.	1
+Znasz jakiś obcy język?	Mówisz w obcym języku?	1
+Pierwszy na świecie przypadek zakażenia wirusem H7N4.	Według komisji był to pierwszy na świecie przypadek zakażenia człowieka odmianą H7N4.	2
+Na co zwracać uwagę, jadąc na wycieczkę?	Na co należy zwrócić uwagę, decydując się na podróż?	1
+Tematyka publikacji dotyczy elektrodynamiki maszyn elektrycznych i transformatorów, zjawisk polowych w materiałach ferromagnetycznych, modelowania fizycznego i matematycznego urządzeń elektrycznych.	Tematem publikacji jest elektrodynamika maszyn elektrycznych i transformatorów, zjawiska pola w materiałach ferromagnetycznych, fizyczne i matematyczne modelowanie urządzeń elektrycznych.	1
+Mieszkał w Japonii dwa lata.	Mieszkał w Chinach bardzo krótko.	3
+Nic złego nie zrobił.	Nie zrobił nic dobrego.	3
+Słyszałem, jak śpiewała w swoim pokoju.	Usłyszałem, jak śpiewała w jej pokoju.	1
+4 maja fani gwiezdnej sagi świętują Dzień Star Wars.	Święto "Star Wars" obchodzone jest 4 maja z kilku powodów.	2
+Mężczyzna rysuje.	Nie ma rysującego mężczyzny.	3
+Jest przejmująco zimno.	Jest bardzo zimno.	1
+Nie przechodź przez ulicę na czerwonym.	Nie przechodź przez ulicę na ubrany na czerwono.	3
+Gowin może się okazać zwycięzcą wyborów w PO.	To Jarosław Gowin może się okazać zwycięzcą wyborów w PO.	2
+Prawo jazdy można otrzymać od 18. roku życia.	Prawo jazdy można uzyskać od 18 roku życia.	1
+Kobieta, która jest topless, jest smarowana brązową substancją, a w tle jest niewyraźny tłum.	Kobieta, która jest topless, jest smarowana brązową substancją i nikogo nie ma w tle.	3
+Wolałbym już żyć samotnie niż słuchać jego poleceń.	Wolałbym słuchać jego rozkazów niż żyć sam.	3
+Nie mam ochoty napić się wódki.	Chcę pić wódkę z gwinta.	3
+Nie jesteś jedynym, który nie żyje.	Nie tylko ty nie żyjesz.	1
+Jestem w niej zakochany.	Zakochałem się w niej.	1
+Dwie osoby patrzą na złotą statuetkę.	Dwie osoby ignorują pobliską złotą rzeźbę.	3
+Komorowski na Facebooku i Twitterze wciąż kandydatem.	Na serwisach społecznościowych Facebook i Twitter wciąż Bronisław Komorowski jest jednak jedynie kandydatem na prezydenta.	2
+Dziewczynka ma na sobie dżinsy, różową koszulę i biegnie.	Nie ma dziewczyny ubranej w dżinsy i różową koszulę, biegnącej.	3
+Wojna wybuchła w roku 1939.	W 1939 roku wybuchła pandemia.	3
+Zamordowany przez Niemców 9 listopada 1941 w lesie pod Borysowem.	Zamordowany przez Niemców 9 listopada 1941 roku w lesie borysowskim.	1
+W wypadku jedna osoba zginęła, a trzy zostały ranne.	Jedna osoba zginęła na miejscu, trzy inne są ranne, w tym jedna ciężko.	2
+Chłopiec siedzi nad niebieskim oceanem.	Chłopiec błądzi po niebieskim oceanie.	3
+Rzucił picie.	Przestał pić.	1
+Pies rozgląda się dookoła.	Nie ma psa, który by się rozglądał.	3
+To nieważne.	To bez znaczenia.	1
+Usłyszał zarzut posiadania i udzielania narkotyków.	Mężczyzna usłyszał zarzuty dotyczące posiadania narkotyków oraz udzielania ich drugiej osobie.	2
+W przemówieniu dobitnie podkreślił wagę edukacji.	W swoim przemówieniu przekreślił znaczenie edukacji.	3
+No, nie było tak źle.	Nie, nie było tak źle.	1
+Stary mężczyzna z szarą brodą nie jedzie na rowerze.	Stary mężczyzna z szarą brodą jedzie na rowerze.	3
+Ai usiadła obok mnie.	Ai siedziała daleko ode mnie.	3
+Szukaliśmy w lesie zagubionego dziecka.	W lesie szukaliśmy zagubionego dziecka.	1
+Zwierzę ukrywało się pod autem stojącym na parkingu.	Zwierzę ukrywało się pod samochodem zaparkowanym przy ul. Pałuckiej.	2
+Crowdfunding został otwarty 25 kwietnia 2017 roku.	Crowdfunding został otwarty w dniu 25 kwietnia 2017 r.	1
+Inny interesujący kamień znajduje się w południowo-wschodniej części tego samego lasu.	Kolejny interesujący kamień znajduje się w południowo-wschodniej części tego samego lasu.	1
+Kamery uchwyciły podejrzewanego o rozboje mężczyznę.	Podejrzewanego o rozboje mężczyznę zarejestrowała kamera monitoringu.	2
+Pizza hawajska to moja ulubiona pizza.	Pizza hawajska jest absolutnie obrzydliwa.	3
+Niektórzy chłopcy grają w tenisa, a inni w piłkę.	Niektórzy chłopcy grają w tenisa, inni grają w piłkę nożną.	1
+SQL Plus jest terminalowym klientem baz danych Oracle.	SQL Plus jest graficznym klientem baz danych Oracle.	3
+Mój dziadek nie potrafi chodzić bez laski.	Mój dziadek nie może chodzić bez laski.	1
+Trudno go zadowolić.	Ciężko go zadowolić.	1
+Według mnie, jesteś w błędzie.	Myślę, że się mylisz.	1
+Na całej wyspie pobudowano kościoły.	Na całej wyspie zbudowano kościoły.	1
+Nie, kuchnia chińska jest najlepsza.	Nie, chińska kuchnia jest najlepsza.	1
+Dziecko właśnie śpi.	Dziecko śpi.	1
+Japonia i USA są dla siebie najważniejszymi partnerami handlowymi.	Japonia i Stany Zjednoczone są mniej istotnymi partnerami handlowymi.	3
+Trzęsienie ziemi było największą tragedią, jaką przeżył ten kraj.	Trzęsienie ziemi nie było największą tragedią w tym kraju.	3
+Ja jestem studentem, on nie.	Jestem studentem, a on też.	3
+Mężczyzna nie ćwiczy.	Mężczyzna ćwiczy.	3
+Niewykluczone, że sąd rozpozna je w najbliższą środę.	Według naszego informatora możliwe jest, że sąd rozpozna je już w najbliższą środę.	2
+Musisz bardzo się starać.	Musisz to olać.	3
+W nocy, bez odblasków i w grupie szli drogą krajową.	Szli w nocy wzdłuż drogi krajowej.	2
+Zawołasz mi taksówkę?	Zadzwonisz po taksówkę?	1
+Ja również go nie znałem.	Ja też go nie znałem.	1
+Mężczyzna i kobieta jadą jeepem ulicą.	Mężczyzna i kobieta nie jadą jeepem po ulicy.	3
+Wziąłem udział w tym spotkaniu w zamian za nią.	W zamian wziąłem udział w tym spotkaniu.	2
+Premier: syn był na Krymie, ale nie był porwany.	Syn był legalnie na Krymie i na pewno nie był porwany - przekonywał czeski premier dziennikarzy w Pradze.	2
+Dziwna myśl zaświtała mi w głowie.	Wpadła mi do głowy dziwna myśl.	1
+Ci ludzie bynajmniej nie są niewiniątkami.	Ci ludzie mają sporo za uszami.	1
+Nie ma psa liżącego dziecko.	Dziecko jest lizane przez psa.	3
+Musimy kupić do tego pokoju nowy dywan.	Musimy kupić nową wykładzinę do tego pokoju.	3
+Kobieta rozbija dwa jajka w misce.	Nie ma kobiety rozbijającej jajka w misce.	3
+Znasz jakiś obcy język?	Czy znasz obcy język?	1
+Mężczyźni walczą pięściami na ringu.	Nikt nie walczy na pięści na ringu.	3
+Przyjemnie jest oglądać telewizję.	Wspaniale jest oglądać telewizję.	1
+Prokuratura Krajowa nie wyklucza kolejnych zatrzymań.	Prokuratura nie wyklucza kolejnych zatrzymań.	2
+Poprosiła brata, żeby wyprowadził jej psa.	Poprosiła brata, żeby zabrał psa.	2
+Kobieta smaży mięso.	Kobieta nie smaży mięsa.	3
+Jego powitanie na świecie było zarazem pożegnaniem.	Moment jego powitania na świecie był zarazem pożegnaniem.	2
+Masz mundurek szkolny?	Masz mundur wojskowy?	3
+W Ameryce Północnej jazda bez pasów jest bezprawna.	W Ameryce Południowej jazda bez pasów jest nielegalna.	3
+Jutro mniej więcej o tej porze będziemy w Londynie.	Jutro o tej porze raz lepiej raz gorzej.	3
+Jeżdżę do Tokio codziennie.	Codziennie jeżdżę do Tokio.	1
+Czy może pan mówić wolniej?	Czy możesz mówić wolniej?	1
+Słyszę cię, ale nie widzę.	Widzę cię, ale cię nie słyszę.	3
+Kości zostały rzucone.	Nie ma już odwrotu.	1
+Niektórych studentów nie interesuje historia Japonii.	Niektórzy studenci nie interesują się historią Japonii.	1
+Pomagała matce z własnej inicjatywy.	Pomogła matce z własnej inicjatywy.	1
+Nie ma człowieka chodzącego ścieżką przez pustkowie.	Mężczyzna idzie ścieżką przez pustkowie.	3
+Ten skandal błyskawicznie się rozniesie.	Ten skandal szybko się uciszy.	3
+Dzięki temu została gwiazdą Japonii.	W ten sposób stała się japońską gwiazdą.	1
+Zginęło również wielu agentów NKWD za granicą.	Wielu agentów NKWD zginęło za granicą.	1
+Jej hospitalizacja może potrwać nawet kilka tygodni.	A lekarze ocenili, że jej hospitalizacja potrwa kilka tygodni.	2
+Mężczyzna w niebieskim kombinezonie nie potrafi jeździć na jednym kole na motocyklu.	Mężczyzna w niebieskim skafandrze odważnie jeździ na jednym kole na motocyklu.	3
+On ma słaby wzrok.	Ma niezły wzrok.	3
+Pat wybiera się na urodziny Jima.	Jim idzie na urodziny Pata.	3
+Był bardzo podekscytowany tym, co zobaczył.	Był bardzo zniesmaczony tym, co widział.	3
+To było tydzień temu, dokladnie drugiego kwietnia.	To było tydzień temu, dokładnie 2 kwietnia.	1
+Przyczyny pojawienia się ognia są na razie nieznane.	Na razie nie wiadomo, co było przyczyną pojawienie się ognia.	1
+Brytyjska prasa chwali decyzję May w sprawie wyborów.	Brytyjska prasa chwali zapowiedź premier Theresy May w sprawie rozpisania przedterminowych wyborów parlamentarnych, spodziewając się zdecydowanego zwycięstwa konserwatystów oraz umocnienia mandatu szefowej rządu przed negocjacjami w sprawie Brexitu.	2
+Dziewczynka usuwa tatuaż z ręki.	Dziewczynka robi tatuaż na ręku.	3
+Kobieta nie sieka czosnku.	Kobieta sieka czosnek.	3
+Mieliśmy sporą publiczność.	Mieliśmy dużą widownię.	1
+Pięć osób nie żyje.	Co najmniej pięć osób zginęło.	2
+W 1947 do zoo powróciły żyrafy.	W roku 1947 żyrafy wróciły do zoo.	1
+Spełniło się jego marzenie.	Jego marzenie się spełniło.	1
+Spotkajmy się tu jutro.	Spotkamy się tu jutro.	1
+Na fortepianie gra mężczyzna.	Na fortepianie nie gra mężczyzna.	3
+On niczego się nie boi.	Nie boi się niczego.	1
+Konflikt przy granicy izraelsko-palestyńskiej przybiera na sile.	Zaostrza się konflikt z Palestyną.	2
+Nie ma dziewczyny, która miałaby na sobie koszulkę i miała otwarte usta.	Dziewczynka ma na sobie koszulkę i ma otwarte usta.	3
+Zgubiła portmonetkę.	Zgubiła torebkę.	3
+Mam dosyć fast-foodów.	Mam dość fast foodów.	1
+On jeździ do domu w prawie każdy weekend.	Nie wraca do domu na weekendy.	3
+Stracił 3/4 swojej wagi.	W sumie stracił więc około 3/4 swojej dawnej wagi.	1
+Wypadek zarejestrowała kamera sklepowego monitoringu.	Wypadek ponownie zarejestrowały kamery sklepowego monitoringu.	2
+Coś ty zrobił z moim długopisem?	Co zrobiłeś z moim długopisem?	1
+Biegacze ścigają się na torze.	Biegacze nie ścigają się na torze.	3
+Była urzeczona jego uśmiechem.	Była pod wrażeniem jego uśmiechu.	1
+To pierwszy taki przypadek w historii mistrzostw świata.	To pierwsze takie rozstrzygnięcie w historii mistrzostw świata.	1
+On nie ma ani żony, ani dzieci, ani przyjaciół.	Nie ma żony, dzieci ani przyjaciół.	1
+Niewybuchy zabezpieczyli saperzy Marynarki Wojennej.	Saperzy z Marynarki Wojennej zabezpieczyli niewybuchy.	1
+Jeleń przeskakuje płot.	Jeleń nie skacze przez płot.	3
+Wystąpiła na przyjęciu urodzinowym Alison.	Była na przyjęciu urodzinowym Alison.	2
+Berlusconi woli prace społeczne od aresztu domowego.	Były włoski premier Silvio Berlusconi wolałby wykonywać prace społeczne niż trafić do więzienia lub aresztu domowego.	2
+Został ochrzczony w Westminster Palace w Londynie.	Ochrzcił się w Westminster Palace w Londynie.	1
+Dlatego - jak mówiła - "edukacja seksualna w szkole byłaby świetnym rozwiązaniem".	W jej ocenie "edukacja seksualna w szkole byłaby świetnym rozwiązaniem".	1
+Pracują wszyscy, też dzieci, a partia daje wszystko.	Pracują wszyscy, także dzieci, a partia daje wszystko.	1
+Trzech przyjaciół robi miny do kamery.	Trzej wrogowie robią miny do kamery.	3
+Spotkałem ją przypadkiem na przystanku autobusowym.	Poznałem ją przypadkiem na przystanku autobusowym.	2
+Były szef CIA pozbawiony certyfikatu bezpieczeństwa.	Były szef CIA bez certyfikatu bezpieczeństwa.	1
+Zamówiłem książkę w Londynie.	W Londynie zamówiłem książkę.	1
+Chłopca sprzedano w niewolę.	Chłopiec został uwolniony.	3
+Ilekroć oglądam tę sztukę, płaczę.	Za każdym razem, gdy oglądam tę sztukę, płaczę.	1
+Zmarł jako emeryt w 2000 roku.	W roku 2000 zmarł jako emeryt.	1
+Na podłodze nie ma małych świnek morskich, które gryzą i zjadają kawałek marchewki.	Świnka morska żywi się marchewką.	3
+Psy umieją pływać.	Psy potrafią pływać.	1
+To nie są moje rzeczy!	To nie moje rzeczy!	1
+Zostawiłem okno otwarte na całą noc.	Zostawiłem zamknięte okno całą noc.	3
+Sprawą zajmuje się policja.	Policja zajmuje się sprawą.	1
+Czy on mówi po angielsku, francusku czy niemiecku?	Czy mówi po angielsku, francusku lub niemiecku?	1
+Nie ma mężczyzny idącego na zewnątrz.	Mężczyzna idzie na świeżym powietrzu.	3
+"Może być nawet łysa, i tak będzie wyglądać pięknie".	"Może być nawet łysa, i tak będzie wyglądała pięknie, o wiele lepiej niż większość z nas" - można przeczytać w komentarzach.	2
+Nie ma nikogo grającego na gitarze.	Jakaś osoba gra na gitarze.	3
+Libański rząd podał się do dymisji po wybuchu w Bejrucie.	W związku z zeszłotygodniową eksplozją w Bejrucie libański rząd podał się do dymisji, o czym poinformował w poniedziałek premier kraju Hassan Diab.	2
+Gdybym miał więcej pieniędzy, kupiłbym to.	Gdybym miał więcej pieniędzy, kupiłbym je.	2
+Nie wszyscy studenci byli obecni.	Nie wszyscy uczniowie byli obecni.	2
+Co je Ken?	Co Ken je?	1
+Postanowił nie startować w wyborach prezydenckich.	Postanowił nie brać udziału w wyborach na wójta.	3
+Więc czy możemy zadać pytanie: dlaczego Iran przywiązuje się do przekonania tak śmiesznego wobec wszelkiej logiki i dowodów?	"Więc czy możemy zadać pytanie: dlaczego Iran przywiązuje się do przekonania tak śmiesznego wobec wszelkiej logiki i dowodów?" - pyta Al-Kaida.	2
+Świetnie! Dam ci się przejechać nowym modelem.	Dam ci nowy model.	2
+Nie ma psa, który obraca się na trawie i ściga lacącą piłkę.	Pies obraca się na trawie i ściga lacącą piłkę.	3
+Mały czarny pies goni małego brązowego psa.	Nie ma małego czarnego psa goniącego małego brązowego psa.	3
+W czwartek w samo południe w stolicy i Poznaniu uruchomione zostaną syreny alarmowe, by uczcić 75. rocznicę wybuchu powstania w warszawskim getcie.	W Warszawie dla uczczenia 75-rocznicy wybuchu powstania w getcie w samo południe uruchomione zostaną nie tylko syreny alarmowe, ale także kościelne dzwony.	2
+Brak noża.	Nie ma widelca.	3
+Mężczyzna je jakieś jedzenie.	Mężczyzna pości.	3
+Zaczyna się przegląd mostu Milenijnego we Wrocławiu.	Przegląd mostu Milenijnego we Wrocławiu rozpoczyna się w środę.	2
+W wodzie nie stoi żaden brązowy pies.	W wodzie stoi brązowy pies.	3
+Być może to miał być żart prima aprilisowy - dodała.	Dodała, że "być może to miał być żart prima aprilisowy".	1
+Wyszedłem, ale zorientowałem się, że zapomniałem torby.	Wyszedłem, ale zdałem sobie sprawę, że zapomniałem portfela.	3
+Kierowcy rajdowi jadą po torze.	Żaden kierowca rajdowy nie jedzie po torze.	3
+Kobieta tańczy w klatce.	W klatce nie tańczy żadna kobieta.	3
+Dostarczono nam mundury.	Zabrano nam mundury.	3
+Gmina Murów nazywana jest "Krainą Borsuka".	Gmina Murów na swojej stronie nazywa się też "Krainą Borsuka".	2
+"Paul leży dziś chory w łóżku." "Jaka szkoda!"	"Paul jest dziś śpiący w łóżku." "Szkoda!"	3
+Udało mi się zdać egzamin.	Nie zdałem egzaminu.	3
+Ona też będzie?	Czy ona też tam będzie?	1
+Dobrze by było, gdyby mgła szybko się rozeszła.	Byłoby miło, gdyby mgła szybko opadła.	1
+Jasnobrązowy pies biegnie ulicą.	Na ulicy nie biegnie żaden jasnobrązowy pies.	3
+Myślałem, że Julia rzuci palenie.	Myślałem, że Justyna przestanie palić.	3
+Kot nie pije wody.	Część wody jest pita przez kota.	3
+Tony rozmyślał o fabryce i sklepach.	Tony myślał o fabryce i sklepach.	1
+On ma z natury dobrą pamięć.	Z natury ma dobrą pamięć.	1
+Nagle odetchnąłem.	Ciężko oddychałem.	3
+Klub ma trzydziestu członków.	W klubie jest 35 członków.	3
+Kobieta nie kroi marchewki.	Kobieta kroi marchewkę.	3
+Orędownik bezpiecznego seksu.	Obrońca bezpiecznego seksu.	2
+Dwoje dzieci leży na śniegu i robi śnieżne aniołki.	Nie ma dziecka leżącego na śniegu i robiącego śnieżne aniołki.	3
+Sądził, że jest szczęśliwa.	Myślał, że jest szczęśliwa.	1
+Trzy kolizje na jednej obwodnicy - 12 aut rozbitych.	W trzech różnych kolizjach ucierpiało 12 aut, dziesiątki stanęły w korku.	2
+Popełniłem koszmarny błąd.	Popełniłem straszny błąd.	1
+Po kilku godzinach strażakom udało się ugasić pożar.	Po kilku godzinach walki z ogniem udało się strażakom ugasić pożar.	2
+Nie ma dziewczyny, która malowałaby paznokcie.	Dziewczynka maluje paznokcie.	3
+"Śmiertelnie zranił nożem byłego pracodawcę".	W pewnym momencie sprawca śmiertelnie ranił nożem swojego byłego pracodawcę.	2
+Właśnie chyba o to chodzi, żeby mieć własnego prezesa - odpowiedziała mu wicemarszałek Sejmu Barbara Dolniak z Nowoczesnej.	Właśnie chyba o to chodzi, żeby mieć własnego prezesa - odpowiedziała Barbara Dolniak.	2
+W Kowalach uprawnionych do głosowania było 536 osób.	Uprawnionych do głosowania było dokładnie 536 z nich.	2
+Podniósł rękę, by zatrzymać taksówkę.	Podniósł rękę, żeby zatrzymać taksówkę.	1
+Zapaliłem światła.	Zapaliłem światło.	1
+12-latka napisała książkę dla dzieci chorych na raka.	Dwunastolatka napisała książkę i czyta dzieciom chorym na raka.	2
+Dziecko bawi się w basenie dla dzieci, a żadne inne dzieci nie bawią się w tle.	Dziecko bawi się w basenie dla dzieci, a inne dzieci bawią się w tle.	3
+Jest przejmująco zimno.	Jest bardzo ciepło.	3
+Autobus był pełen.	Autobus był pełny.	1
+W roku 1946 turniej ponownie nie był rozgrywany.	W 1946 r. turniej nie został ponownie rozegrany.	1
+Dwa psy przeskakują przez trawę pokrytą śniegiem i skały.	Przez trawę pokrytą śniegiem i skały nie przeskakuje żaden pies.	3
+Mężczyzna potrząsa pojemnikiem nad zlewem w kuchni.	Nie ma mężczyzny, który potrząsa pojemnikiem nad zlewozmywakiem w kuchni.	3
+Wsadziła klucz do kieszeni.	Włożyła klucz do torebki.	3
+Odprawa kierowniczej kadry MON z udziałem prezydenta.	Odprawa kierowniczej kadry MON i sił zbrojnych z udziałem prezydenta.	2
+Proszę nie mówić tak szybko.	Czy mógłby pan trochę zwolnić?	1
+Nie wiecie, kim jestem.	Nie wiesz, kim jestem.	3
+Zmusiła mnie, bym z nią poszedł.	Zmusiła mnie do pójścia z nią.	1
+Ranił policjanta z wiatrówki, drugiego uderzył kolbą.	Strzelając z wiatrówki, ranił policjanta, a drugiego uderzył kolbą w głowę.	2
+Samobójczy zamach na autobus, zginęło 44 policjantów.	W samobójczym zamachu na autobus przewożący policjantów w stanie Dżammu i Kaszmir zginęły w czwartek 44 osoby - podaje agencja Reutera.	2
+On nie umie dobrze gotować.	Nie umie dobrze gotować.	1
+Dziecko w czerwonym stroju skacze na trampolinie.	Nie ma dziecka w czerwonym stroju skaczącego na trampolinę.	3

@@ -13,7 +13,10 @@ from __future__ import absolute_import, division, unicode_literals
 import os
 import io
 import logging
+from typing import Dict
+
 import numpy as np
+from dataclasses import dataclass
 
 from sklearn.metrics import mean_squared_error
 from scipy.stats import pearsonr, spearmanr
@@ -118,7 +121,7 @@ class RelatednessEval(object):
         se = mean_squared_error(yhat, self.data['test']['y'])
         logging.debug('Dev : Pearson {0}'.format(devpr))
         logging.debug('Test : Pearson {0} Spearman {1} MSE {2} \
-                       for {3} Relatedness\n'.format(pr, sr, se, self.task_name))
+                       for {3}\n'.format(pr, sr, se, self.task_name))
 
         return {'devpearson': devpr, 'pearson': pr, 'spearman': sr, 'mse': se,
                 'yhat': yhat, 'ndev': len(devA), 'ntest': len(testA)}
@@ -138,8 +141,10 @@ class RelatednessEval(object):
 
 
 class EntailmentEval(RelatednessEval):
+
     def __init__(self, task_path, task_name='SICK', seed=1111):
         logging.debug(f'***** Transfer task : {task_name}-Entailment*****\n\n')
+        self.label2id = {'CONTRADICTION': 0, 'NEUTRAL': 1, 'ENTAILMENT': 2}
         self.task_name = task_name
         self.seed = seed
         train = self.loadFile(os.path.join(task_path, f'{task_name}_train.txt'))
@@ -148,7 +153,6 @@ class EntailmentEval(RelatednessEval):
         self.data = {'train': train, 'dev': dev, 'test': test}
 
     def loadFile(self, fpath):
-        label2id = {'CONTRADICTION': 0, 'NEUTRAL': 1, 'ENTAILMENT': 2}
         skipFirstLine = True
         data = {'X_A': [], 'X_B': [], 'y': []}
         with io.open(fpath, 'r', encoding='utf-8') as f:
@@ -160,7 +164,7 @@ class EntailmentEval(RelatednessEval):
                     data['X_A'].append(text[1].split())
                     data['X_B'].append(text[2].split())
                     data['y'].append(text[4])
-        data['y'] = [label2id[s] for s in data['y']]
+        data['y'] = [self.label2id[s] for s in data['y']]
         return data
 
     def run(self, params, batcher):
@@ -208,7 +212,7 @@ class EntailmentEval(RelatednessEval):
         testF = np.c_[np.abs(testA - testB), testA * testB]
         testY = np.array(self.data['test']['y'])
 
-        config = {'nclasses': 3, 'seed': self.seed,
+        config = {'nclasses': len(self.label2id), 'seed': self.seed,
                   'usepytorch': params.usepytorch,
                   'classifier': params.classifier,
                   'nhid': params.nhid}
@@ -218,6 +222,34 @@ class EntailmentEval(RelatednessEval):
 
         devacc, testacc = clf.run()
         logging.debug('\nDev acc : {0} Test acc : {1} for \
-                       {2} entailment\n'.format(devacc, testacc, self.task_name))
+                       {2}\n'.format(devacc, testacc, self.task_name))
         return {'devacc': devacc, 'acc': testacc,
                 'ndev': len(devA), 'ntest': len(testA)}
+
+
+class PPCEval(EntailmentEval):
+
+    def __init__(self, task_path, task_name, seed=1111):
+        logging.debug(f'***** Transfer task : {task_name}*****\n\n')
+        self.label2id = {'1': 0, '2': 1, '3': 2}
+        self.task_name = task_name
+        self.seed = seed
+        train = self.loadFile(os.path.join(task_path, f'train.txt'))
+        dev = self.loadFile(os.path.join(task_path, f'dev.txt'))
+        test = self.loadFile(os.path.join(task_path, f'test.txt'))
+        self.data = {'train': train, 'dev': dev, 'test': test}
+
+    def loadFile(self, fpath):
+        skipFirstLine = True
+        data = {'X_A': [], 'X_B': [], 'y': []}
+        with io.open(fpath, 'r', encoding='utf-8') as f:
+            for line in f:
+                if skipFirstLine:
+                    skipFirstLine = False
+                else:
+                    text = line.strip().split('\t')
+                    data['X_A'].append(text[0].split())
+                    data['X_B'].append(text[1].split())
+                    data['y'].append(text[2])
+        data['y'] = [self.label2id[s] for s in data['y']]
+        return data
