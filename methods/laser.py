@@ -40,13 +40,13 @@ class LaserEmbedding(EmbeddingBase):
         return res
 
     def __run_container(self, tmp_path: Path):
-        docker_cmd = "bash /src/tasks/embed/embed.sh /resources/input.txt pl /resources/output.npy"
+        docker_cmd = "bash /app/LASER/tasks/embed/embed.sh /resources/input.txt /resources/output.npy"
         docker_vol = {str(tmp_path.absolute()): {"bind": "/resources", "mode": "rw"}}
         self.client.containers.run("laser:latest", docker_cmd, remove=True, volumes=docker_vol)
 
     def __init_laser(self):
         try: self.client.images.get("laser:latest")
         except ImageNotFound:
-            url = "https://github.com/sdadas/LASER.git"
-            dockerfile = "Dockerfile.cpu"
+            url = "https://github.com/sdadas/LASER.git#main:docker"
+            dockerfile = "Dockerfile"
             self.client.images.build(path=url, dockerfile=dockerfile, tag="laser")
