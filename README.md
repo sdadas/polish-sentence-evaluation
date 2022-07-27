@@ -28,6 +28,10 @@ the [SICK (Sentences Involving Compositional Knowledge)](https://github.com/text
   ```
 </details>
 
+#### [[2]](https://arxiv.org/abs/2207.12759) Training Effective Neural Sentence Encoders from Automatically Mined Paraphrases
+
+In this publication, we show a simple method for training effective language-specific sentence encoders without manually labeled data. Our approach is to automatically construct a dataset of paraphrase pairs from sentence-aligned bilingual text corpora. We then use the collected data to fine-tune a Transformer language model with an additional recurrent pooling layer.
+
 ### Updates:
 
 - **20.01.2022** - [New code example](https://github.com/sdadas/polish-sentence-evaluation/tree/master/examples/paraphrase_mining) added: training sentence encoders on paraphrase pairs mined from OPUS parallel corpus.
