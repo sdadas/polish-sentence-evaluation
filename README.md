@@ -51,6 +51,7 @@ In this publication, we show a simple method for training effective language-spe
 
 ### Updates:
 
+- **29.12.2022** - Our supervised datasets are now available on the [Huggingface Hub](https://huggingface.co/sdadas).
 - **20.01.2022** - [New code example](https://github.com/sdadas/polish-sentence-evaluation/tree/master/examples/paraphrase_mining) added: training sentence encoders on paraphrase pairs mined from OPUS parallel corpus.
 - **23.10.2020** - Added pre-trained multilingual models from the [Sentence-Transformers](https://www.sbert.net/) library
 - **02.09.2020** - Added [LaBSE](https://tfhub.dev/google/LaBSE/1) multilingual sentence encoder
